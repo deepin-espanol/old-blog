@@ -1,18 +1,18 @@
 ---
 layout: page
-title: "About"
-subheadline: "Why another Jekyll Theme?"
-teaser: "Since years I am programming and designing websites. I love to work with open source tools and learn via code from others. This time I want to try to give something back..."
+title: "Acerca"
+subheadline: "¿Qué es Comunidad Deepin?"
+teaser: "Es una comunidad desarrollada por voluntarios con la intención de ayudar a experimentar este sistema operativo. También participamos en proyectos relacionados a Linux."
 permalink: "/info/"
 header:
     image_fullwidth: "header_drop.jpg"
 ---
-...and learn at the same time.
 
-*Feeling Responsive* is my first theme which I let into the world. It's built on work and knowledge of others. While I am still designing it, you read about whats behind this theme in the – *hopefully* – near future.
+Bienvenidos a la *Comunidad Deepin*, un proyecto hecho por voluntarios no relacionado directamente con Deepin Wuhan. 
 
+Siéntasen libres de mejorar y crecer este proyecto.
 
-## Features
+## Porqué usamos Jeryll
 
 * [Responsive Gallery][8], [Videos][9], [Grid][10], [Typography][11],...
 * 100% GitHub Pages friendly
@@ -28,7 +28,7 @@ header:
 
 
 
-## I got inspired by...
+## Por qué usamos phlow
 
 [Michael Rose][1] and his fabulous [themes for jekyll][2]. Authors of [A List Apart][4] and [Smashing Magazine][5] since 2002. [GitHub][6] and how they built such a habitat for cooperation worldwide. [Automattic][3] and how they built a fantastic community around WordPress. And many, many more...
 
