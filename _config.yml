@@ -39,7 +39,7 @@ improve_content: https://github.com/comunidad-deepin/comunidad-deepin.github.io
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://comunidad-deepin.github.io/feeling-responsive/images/'
+urlimg: 'https://comunidad-deepin.github.io/images/'
 
 
 # Logo size is 600x80 pixels
