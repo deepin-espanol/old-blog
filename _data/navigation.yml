@@ -50,13 +50,23 @@
   - title: "No Header but Image"
     url: "/design/no-header-but-image/"
 
-- title: Documentation
+- title: Insatlar
+  url: "/instalacion/"
+  side: left
+  dropdown:
+  - title: "Avances"
+    url: "/changelog/"
+  - title: "Hoja de ruta"
+    url: "/roadmap/"
+
+
+- title: Documentación
   url: "/documentation/"
   side: left
   dropdown:
-  - title: "Changelog"
+  - title: "Avances"
     url: "/changelog/"
-  - title: "Roadmap"
+  - title: "Hoja de ruta"
     url: "/roadmap/"
 
 - title: Blog
@@ -66,10 +76,10 @@
   - title: "Blog Archive"
     url: "/blog/archive/"
 
-- title: "Search"
+- title: "Buscar"
   url: "/search/"
   side: right
 
-- title: "Contact"
+- title: "Contacto"
   url: "/contact/"
   side: right

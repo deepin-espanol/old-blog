@@ -5,10 +5,23 @@
 # 3. Change default post/page authors in config.yml
 #
 # Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
-phlow: # replace this with your info
-  name: "Phlow"
-  siterole: "webmaster, developer, copywriter, designer"
-  uri: http://phlow.de/
+deepin: # replace this with your info
+  name: "Comunidad Deepin"
+  siterole: "La comunidad de Deepin en español"
+  uri: http://comunidad-deepin.github.io/
   email:
-  twitter: "@phlow"
+  twitter: 
 # you can add more authors here
+sanguinetti: # replace this with your info
+  name: "Diego Sanguinetti"
+  siterole: "Desarrollador del proyecto"
+  uri: http://sguinetti.github.io/
+  email:
+  twitter: "@sguinetti"
+
+gasper: # replace this with your info
+  name: "Gasper"
+  siterole: "Colaborador del proyecto"
+  uri: 
+  email:
+  twitter: 
