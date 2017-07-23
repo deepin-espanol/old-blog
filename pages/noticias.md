@@ -1,11 +1,11 @@
 ---
 layout: page
 show_meta: false
-title: "Style your content!"
-subheadline: "Layouts of Feeling Responsive"
+title: "Noticias"
+subheadline: "Publicaciones de nuestra comunidad"
 header:
    image_fullwidth: "header_unsplash_5.jpg"
-permalink: "/design/"
+permalink: "/noticias/"
 ---
 <ul>
     {% for post in site.categories.design %}

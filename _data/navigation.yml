@@ -14,11 +14,6 @@
 - title: Insatlar
   url: "/instalacion/"
   side: left
-  dropdown:
-  - title: "Avances"
-    url: "/changelog/"
-  - title: "Hoja de ruta"
-    url: "/roadmap/"
 
 - title: Aplicaciones
   url: "/apps/"
