@@ -143,9 +143,9 @@ defaults:
 #   ___/ / /___/ /_/ /
 #  /____/_____/\____/    Verify Website to Webmaster Tools
 
-google_author:             'https://plus.google.com/u/0/118311555303973066167'
-google_site_verification:  'Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ'
-bing_webmastertools_id:    '0FB4C028ABCF07C908C54386ABD2D97F'
+google_author:             'https://plus.google.com/u/0/106731706454776586722'
+# google_site_verification:  ' '
+# bing_webmastertools_id:    ' '
 # yandex_site_verification:  ''
 # alexa_verify_id:           ''
 
@@ -179,7 +179,7 @@ msapplication_tilecolor:                '#fabb00'
 #   /_/    \__,_/\___/\___/_.___/\____/\____/_/|_|      Facebook-Optimization › http://j.mp/fb_optimize
 
 og_image:                           'http://images.phlow.de/phlow/phlow_de-logo-512x.png'
-og_locale:                          'en_EN'
+og_locale:                          'es_ES'
 og_type:                            'website'
 
 
@@ -230,7 +230,7 @@ sass:
 #
 # used in _includes/footer_scripts
 
-google_analytics_tracking_id: 
+# google_analytics_tracking_id: 
 
 
 
