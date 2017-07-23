@@ -14,7 +14,7 @@ Siéntasen libres de mejorar y crecer este proyecto.
 
 ## Porqué usamos Jeryll
 
-* [Responsive Gallery][8], [Videos][9], [Grid][10], [Typography][11],...
+* [Responsive Gallery]({{ site.url }}/design/gallery/), [Videos]({{ site.url }}/design/video/), [Grid]({{ site.url }}/design/grid/), [Typography]({{ site.url }}/design/typography/),...
 * 100% GitHub Pages friendly
 * Easy editable navigation, footer and social media links
 * Language Ready – just translate one file.
@@ -24,38 +24,17 @@ Siéntasen libres de mejorar y crecer este proyecto.
 * Uses Jekyll 3.0
 * Multiple possibilities to use images in different ways
 * Fine typography
-* Play Video and Audio with [Mediaelement.js][12]
+* Play Video and Audio with [Mediaelement.js]({{ site.url }}/design/mediaelement_js/)
 
 
+## Otros detalles
+Algunos agradecimientos:
 
-## Por qué usamos phlow
+Como [tema para jekyll](http://mademistakes.com/work/jekyll-themes/). Íconos por [Daniel Bruce](http://entypo.com/). Imágenes de muestra de [unplash](http://unsplash.com/) y [pixabay](http://pixabay.com).
 
-[Michael Rose][1] and his fabulous [themes for jekyll][2]. Authors of [A List Apart][4] and [Smashing Magazine][5] since 2002. [GitHub][6] and how they built such a habitat for cooperation worldwide. [Automattic][3] and how they built a fantastic community around WordPress. And many, many more...
+Desarrollamos esta página bajo [jekyll](http://jekyll.org/), [backstrech](http://srobbin.com/jquery-plugins/backstretch/) y [fundation](http://foundation.zurb.com/).
 
-Please make *Feeling Responsive* yours and if you like it, please link back to my homebase <a href="http://phlow.de/">Phlow</a>. That would be awesome.
+#### Participa con nosotros
 
-#### Since then, fork it!
+Estamos en redes sociales.
 
-Yours sincerelly, [Moritz »mo.« Sauer][7]
-
-
- [1]: http://mademistakes.com/about/
- [2]: http://mademistakes.com/work/jekyll-themes/
- [3]: http://automattic.com/
- [4]: http://alistapart.com/
- [5]: http://www.smashingmagazine.com/
- [6]: https://github.com/
- [7]: http://sauer.io
- [8]: {{ site.url }}/design/gallery/
- [9]: {{ site.url }}/design/video/
- [10]: {{ site.url }}/design/grid/
- [11]: {{ site.url }}/design/typography/
- [12]: {{ site.url }}/design/mediaelement_js/
- [13]: #
- [14]: #
- [15]: #
- [16]: #
- [17]: #
- [18]: #
- [19]: #
- [20]: #

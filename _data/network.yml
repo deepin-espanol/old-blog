@@ -1,21 +1,21 @@
-- menu_name: "Agradecimientos"
+- menu_name: "Comunidad Deepin"
 
-- name: "Icons by Daniel Bruce"
-  url: "http://entypo.com/"
-  class: "network-entypo"
-  title: "Icons by Daniel Bruce"
-
-- name: "Built on Foundation"
-  url: "http://foundation.zurb.com/"
-  class: "services-newsletter"
-  title: "Built on Foundation"
-
-- name: "Images by Unsplash"
-  url: "http://unsplash.com/"
-  class: "rss-link"
-  title: "Images by Unsplash"
-
-- name: "Using Backstretch by Scott Robbin"
-  url: "http://srobbin.com/jquery-plugins/backstretch/"
+- name: "Grupo en Telegram"
+  url: "http://telegram.me/deepinenespanol"
   class: "sitemap-link"
-  title: "Using Backstretch by Scott Robbin"
+  title: "Ayuda de Deepin en español"
+
+- name: "Grupo en Google+"
+  url: "https://plus.google.com/communities/115544729561220868525"
+  class: "sitemap-link"
+  title: "Nuestro grupo en Google+"
+
+- name: "Mirror Plus"
+  url: "https://drive.google.com/drive/folders/0B5CDMGpiU7lWVVBCa1ZuWmx0NVU"
+  class: "sitemap-link"
+  title: "Archivos de Deepin"
+
+- name: "Próximamente"
+  url: "#"
+  class: "sitemap-link"
+  title: "Próximamente"

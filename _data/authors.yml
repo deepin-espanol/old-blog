@@ -5,7 +5,7 @@
 # 3. Change default post/page authors in config.yml
 #
 # Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
-deepin: # replace this with your info
+deepinenespanol: # replace this with your info
   name: "Comunidad Deepin"
   siterole: "La comunidad de Deepin en español"
   uri: http://comunidad-deepin.github.io/
