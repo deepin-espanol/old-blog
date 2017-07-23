@@ -2,18 +2,18 @@
   url: "/"
   side: left
 
-- title: Participa
-  url: "/getting-started/"
+- title: Instalación
+  url: "/instalacion/"
+  side: left
+
+- title: Novedades
+  url: "/novedades/"
   side: left
   dropdown:
   - title: "Avances"
     url: "/changelog/"
   - title: "Hoja de ruta"
     url: "/roadmap/"
-
-- title: Insatlar
-  url: "/instalacion/"
-  side: left
 
 - title: Aplicaciones
   url: "/apps/"

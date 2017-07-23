@@ -12,9 +12,10 @@ deepin: # replace this with your info
   email:
   twitter: 
 # you can add more authors here
+# puedes añadir autores aquí
 sanguinetti: # replace this with your info
   name: "Diego Sanguinetti"
-  siterole: "Desarrollador del proyecto"
+  siterole: "Desarrollador del proyecto y diseño web"
   uri: http://sguinetti.github.io/
   email:
   twitter: "@sguinetti"

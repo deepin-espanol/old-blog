@@ -1,7 +1,7 @@
 - name: GitHub
   url: http://github.com/comunidad-deepin
   class: icon-github
-  title: Nuestro equipo
+  title: "Nuestro equipo"
 
 #- name: YouTube
 #  url: http://www.youtube.com/PhlowMedia

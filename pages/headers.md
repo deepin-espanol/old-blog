@@ -1,8 +1,8 @@
 ---
 layout: page
 subheadline: "Header"
-title: "Style your Header!"
-teaser: "These are your options to style the header of each webpage individually. <em>Feeling Responsive</em> uses <a href='http://srobbin.com/jquery-plugins/backstretch/'>Backstretch by Scott Robin</a> to expand them from left to right. The width should be 1600 pixel or higher using a ratio like 16:9 or 21:9 or 2:1."
+title: "¡Este es la cabecera!"
+teaser: "Esas son las opciones para dar estilo a la cabecera de esta página web. <em>Feeling Responsive</em> usa <a href='http://srobbin.com/jquery-plugins/backstretch/'>Backstretch by Scott Robin</a> para expandirla de izquierda a derecha. El ancho solicitado es de 1600 píxeles o superior con un ratio de 16:9, 21:9 o 2:1."
 header:
    image_fullwidth: "header_unsplash_5.jpg"
 permalink: "/headers/"
