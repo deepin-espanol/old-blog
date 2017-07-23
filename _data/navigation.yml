@@ -5,6 +5,7 @@
 - title: Participa
   url: "/getting-started/"
   side: left
+  dropdown:
   - title: "Avances"
     url: "/changelog/"
   - title: "Hoja de ruta"
@@ -22,7 +23,6 @@
 - title: Aplicaciones
   url: "/apps/"
   side: left
-  dropdown:
 
 - title: Blog
   url: "/blog/"
