@@ -1,7 +1,21 @@
 - name: GitHub
   url: http://github.com/comunidad-deepin
   class: icon-github
+<<<<<<< HEAD
   title: "Nuestro equipo"
+=======
+  title: Nuestro equipo
+  
+  - name: Comunidad en Google+
+  url: https://plus.google.com/communities/115544729561220868525
+  class: icon-googleplus
+  title: "Google+"
+  
+  - name: Telegram
+  url: https://t.me/deepinenespanol
+  class: icon-telegram
+  title: "Deepin en español"
+>>>>>>> origin/master
 
 #- name: YouTube
 #  url: http://www.youtube.com/PhlowMedia
@@ -17,11 +31,6 @@
 #  url: http://www.mixcloud.com/phlow/
 #  class: icon-cloud
 #  title: "Mixe, was sonst?"
-
-- name: Comunidad en Google+
-  url: https://plus.google.com/communities/115544729561220868525
-  class: icon-googleplus
-  title: "Google+"
 
 # - name: Facebook
 #   url: http://www.facebook.com/

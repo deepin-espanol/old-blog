@@ -15,15 +15,26 @@
   - title: "Hoja de ruta"
     url: "/roadmap/"
 
+<<<<<<< HEAD
+=======
+- title: Instalar
+  url: "/instalacion/"
+  side: left
+
+>>>>>>> origin/master
 - title: Aplicaciones
   url: "/apps/"
+  side: left
+  
+  - title: Iconos
+  url: "/icons/"
   side: left
 
 - title: Blog
   url: "/blog/"
   side: left
   dropdown:
-  - title: "Blog Archive"
+  - title: "Archivo del blog"
     url: "/blog/archive/"
   - title: "Manual"
     url: "/blog/manual/"
