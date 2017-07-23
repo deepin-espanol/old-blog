@@ -27,7 +27,7 @@
   url: "/blog/"
   side: left
   dropdown:
-  - title: "Blog Archive"
+  - title: "Archivo del blog"
     url: "/blog/archive/"
   - title: "Manual"
     url: "/blog/manual/"
