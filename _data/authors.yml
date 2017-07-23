@@ -20,8 +20,9 @@ sanguinetti: # replace this with your info
   twitter: "@sguinetti"
 
 gasper: # replace this with your info
-  name: "Gasper"
+  name: "Alvaro Samudio" 
+  #alias: "G4SP3R"
   siterole: "Colaborador del proyecto"
-  uri: 
-  email:
-  twitter: 
+  uri: https://github.com/alvarosamudio
+  email: alvarosamudio1@gmail.com
+  twitter: @Alvaro_Samudio
