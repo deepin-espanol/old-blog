@@ -18,6 +18,10 @@
 - title: Aplicaciones
   url: "/apps/"
   side: left
+  
+  - title: Iconos
+  url: "/apps/"
+  side: left
 
 - title: Blog
   url: "/blog/"
