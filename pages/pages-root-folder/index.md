@@ -34,7 +34,7 @@ widget3:
 #
 callforaction:
   url: 'http://comunidad-deepin.github.io/instalacion'
-  text: 'Suscríbete para saber lo último del blog ›'
+  text: 'Descarga e instala la última versión de Deepin ›'
   style: alert
 permalink: /index.html
 #
