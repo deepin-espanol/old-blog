@@ -3,7 +3,7 @@ layout: page-fullwidth
 title: "Instalación"
 subheadline: "En unos minutos"
 teaser: "Esta página explica como instalar"
-permalink: "/instalar/"
+permalink: "/instalacion/"
 header:
    image_fullwidth: "header_roadmap_2.jpg"
 ---

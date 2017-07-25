@@ -13,10 +13,10 @@
    class: icon-telegram
    title: "Deepin en español"
 
-#- name: YouTube
-#  url: http://www.youtube.com/PhlowMedia
-#  class: icon-youtube
-#  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
+ - name: YouTube
+   url: "https://www.youtube.com/channel/UCsy5zMxbAeeWlvBsuC9mLWg"
+   class: icon-youtube
+   title: "Videos sobre Deepin en idioma español"
 
 #- name: Twitter
 #  url: http://twitter.com/phlow
