@@ -21,7 +21,7 @@ widget3:
   title: "Recíproco"
   url: 'https://github.com/Phlow/feeling-responsive'
   image: widget-github-303x182.jpg
-  text: '<em>Comunidad Deepin</em> es atentida por humanos. No importa si participastes anteriormente, son todos bienvenidos. ¿Quieres descargar e instalar Deepin? <a href="http://comunidad-deepin.github.io/instalacion">¡Aquí lo tienes!</a> ¿Tienes alguna sugerencia? ¡Puedes contactarnos con nuestro equipo!
+  text: '<em>Comunidad Deepin</em> es atentida por humanos. No importa si participastes anteriormente, son todos bienvenidos. ¿Quieres descargar e instalar Deepin? <a href="http://comunidad-deepin.github.io/instalacion">¡Aquí lo tienes!</a> ¿Tienes alguna sugerencia? ¡Puedes contactarnos con nuestro equipo!'
 #
 # Use the call for action to show a button on the frontpage
 #
