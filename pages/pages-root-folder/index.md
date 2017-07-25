@@ -13,7 +13,7 @@ widget1:
   image: widget-1-302x182.jpg
   text: 'Enseñamos y preparamos a aquellos que quie&shy;ren usar el sistema operativo. <em>Comunidad Deepin</em> ofrece una blog, tutoriales y consejos para todas las necesidades. Si aún tienes nociones básicas sobre computación, te guíaremos.'
 widget2:
-  title: "Vídeos e imágenes"
+  title: "Did&aacute;ctico"
   url: 'http://phlow.github.io/feeling-responsive/info/'
   text: '<em>Comunidad Deepin</em> tiene publicaciones de alta calidad.<br/>1. Cada post tiene imágenes.<br/>2. Vídeos en alta resolución.<br/>3. Compatible con móviles, gracias a <a href="http://foundation.zurb.com/">Foundation</a>.<br/>4. Fáciles de editar con <a href="http://commonmark.org/help/tutorial/">Markdown</a>.<br/>5. Y otras más...'
   video: '<a href="#" data-reveal-id="videoModal"><img src="http://comunidad-deepin.github.io/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
