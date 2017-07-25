@@ -17,7 +17,7 @@ sanguinetti: # replace this with your info
   name: "Diego Sanguinetti"
   siterole: "Desarrollador del proyecto y diseño web"
   uri: http://sguinetti.github.io/
-  email:
+  email: diego.sanguinetti@hotmail.com
   twitter: "@sguinetti"
 
 gasper: # replace this with your info
@@ -26,4 +26,4 @@ gasper: # replace this with your info
   siterole: "Colaborador del proyecto"
   uri: https://github.com/alvarosamudio
   email: alvarosamudio1@gmail.com
-  twitter: @Alvaro_Samudio
+  twitter: "@Alvaro_Samudio"
