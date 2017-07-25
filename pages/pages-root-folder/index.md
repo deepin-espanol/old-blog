@@ -34,7 +34,7 @@ widget3:
 #
  callforaction:
    url: https://comunidad-deepin.github.io/feed.xml
-   text: Entérate de los últimos cambios ›
+   text: Suscríbete para saber lo último del blog ›
    style: alert
  permalink: /index.html
 #
