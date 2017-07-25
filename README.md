@@ -17,7 +17,7 @@ Si tienes algún problema que no esté en esta página o necesitas ayuda, no dud
 
 ## ¿Quieres aprender Markdown?
 
-Para que aprendas a usar Markdown para crear y editar publicaciones (como en la carpeta "posts") sigue el tuturoial:
+Para que aprendas a usar Markdown para crear y editar publicaciones, como en la carpeta "posts", sigue el tutorial:
 [Commonmark.org](http://commonmark.org/help/tutorial/) (en inglés)
 
 ## Creado por:
