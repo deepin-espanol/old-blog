@@ -21,7 +21,7 @@ widget3:
   title: "Rec&iacute;proco"
   url: 'http://comunidad-deepin.github.io/contact/'
   image: widget-github-303x182.jpg
-  text: '<em>Comunidad Deepin</em> es atentida por humanos. No importa si participastes con anterioridad, son todos bienvenidos. ¿Quieres estar al día? <a href="https://comunidad-deepin.github.io/feed.xml">¡Suscríbete!</a> ¿Tienes alguna sugerencia? ¡Puedes contactarnos con nuestro equipo!'
+  text: '<em>Comunidad Deepin</em> es atentida por humanos. No importa si has participado con anterioridad, son todos bienvenidos. ¿Quieres estar al día? <a href="https://comunidad-deepin.github.io/feed.xml">¡Suscríbete!</a> ¿Tienes alguna sugerencia? ¡Puedes contactarnos con nuestro equipo!'
 #
 # Use the call for action to show a button on the frontpage
 #
