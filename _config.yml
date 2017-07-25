@@ -264,7 +264,7 @@ sass:
 #
 #
 
-highlighter: rouge
+# highlighter: rouge
 asciidoctor-enabled: false
 asciidoctor:
   description: testtewtetrue

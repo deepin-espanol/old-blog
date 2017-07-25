@@ -15,19 +15,19 @@
   - title: "Hoja de ruta"
     url: "/roadmap/"
 
-- title: Instalar
+- title: "Instalar"
   url: "/instalacion/"
   side: left
 
-- title: Aplicaciones
+- title: "Aplicaciones"
   url: "/apps/"
   side: left
   
-  - title: Iconos
+  - title: "Iconos"
   url: "/icons/"
   side: left
 
-- title: Blog
+- title: "Blog"
   url: "/blog/"
   side: left
   dropdown:
