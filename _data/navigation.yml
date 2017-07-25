@@ -22,6 +22,9 @@
 - title: "Aplicaciones"
   url: "/apps/"
   side: left
+  dropdown:
+  - title: "Juegos"
+    url: "/games/"
   
   - title: "Iconos"
   url: "/icons/"
