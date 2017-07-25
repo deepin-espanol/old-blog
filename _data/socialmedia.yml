@@ -1,17 +1,17 @@
  - name: GitHub
    url: "http://github.com/comunidad-deepin"
-  class: icon-github
-  title: "Nuestro equipo"
+   class: icon-github
+   title: "Nuestro equipo"
 
  - name: Google+
    url: "https://plus.google.com/communities/115544729561220868525"
    class: icon-googleplus
    title: "Comunidad en Google+"
   
-#- name: Telegram
-#  url: https://t.me/deepinenespanol
-#  class: icon-telegram
-#  title: "Deepin en español"
+ - name: Telegram
+   url: "https://t.me/deepinenespanol"
+   class: icon-telegram
+   title: "Deepin en español"
 
 #- name: YouTube
 #  url: http://www.youtube.com/PhlowMedia
