@@ -1,11 +1,10 @@
-## Página web en español de la comunidad Deepin
+# Página web en español de la Comunidad Deepin
 
-# Un sitio con las últimas novedades
+## Un sitio con las últimas novedades
 
-Traducimos los últimos posts del blog oficial de Deepin para hacer este increíble sistema operativo más accesible a todo el mundo. 
-[¡Entra ya!](https://comunidad-deepin.github.io/blog/noticias/)
+Traducimos los últimos posts del blog oficial de Deepin para hacer este increíble sistema operativo más accesible a todo el mundo. [¡Entra ya!](https://comunidad-deepin.github.io/blog/noticias/)
 
-# Un sitio con los mejores tutoriales
+## Un sitio con los mejores tutoriales
 
 ¿Quieres sacar el máximo partido a tu Deepin? Aquí encontraras los mejores tutoriales para hacer de Deepin tu mejor opción frente a otros sistemas operativos. 
 [¡Entra ya!](https://comunidad-deepin.github.io/blog/tips/)
@@ -20,11 +19,11 @@ Si tienes algún problema que no esté en esta página o necesitas ayuda, no dud
 
 ## Creado por:
 
-[Alvaro Samudio](https://github.com/alvarosamudio)
-[Car](https://t.me/Carecm)
-[Diego Sanguinetti](https://github.com/sguinetti)
-[Jhalo](https://github.com/jhalounix)
-[R.garciag](https://github.com/r-garciag)
+* [Alvaro Samudio](https://github.com/alvarosamudio)
+* [Car](https://t.me/Carecm)
+* [Diego Sanguinetti](https://github.com/sguinetti)
+* [Jhalo](https://github.com/jhalounix)
+* [R.garciag](https://github.com/r-garciag)
 
 
 
