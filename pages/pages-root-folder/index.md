@@ -21,7 +21,7 @@ widget3:
   title: "Rec&iacute;proco"
   url: 'http://comunidad-deepin.github.io/contact/'
   image: widget-github-303x182.jpg
-  text: '<em>Comunidad Deepin</em> es atentida por humanos. No importa si participastes anteriormente, son todos bienvenidos. ¿Quieres descargar e instalar Deepin? <a href="http://comunidad-deepin.github.io/instalacion">¡Aquí lo tienes!</a> ¿Tienes alguna sugerencia? ¡Puedes contactarnos con nuestro equipo!'
+  text: '<em>Comunidad Deepin</em> es atentida por humanos. No importa si participastes con anterioridad, son todos bienvenidos. ¿Quieres estar al día? <a href="https://comunidad-deepin.github.io/feed.xml">¡Suscríbete!</a> ¿Tienes alguna sugerencia? ¡Puedes contactarnos con nuestro equipo!'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -33,7 +33,7 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: 'https://comunidad-deepin.github.io/feed.xml'
+  url: 'http://comunidad-deepin.github.io/instalacion'
   text: 'Suscríbete para saber lo último del blog ›'
   style: alert
 permalink: /index.html
