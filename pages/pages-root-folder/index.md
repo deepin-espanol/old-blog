@@ -33,8 +33,8 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
  callforaction:
-   url: https://comunidad-deepin.github.io/feed.xml
-   text: Suscríbete para saber lo último del blog ›
+   url: 'https://comunidad-deepin.github.io/feed.xml'
+   text: 'Suscríbete para saber lo último del blog ›'
    style: alert
  permalink: /index.html
 #
