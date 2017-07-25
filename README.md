@@ -15,7 +15,10 @@ Traducimos los últimos posts del blog oficial de Deepin para hacer este increí
 Si tienes algún problema que no esté en esta página o necesitas ayuda, no dudes en entrar en nuestro grupo oficial de Telegram:
 [Deepin en Español](https://t.me/deepinenespanol)
 
+## ¿Quieres aprender Markdown?
 
+Para que aprendas a usar Markdown para crear y editar publicaciones (como en la carpeta "posts") sigue el tuturoial:
+[Commonmark.org](http://commonmark.org/help/tutorial/) (en inglés)
 
 ## Creado por:
 
