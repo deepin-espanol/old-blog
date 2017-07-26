@@ -15,7 +15,7 @@ widget1:
 widget2:
   title: "Did&aacute;ctico"
   url: 'http://comunidad-deepin.github.io/info/'
-  text: '<em>Comunidad Deepin</em> tiene publicaciones de alta calidad.<br/>1. Cada post tiene imágenes.<br/>2. Vídeos en alta resolución.<br/>3. Compatible con móviles, gracias a <a href="http://foundation.zurb.com/">Foundation</a>.<br/>4. Fáciles de editar con <a href="http://commonmark.org/help/tutorial/">Markdown</a>.<br/>5. Y otras más...'
+  text: '<em>Comunidad Deepin</em> ofrece contenido:<br/>1. Con imágenes de alta calidad.<br/>2. Vídeos en alta resolución.<br/>3. Compatible con dispositivos móviles.<br/>4. Fáciles de editar con <a href="http://commonmark.org/help/tutorial/">Markdown</a>.<br/>5. Y otras más...'
   video: '<a href="#" data-reveal-id="videoModal"><img src="http://comunidad-deepin.github.io/images/widget-2-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Rec&iacute;proco"
