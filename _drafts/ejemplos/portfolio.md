@@ -1,12 +1,12 @@
 ---
 layout: page-fullwidth
-title: "Show your beautiful work!"
+title: ""
 subheadline: "Portfolio"
-teaser: "With <em>Feeling Responsive</em> you don't need a special portfolio template. Just check out the great possibilities of the <a href='http://foundation.zurb.com/docs/components/grid.html'>foundation grid</a> and experiment with it."
+teaser: ""
 categories:
-    - design
+    - 
 ---
-<!--more-->
+<!--Este es un ejemplo de hcar una galería con imágenes. Fíjate en {{ site.urlimg }} para evitar escribir la página web.-->
 
 <div class="row t60">
     <div class="medium-6 columns b30">
