@@ -5,7 +5,7 @@ title: "Noticias"
 subheadline: "Publicaciones de nuestra comunidad"
 header:
    image_fullwidth: "header_unsplash_5.jpg"
-permalink: "/noticias/"
+permalink: "/blog/noticias/"
 ---
 <ul>
     {% for post in site.categories.design %}

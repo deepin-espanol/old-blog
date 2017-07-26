@@ -5,7 +5,7 @@ title: "El manual"
 subheadline: "Aprende a usar Deepin"
 header:
    image_fullwidth: "header_unsplash_5.jpg"
-permalink: "/manual/"
+permalink: "/blog/manual/"
 ---
 <ul>
     {% for post in site.categories.design %}

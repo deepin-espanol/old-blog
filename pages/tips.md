@@ -5,7 +5,7 @@ title: "Tips"
 subheadline: "Consejos y más"
 header:
    image_fullwidth: "header_unsplash_5.jpg"
-permalink: "/tips/"
+permalink: "/blog/tips/"
 ---
 <ul>
     {% for post in site.categories.design %}
