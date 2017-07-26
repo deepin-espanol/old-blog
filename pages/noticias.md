@@ -5,10 +5,10 @@ title: "Noticias"
 subheadline: "Publicaciones de nuestra comunidad"
 header:
    image_fullwidth: "header_unsplash_5.jpg"
-permalink: "/blog/noticias/"
+permalink: "/noticias/"
 ---
 <ul>
-    {% for post in site.categories.design %}
+    {% for post in site.categories.noticias %}
     <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>

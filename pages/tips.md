@@ -5,10 +5,10 @@ title: "Tips"
 subheadline: "Consejos y más"
 header:
    image_fullwidth: "header_unsplash_5.jpg"
-permalink: "/blog/tips/"
+permalink: "/tips/"
 ---
 <ul>
-    {% for post in site.categories.design %}
+    {% for post in site.categories.tips %}
     <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
