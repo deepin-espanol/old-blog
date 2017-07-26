@@ -16,11 +16,11 @@ widget2:
   title: "Did&aacute;ctico"
   url: 'http://comunidad-deepin.github.io/info/'
   text: '<em>Comunidad Deepin</em> tiene publicaciones de alta calidad.<br/>1. Cada post tiene imágenes.<br/>2. Vídeos en alta resolución.<br/>3. Compatible con móviles, gracias a <a href="http://foundation.zurb.com/">Foundation</a>.<br/>4. Fáciles de editar con <a href="http://commonmark.org/help/tutorial/">Markdown</a>.<br/>5. Y otras más...'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://comunidad-deepin.github.io/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+  video: '<a href="#" data-reveal-id="videoModal"><img src="http://comunidad-deepin.github.io/images/widget-2-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Rec&iacute;proco"
   url: 'http://comunidad-deepin.github.io/contact/'
-  image: widget-github-303x182.jpg
+  image: widget-3-303x182.jpg
   text: '<em>Comunidad Deepin</em> es atentida por humanos. No importa si has participado con anterioridad, son todos bienvenidos. ¿Quieres estar al día? <a href="https://comunidad-deepin.github.io/feed.xml">¡Suscríbete!</a> ¿Tienes alguna sugerencia? ¡Puedes contactarnos con nuestro equipo!'
 #
 # Use the call for action to show a button on the frontpage
