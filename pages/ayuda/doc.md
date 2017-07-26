@@ -1,9 +1,9 @@
 ---
 layout: page-fullwidth
-title: "Theme Documentation"
-subheadline: "How to use Feeling Responsive"
-teaser: "The documentation is a work in progress..."
-permalink: "/documentation/"
+title: "Documentación para crear posts"
+subheadline: "Ayuda"
+teaser: "Ideas rápidas para hacer publicaciones"
+permalink: "/ayuda/doc/"
 header:
    image_fullwidth: "header_roadmap_2.jpg"
 ---
