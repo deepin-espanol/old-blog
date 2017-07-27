@@ -34,36 +34,23 @@ Depende. Los materiales escritos están dualmente licenciado bajo Creative Commo
 
 * Más detalles en los archivos by-sa-4.md y fdl-1.3.md.
 
+### ¿Y lo demás?
+
 Para otros materiales que no cubre las licencias de arriba:
 
 * Todos los derechos reservados al/la creador(a) del/los contenido(s), vídeo(s), imágen(es), captura(s) de pantalla, marca(s) registrada(s), entre otros.
 
+* Algunas imágenes de apoyo son de [unplash](http://unsplash.com/) y [pixabay](http://pixabay.com), cuyo uso es gratuito sin regalías. El software de Deepin está bajo [GPLv3 o superior](https://github.com/linuxdeepin/deepin-desktop-base), no aplican fondos de pantalla.
+
 * El código fuente original de la página web es de Feeling Responsive, un tema de Jekyll bajo licencia MIT.
 
-## Creado por:
+## Creado y desarrollado por:
 
 * [Alvaro Samudio](https://github.com/alvarosamudio)
-* [Car](https://t.me/Carecm)
+* [Car](https://github.com/CarCM)
 * [Diego Sanguinetti](https://github.com/sguinetti)
 * [Jhalo](https://github.com/jhalounix)
 * [R.garciag](https://github.com/r-garciag)
 
-
-
 -Deepin Translation Team 2017
 
-
-
-
-
- [1]: https://t.me/deepinenespanol
- [2]: https://github.com/alvarosamudio
- [3]: https://t.me/Carecm
- [4]: https://github.com/sguinetti
- [5]: https://github.com/jhalounix
- [6]: https://github.com/r-garciag
- [7]: #
- [8]: #
- [9]: #
- [10]: #
- 
