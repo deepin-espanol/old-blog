@@ -3,7 +3,7 @@ layout: page-fullwidth
 title: "Argumentos más frecuentes"
 subheadline: "Ayuda"
 teaser: "Respuestas breves a argumentos confusos"
-permalink: "/ayuda/doc/"
+permalink: "/info/argumentos/"
 header:
    image_fullwidth: "header_roadmap_2.jpg"
 ---

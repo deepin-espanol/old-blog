@@ -34,7 +34,9 @@ Como [tema para jekyll](http://mademistakes.com/work/jekyll-themes/). Íconos po
 
 Desarrollamos esta página bajo [jekyll](http://jekyll.org/), [backstrech](http://srobbin.com/jquery-plugins/backstretch/) y [fundation](http://foundation.zurb.com/).
 
-#### Participa con nosotros
 
-Estamos en redes sociales.
+## Páginas de apoyo
 
+Estamos en redes sociales. Tenemos una página con [los términos y condiciones del sitio]({{ site.url }}/info/tos/).
+
+Si tienes alguna queja, elaboramos una [página con los argumentos más frecuentes para debatirlo]({{ site.url }}/info/argumentos/).

@@ -20,6 +20,22 @@ Si tienes algún problema que no esté en esta página o necesitas ayuda, no dud
 Para que aprendas a usar Markdown para crear y editar publicaciones, como en la carpeta "posts", sigue el tutorial:
 [Commonmark.org](http://commonmark.org/help/tutorial/) (en inglés)
 
+## ¿Puedo usar las publicaciones de la comunidad Deepin?
+
+Depende. Los materiales escritos están dualmente licenciado bajo Creative Commons Sharelike 4.0 International License y GNU Free Documentation License versión 1.3. Para efectos prácticos, "CC-BY-SA 4.0 and GFDL 1.3 dual licensing". Puedes copiar y distribuir si prestas atención.
+
+* Puedes usar la primera licencia. Solo te obligamos a atribuirnos como Comunidad Deepin, enlaces al sitio web y adjuntes la licencia como Creative Commons Sharelike 4.0 International License. Dicha licencia es irrevocable y aplica a trabajos derivados (copyleft).
+
+* En caso que tengas problemas con Creative Commons, usa la segunda licencia, GFDL. La licencia sigue siendo copyleft incluso si se distribuye en masa.
+
+* Más detalles en los archivos by-sa-4.md y fdl-1.3.md.
+
+Para otros materiales que no cubre las licencias de arriba:
+
+* Todos los derechos reservados al/la creador(a) del/los contenido(s), vídeo(s), imágen(es), captura(s) de pantalla, marca(s) registrada(s), entre otros.
+
+* El código fuente original de la página web es de Feeling Responsive, un tema de Jekyll bajo licencia MIT.
+
 ## Creado por:
 
 * [Alvaro Samudio](https://github.com/alvarosamudio)

@@ -3,7 +3,7 @@ layout: page-fullwidth
 title: "Documentación para crear posts"
 subheadline: "Ayuda"
 teaser: "Ideas rápidas para hacer publicaciones"
-permalink: "/ayuda/doc/"
+permalink: "/info/doc/"
 header:
    image_fullwidth: "header_roadmap_2.jpg"
 ---
