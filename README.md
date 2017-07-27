@@ -20,6 +20,10 @@ Si tienes algún problema que no esté en esta página o necesitas ayuda, no dud
 Para que aprendas a usar Markdown para crear y editar publicaciones, como en la carpeta "posts", sigue el tutorial:
 [Commonmark.org](http://commonmark.org/help/tutorial/) (en inglés)
 
+## ¿Es posible aligerar el peso de las imágenes?
+
+Con el fín de hacer una página web más rápida recomedamos aligerar el peso de las imágenes sin sacrificar calidad. Ejemplos en la web son [tinypng](https://tinypng.com/) y [JPEGMini](http://www.jpegmini.com/main/shrink_photo).
+
 ## ¿Puedo usar las publicaciones de la comunidad Deepin?
 
 Depende. Los materiales escritos están dualmente licenciado bajo Creative Commons Sharelike 4.0 International License y GNU Free Documentation License versión 1.3. Para efectos prácticos, "CC-BY-SA 4.0 and GFDL 1.3 dual licensing". Puedes copiar y distribuir si prestas atención.
