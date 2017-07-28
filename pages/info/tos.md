@@ -48,11 +48,13 @@ En caso que usted quiera aportar algún publicación:
 2. No debe promover la publicidad no deseada (SPAM) o pornografía infantil.
 3. Al adjuntar y/o enlazar, deben estar libres de virus o software malintencionado.
 4. Las publicaciones pagadas por una empresa deben ser señaladas al final de la página, sustentando el motivo.
-5. Las redacciones de solo texto son licenciadas automáticamente bajo [Creative Commons International](https://creativecommons.org/licenses/by-sa/4.0/) y [GNU Free Documentation License](https://www.gnu.org/copyleft/fdl.html).
+5. Las redacciones de solo texto son licenciadas automáticamente bajo [Creative Commons Attribution-NonCommercial-ShareAlike](https://creativecommons.org/licenses/by-nc-sa/4.0/) y [GNU Free Documentation License](https://www.gnu.org/copyleft/fdl.html). Si desea puede reemplazar la primera a una más permisiva, la  [Creative Commons Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ## Propiedad intelectual
 
-Las redacciones de solo texto son licenciadas automáticamente bajo [Creative Commons International](https://creativecommons.org/licenses/by-sa/4.0/) y [GNU Free Documentation License](https://www.gnu.org/copyleft/fdl.html).
+Las redacciones de solo texto son licenciadas por defecto bajo [Creative Commons Attribution-NonCommercial-ShareAlike](https://creativecommons.org/licenses/by-nc-sa/4.0/) y [GNU Free Documentation License](https://www.gnu.org/copyleft/fdl.html).
+
+Para más detalles, adjuntamos [el archivo "Licencia"]({{ site.url }}/info/licencia).
 
 Otro contenido es propiedad intelectual de sus respectivos autores.
 

@@ -26,13 +26,15 @@ Con el fín de hacer una página web más rápida recomedamos aligerar el peso d
 
 ## ¿Puedo usar las publicaciones de la comunidad Deepin?
 
-Depende. Los materiales escritos están dualmente licenciado bajo Creative Commons Sharelike 4.0 International License y GNU Free Documentation License versión 1.3. Para efectos prácticos, "CC-BY-SA 4.0 and GFDL 1.3 dual licensing". Puedes copiar y distribuir si prestas atención.
+Depende. Los materiales escritos están dualmente licenciado bajo Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License y GNU Free Documentation License versión 1.3. Para efectos prácticos, "CC-BY-NC-SA 4.0 and GFDL 1.3 dual licensing". Puedes copiar y distribuir si prestas atención.
 
-* Puedes usar la primera licencia. Solo te obligamos a atribuirnos como Comunidad Deepin, enlaces al sitio web y adjuntes la licencia como Creative Commons Sharelike 4.0 International License. Dicha licencia es irrevocable y aplica a trabajos derivados (copyleft).
+* Puedes usar la primera licencia. Solo te obligamos a atribuirnos como Comunidad Deepin, enlaces al sitio web y adjuntes la licencia como Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. Dicha licencia es irrevocable y aplica a trabajos derivados (copyleft).
 
-* En caso que tengas problemas con Creative Commons, usa la segunda licencia, GFDL. La licencia sigue siendo copyleft incluso si se distribuye en masa.
+* En caso que tengas problemas con Creative Commons, sea por distribución comercial, usa la segunda licencia, GFDL. La licencia sigue siendo copyleft incluso si se distribuye en masa.
 
-* Más detalles en los archivos by-sa-4.md y fdl-1.3.md.
+* Más detalles en los archivos by-nc-sa-4.md y fdl-1.3.md.
+
+* Es posible que el autor ceda usar bajo la licencia  Creative Commons Attribution-ShareAlike 4.0 International. Más detalles en el archivo by-sa-4.md.
 
 ### ¿Y lo demás?
 
