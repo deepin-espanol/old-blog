@@ -9,19 +9,19 @@ header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
   title: "Instructivo"
-  url: 'http://deepin-espanol.github.io/blog/'
+  url: '{{ site.baseurl }}/blog/'
   image: widget-1-302x182.jpg
   text: 'Enseñamos y preparamos a aquellos que quie&shy;ren usar el sistema operativo. <em>Comunidad Deepin</em> ofrece una blog, tutoriales y consejos para todas las necesidades. Si aún tienes nociones básicas sobre computación, te guíaremos.'
 widget2:
   title: "Did&aacute;ctico"
-  url: 'http://deepin-espanol.github.io/info/'
+  url: '{{ site.baseurl }}/info/'
   text: '<em>Deepin en Español</em> ofrece contenido:<br/>1. Con imágenes de alta calidad.<br/>2. Vídeos en alta resolución.<br/>3. Compatible con dispositivos móviles.<br/>4. Fáciles de editar con <a href="http://commonmark.org/help/tutorial/">Markdown</a>.<br/>5. Y otras más...'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://comunidad-deepin.github.io/images/widget-2-302x182.jpg" width="302" height="182" alt=""/></a>'
+  video: '<a href="#" data-reveal-id="videoModal"><img src="{{ site.baseurl }}/images/widget-2-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Rec&iacute;proco"
   url: 'http://deepin-espanol.github.io/contact/'
   image: widget-3-302x182.jpg
-  text: '<em>Comunidad Deepin</em> es atentida por humanos. No importa si has participado con anterioridad, son todos bienvenidos. ¿Quieres estar al día? <a href="https://comunidad-deepin.github.io/feed.xml">¡Suscríbete!</a> ¿Tienes alguna sugerencia? ¡Puedes contactarnos con nuestro equipo!'
+  text: '<em>Comunidad Deepin</em> es atentida por humanos. No importa si has participado con anterioridad, son todos bienvenidos. ¿Quieres estar al día? <a href="{{ site.baseurl }}/feed.xml">¡Suscríbete!</a> ¿Tienes alguna sugerencia? ¡Puedes contactarnos con nuestro equipo!'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -33,7 +33,7 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: 'http://deepin-espanol.github.io/instalacion'
+  url: 'http://{{ site.baseurl }}.github.io/instalacion'
   text: 'Descarga e instala la última versión de Deepin ›'
   style: alert
 permalink: /index.html
