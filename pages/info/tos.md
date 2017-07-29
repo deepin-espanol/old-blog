@@ -18,62 +18,86 @@ header:
 </div><!-- /.medium-4.columns -->
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
-{% include _improve_content.html %}
-
 {% include alert text='Las condiciones se irán actualizando con el tiempo.' %}
 
-Todos pueden participar en la página web *Comunidad Deepin* aunque existen ciertas condiciones para regular y ofrecer un entorno estable y seguro.
+# Código de Conducta convenido para Contribuyentes
 
-Estos términos y condiciones gobiernan el uso de esta página web: al hacer uso de esta página, usted acepta los términos y condiciones en su totalidad. Si discrepa de estas condiciones y términos o de cualquier aparte de las mismas, NO debe hacer uso de esta página web.
+## Nuestro compromiso
 
-"Usted" debe tener al menos 18 años para hacer uso de esta página. Al usar esta página (y accediendo a los términos y condiciones, usted garantiza y representa que tiene mínimo 18 años de edad). En caso que sea menor de edad, necesitarás el permiso de un familiar o tutor para hacerse cargo.
+En el interés de fomentar una comunidad transparente y acogedora, nosotros como contribuyentes y administradores de Deepin en Español nos comprometemos a hacer de la participación en nuestro proyecto y nuestra comunidad una experiencia inclusiva y lejos de amenazas o promoción al odio.
 
-Esta página usa cookies. Al usar esta página y aceptando los términos y condiciones, usted acepta que la Comunidad Deepin haga uso de cookies según el acuerdo de términos de privacidad y de utilización de cookies de la Comunidad Deepin.
+Antes de participar en los artículos o el proyecto, debes tener al menos 18 años de edad (o su equivalente acorde a las leyes del país que resides). En caso que seas menor de edad, necesitarás el permiso de un familiar o tutor para hacerse cargo de las acciones.
 
-## Ética de la comunidad
+Esta página usa cookies. Al visitar esta páginas, eres consciente que la Comunidad Deepin haga uso de cookies según describamos en la sección correspondiente.
 
-La comunidad de Deepin busca ser amigable y coherente. Sin embargo, hay que crear una etiqueta para tener una relación segura y estable. Usted asume que:
+## Nuestros estándares
 
-1. Debe ser respetuoso(a) con otros usuarios. Evitando los insultos, intimidaciones, amenazas o violencia gratuita.
-2. No distribuir contenido que incite el odio, terror o actos malintencionados.
-3. No debe suplantar la identidad para actividades ilegales.
-4. No debe publicar contenido privado de otras personas, como contraseñas, sin consentimiento.
-5. No debe propiciar actividades perjudiciales como estafas piramidales o contenido difamatorio.
+Ejemplos de comportamiento que contribuyen a crear un ambiente positivo:
 
-## Sobre las publicaciones
+* Uso de lenguaje amable e inclusivo,
+* Respeto a diferentes puntos de vista y experiencias,
+* Aceptación de críticas constructivas,
+* Enfocarse en lo que es mejor para la comunidad,
+* Mostrar empatía a otros miembros de la comunidad.
 
-En caso que usted quiera aportar algún publicación:
+Ejemplos de comportamiento inaceptable por participantes:
 
-1. No debe ser plagiada de páginas web. En caso de citar, se necesita mencionar la fuente si fuera posible.
-2. No debe promover la publicidad no deseada (SPAM) o pornografía infantil.
-3. Al adjuntar y/o enlazar, deben estar libres de virus o software malintencionado.
-4. Las publicaciones pagadas por una empresa deben ser señaladas al final de la página, sustentando el motivo.
-5. Las redacciones de solo texto son licenciadas automáticamente bajo [Creative Commons Attribution-NonCommercial-ShareAlike](https://creativecommons.org/licenses/by-nc-sa/4.0/) y [GNU Free Documentation License](https://www.gnu.org/copyleft/fdl.html). Si desea puede reemplazar la primera a una más permisiva, la  [Creative Commons Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/4.0/).
+* Uso de lenguaje soez, pornográfico o que hiera el sentido común de la comunidad,
+* Comentarios insultantes o despectivos (*trolling*) y ataques personales o políticos,
+* Acoso público o privado (incluso si se promueve SPAM),
+* Publicación de información privada de terceros sin su consentimiento, como direcciones físicas o electrónicas,
+* Otros tipos de conducta que pudieran considerarse inapropiadas en un entorno profesional.
 
-## Propiedad intelectual
+## Nuestras responsabilidades
+
+Los administradores del proyecto son responsables de clarificar los estándares de comportamiento aceptable y se espera que tomen medidas correctivas y apropiadas en respuesta a situaciones de conducta inaceptable.
+
+Los administradores del proyecto tienen el derecho y la responsabilidad de eliminar, editar o rechazar comentarios, *commits*, código, ediciones de documentación, *issues*, y otras contribuciones que no estén alineadas con este Código de Conducta, o de prohibir temporal o permanentemente a cualquier colaborador cuyo comportamiento sea inapropiado, amenazante, ofensivo o perjudicial.
+
+### Responsabilidad de las publicaciones
+
+En caso que quieras aportar alguna publicación los administradores velarán que:
+
+* No debe ser plagiada de páginas web. En caso de citar, se necesita mencionar la fuente si fuera posible.
+* No debe promover la publicidad no deseada (SPAM) o pornografía infantil.
+* Al adjuntar y/o enlazar, deben estar libres de virus o software malintencionado.
+* Las publicaciones pagadas por una empresa deben ser señaladas al final de la página, sustentando el motivo.
+* Las redacciones de solo texto son licenciadas automáticamente bajo [Creative Commons Attribution-NonCommercial-ShareAlike](https://creativecommons.org/licenses/by-nc-sa/4.0/) y [GNU Free Documentation License](https://www.gnu.org/copyleft/fdl.html). Puedes solicitar una licencia más permisiva que la primera como [Creative Commons Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/4.0/).
+
+### Responsabilidad de los derechos de autor
 
 Las redacciones de solo texto son licenciadas por defecto bajo [Creative Commons Attribution-NonCommercial-ShareAlike](https://creativecommons.org/licenses/by-nc-sa/4.0/) y [GNU Free Documentation License](https://www.gnu.org/copyleft/fdl.html).
 
 Para más detalles, adjuntamos [el archivo "Licencia"]({{ site.url }}/info/licencia).
 
-Otro contenido es propiedad intelectual de sus respectivos autores.
+Otro contenido es propiedad intelectual de sus respectivos autores. Mayormente, etiquetamos "fair use" u "uso legítimo" con la intención de no lucrar hasta lo permitido por las leyes.
 
-## Limitación de responsabilidad
+## Alcance
 
-La comunidad no será responsable a usted (ya sea bajo la ley contractual, la ley de responsabilidad o cualquier otra) en relación al contenido de, o el uso de, o cualquier conexión con, esta página:
+Este código de conducta aplica tanto a espacios del proyecto como a espacios públicos donde un individuo esté en representación del proyecto o comunidad. Ejemplos de esto incluye el uso de la cuenta oficial de correo electrónico, publicaciones a través de las redes sociales oficiales, o presentaciones con personas designadas en eventos *online* u *offline*. La representación del proyecto puede ser clarificada explicitamente por los administradores del proyecto.
+ 
+## Aplicación
 
-* En el entendido que esta página se provee de manera gratuita, frente a cualquier pérdida;
+Ejemplos de abuso, acoso, falisificación de indentidades, u otro tipo de comportamiento inaceptable puede ser reportado al equipo del proyecto en [INSERTE CORREO AQUÍ]. Todas las quejas serán revisadas e investigadas, generando un resultado apropiado a las circunstancias. El equipo del proyecto está obligado a mantener confidencialidad de la persona que reportó el incidente. Detalles específicos acerca de las políticas de aplicación pueden ser publicadas por separado.
 
-* Por cualquier pérdida directa, especial o consecuencial; o
+Administradores que no sigan o que no hagan cumplir este Código de Conducta pueden ser eliminados de forma temporal o permanente del equipo administrador.
 
+## Limitaciones legales
+
+El contenido desarrollado por la comunidad no tiene una cláusula de garantía debido a la naturaleza gratuita de cooperar. Los administradores no se harán responsables (ya sea bajo la ley contractual, la ley de responsabilidad o cualquier otra) frente a:
+
+* La pérdida directa, especial o consecuencial elaborada por integrantes ajenos; o
 * Por cualquier pérdida de negocios, de ingresos, de utilidades, ganancias o ahorros anticipados, pérdida de contratos o de relaciones comerciales, pérdida de reputación o goodwill, o pérdida o corrupción de información o datos.
-
-Estas limitaciones aplican aun cuando la comunidad haya sido advertido de la potencial pérdida.
-
-En caso que ocurra algún intento de vandalismo, la comunidad se reserva el derecho de restringir el acceso a (otras) áreas de esta página, o a la integralidad de su página web.
 
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
+
+## Atribución
+
+Este Código de Conducta es una adaptación del [Contributor Covenant][homepage], versión 1.4, disponible en [http://contributor-covenant.org/version/1/4/es/][version]
+
+[homepage]: http://contributor-covenant.org
+[version]: http://contributor-covenant.org/version/1/4/es/
 
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
