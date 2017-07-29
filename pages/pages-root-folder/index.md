@@ -4,19 +4,21 @@
 # inserted automagically in the webpage. To make
 # this work, you have to use › layout: frontpage
 #
+# Nota: Cambiar http://deepin-espanol.github.io si fuera necesario
+#
 layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
   title: "Instructivo"
-  url: '{{ site.baseurl }}/blog/'
+  url: 'http://deepin-espanol.github.io/blog/'
   image: widget-1-302x182.jpg
   text: 'Enseñamos y preparamos a aquellos que quie&shy;ren usar el sistema operativo. <em>Comunidad Deepin</em> ofrece una blog, tutoriales y consejos para todas las necesidades. Si aún tienes nociones básicas sobre computación, te guíaremos.'
 widget2:
   title: "Did&aacute;ctico"
-  url: '{{ site.baseurl }}/info/'
+  url: 'http://deepin-espanol.github.io/info/'
   text: '<em>Deepin en Español</em> ofrece contenido:<br/>1. Con imágenes de alta calidad.<br/>2. Vídeos en alta resolución.<br/>3. Compatible con dispositivos móviles.<br/>4. Fáciles de editar con <a href="http://commonmark.org/help/tutorial/">Markdown</a>.<br/>5. Y otras más...'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="{{ site.baseurl }}/images/widget-2-302x182.jpg" width="302" height="182" alt=""/></a>'
+  video: '<a href="#" data-reveal-id="videoModal"><img src="http://deepin-espanol.github.io/images/widget-2-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Rec&iacute;proco"
   url: 'http://deepin-espanol.github.io/contact/'
@@ -33,7 +35,7 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: 'http://{{ site.baseurl }}.github.io/instalacion'
+  url: 'http://deepin-espanol.github.io/instalacion'
   text: 'Descarga e instala la última versión de Deepin ›'
   style: alert
 permalink: /index.html
