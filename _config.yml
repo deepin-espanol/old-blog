@@ -18,7 +18,11 @@ slogan: 'Ayuda en línea para usuarios Deepin'
 description: '»Deepin en Español es un portal web hecho por voluntarios dedicados a hacer de Deepin un sistema operativo para todos.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
+<<<<<<< HEAD
 credits: '<p>Creado con &hearts; por <a href="https://deepin-espanol.github.io/info/">Deepin en español</a>. No estamos afiliados con <a href="http://deepin.org/" target="_blank">Deepin Wuhan</a>.<br/><a href="https://deepin-espanol.github.io/info/tos">Términos y condiciones</a>.<br/>Tema de <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+=======
+credits: '<p>Creado con &hearts; por <a href="https://deepin-espanol.github.io/info/">la comunidad de Deepin en español</a>. No afiliados con <a href="http://deepin.org/" target="_blank">Deepin Wuhan</a>.<br/><a href="https://deepin-espanol.github.io/info/tos">Términos y condiciones</a>.<br/>Tema de <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+>>>>>>> origin/master
 
 # Main author of the website
 # See > authors.yml
