@@ -26,7 +26,6 @@ credits: '<p>Creado con &hearts; por <a href="https://deepin-espanol.github.io/i
 author: deepinenespanol
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
-#
 url: 'https://deepin-espanol.github.io'
 baseurl: '/'
 
@@ -42,7 +41,6 @@ improve_content: https://github.com/deepin-espanol/deepin-espanol.github.io
 #
 urlimg: 'https://deepin-espanol.github.io/images/'
 
-
 # Logo size is 600x80 pixels
 logo: "logo.png"
 
@@ -51,7 +49,6 @@ gems:
     - jekyll-asciidoc
     - jekyll-gist
     - jekyll-paginate
-
 
 #       ____              _             __  _
 #      / __ \____ _____ _(_)___  ____ _/ /_(_)___  ____
@@ -78,7 +75,9 @@ exclude:
     - LICENSE
     - README.md
     - INSTALL.md
-
+    
+exclude_paths:
+    - "licenses/"
 
 # The language setting is used in /includes/header.html for html-settings
 language: 'es'

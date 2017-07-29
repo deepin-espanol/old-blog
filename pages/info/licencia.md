@@ -1,8 +1,8 @@
 ---
 layout: page-fullwidth
-title: "Condiciones de la comunidad"
+title: "Licencia de uso"
 subheadline: "Ayuda"
-teaser: "Algo así como los términos de uso"
+teaser: "Qué puedes compartir en Deepin"
 permalink: "/info/licencia/"
 header:
    image_fullwidth: "header_roadmap_2.jpg"
@@ -18,9 +18,7 @@ header:
 </div><!-- /.medium-4.columns -->
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
-{% include _improve_content.html %}
-
-{% include alert text='Las licencias indicadas forma parte de los [términos de uso]({{ site.url }}/info/tos).' %}
+{% include alert text='Las licencias indicadas forma parte de los términos de uso.' %}
 
 En *Comunidad Deepin* queremos compartir el conocimiento a todos los usuarios y difundir mucho más. Eso nos facilita la tarea de ofrecer contenido de alta calidad que publicamos en esta página.
 
