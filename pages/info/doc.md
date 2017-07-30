@@ -1,8 +1,8 @@
 ---
 layout: page-fullwidth
-title: "Documentación para crear posts"
+title: "Código permitido en posts"
 subheadline: "Ayuda"
-teaser: "Ideas rápidas para hacer publicaciones"
+teaser: "El repertorio de opciones que puedes incorporar a las publicación"
 permalink: "/info/doc/"
 header:
    image_fullwidth: "header_roadmap_2.jpg"
@@ -10,7 +10,7 @@ header:
 <div class="row">
 <div class="medium-4 medium-push-8 columns" markdown="1">
 <div class="panel radius" markdown="1">
-**Table of Contents**
+**Tabla de contenidos**
 {: #toc }
 *  TOC
 {:toc}
@@ -24,7 +24,7 @@ header:
 
 ## Different Page/Posts Formats   {#formats}
 
-*Feeling Responsive* supports you with different templates for your content. These are the actual page/post formats:
+*Feeling Responsive* siporta diferentes plantillas para los contenidos. Estos son los aceptados para dar formato a las páginas:
 
 ### Page/Post
 The [page/post format]({{ site.url }}{{ site.baseurl }}/design/page/) has no sidebar by default, its content is centered and beneath the content the visitor gets some metadata like categories, tags, date and author if provided via data in front matter of the post.
@@ -131,7 +131,7 @@ image:
 
 ### Thumbnails
 
-Thumbnails are used on archive pages like the [blog index][2]. They have a size of 150x150 pixels. Define them in front matter like this:
+Thumbnails are used on archive pages like the [blog index]({{ site.url }}/blog/). They have a size of 150x150 pixels. Define them in front matter like this:
 
 ~~~
 image:
@@ -180,7 +180,7 @@ image:
 ## Create a Table of Contents
 {: .t60}
 
-With the Kramdown parser for Markdown you can render a table of contents for your documents. Just insert the following HTML in your post before the actual content. More information on [»Automatic ›Table of Contents‹ Generation«][1].
+With the Kramdown parser for Markdown you can render a table of contents for your documents. Just insert the following HTML in your post before the actual content. More information on [»Automatic ›Table of Contents‹ Generation«](http://kramdown.gettalong.org/converter/html.html#toc).
 
 ### Bare Bones Version
 {% highlight html %}
@@ -295,7 +295,7 @@ You can even use `<html>`-tags inside the alert. Beware: Use " and ' properly.
 
 *Feeling Responsive* uses the foundation framework and some of its javascript components. I reduced the modules, to decrease page load and make the theme faster.
 
-I only added one other javascript-module: [`backstretch`][3] by Scott Robbin. These modules are currently used by the theme and included in `javascript.min.js`. There is also a non-minified version, if you want to take a closer look: `javascript.js`.
+I only added one other javascript-module: [`backstretch`](http://srobbin.com/jquery-plugins/backstretch/) by Scott Robbin. These modules are currently used by the theme and included in `javascript.min.js`. There is also a non-minified version, if you want to take a closer look: `javascript.js`.
 
 ~~~
 /foundation/bower_components/foundation/js/vendor/jquery.js'
@@ -313,14 +313,3 @@ I only added one other javascript-module: [`backstretch`][3] by Scott Robbin. Th
 
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
-
- [1]: http://kramdown.gettalong.org/converter/html.html#toc
- [2]: {{ site.url }}/blog/
- [3]: http://srobbin.com/jquery-plugins/backstretch/
- [4]: #
- [5]: #
- [6]: #
- [7]: #
- [8]: #
- [9]: #
- [10]: #

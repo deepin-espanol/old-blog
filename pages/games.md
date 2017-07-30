@@ -8,4 +8,4 @@ header:
     image_fullwidth: "header_drop.jpg"
 ---
 
-La lista de aplicaciones está aquí
+La lista de juegos va aquí.
