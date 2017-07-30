@@ -13,17 +13,17 @@ widget1:
   title: "Instructivo"
   url: 'http://deepin-espanol.github.io/blog/'
   image: widget-1-302x182.jpg
-  text: 'Enseñamos y preparamos a aquellos que quie&shy;ren usar el sistema operativo. <em>Comunidad Deepin</em> ofrece una blog, tutoriales y consejos para todas las necesidades. Si aún tienes nociones básicas sobre computación, te guíaremos.'
+  text: 'Enseñamos y preparamos a aquellos que quie&shy;ren usar el sistema operativo. <em>Deepin en Español</em> ofrece una blog, tutoriales y consejos para todas las necesidades. Si aún tienes nociones básicas sobre computación, te guíaremos.'
 widget2:
   title: "Did&aacute;ctico"
   url: 'http://deepin-espanol.github.io/info/'
-  text: '<em>Deepin en Español</em> ofrece contenido:<br/>1. Con imágenes de alta calidad.<br/>2. Vídeos en alta resolución.<br/>3. Compatible con dispositivos móviles.<br/>4. Fáciles de editar con <a href="http://commonmark.org/help/tutorial/">Markdown</a>.<br/>5. Y otras más...'
+  text: 'En <em>Deepin en Español</em> incluímos:<br/>1. Imágenes de alta calidad.<br/>2. Vídeos en alta resolución.<br/>3. Compatible con dispositivos móviles.<br/>4. Fáciles de editar con <a href="http://commonmark.org/help/tutorial/">Markdown</a>.<br/>5. Y otras más...'
   video: '<a href="#" data-reveal-id="videoModal"><img src="http://deepin-espanol.github.io/images/widget-2-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Rec&iacute;proco"
   url: 'http://deepin-espanol.github.io/contact/'
   image: widget-3-302x182.jpg
-  text: '<em>Comunidad Deepin</em> es atentida por humanos. No importa si has participado con anterioridad, son todos bienvenidos. ¿Quieres estar al día? <a href="{{ site.baseurl }}/feed.xml">¡Suscríbete!</a> ¿Tienes alguna sugerencia? ¡Puedes contactarnos con nuestro equipo!'
+  text: '<em>Nuestra comunidad</em> es atentida por humanos. No importa si has participado con anterioridad, son todos bienvenidos. ¿Quieres estar al día? <a href="{{ site.baseurl }}/feed.xml">¡Suscríbete!</a> ¿Tienes alguna sugerencia? ¡Puedes contactarnos con nuestro equipo!'
 #
 # Use the call for action to show a button on the frontpage
 #
