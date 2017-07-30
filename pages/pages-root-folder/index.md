@@ -11,7 +11,7 @@ header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
   title: "Instructivo"
-  url: '{{ site.url }}{{ site.baseurl }}/blog/'
+  url: 'http://deepin-espanol.github.io/blog/'
   image: widget-1-302x182.jpg
   text: 'Enseñamos y preparamos a aquellos que quie&shy;ren usar el sistema operativo. <em>Deepin en Español</em> ofrece una blog, tutoriales y consejos para todas las necesidades. Si aún tienes nociones básicas sobre computación, te guíaremos.'
 widget2:
