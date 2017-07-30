@@ -18,9 +18,7 @@ header:
 </div><!-- /.medium-4.columns -->
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
-{% include alert text='Las condiciones se irán actualizando con el tiempo.' %}
-
-# Código de Conducta convenido para Contribuyentes
+{% include alert text='Actualizo el 28 de julio de 2017. Es posible que sufran algunos cambios para casos específicos.' %}
 
 ## Nuestro compromiso
 
@@ -81,6 +79,12 @@ Este código de conducta aplica tanto a espacios del proyecto como a espacios p�
 Ejemplos de abuso, acoso, falisificación de indentidades, u otro tipo de comportamiento inaceptable puede ser reportado al equipo del proyecto en [INSERTE CORREO AQUÍ]. Todas las quejas serán revisadas e investigadas, generando un resultado apropiado a las circunstancias. El equipo del proyecto está obligado a mantener confidencialidad de la persona que reportó el incidente. Detalles específicos acerca de las políticas de aplicación pueden ser publicadas por separado.
 
 Administradores que no sigan o que no hagan cumplir este Código de Conducta pueden ser eliminados de forma temporal o permanente del equipo administrador.
+
+## Privacidad al visitar la página web
+
+Por el momento usamos cookies relacionadas con el sitio web Github. Nosotros no usamos nuestras propias herramientas para estadísticas a los usuarios.
+
+Para mayor información acerca del funcionamiento en el navegador web, visita [allaboutcookies.org](http://www.allaboutcookies.org/es/).
 
 ## Limitaciones legales
 
