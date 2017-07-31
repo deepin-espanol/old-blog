@@ -20,6 +20,17 @@ header:
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 {% include alert text='Actualizado el 31 de julio de 2017. Es posible que sufran algunos cambios para casos específicos.' %}
 
+## Qué es git
+
+Imagínate que es similar a Wikipedia. [Git](https://es.wikipedia.org/wiki/Git) es un sistema de control de versiones creado por Linus Torvalds. Los cambios principales están desarrollados en una rama llamada "master" que se puede bifurcar a otras menores para realizar cambios y revisarlos antes de aplicar a la principal.
+
+En git, usamos órdenes para actualizar la página web (o también el código fuente de un programa) como :
+* Las más importantes son **fetch** para descargar la última versión en línea.
+* Para definir el cambio llamamos a **commit** (parche/ar) y para subir usamos **push**. Si cometemos un error, puedes revertir con **revert**.
+* Para ramificaciones tienes **merge [nombre de rama]** para fusionar los cambios desde una rama menor a la principal y **pull** para realizar los pasos anteriores a la vez. 
+
+La mayoría de órdenes son de la terminal; no obstante, te recomendamos usar aplicaciones con interfaz gráfica como [Git Cola](https://git-cola.github.io/) o similares desde Deepin Store.
+
 ## Qué es Jekyll
 
 Para que cada publicación en *Deepin en Español* sea rápida, colaborativa y seguro, tenemos que desarrollar un mecanismo. Ese mecanismo para elaborar la página web y los contenidos se llama [Jekyll](https://jekyllrb.com/).
@@ -30,12 +41,13 @@ Jekyll es similar a Wordpress, Joomla o Blogger. La ventaja es, que al ser de c�
 
 Sin llegar a los detalles técnicos, vamos a agrupar las carpetas y archivos en lo siguiente:
 
-* La configuración propia como la carpeta " _data" y el archivo " _config.yml"
-* Los archivos para que el servidor interprete código como "Gemfile"
-* Las carpetas base como " _includes" para HTML, " _layouts" para traducir los posts, " _sass" para el framework Foundation y "assets" para las liberías Javascript y CSS.
-* Las carpetas para páginas como " _drafts" para borradores, " _posts" para publicaciones en el blog y "pages" para páginas especiales.
+* La configuración propia como la carpeta " _data" y el archivo " _config.yml";
+* Los archivos para que el servidor interprete código como "Gemfile";
+* Las carpetas base como " _includes" para HTML, " _layouts" para traducir los posts, " _sass" para el framework Foundation y "assets" para las liberías Javascript y CSS;
+* Las carpetas para páginas como " _drafts" para borradores, " _posts" para publicaciones en el blog y "pages" para páginas especiales; y
+* La carpeta para las imágenes como "images".
 
-Nosotros nos enfocaremos en la última agrupación.
+Nosotros nos enfocaremos en la dos últimos elementos de la lista.
 
 ## Paso para crear un post
 
@@ -75,9 +87,15 @@ El lenguaje que aplicamos es [Markdown](https://es.wikipedia.org/wiki/Markdown) 
 
 Si quieres editar Markdown, te presentamos JBT](https://jbt.github.io/markdown-editor/) o [Diliger](http://dillinger.io/).
 
+## Subir imágenes al sitio web
+
+Este portal te permite subir imágenes 
+
 ## Agradecimientos
 
 Este editor fue creado para Deepin en Español y está licenciado bajo MIT.
+
+La fuente oficial de Git proviene del [manual de 2014](https://git-scm.com/book/es/v2).
 
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->

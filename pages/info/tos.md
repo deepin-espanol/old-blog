@@ -5,7 +5,7 @@ subheadline: "Ayuda"
 teaser: "Algo así como los términos de uso"
 permalink: "/info/tos/"
 header:
-   image_fullwidth: "header_roadmap_2.jpg"
+   image_fullwidth: "rules.jpg"
 ---
 <div class="row">
 <div class="medium-4 medium-push-8 columns" markdown="1">
@@ -60,7 +60,7 @@ En caso que quieras aportar alguna publicación los administradores velarán que
 * No debe promover la publicidad no deseada (SPAM) o pornografía infantil.
 * Al adjuntar y/o enlazar, deben estar libres de virus o software malintencionado.
 * Las publicaciones pagadas por una empresa deben ser señaladas al final de la página, sustentando el motivo.
-* Las redacciones de solo texto son licenciadas automáticamente bajo [Creative Commons Attribution-NonCommercial-ShareAlike](https://creativecommons.org/licenses/by-nc-sa/4.0/) y [GNU Free Documentation License](https://www.gnu.org/copyleft/fdl.html). Puedes solicitar una licencia más permisiva que la primera como [Creative Commons Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/4.0/).
+* Las redacciones de solo texto son licenciadas automáticamente bajo [Creative Commons Attribution-NonCommercial-ShareAlike](https://creativecommons.org/licenses/by-nc-sa/4.0/) y [GNU Free Documentation License](https://www.gnu.org/copyleft/fdl.html). Puedes solicitar una licencia más permisiva que la primera. Por ejemplo, para uso comercial con copyleft recomendamos [Creative Commons Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ### Responsabilidad de los derechos de autor
 
@@ -79,6 +79,8 @@ Este código de conducta aplica tanto a espacios del proyecto como a espacios p�
 Ejemplos de abuso, acoso, falisificación de indentidades, u otro tipo de comportamiento inaceptable puede ser reportado al equipo del proyecto en [INSERTE CORREO AQUÍ]. Todas las quejas serán revisadas e investigadas, generando un resultado apropiado a las circunstancias. El equipo del proyecto está obligado a mantener confidencialidad de la persona que reportó el incidente. Detalles específicos acerca de las políticas de aplicación pueden ser publicadas por separado.
 
 Administradores que no sigan o que no hagan cumplir este Código de Conducta pueden ser eliminados de forma temporal o permanente del equipo administrador.
+
+En caso que el usuario promueva el terrorismo o pornografía infantil, amenace a los usuarios y tenga antecedentes, será reportado en privado a las autoridades correspondientes. Algunas sugerencias en [esta página](https://www.genbeta.com/a-fondo/como-denunciar-a-la-policia-si-encuentro-contenido-pedofilo-en-internet).
 
 ## Privacidad al visitar la página web
 
