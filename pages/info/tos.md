@@ -18,7 +18,7 @@ header:
 </div><!-- /.medium-4.columns -->
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
-{% include alert text='Actualizo el 28 de julio de 2017. Es posible que sufran algunos cambios para casos específicos.' %}
+{% include alert text='Actualizado el 31 de julio de 2017. Es posible que sufran algunos cambios para casos específicos.' %}
 
 ## Nuestro compromiso
 
@@ -104,6 +104,8 @@ Este Código de Conducta es una adaptación del [Contributor Covenant][homepage]
 
 [homepage]: http://contributor-covenant.org
 [version]: http://contributor-covenant.org/version/1/4/es/
+
+Puedes crear una nueva versión de los términos, siempre y cuando nos atribuyas a Deepin en Español.
 
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
