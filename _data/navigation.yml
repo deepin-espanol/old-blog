@@ -25,10 +25,8 @@
   dropdown:
   - title: "Juegos"
     url: "/games/"
-  
   - title: "Iconos"
-  url: "/icons/"
-  side: left
+    url: "/icons/"
 
 - title: "Blog"
   url: "/blog/"
