@@ -10,8 +10,13 @@
   
  - name: Telegram
    url: "https://t.me/deepinenespanol"
-   class: icon-chat
+   class: icon-paper-plane
    title: "Grupo Deepin en español"
+
+#- name: Foro
+#  url: http://ejemplo.com
+#  class: icon-chat
+#  title: "Foro de Deepin"
 
  - name: YouTube
    url: "https://www.youtube.com/channel/UCsy5zMxbAeeWlvBsuC9mLWg"
