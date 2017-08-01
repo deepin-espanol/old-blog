@@ -27,9 +27,9 @@ Hay varias maneras de descargar, además del [oficial](https://www.deepin.org/en
 * [En SourceForge](https://sourceforge.net/projects/deepin/)
 * [En PCDS, con archivos torrent](http://www.pcds.fi/downloads/iso/debianbased/deepin/about.deepin.debian.html)
 
-## Responsive Videos
+## Video instalación
 
-Un vídeo explicativo para instalar Deepin tanto el modo básico como el avanzado:
+Un vídeo explicativo para instalar Deepin tanto el modo básico como el avanzado cortesía de Salmorejo Geek:
 
 <div class="flex-video">
         <iframe width="1280" height="720" src="//www.youtube.com/embed/A_VM9XSBaus" frameborder="0" allowfullscreen></iframe>

@@ -15,10 +15,6 @@
   - title: "Hoja de ruta"
     url: "/roadmap/"
 
-- title: "Instalar"
-  url: "/instalacion/"
-  side: left
-
 - title: "Aplicaciones"
   url: "/apps/"
   side: left
