@@ -10,8 +10,8 @@
   
  - name: Telegram
    url: "https://t.me/deepinenespanol"
-   class: icon-telegram
-   title: "Deepin en español"
+   class: icon-chat
+   title: "Grupo Deepin en español"
 
  - name: YouTube
    url: "https://www.youtube.com/channel/UCsy5zMxbAeeWlvBsuC9mLWg"
