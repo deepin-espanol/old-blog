@@ -5,6 +5,9 @@
 - title: Instalación
   url: "/instalacion/"
   side: left
+  dropdown:
+  - title: "Actualización"
+    url: "/update/"
 
 - title: Novedades
   url: "/novedades/"

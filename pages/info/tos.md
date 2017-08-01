@@ -92,8 +92,9 @@ Para mayor información acerca del funcionamiento en el navegador web, visita [a
 
 El contenido desarrollado por la comunidad no tiene una cláusula de garantía debido a la naturaleza gratuita de cooperar. Los administradores no se harán responsables (ya sea bajo la ley contractual, la ley de responsabilidad o cualquier otra) frente a:
 
-* La pérdida directa, especial o consecuencial elaborada por integrantes ajenos; o
-* Por cualquier pérdida de negocios, de ingresos, de utilidades, ganancias o ahorros anticipados, pérdida de contratos o de relaciones comerciales, pérdida de reputación o goodwill, o pérdida o corrupción de información o datos.
+* Las actividades maliciosas ajenos a la página principal
+* La pérdida directa, especial o consecuencial elaborada fuera de las actividades oficiales de la comunidad; o
+* Cualquier pérdida económica, representativa o utilitaria de las aplicaciones, juegos o similares que provee el colaborador.
 
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
