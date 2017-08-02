@@ -32,11 +32,11 @@ Este es una página web cualquiera. Mientras que añadimos más cosas, iremos me
 
 ## »Fácil lectura«
 
-Hemos analizado al milímetro el texto, los pasos son legibles.
+Hemos analizado al milímetro el texto, los pasos son legibles. Puedes usar desde tu computadora, tablet, celular, TV, red social o cualquier pantalla.
 
 ## »Con imágenes y vídeos«
 
-Simple y en el lugar correcto. Soporta Youtube y páginas web externas.
+Simple y en el lugar correcto. Soporta Youtube, sonido y páginas web externas. Quizás pregúntale a [Mediaelement]({{ site.url }}/info/mediaelement/)) para hacer su trabajo.
 
 ## »Categorías«
 
