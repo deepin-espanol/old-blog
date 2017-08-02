@@ -24,17 +24,15 @@ header:
 
 ## Qué es git y Jekyll
 
-Los detalles puedes encontrar en [esta página]({{ site.url }}/tutopost/mediaelement/).
+Los detalles puedes encontrar en [esta página]({{ site.url }}/tutopost/gityjekyll/).
 
 ## Primero: Clona desde un cliente git
 
 Para empezar, usa una aplicación como [Gitcola](https://git-cola.github.io/) o la terminal.
 
-```
-
+~~~
 git clone https://github.com/deepin-espanol/deepin-espanol.github.io.git
-
-```
+~~~
 
 ## Qué carpetas debo tocar
 
