@@ -1,8 +1,8 @@
 ---
 layout: page-fullwidth
-title: "Tutorial para crear posts"
+title: "Git y Jekyll"
 subheadline: "Ayuda"
-teaser: "Haciendo artículos para principianes"
+teaser: "Aprendiendo de Git y Jekyll, ¿qué son?"
 permalink: "/tutopost/gityjekyll/"
 categories:
   - tutopost

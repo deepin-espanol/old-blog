@@ -41,7 +41,7 @@ Como no hay interfaz web, desde tu gestor de archivos en el lugar:
 * Las carpetas para páginas como " _drafts" para borradores, " _posts" para publicaciones en el blog y "pages" para páginas especiales; y
 * La carpeta para las imágenes como "images".
 
-### Crear archivo
+### Preparación
 
 1. Busca la carpeta * > _draft > ejemplo
 2. Selecciona un archivo. Más detalles en la siguiente sección.
@@ -50,7 +50,7 @@ Como no hay interfaz web, desde tu gestor de archivos en el lugar:
 5. Corta el archivo
 6. Muévelo a post > [carpeta]. Siendo carpeta, el manual, blog o tips.
 
-### Plantilla base
+### Qué debe contener un post
 
 Cuando creas un archivo asegúrate que contenga:
 
@@ -69,7 +69,7 @@ El lenguaje que aplicamos es [Markdown](https://es.wikipedia.org/wiki/Markdown) 
 * Escribe  `[Texto del enlace aquí](URL "Título del enlace")` y creas un enlace
 * Escribe `![Texto alternativo](URL "Título de la imagen")` y creas una imagen
 
-Si quieres editar Markdown, te presentamos JBT](https://jbt.github.io/markdown-editor/) o [Diliger](http://dillinger.io/). 
+Para aprender todas las posibilidades visita [Códigos permitidos en Markdown]({{ site.url }}/tutopost/doc/). Si quieres editar desde la web, te presentamos JBT](https://jbt.github.io/markdown-editor/) o [Diliger](http://dillinger.io/). 
 
 ## Publicar vía git
 
