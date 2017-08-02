@@ -44,6 +44,12 @@
   url: "/search/"
   side: right
 
-- title: "Contacto"
-  url: "/contact/"
+
+- title: "Nosotros"
+  url: "/info/"
   side: right
+  dropdown:
+  - title: "Tutopost"
+    url: "/tutopost/"
+  - title: "Contacto"
+    url: "/contact/"
