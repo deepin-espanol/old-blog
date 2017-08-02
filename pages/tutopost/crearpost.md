@@ -36,7 +36,7 @@ Para empezar, usa una aplicación como [Gitcola](https://git-cola.github.io/) o 
 
 Cuando inicias Git-cola selecciona clonar y escribe `git clone https://github.com/deepin-espanol/deepin-espanol.github.io.git` y aceptar.
 
-En la terminal:
+En el caso de la terminal:
 
 ~~~
 git clone https://github.com/deepin-espanol/deepin-espanol.github.io.git
@@ -77,7 +77,7 @@ El lenguaje que aplicamos es [Markdown](https://es.wikipedia.org/wiki/Markdown) 
 * Escribe  `[Texto del enlace aquí](URL "Título del enlace")` y creas un enlace
 * Escribe `![Texto alternativo](URL "Título de la imagen")` y creas una imagen
 
-Para aprender todas las posibilidades visita [Códigos permitidos en Markdown]({{ site.url }}/tutopost/doc/). Si quieres editar desde la web, te presentamos JBT](https://jbt.github.io/markdown-editor/) o [Diliger](http://dillinger.io/). 
+Para aprender todas las posibilidades visita [Códigos permitidos en Markdown]({{ site.url }}/tutopost/doc/). Si quieres editar desde la web, te presentamos [JBT](https://jbt.github.io/markdown-editor/) o [Diliger](http://dillinger.io/). 
 
 ## Subir los cambios
 
