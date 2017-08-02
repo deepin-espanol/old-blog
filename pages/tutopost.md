@@ -20,7 +20,7 @@ header:
 </div><!-- /.medium-4.columns -->
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
-{% include alert text='Actualizado el 31 de julio de 2017. Es posible que sufran algunos cambios para casos específicos.' %}
+{% include alert text='Actualizado el 2 de agosto de 2017. Es posible que sufran algunos cambios para casos específicos.' %}
 
 Bienvenidos a tutopost. Esta selección de tutoriales está pensado en colaboradores de nuevos artículos y material para Deepin en Español.
 

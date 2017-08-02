@@ -3,7 +3,7 @@ layout: page-fullwidth
 title: "Tutorial para crear posts"
 subheadline: "Ayuda"
 teaser: "Haciendo artículos para principianes"
-permalink: "/info/tutopost/gityjekyll/"
+permalink: "/tutopost/gityjekyll/"
 categories:
   - tutopost
 header:
