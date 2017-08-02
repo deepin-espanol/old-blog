@@ -112,6 +112,20 @@ En caso que quieras actualizar Feeling Responsive tendrás que tomar en cuenta:
 * Las carpetas base como " _includes" para HTML, " _layouts" para traducir los posts, " _sass" para el framework Foundation si se deben actualizar;
 * La carpeta "assets" para las liberías Javascript y CSS requiere atención, exepcto "img" que posee los iconos propios y no se deben perder
 
+### Porqué usamos Jeryll
+
+* Galería, vídeos, tipografía
+* 100% GitHub Pages friendly
+* Easy editable navigation, footer and social media links
+* Language Ready – just translate one file.
+* Lots of possibilities to customize it to your needs
+* Lots of different headers
+* Various post formats to let your content shine
+* Uses Jekyll 3.0
+* Multiple possibilities to use images in different ways
+* Fine typography
+* Play Video and Audio with [Mediaelement.js]({{ site.url }}/info/mediaelement/)
+
 ## Agradecimientos
 
 Este editor fue creado para Deepin en Español y está licenciado bajo MIT.

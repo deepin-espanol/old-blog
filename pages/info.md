@@ -12,22 +12,11 @@ Bienvenidos a la *Comunidad Deepin*, un proyecto hecho por voluntarios no relaci
 
 Siéntasen libres de mejorar y crecer este proyecto.
 
-## Porqué usamos Jeryll
+## Sobre nosotros
 
-* [Responsive Gallery]({{ site.url }}/design/gallery/), [Videos]({{ site.url }}/design/video/), [Grid]({{ site.url }}/design/grid/), [Typography]({{ site.url }}/design/typography/),...
-* 100% GitHub Pages friendly
-* Easy editable navigation, footer and social media links
-* Language Ready – just translate one file.
-* Lots of possibilities to customize it to your needs
-* Lots of different headers
-* Various post formats to let your content shine
-* Uses Jekyll 3.0
-* Multiple possibilities to use images in different ways
-* Fine typography
-* Play Video and Audio with [Mediaelement.js]({{ site.url }}/design/mediaelement_js/)
+Por ahora somos un grupo pequeños. A medida que crezca, iremos aclarando más sobre esta comunidad.
 
-
-## Otros detalles
+## Detalles adicionales
 Algunos agradecimientos:
 
 Como [tema para jekyll](http://mademistakes.com/work/jekyll-themes/). Íconos por [Daniel Bruce](http://entypo.com/). Imágenes de muestra de [unplash](http://unsplash.com/) y [pixabay](http://pixabay.com).
