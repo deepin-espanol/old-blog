@@ -7,6 +7,7 @@
 # Nota: Cambiar http://deepin-espanol.github.io si fuera necesario
 #
 layout: frontpage
+teaser: "Página web Deepin en Español"
 header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
