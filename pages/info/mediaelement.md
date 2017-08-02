@@ -3,9 +3,9 @@ layout: page
 #
 # Content
 #
-subheadline: "Video & Music Player"
-title: "Play Audio & Video with media&shy;element.js"
-teaser: "Do you like music? Or are you a podcaster? Do you want to stream your videos in a nice player? Than you likely will like the integration of <em>mediaelement.js</em>. It enables you to play music and stream video in a consistent player that looks in each browser delicious. It even works in IE6-8."
+subheadline: "Reproductor de música y vídeo"
+title: "Añade vídeo y música a los post"
+teaser: "¿Quieres añadir un podcast? ¿Quieres añadir un vídeo de Internet? Estás de suerte. Hemos integrado los post con <em>mediaelement.js</em>. Esa tecnología trabaja en todo navegador, incluido IE6-8."
 permalink: "/info/mediaelement/"
 #
 # Styling
@@ -15,7 +15,7 @@ image:
     title: mediaplayer_js-title.jpg
     thumb: mediaplayer_js-thumb.jpg
     homepage: mediaplayer_js-home.jpg
-    caption: Photo by Corey Blaz
+    caption: Foto por Corey Blaz
     caption_url: https://blaz.photography/
 mediaplayer: true
 ---
