@@ -4,6 +4,8 @@ title: "Código permitido en posts"
 subheadline: "Ayuda"
 teaser: "El repertorio de opciones que puedes incorporar a las publicación"
 permalink: "/info/doc/"
+categories:
+  - tutopost
 header:
    image_fullwidth: "header_roadmap_2.jpg"
 ---

@@ -3,7 +3,9 @@ layout: page-fullwidth
 title: "Tutorial para crear posts"
 subheadline: "Ayuda"
 teaser: "Haciendo artículos para principianes"
-permalink: "/info/tutopost/"
+permalink: "/info/tutopost/crearpost/"
+categories:
+  - tutopost
 header:
    image_fullwidth: "edition.jpg"
 ---
@@ -20,28 +22,23 @@ header:
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 {% include alert text='Actualizado el 31 de julio de 2017. Es posible que sufran algunos cambios para casos específicos.' %}
 
-## Qué es git
+## Qué es git y Jekyll
 
-Imagínate que es similar a Wikipedia. [Git](https://es.wikipedia.org/wiki/Git) es un sistema de control de versiones creado por Linus Torvalds. Los cambios principales están desarrollados en una rama llamada "master" que se puede bifurcar a otras menores para realizar cambios y revisarlos antes de aplicar a la principal.
+Los detalles puedes encontrar en [esta página]({{ site.url }}/tutopost/mediaelement/).
 
-En git, usamos órdenes para actualizar la página web (o también el código fuente de un programa) como :
-* Las más importantes son **fetch** para descargar la última versión en línea.
-* Para definir el cambio llamamos a **commit** (parche/ar) y para subir usamos **push**. Si cometemos un error, puedes revertir con **revert**.
-* Para ramificaciones tienes **merge [nombre de rama]** para fusionar los cambios desde una rama menor a la principal y **pull** para ejecutar "fetch" y "merge" a la vez.
+## Primero: Clona desde un cliente git
 
-Nos enfocaremos en los dos primeros de la lista.
+Para empezar, usa una aplicación como [Gitcola](https://git-cola.github.io/) o la terminal.
 
-La mayoría de órdenes son de la terminal; no obstante, te recomendamos usar aplicaciones con interfaz gráfica como [Git Cola](https://git-cola.github.io/) o similares desde Deepin Store.
+```
 
-## Qué es Jekyll
+git clone https://github.com/deepin-espanol/deepin-espanol.github.io.git
 
-Para que cada publicación en *Deepin en Español* sea rápida, colaborativa y segura, tenemos que desarrollar un mecanismo. Ese mecanismo para elaborar la página web y los contenidos se llama [Jekyll](https://jekyllrb.com/).
+```
 
-Jekyll es similar a Wordpress, Joomla o Blogger. La ventaja es, que al ser de código abierto, su facilidad de uso tipo rompecabezas. El requisito principal es un servidor que permita ejecutar archivos escritos en [Ruby](https://es.wikipedia.org/wiki/Ruby).
+## Qué carpetas debo tocar
 
-## Qué carpetas hay
-
-Sin llegar a los detalles técnicos, nosotros nos enfocaremos en carpetas de texto e imágnes:
+Como no hay interfaz web, desde tu gestor de archivos en el lugar:
 
 * Las carpetas para páginas como " _drafts" para borradores, " _posts" para publicaciones en el blog y "pages" para páginas especiales; y
 * La carpeta para las imágenes como "images".
@@ -124,7 +121,7 @@ En caso que quieras actualizar Feeling Responsive tendrás que tomar en cuenta:
 * Uses Jekyll 3.0
 * Multiple possibilities to use images in different ways
 * Fine typography
-* Play Video and Audio with [Mediaelement.js]({{ site.url }}/info/mediaelement/)
+* Play Video and Audio with [Mediaelement.js]({{ site.url }}/tutopost/mediaelement/)
 
 ## Agradecimientos
 

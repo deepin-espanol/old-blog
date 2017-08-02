@@ -15,6 +15,8 @@ image:
     caption: Image by Antonio
     caption_url: "http://www.aisleone.net/"
 permalink: "/info/tipografia/"
+categories:
+  - tutopost
 ---
 <!--more-->
 
