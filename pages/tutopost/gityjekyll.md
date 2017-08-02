@@ -41,7 +41,7 @@ Para que cada publicación en *Deepin en Español* sea rápida, colaborativa y s
 
 Jekyll es similar a Wordpress, Joomla o Blogger. La ventaja es, que al ser de código abierto, su facilidad de uso tipo rompecabezas. El requisito principal es un servidor que permita ejecutar archivos escritos en [Ruby](https://es.wikipedia.org/wiki/Ruby).
 
-## Anexo: Carpetas y actualizaciones
+## Carpetas y actualizaciones
 En caso que quieras actualizar Feeling Responsive tendrás que tomar en cuenta:
 
 * La configuración propia como la carpeta " _data" y el archivo " _config.yml", esos no se modifican;

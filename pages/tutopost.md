@@ -3,7 +3,7 @@ layout: page-fullwidth
 title: "Sección para tutoriales"
 subheadline: "Tutopost"
 teaser: "Colaboradores en acción"
-permalink: "/info/tutopost/"
+permalink: "/tutopost/"
 categories:
   - tutopost
 header:
@@ -22,15 +22,18 @@ header:
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 {% include alert text='Actualizado el 31 de julio de 2017. Es posible que sufran algunos cambios para casos específicos.' %}
 
-Bienvenidos a tutopost. Esta secc
+Bienvenidos a tutopost. Esta selección de tutoriales está pensado en colaboradores de nuevos artículos y material para Deepin en Español.
 
-## En esta categoría:
+## Páginas:
 
-<ul>
-    {% for post in site.categories.tutopost %}
-    <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-</ul>
+Conociendo el CMS:
+*[Git y Jekyll]({{ site.url }}/tutopost/gityjekyll/).
+*[Cómo hacer y publicar un posts]({{ site.url }}/tutopost/crearpost/).
+
+Extras:
+*[Mediaelement]({{ site.url }}/tutopost/mediaelement/).
+*[Códigos permitidos en Markdown]({{ site.url }}/tutopost/doc/).
+*[Tipografía permitida]({{ site.url }}/tutopost/mediaelement/).
 
 ## Agradecimientos
 
