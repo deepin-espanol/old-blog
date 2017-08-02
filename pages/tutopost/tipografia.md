@@ -14,7 +14,7 @@ image:
     homepage: homepage_typography.jpg
     caption: Image by Antonio
     caption_url: "http://www.aisleone.net/"
-permalink: "/info/tipografia/"
+permalink: "/tutopost/tipografia/"
 categories:
   - tutopost
 ---

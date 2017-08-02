@@ -27,13 +27,13 @@ Bienvenidos a tutopost. Esta selección de tutoriales está pensado en colaborad
 ## Páginas:
 
 Conociendo el CMS:
-*[Git y Jekyll]({{ site.url }}/tutopost/gityjekyll/).
-*[Cómo hacer y publicar un posts]({{ site.url }}/tutopost/crearpost/).
+* [Git y Jekyll]({{ site.url }}/tutopost/gityjekyll/).
+* [Cómo hacer y publicar un posts]({{ site.url }}/tutopost/crearpost/).
 
 Extras:
-*[Mediaelement]({{ site.url }}/tutopost/mediaelement/).
-*[Códigos permitidos en Markdown]({{ site.url }}/tutopost/doc/).
-*[Tipografía permitida]({{ site.url }}/tutopost/mediaelement/).
+* [Mediaelement]({{ site.url }}/tutopost/mediaelement/).
+* [Códigos permitidos en Markdown]({{ site.url }}/tutopost/doc/).
+* [Tipografía permitida]({{ site.url }}/tutopost/tipografia/).
 
 ## Agradecimientos
 
