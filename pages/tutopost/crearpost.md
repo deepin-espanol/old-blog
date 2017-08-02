@@ -3,7 +3,7 @@ layout: page-fullwidth
 title: "Tutorial para crear posts"
 subheadline: "Ayuda"
 teaser: "Haciendo artículos para principianes"
-permalink: "/info/tutopost/crearpost/"
+permalink: "/tutopost/crearpost/"
 categories:
   - tutopost
 header:
@@ -26,15 +26,19 @@ header:
 
 Los detalles puedes encontrar en [esta página]({{ site.url }}/tutopost/gityjekyll/).
 
-## Primero: Clona desde un cliente git
+## Primero: Descarga la copia
 
-Para empezar, usa una aplicación como [Gitcola](https://git-cola.github.io/) o la terminal.
+### Descarga un cliente Git
+
+Para empezar, usa una aplicación como [Gitcola](https://git-cola.github.io/) o Gitkraken desde la Deepin Store. Si eres un capo en la terminal, instala el paquete git.
+
+### Colona
 
 ~~~
 git clone https://github.com/deepin-espanol/deepin-espanol.github.io.git
 ~~~
 
-## Qué carpetas debo tocar
+## Segundo: Qué carpetas debo tocar
 
 Como no hay interfaz web, desde tu gestor de archivos en el lugar:
 
@@ -71,7 +75,7 @@ El lenguaje que aplicamos es [Markdown](https://es.wikipedia.org/wiki/Markdown) 
 
 Para aprender todas las posibilidades visita [Códigos permitidos en Markdown]({{ site.url }}/tutopost/doc/). Si quieres editar desde la web, te presentamos JBT](https://jbt.github.io/markdown-editor/) o [Diliger](http://dillinger.io/). 
 
-## Publicar vía git
+## Subir los cambios
 
 Pare realizar un commit o parche, asegúrate que hayas realizado modificaciones como los nuevos archivos que has creado.
 
@@ -79,47 +83,29 @@ Primero: Una vez realizado el parche tienes dos opciones:
 
 8. Haz un push en la branch o rama "[usuario]-post".
 9. Si deseas pueds añadir más parches para corregir algunos percances.
-10. Cuando está listo, tendrás que hacer la orden "merge".
+10. Cuando está listo, tendrás que hacer la orden "push" a la rama "master".
+11. Si hay conflictos por aplicar paches antes de tiempo, es mejor realizar un "fetch" de la rama que vas a aplicar.
 
-En lugar de "merge", desde la web de Github:
+## Opcional: Crea una rama
 
-10. Pide un "pull request", o solicitud para aplicar los parches, a la rama central.
-11. Una vez revisado en la sección Issues, se aplican los parches y se elimina la rama obsoleta.
+Si deseas puedes crear una rama para evitar conflictos de edición. Desde git-cola crea una nueva rama.
 
-Segundo: O el más directo y **no recomendado**.
-
-8. Hacer un push en la rama "master".
-9. Si hay conflictos por aplicar paches antes de tiempo, es mejor realizar un "fetch" de la rama que vas a aplicar.
+9. Dale un nombre la rama "merge"
+10. Hacer un "merge" en la rama "master".
 
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
 
+### Opcional: Hacer un
 
-### Subir imágenes al sitio web
+En la web de Github (necesitas iniciar sesión) puedes hacer una solicitud para trasferir los cambios de tu rama a la "master:
+
+10. Pide un "pull request", o solicitud para aplicar los parches, a la rama central.
+11. Una vez revisado en la sección Issues, se aplican los parches y se elimina la rama obsoleta.
+
+### Nota: Subir imágenes al sitio web
 
 Este portal te permite subir imágenes a partir de la carpeta "images". Recomandamos comprimir lo máximo posible para que el navegador cargue más rápido y no desperdicie ancho de banda
-
-## Anexo: Carpetas y actualizaciones
-En caso que quieras actualizar Feeling Responsive tendrás que tomar en cuenta:
-
-* La configuración propia como la carpeta " _data" y el archivo " _config.yml", esos no se modifican;
-* Los archivos para que el servidor interprete código como "Gemfile", se puede modificar si fuera necesario;
-* Las carpetas base como " _includes" para HTML, " _layouts" para traducir los posts, " _sass" para el framework Foundation si se deben actualizar;
-* La carpeta "assets" para las liberías Javascript y CSS requiere atención, exepcto "img" que posee los iconos propios y no se deben perder
-
-### Porqué usamos Jeryll
-
-* Galería, vídeos, tipografía
-* 100% GitHub Pages friendly
-* Easy editable navigation, footer and social media links
-* Language Ready – just translate one file.
-* Lots of possibilities to customize it to your needs
-* Lots of different headers
-* Various post formats to let your content shine
-* Uses Jekyll 3.0
-* Multiple possibilities to use images in different ways
-* Fine typography
-* Play Video and Audio with [Mediaelement.js]({{ site.url }}/tutopost/mediaelement/)
 
 ## Agradecimientos
 
