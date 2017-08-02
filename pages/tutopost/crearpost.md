@@ -90,7 +90,7 @@ Primero: Una vez realizado el parche tienes dos opciones:
 10. Cuando está listo, tendrás que hacer la orden "push" a la rama "master".
 11. Si hay conflictos por aplicar paches antes de tiempo, es mejor realizar un "fetch" de la rama que vas a aplicar.
 
-## Opcional: Crea una rama
+### Opcional: Crea una rama
 
 Si deseas puedes crear una rama para evitar conflictos de edición. Desde git-cola crea una nueva rama.
 
@@ -100,7 +100,7 @@ Si deseas puedes crear una rama para evitar conflictos de edición. Desde git-co
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
 
-### Opcional: Hacer un
+#### Opcional: Hacer un "pullrequest"
 
 En la web de Github (necesitas iniciar sesión) puedes hacer una solicitud para trasferir los cambios de tu rama a la "master:
 
