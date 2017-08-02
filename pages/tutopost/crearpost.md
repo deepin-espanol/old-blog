@@ -32,7 +32,11 @@ Los detalles puedes encontrar en [esta página]({{ site.url }}/tutopost/gityjeky
 
 Para empezar, usa una aplicación como [Gitcola](https://git-cola.github.io/) o Gitkraken desde la Deepin Store. Si eres un capo en la terminal, instala el paquete git.
 
-### Colona
+### Clona
+
+Cuando inicias Git-cola selecciona clonar y escribe `git clone https://github.com/deepin-espanol/deepin-espanol.github.io.git` y aceptar.
+
+En la terminal:
 
 ~~~
 git clone https://github.com/deepin-espanol/deepin-espanol.github.io.git
