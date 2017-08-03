@@ -26,8 +26,9 @@ Bienvenidos a tutopost. Esta selección de tutoriales está pensado en colaborad
 
 ## Páginas:
 
-Principiantes: usargithub
-* [Crear y editar post]({{ site.url }}/tutopost/usargithub/).
+Principiantes:
+* [Crear y editar post en la web de Github]({{ site.url }}/tutopost/usargithub/).
+* [Planilla del post]({{ site.url }}/tutopost/plantillapost/).
 
 Conociendo el CMS:
 * [Git y Jekyll]({{ site.url }}/tutopost/gityjekyll/).
