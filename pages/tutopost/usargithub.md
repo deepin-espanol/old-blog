@@ -20,11 +20,9 @@ header:
 </div><!-- /.medium-4.columns -->
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
-{% include alert text='Esta guía no garantía para subir contenidos por ser limitada y en constante cambio.' %}
+{% include alert text='Esta guía no te garantiza subir contenidos con normalidad y podría estar realizando cambios para la interfaz sin previo aviso.' %}
 
-Esta guía sirve para aprovechar la web de Github en lugar de los clientes web.
-
-Pueden usar la capturas de pantalla mostradas a continuación.
+Esta guía sirve para aprovechar la web de Github en lugar de los clientes para PC. Aprovecha las capturas de pantalla para orientarte.
 
 1. Abre la página ["Planilla del post"]({{ site.url }}/tutopost/plantillapost/) o uno de los archivos de la carpeta "draft".
 2. Copia el código a continuación
