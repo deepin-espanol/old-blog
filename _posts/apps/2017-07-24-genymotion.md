@@ -32,4 +32,4 @@ video:
 Genymotion es una aplicación Linux disponible en Deepin Store. De uso comercial, con una versión gratuita para fines personales, puedes preparar la aplicación para ejecutar una versión AOSP del sistema operativo lista para instalar aplicaciones desde apk o Google Play.
 
 
-Fuente: [Canal Peka](https://www.youtube.com/watch?v=4mn4NeYMc9o)
+Fuente: [Diolinux](https://www.youtube.com/channel/UCEf5U1dB5a2e2S-XUlnhxSA)
