@@ -68,8 +68,7 @@ Para evitar complicaciones en ediciones masivas, marca la opción "new brach". E
 
     <div class="medium-4 columns t30">
       <img src="{{ site.urlimg }}ayuda-github-5.png" alt="">
-      <img class="t30" src="{{ site.urlimg }}ayuda-github-5.png" alt="">
-    </div><!-- /.medium-4.columns -->
+    </div><!-- /.medium-8.columns -->
 
 </div><!-- /.row -->
 
