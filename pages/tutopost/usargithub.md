@@ -46,30 +46,31 @@ Para evitar complicaciones en ediciones masivas, marca la opción "new brach". E
 <!--more-->
 
 <div class="row">
-    <div class="medium-4 columns t30">
+    <div class="medium-12 columns t30">
     <img src="{{ site.urlimg }}ayuda-github-1.png" alt="">
     </div><!-- /.medium-4.columns -->
-
-    <div class="medium-4 columns t30">
+</div>
+<div class="row">
+    <div class="medium-12 columns t30">
       <img src="{{ site.urlimg }}ayuda-github-2.png" alt="">
     </div><!-- /.medium-4.columns -->
-
-    <div class="medium-4 columns t30">
+</div>
+<div class="row">
+    <div class="medium-12 columns t30">
       <img src="{{ site.urlimg }}ayuda-github-3.png" alt="">
     </div><!-- /.medium-4.columns -->
-
 </div><!-- /.row -->
 
 
 <div class="row">
-    <div class="medium-6 columns t30">
+    <div class="medium-12 columns t30">
     <img src="{{ site.urlimg }}ayuda-github-4.png" alt="">
     </div><!-- /.medium-6.columns -->
-
-    <div class="medium-6 columns t30">
+</div>
+<div class="row">
+    <div class="medium-12 columns t30">
       <img src="{{ site.urlimg }}ayuda-github-5.png" alt="">
     </div><!-- /.medium-6.columns -->
-
 </div><!-- /.row -->
 
 ## Agradecimientos
