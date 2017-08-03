@@ -3,7 +3,7 @@ layout: page-fullwidth
 title: "Código permitido en posts"
 subheadline: "Ayuda"
 teaser: "El repertorio de opciones que puedes incorporar a las publicación"
-permalink: "/info/doc/"
+permalink: "/tutopost/doc/"
 categories:
   - tutopost
 header:
