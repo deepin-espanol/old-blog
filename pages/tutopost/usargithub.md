@@ -26,15 +26,14 @@ Esta guía sirve para aprovechar la web de Github en lugar de los clientes web.
 
 Pueden usar la capturas de pantalla mostradas a continuación.
 
-1. Selecciona uno de los ejemplos de la carpeta "_drafts"
-2. Al seleccionar, por ejemplo, page_simple.md, haz clic en el lápiz
-3. Copia el código a continuación
-4. Ahora dirígete a "_post" > "noticias
-5. Haz clic en Crear nuevo archivo
-6. Pega el código y rellena los campos como "title"
-7. Establece un nombre tipo "2017-31-12-nombre.md", siendo 2017-31-12 la fecha y nombre, el nombre que le darás a la url
-8. Desplaza la final y añádele una descripción sobre porqué estás añadiendo el post
-9. Pulsa "Commit" y es todo
+1. Abre la página ["Planilla del post"]({{ site.url }}/tutopost/plantillapost/) o uno de los archivos de la carpeta "draft".
+2. Copia el código a continuación
+3. Ahora dirígete a "_post" > "noticias
+4. Haz clic en Crear nuevo archivo
+5. Pega el código y rellena los campos como "title"
+6. Establece un nombre tipo "2017-31-12-nombre.md", siendo 2017-31-12 la fecha y nombre, el nombre que le darás a la url
+7. Desplaza la final y añádele una descripción sobre porqué estás añadiendo el post
+8. Pulsa "Commit" y es todo
 
 Opcional:
 

@@ -68,6 +68,8 @@ Cuando creas un archivo asegúrate que contenga:
 * categories: (como manual, blog, app o tip)
 * tags: (etiqueta)
 
+Más detalles en ["Planilla del post"]({{ site.url }}/tutopost/plantillapost/).
+
 ### Código Markdown
 
 El lenguaje que aplicamos es [Markdown](https://es.wikipedia.org/wiki/Markdown) por ser fácil de aprender, casi lo mismo a una wiki.
