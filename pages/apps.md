@@ -12,7 +12,7 @@ En Deepin comentamos y comprobamos varias aplicaciones. También incluímos [jue
 
 Publicaciones:
 <ul>
-    {% for post in site.categories.manual %}
+    {% for post in site.categories.apps %}
     <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
