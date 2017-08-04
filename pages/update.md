@@ -3,7 +3,7 @@ layout: page-fullwidth
 title: "Actualización"
 subheadline: "Actualiza Deepin fácilmente"
 teaser: "Los pasos más claros para actualizar"
-permalink: "/instalacion/"
+permalink: "/update/"
 header:
    image_fullwidth: "wallpaper.jpg"
 ---
