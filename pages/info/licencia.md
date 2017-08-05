@@ -5,7 +5,7 @@ subheadline: "Ayuda"
 teaser: "Qué puedes compartir en Deepin"
 permalink: "/info/licencia/"
 header:
-   image_fullwidth: "gallery-example-7.jpg"
+   image_fullwidth: "header_unsplash_12.jpg"
 ---
 <div class="row">
 <div class="medium-4 medium-push-8 columns" markdown="1">
