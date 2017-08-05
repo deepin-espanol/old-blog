@@ -5,7 +5,7 @@ subheadline: "Ayuda"
 teaser: "Qué puedes compartir en Deepin"
 permalink: "/info/licencia/"
 header:
-   image_fullwidth: "header_roadmap_2.jpg"
+   image_fullwidth: "gallery-example-7.jpg"
 ---
 <div class="row">
 <div class="medium-4 medium-push-8 columns" markdown="1">
@@ -42,7 +42,7 @@ La licencia aplica a:
 * Imágenes y vídeos publicados oficialmente bajo la marca "Deepin en Español".
 
 ### Licencia
-Los materiales escritos están dualmente licenciado bajo Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License y GNU Free Documentation License versión 1.3. Para efectos prácticos, "CC-BY-NC-SA 4.0 and GFDL 1.3 dual licensing".
+Los materiales escritos están multi-licenciados, bajo Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License y GNU Free Documentation License versión 1.3. Para efectos prácticos, "multilicencia CC-BY-NC-SA 4.0 y GFDL 1.3".
 
 La información legal de las licencias lo encontrarás en los archivos by-nc-sa-4.md y fdl-1.3.md del código fuente en Github.
 
@@ -71,6 +71,8 @@ Para otros materiales que no cubre las licencias de arriba:
 ## Lectura adicional
 
 * [Por qué libre no es gratis](http://www.eldiario.es/turing/software_libre/software_libre-cultura_libre_0_108139816.html).
+* [Estandarización GFDL](https://en.wikipedia.org/wiki/Wikipedia:GFDL_standardization)
+* [Lo que no es GFDL](https://en.wikipedia.org/wiki/Wikipedia:What_the_GFDL_is_not)
 
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
