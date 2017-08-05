@@ -15,6 +15,7 @@ widget1:
   url: 'http://deepin-espanol.github.io/blog/'
   image: widget-1-302x182.jpg
   text: 'Enseñamos y preparamos a aquellos que quie&shy;ren usar el sistema operativo. <em>Deepin en Español</em> ofrece una blog, tutoriales y consejos para todas las necesidades. Si aún tienes nociones básicas sobre computación, te guíaremos.'
+  video: '<a href="#" data-reveal-id="videoModal2"><img src="http://deepin-espanol.github.io/images/widget-1-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget2:
   title: "Did&aacute;ctico"
   url: 'http://deepin-espanol.github.io/info/'
@@ -50,6 +51,12 @@ homepage: true
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
     <iframe width="1280" height="720" src="https://www.youtube.com/embed/P7AdcIifRFY" frameborder="0" allowfullscreen></iframe>
+  </div>
+  <a class="close-reveal-modal">&#215;</a>
+</div>
+<div id="videoModal2" class="reveal-modal large" data-reveal="">
+  <div class="flex-video widescreen vimeo" style="display: block;">
+    <iframe width="1280" height="720" src="https://www.youtube.com/embed/dBAqsfE512g" frameborder="0" allowfullscreen></iframe>
   </div>
   <a class="close-reveal-modal">&#215;</a>
 </div>
