@@ -20,27 +20,43 @@ header:
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 {% include alert text='Las licencias indicadas forma parte de los términos de uso.' %}
 
-En *Comunidad Deepin* queremos compartir el conocimiento a todos los usuarios y difundir mucho más. Eso nos facilita la tarea de ofrecer contenido de alta calidad que publicamos en esta página.
+En *Deepin en español* queremos compartir el conocimiento a todos los usuarios y difundir mucho más. Eso nos facilita la tarea de ofrecer contenido de alta calidad que publicamos en esta página.
 
-Sin embargo, para lidiar a la gente inescrupulosa, tenemos que establecer algunas condiciones al momento de copiar contenido. Si quieres republicar contenido, LEE los siguientes párrafos.
+Si quieres republicar contenido, LEE los siguientes párrafos. Una copia lo encontrarás en LICENSE.
 
-En el código fuente de está pagina, encontrarás una copia en LICENSE
+## ¿Por qué usar licencias libres?
 
-## Escritos en las secciones principales
+La filosofía de la licencia libre está en compartir, comprobar y acreditar un material sea un área literario, artístico o tecnológico para avanzar. Gracias a los medios masivos, las personas pueden conocer y desarrollar con el conocimiento.
 
-Aplican: Manuales, páginas especiales, publicaciones del sitio elaborados por el equipo.
+Sin embargo, mientras que compartir es un derecho, también es un deber. En la vida la libertad no tiene que ser gratis, nadie trabaja para qué sea robada por gente inescrupulosa. Por eso tomamos medidas.
 
-Los materiales escritos están dualmente licenciado bajo Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License y GNU Free Documentation License versión 1.3. Para efectos prácticos, "CC-BY-NC-SA 4.0 and GFDL 1.3 dual licensing". Puedes copiar y distribuir si prestas atención:
+## Contenido original
 
-* Puedes usar la primera licencia. Solo te obligamos a atribuirnos como Comunidad Deepin, enlaces al sitio web y adjuntes la licencia como Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. Dicha licencia es irrevocable y aplica a trabajos derivados (copyleft).
+En esta sección licenciamos los escritos elaborados o donados a *Deepin en Español*.
 
-* En caso que quieras distribuir en editoriales y anuncios comerciales, ya que la primera licencia lo prohíbe, usa la segunda licencia, GFDL. La licencia sigue siendo copyleft incluso si se distribuye en masa y está pensado en editoriales y wikis.
+### Qué cubrimos
+La licencia aplica a:
 
-* La información legal de las licencias lo encontrarás en los archivos by-nc-sa-4.md y fdl-1.3.md del código fuente en Github.
+* Manuales, páginas especiales, publicaciones del sitio elaborados por el equipo.
 
-* Casos especiales: Si el autor quiere, al final del artículo puede indicar que está bajo Creative Commons Attribution-ShareAlike 4.0 International License, que permite su uso comercial (ya que quita lo "NonCommercial"). Encontrarás información legal en by-sa-4.md y al enlazar el sitio web.
+* Imágenes y vídeos publicados oficialmente bajo la marca "Deepin en Español".
 
-### ¿Y lo demás?
+### Licencia
+Los materiales escritos están dualmente licenciado bajo Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License y GNU Free Documentation License versión 1.3. Para efectos prácticos, "CC-BY-NC-SA 4.0 and GFDL 1.3 dual licensing".
+
+La información legal de las licencias lo encontrarás en los archivos by-nc-sa-4.md y fdl-1.3.md del código fuente en Github.
+
+**Casos especiales**: Si el autor quiere, al final del artículo puede indicar que está bajo Creative Commons Attribution-ShareAlike 4.0 International License, que permite su uso comercial (ya que quita lo "NonCommercial"). Encontrarás información legal en by-sa-4.md y al enlazar el sitio web.
+
+### Explicación
+
+* Puedes usar la primera licencia (CC). Solo te obligamos a atribuirnos como Comunidad Deepin, enlaces al sitio web y adjuntes la licencia como Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. Dicha licencia es irrevocable y aplica a trabajos derivados (copyleft).
+
+* En caso que quieras distribuir en editoriales o medios comerciales, ya que la primera licencia lo prohíbe, usa la segunda licencia, GFDL. La licencia sigue siendo copyleft incluso si se distribuye en masa y está pensado en editoriales y wikis.
+
+* La GFDL es compatible con Wikipedia. Si el material es extaído de un material de o similar a Wikipedia, se puede convivir sin problema alguno.
+
+## Material de terceros
 
 Para otros materiales que no cubre las licencias de arriba:
 
@@ -51,6 +67,10 @@ Para otros materiales que no cubre las licencias de arriba:
 * Algunas imágenes de apoyo son de [unplash](http://unsplash.com/) y [pixabay](http://pixabay.com), cuyo uso es gratuito sin regalías. El software de Deepin está bajo [GPLv3 o superior](https://github.com/linuxdeepin/deepin-desktop-base), no aplican fondos de pantalla.
 
 * El código fuente original de la página web es de Feeling Responsive, un tema de Jekyll bajo licencia MIT.
+
+## Lectura adicional
+
+* [Por qué libre no es gratis](http://www.eldiario.es/turing/software_libre/software_libre-cultura_libre_0_108139816.html).
 
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
