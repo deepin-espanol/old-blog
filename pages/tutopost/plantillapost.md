@@ -86,9 +86,7 @@ Cuerpo del texto
 
 ## Agradecimientos
 
-Este editor fue creado para Deepin en Español y está licenciado bajo MIT.
-
-La fuente oficial de Git proviene del [manual de 2014](https://git-scm.com/book/es/v2).
+La plantilla está basada en la [documentación de Jekyll](https://jekyllrb.com/docs/posts/).
 
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
