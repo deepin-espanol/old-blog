@@ -66,7 +66,7 @@ format: frontpage
     <div class="row t30 b20 homepage">
         <div class="small-12 columns">
             {% for post in site.categories.noticias limit:1 %}
-            {% if post.image.homepage %}
+            {% if post.image.homepage in site.categories.noticias %}
             <p>
                 <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="{{ post.title | escape_once }}"><img width="970" src="{{ site.urlimg }}{{ post.image.homepage }}" alt="{{ page.title | escape_once }}"></a>
             </p>
@@ -99,7 +99,7 @@ format: frontpage
 
         <div class="medium-6 columns">
             <p><strong>{{ site.data.language.more_articles }}</strong></p>
-            {% include list-posts entries='3' offset='1' %}
+            {% include list-posts in site.categories.noticias entries='3' offset='1' %}
         </div><!-- /.medium-7.columns -->
     </div><!-- /.row -->
 {% endunless %}
