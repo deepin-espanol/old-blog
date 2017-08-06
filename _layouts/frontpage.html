@@ -99,7 +99,7 @@ format: frontpage
 
         <div class="medium-6 columns">
             <p><strong>{{ site.data.language.more_articles }}</strong></p>
-            {% include list-posts if site.categories.noticias entries='3' offset='1' %}
+            {% include list-posts category='noticias' entries='3' offset='1' %}
         </div><!-- /.medium-7.columns -->
     </div><!-- /.row -->
 {% endunless %}
