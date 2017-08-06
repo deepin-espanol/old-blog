@@ -53,3 +53,5 @@ Si vas actualizar una parte del código debe conservarse como esto:
 {% endunless %}
 ´´´
 Sirve para mostrar las noticias en la página de inicio.
+
+Hay otro en sidebar.html en _includes y la carpeta de imágenes en assets, tampoco modifiques.
