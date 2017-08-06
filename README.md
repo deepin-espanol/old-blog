@@ -28,7 +28,7 @@ Con el fín de hacer una página web más rápida recomedamos aligerar el peso d
 
 Depende. Los materiales escritos están dualmente licenciado bajo Creative Commons Attribution-ShareAlike 4.0 International License y GNU Free Documentation License versión 1.3. Para efectos prácticos, "CC-BY-SA 4.0 and GFDL 1.3 dual licensing". Puedes copiar y distribuir si prestas atención.
 
-* Más detalles en los archivos by-nc-sa-4.md y fdl-1.3.md.
+* Más detalles en los archivos by-sa-4.md y fdl-1.3.md.
 
 * Es posible que el autor ceda usar bajo la licencia  Creative Commons Attribution 4.0 International. Más detalles en el archivo by-4.md.
 
