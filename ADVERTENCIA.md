@@ -1,4 +1,5 @@
-Código modificado: 
+Código modificado en layouts>frontapage
+Si vas actualizar una parte del código debe conservarse como esto: 
 ´´´
 {% comment %}
 *
@@ -51,3 +52,4 @@ Código modificado:
     </div><!-- /.row -->
 {% endunless %}
 ´´´
+Sirve para mostrar las noticias en la página de inicio.
