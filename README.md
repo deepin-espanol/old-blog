@@ -6,19 +6,19 @@ Traducimos los últimos posts del blog oficial de Deepin para hacer este increí
 
 ## Un sitio con los mejores tutoriales
 
-¿Quieres sacar el máximo partido a tu Deepin? Aquí encontraras los mejores tutoriales para hacer de Deepin tu mejor opción frente a otros sistemas operativos. 
-[¡Entra ya!](https://comunidad-deepin.github.io/blog/tips/)
-
+¿Quieres sacar el máximo partido a tu Deepin? Aquí encontraras los mejores tutoriales para hacer de Deepin tu mejor opción frente a otros sistemas operativos. [¡Entra ya!](https://deepin-espanol.github.io/)
 
 ## ¿Tienes algún problema?
 
 Si tienes algún problema que no esté en esta página o necesitas ayuda, no dudes en entrar en nuestro grupo oficial de Telegram:
 [Deepin en Español](https://t.me/deepinenespanol)
 
-## ¿Quieres aprender Markdown?
+## ¿Quieres aprender de los posts?
 
 Para que aprendas a usar Markdown para crear y editar publicaciones, como en la carpeta "posts", sigue el tutorial:
-[Commonmark.org](http://commonmark.org/help/tutorial/) (en inglés)
+[Tutopost](https://deepin-espanol.github.io/tutopost/)
+
+Para expertos: En frontpage.html se añadió una etiqueta "{% unless %}" mostrar solo noticias en lugar de todos los posts.
 
 ## ¿Es posible aligerar el peso de las imágenes?
 
@@ -26,15 +26,11 @@ Con el fín de hacer una página web más rápida recomedamos aligerar el peso d
 
 ## ¿Puedo usar las publicaciones de la comunidad Deepin?
 
-Depende. Los materiales escritos están dualmente licenciado bajo Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License y GNU Free Documentation License versión 1.3. Para efectos prácticos, "CC-BY-NC-SA 4.0 and GFDL 1.3 dual licensing". Puedes copiar y distribuir si prestas atención.
-
-* Puedes usar la primera licencia. Solo te obligamos a atribuirnos como Comunidad Deepin, enlaces al sitio web y adjuntes la licencia como Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. Dicha licencia es irrevocable y aplica a trabajos derivados (copyleft).
-
-* En caso que tengas problemas con Creative Commons, sea por distribución comercial, usa la segunda licencia, GFDL. La licencia sigue siendo copyleft incluso si se distribuye en masa.
+Depende. Los materiales escritos están dualmente licenciado bajo Creative Commons Attribution-ShareAlike 4.0 International License y GNU Free Documentation License versión 1.3. Para efectos prácticos, "CC-BY-SA 4.0 and GFDL 1.3 dual licensing". Puedes copiar y distribuir si prestas atención.
 
 * Más detalles en los archivos by-nc-sa-4.md y fdl-1.3.md.
 
-* Es posible que el autor ceda usar bajo la licencia  Creative Commons Attribution-ShareAlike 4.0 International. Más detalles en el archivo by-sa-4.md.
+* Es posible que el autor ceda usar bajo la licencia  Creative Commons Attribution 4.0 International. Más detalles en el archivo by-4.md.
 
 ### ¿Y lo demás?
 

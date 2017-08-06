@@ -45,5 +45,7 @@ Este editor fue creado para Deepin en Español y está licenciado bajo MIT.
 
 La fuente oficial de Git proviene del [manual de 2014](https://git-scm.com/book/es/v2).
 
+Algunos tutoriales sobre Markdown lo encontrarás [Commonmark.org](http://commonmark.org/help/tutorial/) (en inglés)
+
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->

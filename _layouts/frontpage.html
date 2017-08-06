@@ -55,11 +55,14 @@ format: frontpage
 
 {% comment %}
 *
+* EDITADO PARA MOSTRAR PUBLICACIONES DESTACADAS
+* Usando incluirhome
 * First check, if there are any posts at all
 *
 {% endcomment %}
 
 {% unless site.posts == empty %}
+{% unless post.categories contains 'noticias' %} 
     <div class="row t30 b20 homepage">
         <div class="small-12 columns">
             {% for post in site.posts limit:1 %}
@@ -100,7 +103,7 @@ format: frontpage
         </div><!-- /.medium-7.columns -->
     </div><!-- /.row -->
 {% endunless %}
-
+{% endunless %}
 
 {% comment %}
 *
