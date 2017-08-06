@@ -62,7 +62,7 @@ format: frontpage
 {% endcomment %}
 
 {% unless site.posts == empty %}
-{% unless post.categories contains 'noticias' %} 
+  {% unless posts.category == "noticias" %} 
     <div class="row t30 b20 homepage">
         <div class="small-12 columns">
             {% for post in site.posts limit:1 %}
@@ -102,7 +102,7 @@ format: frontpage
             {% include list-posts entries='3' offset='1' %}
         </div><!-- /.medium-7.columns -->
     </div><!-- /.row -->
-{% endunless %}
+  {% endunless %}
 {% endunless %}
 
 {% comment %}
