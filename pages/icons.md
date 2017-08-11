@@ -8,7 +8,7 @@ header:
     image_fullwidth: "header_drop.jpg"
 ---
 
-La lista de iconos está aquí. Son aplicaciones etiquetados como "iconos".
+La lista de iconos está aquí. Son aplicaciones etiquetadas como "iconos".
 
 <ul>
     {% for post in site.tags.iconos %}

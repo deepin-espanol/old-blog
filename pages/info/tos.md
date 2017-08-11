@@ -18,7 +18,7 @@ header:
 </div><!-- /.medium-4.columns -->
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
-{% include alert text='Actualizado el 31 de julio de 2017. Es posible que sufran algunos cambios para casos específicos.' %}
+{% include alert text='Actualizado el 10 de agosto de 2017. Es posible que sufran algunos cambios para casos específicos y avisaremos en la sección "Noticias".' %}
 
 ## Nuestro compromiso
 
@@ -64,7 +64,7 @@ En caso que quieras aportar alguna publicación los administradores velarán que
 
 ### Responsabilidad de los derechos de autor
 
-Las redacciones de solo texto son licenciadas por defecto bajo [Creative Commons Attribution-NonCommercial-ShareAlike](https://creativecommons.org/licenses/by-nc-sa/4.0/) y [GNU Free Documentation License](https://www.gnu.org/copyleft/fdl.html).
+Las redacciones de solo texto son licenciadas por defecto bajo [Creative Commons Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/4.0/) y [GNU Free Documentation License](https://www.gnu.org/copyleft/fdl.html).
 
 Para más detalles, adjuntamos [el archivo "Licencia"]({{ site.url }}/info/licencia).
 
@@ -90,11 +90,11 @@ Para mayor información acerca del funcionamiento en el navegador web, visita [a
 
 ## Limitaciones legales
 
-El contenido desarrollado por la comunidad no tiene una cláusula de garantía debido a la naturaleza gratuita de cooperar. Los administradores no se harán responsables (ya sea bajo la ley contractual, la ley de responsabilidad o cualquier otra) frente a:
+El contenido desarrollado por la comunidad no tiene una cláusula de garantía debido a la naturaleza gratuita de cooperar. Los administradores no se harán responsables frente a:
 
-* Las actividades maliciosas ajenos a la página principal
-* La pérdida directa, especial o consecuencial elaborada fuera de las actividades oficiales de la comunidad; o
-* Cualquier pérdida económica, representativa o utilitaria de las aplicaciones, juegos o similares que provee el colaborador.
+* Las actividades maliciosas ajenas a la página del proyecto.
+* Pérdidas materiales o económicas realizadas por la comunidad sin ser probadas ni revisadas con antelación; o
+* Las acciones que podrían incitar a las actividades ilegales. En caso que ocurra, la comunidad no estará involucrada y cualquier pérdida del demandante correrá directamente al individuo responsables.
 
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
