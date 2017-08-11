@@ -40,7 +40,7 @@ Pueds instalar con la versión Manjaro Deepin, hecha por la comunidad. [Detalles
 
 ## Deepin no trae juegos propios
 
-Echa un vistazo en [Juegos para Deepin]({{ site.url }}/manual/juegos/). Lo puedes conseguir en la Deepin Store o Steam.
+Echa un vistazo en [Juegos para Deepin]({{ site.url }}/games/). Lo puedes conseguir en la Deepin Store o Steam.
 
 ## La terminal es muy complicada, solo saben los hackers
 
