@@ -2,7 +2,7 @@
 layout: video
 title: "Genymotion"
 subheadline: "Aplicaciones"
-teaser: "Casi emulador para ejecutar aplicaciones de Android, para uso personal."
+teaser: "Casi emulador para ejecutar aplicaciones de Android, para uso personal"
 tags:
     - android
     - genymotion

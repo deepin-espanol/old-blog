@@ -52,6 +52,10 @@ Es falso, la terminal es el equivalente al "Símbolo de sistema" en Windows. Pue
 
 Sabemos que existen aplicaciones como CCleaner. En este caso tienes a [BleachBit]({{ site.url }}/apps/bleachbit/) disponible en Deepin Store.
 
+## Recuperar a estado de fábrica es larguísimo
+
+Intenta usar [Resetter]({{ site.url }}/apps/resetter/).
+
 ## Gimp no es mejor que Photoshop
 
 Hasta que Adobe se dedique a explorar otras formas, puedes usar la versión web de Photoshop o usar su versión para Android [Photoshop Fix](https://play.google.com/store/apps/details?id=com.adobe.adobephotoshopfix), requiere [Genymotion]({{ site.url }}/apps/genymotion/).
