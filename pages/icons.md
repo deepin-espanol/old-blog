@@ -8,4 +8,10 @@ header:
     image_fullwidth: "header_drop.jpg"
 ---
 
-La lista de iconos está aquí
+La lista de iconos está aquí. Son aplicaciones etiquetados como "iconos".
+
+<ul>
+    {% for post in site.tags.iconos %}
+    <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+</ul>
