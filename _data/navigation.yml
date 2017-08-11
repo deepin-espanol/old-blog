@@ -53,3 +53,5 @@
     url: "/tutopost/"
   - title: "Contacto"
     url: "/info/contact/"
+  - title: "Quejas frecuentes"
+    url: "/info/quejas/"
