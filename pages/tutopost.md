@@ -28,9 +28,12 @@ Si quieres aportar, debes seguir una ruta de aprendizaje. La mejor forma es segu
 
 ## Tutoriales para principiantes
 
+¿Quieres añadir un post a la página web? Ten en cuenta que no es Wordpress o Blogger. Basta que sigas un patrón para que sea mostrada en la web.
+
 * [Añadir y editar post desde la web de Github]({{ site.url }}/tutopost/usargithub/).
 * [Plantilla de una publicación]({{ site.url }}/tutopost/plantillapost/).
 
+Si tienes una publicación pero no quieres subir a Github, visita la sección "Contacto".
 
 ## Tutoriales para avanzados
 CMS:
