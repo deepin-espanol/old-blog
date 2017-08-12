@@ -26,8 +26,8 @@ Desarrollamos esta página bajo [jekyll](http://jekyll.org/), [backstrech](http:
 ## Páginas de apoyo
 Para los iniados en Git/Jekyll te presentamos un [microtutorial para realizar artículos en el blog]({{ site.url }}/info/tutopost/)).
 
-Para aprovechar markdown visita [Mediaelement]({{ site.url }}/info/mediaelement/)) y [Tipografía]({{ site.url }}/info/tipografia/)).
+Para aprovechar markdown visita [Mediaelement]({{ site.url }}/tutopost/mediaelement/) y [Tipografía]({{ site.url }}/tutopost/tipografia/).
 
 Estamos en redes sociales. Tenemos una página con [los términos y condiciones del sitio]({{ site.url }}/info/tos/).
 
-Si tienes alguna queja, elaboramos una [página con los argumentos más frecuentes para debatirlo]({{ site.url }}/info/argumentos/).
+Si tienes alguna queja, elaboramos una [página con los argumentos más frecuentes para debatirlo]({{ site.url }}/info/quejas/).

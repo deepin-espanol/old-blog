@@ -14,7 +14,7 @@ widget1:
   title: "Instructivo"
   url: 'https://deepin-espanol.github.io/blog/'
   image: widget-1-302x182.jpg
-  text: 'Llevamos el conocimiento para conocer y dominar nuestro software. <em>Deepin en Español</em> ofrece un blog de noticias, serie de tutoriales y listados de aplicaciones.'
+  text: 'Llevamos el conocimiento para conocer y dominar nuestro software. <em>Deepin en Español</em> ofrece una guía de instalación, serie de tutoriales y listados de aplicaciones. Además, añadimos un blog de noticias para estar al tanto de los últimos lanzamientos.'
   video: '<a href="#" data-reveal-id="videoModal2"><img src="https://deepin-espanol.github.io/images/widget-1-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget2:
   title: "Did&aacute;ctico"
