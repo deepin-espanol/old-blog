@@ -14,12 +14,12 @@ widget1:
   title: "Instructivo"
   url: 'https://deepin-espanol.github.io/blog/'
   image: widget-1-302x182.jpg
-  text: 'Enseñamos y preparamos a aquellos que quie&shy;ren usar el sistema operativo. <em>Deepin en Español</em> ofrece una blog, tutoriales y consejos para todas las necesidades. Si aún tienes nociones básicas sobre computación, te guíaremos.'
+  text: 'Llevamos el conocimiento para conocer y dominar nuestro software. <em>Deepin en Español</em> ofrece un blog de noticias, serie de tutoriales y listados de aplicaciones.
   video: '<a href="#" data-reveal-id="videoModal2"><img src="https://deepin-espanol.github.io/images/widget-1-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget2:
   title: "Did&aacute;ctico"
   url: 'https://deepin-espanol.github.io/info/'
-  text: 'En <em>Deepin en Español</em> incluímos:<br/>1. Imágenes de alta calidad.<br/>2. Vídeos en alta resolución.<br/>3. Compatible con dispositivos móviles.<br/>4. Fáciles de editar con <a href="http://commonmark.org/help/tutorial/">Markdown</a>.<br/>5. Y otras más...'
+  text: 'En <em>Deepin en Español</em> nos comprometemos:<br/>1. Contenido enriquecido.<br/>2. Ilustraciones y vídeos.<br/>3. Multiplataforma.<br/>4. <a href="{{ site.baseurl }}/tutopost/">Publicaciones colaborativas</a>.<br/>5. Y otras más...'
   video: '<a href="#" data-reveal-id="videoModal"><img src="https://deepin-espanol.github.io/images/widget-2-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Rec&iacute;proco"

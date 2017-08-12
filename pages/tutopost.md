@@ -22,15 +22,18 @@ header:
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 {% include alert text='Actualizado el 2 de agosto de 2017. Es posible que sufran algunos cambios para casos específicos.' %}
 
-Bienvenidos a tutopost. Esta selección de tutoriales está pensado en colaboradores de nuevos artículos y material para Deepin en Español.
+Bienvenidos a Tutopost, ¡el taller que la comunidad puede agregar contenido! Esta selección de tutoriales ayuda a los nuevos colaboradores a añadir contenidos y materiales para Deepin en Español.
 
-## Páginas:
+Si quieres aportar, debes seguir una ruta de aprendizaje. La mejor forma es seguir lo más básico como añadir publicaciones desde el sitio web.
 
-Principiantes:
-* [Crear y editar post en la web de Github]({{ site.url }}/tutopost/usargithub/).
-* [Planilla del post]({{ site.url }}/tutopost/plantillapost/).
+## Tutoriales para principiantes
 
-Conociendo el CMS:
+* [Añadir y editar post desde la web de Github]({{ site.url }}/tutopost/usargithub/).
+* [Plantilla de una publicación]({{ site.url }}/tutopost/plantillapost/).
+
+
+## Tutoriales para avanzados
+CMS:
 * [Git y Jekyll]({{ site.url }}/tutopost/gityjekyll/).
 * [Cómo hacer y publicar un posts]({{ site.url }}/tutopost/crearpost/).
 
