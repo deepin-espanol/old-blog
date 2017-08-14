@@ -31,7 +31,7 @@ baseurl: '/'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/deepin-espanol/deepin-espanol.github.io/blob/master/
+improve_content: https://github.com/deepin-espanol/deepin-espanol.github.io/edit/gh-pages/
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -144,7 +144,7 @@ defaults:
 #   ___/ / /___/ /_/ /
 #  /____/_____/\____/    Verify Website to Webmaster Tools
 
-google_author:             'https://plus.google.com/u/0/106731706454776586722'
+ google_author:             'https://plus.google.com/u/0/106731706454776586722'
 # google_site_verification:  ' '
 # bing_webmastertools_id:    ' '
 # yandex_site_verification:  ''

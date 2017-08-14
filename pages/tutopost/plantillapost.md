@@ -20,12 +20,14 @@ header:
 </div><!-- /.medium-4.columns -->
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
-Cuando quieras crear un post, debes asegurarte en rellenar los siguientes campos. Es posible que no sean todos.
+Si es tu primera vez que crearás un post, no te será complicado.
+
+Cuando quieras crear un post, que lo llamaremos "Hola mundo", debes asegurarte en rellenar los siguientes campos. Es posible que no sean todos.
 
 Está página es un complemento de la ayuda ["Cómo crear un post"]({{ site.url }}/tutopost/crearpost/).
 
 ## Estructura de un post
-Asgúrate que la página tenga esta estructura
+Al crear un archivo .md basta copiar y pegar el siguiente código. Después modifícala a tu gusto.
 
 ~~~
 ---
@@ -33,23 +35,17 @@ layout: page
 #
 # Contenido
 #
-title: "Título"
+title: "Hola mundo"
 subheadline: "Subtítulo"
 teaser: "Descripción"
 meta_description: "Palabras claves"
 categories:
-  - cat
+  - tutoriales
 tags:
-  - tag
+  - mitag
 #
 # Estilo
 #
-image:
-  header: ""
-  thumb: ""
-  homepage: ""
-  caption: ""
-  url: ""
 ---
 Cuerpo del texto
 ~~~
@@ -62,14 +58,14 @@ layout: page
 #
 # Contenido
 #
-title: "Título"
+title: "Hola mundo"
 subheadline: "Subtítulo"
 teaser: "Descripción"
 meta_description: "Palabras claves"
 categories:
-  - cat
+  - tutoriales
 tags:
-  - tag
+  - mitag
 #
 # Estilo
 #
