@@ -1,4 +1,12 @@
-Código modificado en layouts>frontapage
+# Advertencias de uso en la página Deepin en español.
+Si te acostumbras a crear y editar posts, no es necesario que leas está página. Solo los administradores que están actualizando Jekyll deberán leer estas notas.
+
+## Qué hemos modificado
+
+Las diferencias con el tema de Jekyll Feeling Responsive son varias y están relacionados con la estética.
+
+### Código modificado en layouts>frontapage
+
 Si vas actualizar una parte del código debe conservarse como esto: 
 ´´´
 {% comment %}
@@ -54,4 +62,9 @@ Si vas actualizar una parte del código debe conservarse como esto:
 ´´´
 Sirve para mostrar las noticias en la página de inicio.
 
+### Otros detalles
 Hay otro en sidebar.html en _includes y la carpeta de imágenes en assets, tampoco modifiques.
+
+### Imágenes
+
+Con el fín de hacer una página web más rápida recomedamos aligerar el peso de las imágenes sin sacrificar calidad. Ejemplos en la web son [tinypng](https://tinypng.com/) y [JPEGMini](http://www.jpegmini.com/main/shrink_photo).

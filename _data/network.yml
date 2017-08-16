@@ -15,7 +15,7 @@
   class: "sitemap-link"
   title: "Archivos de Deepin por la comunidad"
 
-- name: "Grupo en Transifex"
-  url: "https://www.transifex.com/linuxdeepin/"
+- name: "Grupo en Facebook"
+  url: "https://www.facebook.com/groups/deepingrupoes/"
   class: "sitemap-link"
-  title: "Ayúdanos en la traducción"
+  title: "Otra forma de colaborar, si deseas"

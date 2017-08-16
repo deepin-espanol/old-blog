@@ -12,6 +12,6 @@
   url: "/atom.xml"
   title: "Subscríbete al feed Atom"
 
-- name: "sitemap.xml"
-  url: "/sitemap.xml"
-  title: "Mapa de sitio para Google Webmaster Tools"
+- name: "Traducción"
+  url: "https://www.transifex.com/linuxdeepin/"
+  title: "Equipo de traducción para aplicaciones Deepin"

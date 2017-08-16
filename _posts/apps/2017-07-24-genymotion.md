@@ -9,7 +9,7 @@ tags:
     - apk
 categories:
     - apps
-iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/-5FLdwLE7KY' frameborder='0' allowfullscreen></iframe>"
+iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/5ldLEtj_4MA' frameborder='0' allowfullscreen></iframe>"
 #
 # These video settings are totally optional. It's only purpose
 # is SEO, so that videos show up in Google hopefully with a 
@@ -21,9 +21,9 @@ iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/-5FLdwLE7
 # thumbnailUrl – A URL pointing to the video thumbnail image file.
 #
 video:
-    embedURL: "https://www.youtube.com/embed/-5FLdwLE7KY"
-    contentURL: "https://www.youtube.com/watch?v=-5FLdwLE7KY"
-    thumbnailUrl: "http://img.youtube.com/vi/-5FLdwLE7KY/maxresdefault.jpg"
+    embedURL: "https://www.youtube.com/embed/5ldLEtj_4MA"
+    contentURL: "https://www.youtube.com/watch?v=5ldLEtj_4MA"
+    thumbnailUrl: "http://img.youtube.com/vi/5ldLEtj_4MA/maxresdefault.jpg"
 ---
 <!--more-->
 
@@ -32,4 +32,4 @@ video:
 Genymotion es una aplicación Linux disponible en Deepin Store. De uso comercial, con una versión gratuita para fines personales, puedes preparar la aplicación para ejecutar una versión AOSP del sistema operativo lista para instalar aplicaciones desde apk o Google Play.
 
 
-Fuente: [Diolinux](https://www.youtube.com/channel/UCEf5U1dB5a2e2S-XUlnhxSA)
+Fuente: [Diolinux](https://www.youtube.com/channel/UCEf5U1dB5a2e2S-XUlnhxSA) y [GNU/Lukas Games](https://www.youtube.com/channel/UCwd8wdkJzugZ4brmU-mefKQ)

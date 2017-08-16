@@ -75,7 +75,7 @@ exclude:
     - LICENSE
     - README.md
     - ADVETENCIA.md
-    - INSTALL.md
+    - AYUDAPOST.md
     
 exclude_paths:
     - "licenses/"

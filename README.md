@@ -17,10 +17,6 @@ Si tienes algún problema que no esté en esta página o necesitas ayuda, no dud
 
 Deepin en Español tiene un peculiar modo de gestionar las publicaciones. Sin más, visita [cómo añadir archivos en Github](https://deepin-espanol.github.io/tutopost/usargithub) o la recopilación [Tutopost](https://deepin-espanol.github.io/tutopost/).
 
-## ¿Es posible aligerar el peso de las imágenes?
-
-Con el fín de hacer una página web más rápida recomedamos aligerar el peso de las imágenes sin sacrificar calidad. Ejemplos en la web son [tinypng](https://tinypng.com/) y [JPEGMini](http://www.jpegmini.com/main/shrink_photo).
-
 ## ¿Puedo usar las publicaciones de la comunidad Deepin?
 
 Está página está multilicenciada:
