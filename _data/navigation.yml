@@ -2,23 +2,18 @@
   url: "/"
   side: left
 
-- title: Instalación
-  url: "/instalacion/"
+- title: Sistema operativo
+  url: ""
   side: left
   dropdown:
+  - title: "Instalación"
+    url: "/instalacion/"
   - title: "Actualización"
     url: "/update/"
   - title: "Código fuente"
     url: "/source/"
-
-- title: Novedades
-  url: "/novedades/"
-  side: left
-  dropdown:
   - title: "Avances"
     url: "/changelog/"
-  - title: "Hoja de ruta"
-    url: "/roadmap/"
 
 - title: "Aplicaciones"
   url: "/apps/"
@@ -57,3 +52,5 @@
     url: "/info/contact/"
   - title: "Quejas frecuentes"
     url: "/info/quejas/"
+  - title: "Hoja de ruta"
+    url: "/roadmap/"
