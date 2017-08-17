@@ -3,7 +3,7 @@
   side: left
 
 - title: Sistema operativo
-  url: ""
+  url: "/so/"
   side: left
   dropdown:
   - title: "Instalación"
