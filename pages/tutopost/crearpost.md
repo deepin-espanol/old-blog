@@ -24,7 +24,7 @@ header:
 
 ## Qué es git y Jekyll
 
-Los detalles puedes encontrar en [esta página]({{ site.url }}/tutopost/gityjekyll/).
+Los detalles puedes encontrar en [esta página]({{ site.url }}/tutopost/git/).
 
 ## Primero: Descarga la copia
 
