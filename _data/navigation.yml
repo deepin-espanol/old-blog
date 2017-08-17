@@ -8,6 +8,8 @@
   dropdown:
   - title: "Actualización"
     url: "/update/"
+  - title: "Código fuente"
+    url: "/source/"
 
 - title: Novedades
   url: "/novedades/"
