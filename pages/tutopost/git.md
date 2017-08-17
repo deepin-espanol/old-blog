@@ -1,0 +1,66 @@
+---
+layout: page-fullwidth
+title: "Git"
+subheadline: "Ayuda"
+teaser: "Aprendiendo de Git, ¿por qué usamos este sistema de revisión?"
+permalink: "/tutopost/git/"
+categories:
+  - tutopost
+header:
+   image_fullwidth: "edition.jpg"
+---
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1">
+<div class="panel radius" markdown="1">
+**Índice**
+{: #toc }
+*  TOC
+{:toc}
+</div>
+</div><!-- /.medium-4.columns -->
+
+<div class="medium-8 medium-pull-4 columns" markdown="1">
+{% include alert text='Actualizado el 31 de julio de 2017. Es posible que sufran algunos cambios para casos específicos.' %}
+
+## Qué es git
+
+Imagínate que es similar a Wikipedia. [Git](https://es.wikipedia.org/wiki/Git) es un sistema de control de versiones creado por Linus Torvalds. Los cambios principales están desarrollados en una rama llamada "master" que se puede bifurcar a otras menores para realizar cambios y revisarlos antes de aplicar a la principal.
+
+## Qué son las órdenes en git
+
+En git, usamos órdenes para actualizar el código fuente (en este caso, la página web) como :
+* **fetch** para descargar la última versión en línea.
+* **commit** para nombrar el parche **push** para subir el parche.
+* **revert** para deshacer al anterior parche.
+
+En caso de ramificaciones, que permite realizar ediciones en paralelo antes de aplicar al principal (o master):
+* **merge [nombre de rama]** para aplicar los parches de la rama temporal a la principal
+* **pull** para ejecutar descargar los últimos parches y aplicar los tuyos o los parches de la rama temporal
+
+Nos enfocaremos en los dos primeros de la lista.
+
+### Porqué usamos Git
+
+* Trabajo colaborativo, no importa la cantidad de editores
+* Fácil descarga usando el archivo git
+* Mudable, entre Github, Gitlab y otros
+* Cada edición (**parche**) es registrada y se puede revertir
+* No es necesario subir todo el contenido, solo las modificaciones
+* El código se puede compartir si necesita
+* El código fuente puede ejecutarse directamente
+* No necesita base de datos SQL
+* A diferencia de FTP o SFTP, el flujo de trabajo es más estable
+* Accesible para todos los equipos, basta usar un cliente Git
+
+## Disponibilidad
+
+La mayoría de órdenes son de la terminal; no obstante, te recomendamos usar aplicaciones con interfaz gráfica como [Git Cola](https://git-cola.github.io/) o similares desde Deepin Store.
+
+## Agradecimientos
+
+Este editor fue creado para Deepin en Español y está licenciado bajo MIT.
+
+La fuente oficial de Git proviene del [manual de 2014](https://git-scm.com/book/es/v2). Las razones para usar Git vienen de [CoffeDevs](https://blog.coffeedevs.com/8-razones-para-usar-git/)
+
+</div><!-- /.medium-8.columns -->
+</div><!-- /.row -->
