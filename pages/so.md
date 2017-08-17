@@ -2,7 +2,7 @@
 layout: page
 title: "Sobre el sistema operativo"
 subheadline: "Ayuda"
-teaser: "Sobre el sistema operativo"
+teaser: "Páginas relacionadas al sistema operativo"
 permalink: "/so/"
 categories:
   - tutopost
