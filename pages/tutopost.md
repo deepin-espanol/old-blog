@@ -49,7 +49,8 @@ CMS:
 
 Extras y capacidades extras:
 * [Mediaelement]({{ site.url }}/tutopost/mediaelement/).
-* [Códigos permitidos en Markdown]({{ site.url }}/tutopost/doc/).
+* [Códigos de encabezado]({{ site.url }}/tutopost/doc/).
+* [Códigos Markdown complementarios]({{ site.url }}/tutopost/extra/).
 * [Tipografía permitida]({{ site.url }}/tutopost/tipografia/).
 
 ## Agradecimientos

@@ -4,7 +4,7 @@ layout: page
 # Content
 #
 subheadline: "Tip"
-title: "Cifar mis documentos"
+title: "Cifrar mis documentos"
 teaser: "La forma más práctica"
 categories:
   - tips
@@ -15,33 +15,38 @@ tags:
 
 {% include alert warning='Si desconoces los pasos de la terminal, pide ayuda a un experto de la materia en el grupo que prefieras.' %}
 
-Para cifrar tus documentos, te ofrecemos los siguientes pasos:
+Existen formas de crear una carpeta para cifrar tus documentos. Estarás más o menos a salvo de intrusos incluyendo un código para que accedas desde otra distro compatible. Te ofrecemos los siguientes pasos:
 
 ## Requisitos
 
-* Instala el paquete:
+* Debes tener el paquete ecryptfs-utils. Desde la termina puedes instalar:
 {% include alert terminal='sudo apt-get install ecryptfs-utils' %}
 
-* Guarda tus documentos (Home) en otra unidad de disco USB para que la carga sea menor.
+* Necesitarás espacio para que copie la carpeta "Home". Para reducir la carga, mueve tus documentos (Home) en otra unidad de disco USB.
+
+* Esta función no planea cifrar el disco duro para no limitar el rendimiento y arranque del equipo. No obstante, puede consumir un poco de memoria RAM y CPU.
 
 ## Procedimiento
 
-* Carga el módulo
+1. Carga el módulo, que se añadirá en la lista de arranque
 
 {% include alert terminal='sudo modprobe ecryptfs' %}
 
-* Crea una nueva cuenta de usuario temporal. Desde el centro de control>Cuentas
-* Cierra sesión en tu cuenta (recuerda el nombre) e inicia en la otra
+2. Crea una nueva cuenta de usuario temporal. Desde el ´centro de control>Cuentas´
+3. Cierra sesión en tu cuenta (recuerda el nombre) e inicia en la otra
 
-* Ejecuta desde la terminal, siendo username el nombre de usuario
+4. Ejecuta desde la terminal, siendo username el nombre de usuario
 
 {% include alert terminal='ecryptfs-migrate-home -u username
 ' %}
 
-* Una vez que está cifrado la carpeta documentos, ejecuta ´ecryptfs-unwrap-passphrase´ para conseguir la clave de recuperación.
-* Es todo, sal y elimina la cuenta de usuario temporal 
-* Reinicia el equipo
-* Ahora está listo
+5. Una vez que está cifrado la carpeta documentos, ejecuta ´ecryptfs-unwrap-passphrase´ para conseguir la clave de recuperación.
+6. Además tienes una carpeta Home con los archivos sin cifrar. Si deseas muévelo o bórralo
+7. Reinicia el equipo
+8. Inicia sesión con la cuenta de usuario habitual y elimina la temporal
+9. Ahora está listo para usar
+
+Nota: Otro método es realizar sin abrir el entorno de escritorio en lugar de crear una cuenta de usuario temporal.
 
 ### Crédito
 
