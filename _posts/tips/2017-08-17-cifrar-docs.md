@@ -34,6 +34,7 @@ Para cifrar tus documentos, te ofrecemos los siguientes pasos:
 * Cierra sesión en tu cuenta (recuerda el nombre) e inicia en la otra
 
 * Ejecuta desde la terminal, siendo <username> el nombre de usuario
+
 {% include alert terminal='ecryptfs-migrate-home -u <username>
 ' %}
 
