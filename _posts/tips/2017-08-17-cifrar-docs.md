@@ -32,9 +32,8 @@ Existen formas de crear una carpeta para cifrar tus documentos. Estarás más o 
 
 {% include alert terminal='sudo modprobe ecryptfs' %}
 
-2. Crea una nueva cuenta de usuario temporal. Desde el ´centro de control>Cuentas´
+2. Crea una nueva cuenta de usuario temporal. Desde el "Centro de control>Cuentas"
 3. Cierra sesión en tu cuenta (recuerda el nombre) e inicia en la otra
-
 4. Ejecuta desde la terminal, siendo username el nombre de usuario
 
 {% include alert terminal='ecryptfs-migrate-home -u username
@@ -48,6 +47,9 @@ Existen formas de crear una carpeta para cifrar tus documentos. Estarás más o 
 
 Nota: Otro método es realizar sin abrir el entorno de escritorio en lugar de crear una cuenta de usuario temporal.
 
+Nota 2: También puedes cifrar la partición SWAP con sudo apt-get install cryptsetup y sudo ecryptfs-setup-swap. No recomendamos seguir esta opción porque podría interfierir el rendimiento de la memoria RAM:
+
 ### Crédito
 
 * [Wiki de Debian](https://wiki.debian.org/TransparentEncryptionForHomeFolder)
+* [Página web de eCryptfs](http://ecryptfs.org)
