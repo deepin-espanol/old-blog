@@ -33,9 +33,9 @@ Para cifrar tus documentos, te ofrecemos los siguientes pasos:
 * Crea una nueva cuenta de usuario temporal. Desde el centro de control>Cuentas
 * Cierra sesión en tu cuenta (recuerda el nombre) e inicia en la otra
 
-* Ejecuta desde la terminal, siendo <username> el nombre de usuario
+* Ejecuta desde la terminal, siendo username el nombre de usuario
 
-{% include alert terminal='ecryptfs-migrate-home -u <username>
+{% include alert terminal='ecryptfs-migrate-home -u username
 ' %}
 
 * Una vez que está cifrado la carpeta documentos, ejecuta ´ecryptfs-unwrap-passphrase´ para conseguir la clave de recuperación.
