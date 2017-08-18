@@ -67,4 +67,4 @@ Hay otro en sidebar.html en _includes y la carpeta de imágenes en assets, tampo
 
 ### Imágenes
 
-Con el fín de hacer una página web más rápida recomedamos aligerar el peso de las imágenes sin sacrificar calidad. Ejemplos en la web son [tinypng](https://tinypng.com/) y [JPEGMini](http://www.jpegmini.com/main/shrink_photo).
+Con el fin de hacer una página web más rápida recomendamos aligerar el peso de las imágenes sin sacrificar calidad. Ejemplos en la web son [tinypng](https://tinypng.com/) y [JPEGMini](http://www.jpegmini.com/main/shrink_photo).
