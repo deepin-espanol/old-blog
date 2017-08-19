@@ -74,7 +74,7 @@ Con foundation los vídeos adaptables al tamaño (flexible) son fáciles. [More 
         <iframe width="1280" height="720" src="//www.youtube.com/embed/WoHxoz_0ykI" frameborder="0" allowfullscreen></iframe>
 </div>
 
-### Code to use for flexible videos
+### Código para usar vídeos flexibles
 
 {% highlight html %}
 <div class="flex-video">

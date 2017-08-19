@@ -28,26 +28,28 @@ Existen formas de crear una carpeta para cifrar tus documentos. Estarás más o 
 
 ## Procedimiento
 
-1. Carga el módulo, que se añadirá en la lista de arranque
+1. Carga el módulo, que se añadirá en la lista de arranque;
 
 {% include alert terminal='sudo modprobe ecryptfs' %}
 
-2. Crea una nueva cuenta de usuario temporal. Desde el "Centro de control>Cuentas"
-3. Cierra sesión en tu cuenta (recuerda el nombre) e inicia en la otra
-4. Ejecuta desde la terminal, siendo username el nombre de usuario
+2. Cierra sesión e inicia desde la [terminal virtual]({{ site.url }}/tty/);
+3. Ejecuta desde la terminal, siendo username el nombre de usuario;
 
-{% include alert terminal='ecryptfs-migrate-home -u username
+{% include alert terminal='sudo ecryptfs-migrate-home -u username
 ' %}
 
-5. Una vez que está cifrado la carpeta documentos, ejecuta ´ecryptfs-unwrap-passphrase´ para conseguir la clave de recuperación.
-6. Además tienes una carpeta Home con los archivos sin cifrar. Si deseas muévelo o bórralo
-7. Reinicia el equipo
-8. Inicia sesión con la cuenta de usuario habitual y elimina la temporal
-9. Ahora está listo para usar
+4. Una vez que está cifrado la carpeta documentos, ejecuta ´ecryptfs-unwrap-passphrase´ para conseguir la clave de recuperación y guardarlo en caso que sea necesario;
+5. Reinicia el equipo o escribiendo el comando "sudo reboot";
+6. Cuando abras el gestor de archivos tendrás dos carpetas Home, la que estás usando y una copia sin cifrar, si deseas muévelo o bórralo;
+7. Ahora está listo para usar
 
-Nota: Otro método es realizar sin abrir el entorno de escritorio en lugar de crear una cuenta de usuario temporal.
+### Notas aclaratorias
 
-Nota 2: También puedes cifrar la partición SWAP con sudo apt-get install cryptsetup y sudo ecryptfs-setup-swap. No recomendamos seguir esta opción porque podría interfierir el rendimiento de la memoria RAM:
+* Otro método es realizar este proceso es tener una cuenta temporal.
+	- Créala desde el "Centro de control>Cuentas"
+	- Abre la terminal desde la cuenta temporal y borra dicha cuenta cuando finalices al 100%
+
+* También puedes cifrar la partición SWAP con "sudo apt-get install cryptsetup" y "sudo ecryptfs-setup-swap". No recomendamos seguir esta opción porque podría interfierir el rendimiento de la memoria RAM:
 
 ### Crédito
 
