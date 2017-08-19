@@ -22,3 +22,5 @@ Estas son las páginas acerca del sistema operativo Deepin:
 Deepin es un sistema operativo que irá mejorando a medida que conozcas. Está pensado en todo tipo de usuario pero necesitarás que tu equipo forma parte de esta aventura.
 
 Si Deepin está genial, no lo modifiques. Si tienes problemas con el núcleo Linux, cámbialo por uno compatible.
+
+Si tienes alguna sugerencia o error del software, repórtalo desde [Deepin Feedback](http://feedback.deepin.org/?language=en_US). Basta acceder desde el lanzador y, si quieres añadir un archivo con detalles del sistema operativo, accede como administrador.

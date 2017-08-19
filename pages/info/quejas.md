@@ -2,7 +2,7 @@
 layout: page-fullwidth
 title: "Quejas más frecuentes"
 subheadline: "Ayuda"
-teaser: "Respuestas breves a quejas mal planteadas o desfasadas"
+teaser: "Respuestas breves a críticas comunes o desfasadas"
 permalink: "/info/quejas/"
 header:
    image_fullwidth: "header_roadmap_2.jpg"
@@ -20,7 +20,9 @@ header:
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 {% include _improve_content.html %}
 
-En la *Comunidad Deepin* respondemos los argumentos más comunes que todo usuario ve algo negativo al sistema operativo o la tecnología que está basada.
+En la *Comunidad Deepin* aclaramos que el sistema operativo  perfecto no existe pero sí el más cercano. Sin embargo, hay usuarios que ven a este sistema como algo negativo. En esta página respondemos los argumentos más comunes relacionados al sistema operativo o la tecnología que está basada.
+
+Puedes enlazar esta página si la respuesta proviene de un grupo.
 
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
@@ -42,6 +44,12 @@ Pueds instalar con la versión Manjaro Deepin, hecha por la comunidad. [Detalles
 
 Echa un vistazo en [Juegos para Deepin]({{ site.url }}/games/). Lo puedes conseguir en la Deepin Store o Steam.
 
+## Deepin te espía
+
+No, al ser de código abierto se audita el código fuente. Sin embargo, para evitar inconvenientes desinstala aplicaciones que viene por defecto. 
+
+Echa un vistazo al vídeo [Distros da China - Deepin espiona usuários?](https://www.youtube.com/watch?v=utW1J4hEJhI).
+
 ## La terminal es muy complicada, solo saben los hackers
 
 Es falso, la terminal es el equivalente al "Símbolo de sistema" en Windows. Puedes ejecutar aplcaciones con solo escribir en lugar de acceder a menúes, botones y listas. Por ejemplo, para la ayuda está:
@@ -50,7 +58,7 @@ Es falso, la terminal es el equivalente al "Símbolo de sistema" en Windows. Pue
 
 ## Hacer una limpieza en Deepin es complicada
 
-Sabemos que existen aplicaciones como CCleaner. En este caso tienes a [BleachBit]({{ site.url }}/apps/bleachbit/) disponible en Deepin Store.
+Sabemos que existen aplicaciones como CCleaner. En este caso tienes a [Ubuntu Cleaner]({{ site.url }}/apps/ubuntucleaner/) o [BleachBit]({{ site.url }}/apps/bleachbit/) disponible en Deepin Store.
 
 ## Recuperar a estado de fábrica es larguísimo
 
