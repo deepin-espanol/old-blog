@@ -65,7 +65,6 @@ Por defecto, están desactivados y puedes personalizar en `config.yml`. Para **a
 
 
 
-
 ## Vídeos adaptables al tamaño
 
 Con foundation los vídeos adaptables al tamaño (flexible) son fáciles. [More ›](http://foundation.zurb.com/docs/components/flex_video.html)
@@ -164,6 +163,13 @@ Permite agrupar publicaciones que no están publicadas, de todas formas usa el s
 {% raw %}{% include list-collection collection='wordpress' %}{% endraw %}
 ~~~
 
+### enlaces internos
+
+Puedes hacer un enlace interno sin escribir la URL del página de la siguiente manera:
+
+~~~
+{% raw %}[titulo link]({{ site.url }}/cat/titulo/){% endraw %}
+~~~
 
 ### alert – Incrustar un aviso en la publicación
 
