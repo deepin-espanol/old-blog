@@ -32,7 +32,7 @@ Existen formas de crear una carpeta para cifrar tus documentos. Estarás más o 
 
 {% include alert terminal='sudo modprobe ecryptfs' %}
 
-2. Cierra sesión e inicia desde la [terminal virtual]({{ site.url }}/tty/);
+2. Cierra sesión e inicia desde la [terminal virtual]({{ site.url }}/tips/tty/);
 3. Ejecuta desde la terminal, siendo username el nombre de usuario;
 
 {% include alert terminal='sudo ecryptfs-migrate-home -u username
