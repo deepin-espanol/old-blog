@@ -23,4 +23,6 @@ Deepin es un sistema operativo que irá mejorando a medida que conozcas. Está p
 
 Si Deepin está genial, no lo modifiques. Si tienes problemas con el núcleo Linux, cámbialo por uno compatible.
 
+Darle un mantenimiento a Deepin es fácil. Utiliza [Ubuntu Cleaner]({{ site.url }}/apps/ubuntucleaner/) para hacer una limpieza, [GParter]({{ site.url }}/apps/gparter/) para comprobar el disco duro, [Resetter]({{ site.url }}/apps/resetter/) para restaurar aplicaciones preinstaladas, [Synaptic]({{ site.url }}/apps/synaptic/) para gestionar paquetes del sistema, entre otros.
+
 Si tienes alguna sugerencia o error del software, repórtalo desde [Deepin Feedback](http://feedback.deepin.org/?language=en_US). Basta acceder desde el lanzador y, si quieres añadir un archivo con detalles del sistema operativo, accede como administrador.
