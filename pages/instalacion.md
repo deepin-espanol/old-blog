@@ -29,27 +29,41 @@ Antes de usar Deepin tu equipo debe estar preparado con estos requisitos:
 * Tarjeta gráfica Intel, NVdia o AMD compatible
 * 2 GB de memoria RAM, recomendamos de 4 GB a más para aprovechar al máximo
 
-Sobre las tarjetas gárficas, tal como explica el portal [Colaboratorio](https://colaboratorio.net/juan/colaboratorio/2017/tarjeta-grafica-comprar-gnulinux/), recomendamos una gráfica dedicada en lugar de la integrada para aprovechar la memoria RAM. Eso puedes configurar el la Bios.
+Los equipos más recientes soportan más memoria RAM ya que son de 64 bits de arquitectura. En caso que tengas problemas con la versión original, instala su versión Arch llamado [Manjaro Deepin](https://manjaro.org/category/community-editions/deepin/) que soporta 32 bis también (y es recomendado para esa arquitectura).
+
+Sobre las tarjetas gráficas, tal como explica el portal [Colaboratorio](https://colaboratorio.net/juan/colaboratorio/2017/tarjeta-grafica-comprar-gnulinux/), recomendamos una gráfica dedicada (o independiente) en lugar de la integrada para aprovechar los recursos a la memoria RAM. Eso puedes configurar en la Bios.
 
 ## Descarga Deepin
 
 Hay varias maneras de descargar, además del [oficial](https://www.deepin.org/en/download/):
 
 * [En SourceForge](https://sourceforge.net/projects/deepin/)
+* [Kernel.org](http://mirrors.kernel.org/deepin-cd/)
+* [Empresa en Silicon Valley, EUA](http://mirror1.sjc02.svwh.net/deepin-cd/)
+
+Torrent:
 * [En PCDS, con archivos torrent](http://www.pcds.fi/downloads/iso/debianbased/deepin/about.deepin.debian.html)
+* [Linuxtracker.org, para la versión 15.4](http://linuxtracker.org/index.php?page=torrent-details&id=74fcdc5403dce919e83aa7e2c74bca2be12632a4)
+
+Nota: Para la versión Manjaro, no oficial: [Sourcefource](https://sourceforge.net/projects/manjaro-deepin/)
 
 ## Instalación en limpio
 
-### Prepara el instalador
+### Preparación
 
 Cuando tengas el archivo ISO, utiliza una aplicación para copiar los archivos al USB o DVD (no CD) con Deepin Boot Maker.
 * Asegúrate de ser una unidad flash USB con 4 GB de almacenamiento mínimo o un DVD.
 * Alternativamente puedes usar aplicaciones externas como [Rufus](https://rufus.akeo.ie/) o Unetbootin si la aplicación falla.
 
 
-### Video instalación
+### Instalación
 
-Un vídeo explicativo para instalar Deepin tanto el modo básico como el avanzado cortesía de Salmorejo Geek:
+* Arranca desde el disco o USB
+* Sigue las instrucciones
+* Para establecer las particiones del disco, realiza una instalación avanzada. No olvides de "/", "/boot", entre otros.
+* La instalación demora unos minutos.
+
+Un vídeo explicativo para instalar Deepin cortesía de Salmorejo Geek:
 
 <div class="flex-video">
         <iframe width="1280" height="720" src="//www.youtube.com/embed/A_VM9XSBaus" frameborder="0" allowfullscreen></iframe>
