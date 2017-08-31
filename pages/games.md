@@ -15,3 +15,5 @@ La lista de juegos va aquí. Llevan etiquetados como "juego".
     <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
+
+Ir al [Archivo]({{ site.url }}/blog/archive/).

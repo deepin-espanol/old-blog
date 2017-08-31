@@ -15,3 +15,5 @@ La lista de iconos está aquí. Son aplicaciones etiquetadas como "iconos".
     <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
+
+Ir al [Archivo]({{ site.url }}/blog/archive/).
