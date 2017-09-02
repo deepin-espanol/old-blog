@@ -32,7 +32,7 @@ La página de la COMUNIDAD usa cookies, al visitar estas páginas, eres conscien
 
 Cualquier aporte es bienvenido con reglas:
 
-* Opina sin miedo pero con respeto: Evita los insultos, conversaciones hostiles o críticas destructivas.
+* Opina sin miedo pero con respeto: Evita los insultos, conversaciones hostiles o críticas destructivas. No apoderes ideas ajenas para propósitos indebidos.
 
 * Si muestras antipático serás antipático: Si la COMUNIDAD ve al participante como enemigo, será tratado como tal. De forma similar, si **acosas**, aplicas *trolling* o **distribuyes pornografía**.
 
@@ -74,7 +74,7 @@ Por el momento, esta página web usa cookies de Github para conocer el rendimien
 
 Ejemplos de abuso, acoso, falisificación de indentidades, u otro tipo de comportamiento inaceptable puede ser reportado al equipo del proyecto en [la página Contacto]({{ site.url }}/info/contact/). Todas las quejas serán revisadas e investigadas, generando un resultado apropiado a las circunstancias. El equipo del proyecto está obligado a mantener confidencialidad de la persona que reportó el incidente. Detalles específicos acerca de las políticas de aplicación pueden ser publicadas por separado.
 
-Administradores que no sigan o que no hagan cumplir este Código de Conducta pueden ser eliminados de forma temporal o permanente del equipo administrador.
+Administradores que no sigan o que no hagan cumplir este Código de Conducta pueden ser eliminados de forma temporal o permanente del equipo administrador. De forma similar sucede con los usuarios en general.
 
 En caso que el usuario promueva el terrorismo o pornografía infantil, amenace a los usuarios y tenga antecedentes, será reportado en privado a las autoridades correspondientes. Algunas sugerencias en [esta página](https://www.genbeta.com/a-fondo/como-denunciar-a-la-policia-si-encuentro-contenido-pedofilo-en-internet).
 

@@ -27,52 +27,61 @@ Puedes enlazar esta página si la respuesta proviene de un grupo.
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
 
-## Deepin esta basado en Ubuntu
+## Sobre Deepin
+
+### Deepin esta basado en Ubuntu
 
 Hasta las versión 2014, estuvo basado en Ubuntu. La razón de porqué fue cambiado a Debian es:
 
 > ...para ganar estabilidad.
 <cite>[Muy Linux](http://www.muylinux.com/2015/12/31/deepin-15/)</cite>
 
-## Quiero usar Manjaro con Deepin, pero es complicado
+### Quiero usar Manjaro con Deepin, pero es complicado
 
 Pueds instalar con la versión Manjaro Deepin, hecha por la comunidad. [Juegos para Deepin]({{ site.url }}/instalacion/).
+<img class="t60" src="{{ site.urlimg }}header_homepage_13.jpg" alt="Paisaje">
 
-<img class="t60" src="{{ site.urlimg }}header_homepage_13.jpg" alt="">
-
-## Deepin tiene aplicaciones difíciles de manejar
+### Deepin tiene aplicaciones difíciles de manejar
 
 No. Tiene un [catálogo de aplicaciones](https://www.deepin.org/en/original/) para mejorar la experiencia. Consulta la sección de Ayuda de cada aplicación.
 
-## Deepin no es para jugar
+### Deepin no es para jugar
 
 Echa un vistazo en [Juegos para Deepin]({{ site.url }}/games/). Lo puedes conseguir en la Deepin Store o Steam.
 
-## Deepin te espía
+### Deepin te espía
 
 No, al ser de código abierto se audita el código fuente. Sin embargo, para evitar inconvenientes desinstala aplicaciones que viene por defecto. 
 
 Echa un vistazo al vídeo [Distros da China - Deepin espiona usuários?](https://www.youtube.com/watch?v=utW1J4hEJhI).
 
-## Deepin no es seguro
+### Deepin es gratis porque es libre
+
+No del todo, al ser libre es porque garantiza 4 cosas: Puedes compartir, estudiar, ejecutar y modificar. Los creadores pueden vender el producto, añadir versiones de pago u ofrecer ediciones empresariales para sustentarse económicamente.
+
+<img class="t60" src="{{ site.urlimg }}free-vs-gratis.jpg" alt="">
+
+### Deepin no es seguro
 
 Falso. Si actualizas el sistema operativo, no tendrás fallos de seguridad. Los reportes son [mostados en la página web](https://www.deepin.org/en/security-update/). El núcleo del sistema [está siendo auditado constante](https://lamiradadelreplicante.com/2017/09/01/agencia-alemana-de-ciberseguridad-el-generador-de-numeros-aleatorios-de-linux-es-seguro/).
 
-## La terminal es muy complicada, solo saben los hackers
+## Actividades cotidianas
+
+### La terminal es muy complicada, solo saben los hackers
 
 Es falso, la terminal es el equivalente al "Símbolo de sistema" en Windows. Puedes ejecutar aplcaciones con solo escribir en lugar de acceder a menúes, botones y listas. Por ejemplo, para la ayuda está:
 
 {% include alert terminal='help' %}
 
-## Hacer una limpieza en Deepin es complicada
+### Hacer una limpieza en Deepin es complicada
 
 Sabemos que existen aplicaciones como CCleaner. En este caso tienes a [Ubuntu Cleaner]({{ site.url }}/apps/ubuntucleaner/) o [BleachBit]({{ site.url }}/apps/bleachbit/) disponible en Deepin Store.
 
-## Recuperar a estado de fábrica es larguísimo
+### Recuperar a estado de fábrica es larguísimo
 
 Intenta usar [Resetter]({{ site.url }}/apps/resetter/).
 
-## Gimp no es mejor que Photoshop
+### Gimp no es más tedioso frente a Photoshop
 
 Hasta que Adobe se dedique a explorar otras formas, puedes usar la versión web de Photoshop o usar su versión para Android [Photoshop Fix](https://play.google.com/store/apps/details?id=com.adobe.adobephotoshopfix), requiere [Genymotion]({{ site.url }}/apps/genymotion/).
 
