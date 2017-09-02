@@ -20,7 +20,7 @@ header:
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 {% include _improve_content.html %}
 
-En la *Comunidad Deepin* aclaramos que el sistema operativo  perfecto no existe pero sí el más cercano. Sin embargo, hay usuarios que ven a este sistema como algo negativo. En esta página respondemos los argumentos más comunes relacionados al sistema operativo o la tecnología que está basada.
+En la *Comunidad Deepin* aclaramos que el sistema operativo  perfecto no existe. Aunque buscamos ser el más apropiado para las tareas cotidianas, hay usuarios que ven a este sistema como algo negativo. En esta página respondemos los argumentos más comunes relacionados al sistema operativo o la tecnología que está basada.
 
 Puedes enlazar esta página si la respuesta proviene de un grupo.
 
@@ -36,7 +36,7 @@ Hasta las versión 2014, estuvo basado en Ubuntu. La razón de porqué fue cambi
 
 ## Quiero usar Manjaro con Deepin, pero es complicado
 
-Pueds instalar con la versión Manjaro Deepin, hecha por la comunidad. [Detalles en vídeo](https://www.youtube.com/watch?v=jufTUvAOf8k).
+Pueds instalar con la versión Manjaro Deepin, hecha por la comunidad. [Juegos para Deepin]({{ site.url }}/instalacion/).
 
 <img class="t60" src="{{ site.urlimg }}header_homepage_13.jpg" alt="">
 

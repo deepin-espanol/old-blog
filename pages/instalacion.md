@@ -29,7 +29,7 @@ Antes de usar Deepin tu equipo debe estar preparado con estos requisitos:
 * Tarjeta gráfica Intel, NVdia o AMD compatible
 * 2 GB de memoria RAM, recomendamos de 4 GB a más para aprovechar al máximo
 
-Los equipos más recientes soportan más memoria RAM ya que son de 64 bits de arquitectura. En caso que tengas problemas con la versión original, instala su versión Arch llamado [Manjaro Deepin](https://manjaro.org/category/community-editions/deepin/) que soporta 32 bis también (y es recomendado para esa arquitectura).
+Los equipos más recientes soportan más memoria RAM ya que son de 64 bits de arquitectura. En caso que tengas problemas con la versión original, instala su versión Arch llamado [Manjaro Deepin](https://manjaro.org/category/community-editions/deepin/) que soporta 32 bis también (y es recomendado para esa arquitectura). [Detalles en vídeo](https://www.youtube.com/watch?v=jufTUvAOf8k).
 
 Sobre las tarjetas gráficas, tal como explica el portal [Colaboratorio](https://colaboratorio.net/juan/colaboratorio/2017/tarjeta-grafica-comprar-gnulinux/), recomendamos una gráfica dedicada (o independiente) en lugar de la integrada para aprovechar los recursos a la memoria RAM. Eso puedes configurar en la Bios.
 

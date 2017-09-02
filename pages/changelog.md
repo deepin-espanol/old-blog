@@ -11,6 +11,9 @@ permalink: "/changelog/"
 
 Nota: Los cambios están enfocados en la página web y el material que estemos brindando.
 
+2017-09-01
+:  Añadido ["Términos de uso"]({{ site.url }}/info/tos) con explicaciones sobre los derechos y deberes.
+
 2017-08-17
 :  Lanzada ["Tutopost"]({{ site.url }}/tutopost) para conocer mejor al proyecto Deepin en español.
 
