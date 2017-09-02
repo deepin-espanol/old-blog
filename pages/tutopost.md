@@ -39,18 +39,21 @@ Ahora si conoces algo de Markdown y Github, basta leer las siguientes páginas.
 * [Añadir y editar posts desde la web de Github]({{ site.url }}/tutopost/usargithub/).
 * [Qué debe contener una publicación]({{ site.url }}/tutopost/plantillapost/).
 
+Lectura adicional:
+
+* [Complementos para escribir en Markdown]({{ site.url }}/tutopost/extra/).
+
 Si tienes una publicación pero no quieres subir a Github, visita la sección "Contacto".
 
 ## Tutoriales para avanzados
 CMS:
-* [Git ]({{ site.url }}/tutopost/git/).
+* [Git]({{ site.url }}/tutopost/git/).
 * [Jekyll]({{ site.url }}/tutopost/jekyll/).
 * [Formas de elaborar y publicar posts]({{ site.url }}/tutopost/crearpost/).
 
 Extras y capacidades extras:
 * [Mediaelement]({{ site.url }}/tutopost/mediaelement/).
 * [Códigos de encabezado]({{ site.url }}/tutopost/doc/).
-* [Códigos Markdown complementarios]({{ site.url }}/tutopost/extra/).
 * [Tipografía permitida]({{ site.url }}/tutopost/tipografia/).
 
 ## Agradecimientos

@@ -53,8 +53,8 @@ La forma más elegante de actualizar, es accediendo el acceso "Actualizar" desde
 4. Cuando se actualiza componentes del sistema, cierra las aplicaciones y procede
 5. Se reiniciará y demorará unos minutos
 
-### Casos especiales
-Otra forma es accediendo a la `Terminal de Deepin`, útil para no reiniciar el equipo. En primer lugar, deberás actualizar la lista de paquetes con el comando `update` y escribe la contraseña root.
+## Anexo: Desde la terminal
+Otra forma es accediendo a la **Terminal de Deepin**, útil para no reiniciar el equipo. En primer lugar, deberás actualizar la lista de paquetes con el comando `update` y escribe la contraseña root.
 
 ~~~
 sudo apt update
@@ -63,17 +63,13 @@ sudo apt update
 Continúa ejecute este comando:
 
 ~~~
-sudo apt upgrade && sudo apt updgrade
+sudo apt upgrade && sudo apt full-upgrade
 ~~~
 
-Tardará unos minutos, mientras ves los detalles en la ventana.
+Tardará unos minutos, mientras ves los detalles en la ventana. Considera que ´upgrade´ significa "mejorar" y `full-upgrade` es para cambiar de versión (digamos de 15.3 a 15.4).
 
 {% include alert success='Quieres mejorar, ¡colabora con nosotros!' %}
 {% include _improve_content.html %}
-
-## Anexo: Desde la terminal
-
-Puedes usar la terminal utiliza el comando `sudo apt update && sudo apt upgrade`. Confirma al escribir la contraseña root.
 
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
