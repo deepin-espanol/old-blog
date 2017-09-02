@@ -71,9 +71,11 @@ Un vídeo explicativo para instalar Deepin cortesía de Salmorejo Geek:
 
 ## Instalación junto a Windows
 
-Si deseas usar Deepin junto a Windows, puedes aplicar una partición especial y establecer las particiones /home y /boot para establecer el doble arranque (o dual boot).
+Si deseas usar Deepin junto a Windows, debes instalar de forma avanzada. Añade particiones "/", "/home" para Deepin y la carpeta de Mis documentos, recomendamos hacer en un disco duro aparte. Además, usa la partición "/boot" para establecer el doble arranque (o dual boot), si tu PC no tiene uno.
 
-Pero al ser complicado y tedioso, intenta instalar Deepin con la aplicación [Deepin Windows Installer](https://www.deepin.org/it/original/deepin-installer/) para Microsoft Windows.
+Pero al ser complicado y tedioso tener Windows y Deepin en un solo disco duro, intenta instalar Deepin con la aplicación [Deepin Windows Installer](https://www.deepin.org/it/original/deepin-installer/) para Microsoft Windows.
+
+Advertencia: [Revisa la página Dual Boot]({{ site.url }}/manual/dual-boot/) para conocer los riegos que conlleva.
 
 {% include alert success='Quieres mejorar, ¡colabora con nosotros!' %}
 {% include _improve_content.html %}
