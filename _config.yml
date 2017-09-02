@@ -19,7 +19,7 @@ description: '»Deepin en Español es un proyecto de ayuda en línea hecho por v
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 
-credits: '<p>Con &hearts; por <a href="https://deepin-espanol.github.io/info/">la comunidad hispanohablante</a>, no afiliada a <a href="http://deepin.org/" target="_blank">Deepin Wuhan</a>.<br/><a href="https://deepin-espanol.github.io/info/tos">Términos y condiciones</a>. Tema de <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+credits: '<p>Con &hearts; por <a href="https://deepin-espanol.github.io/info/">la comunidad</a>, no afiliada a <a href="http://deepin.org/" target="_blank">Deepin Wuhan</a>.<br/><a href="https://deepin-espanol.github.io/info/tos">Términos y condiciones</a>. Tema de <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
 
 # Main author of the website
 # See > authors.yml
