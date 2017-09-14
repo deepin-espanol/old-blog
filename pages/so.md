@@ -23,7 +23,7 @@ Deepin es un sistema operativo que irá mejorando a medida que conozcas. Está p
 
 * Para no hacerte complicado el pase de cualquier sistema operativo a Deepin, debes conocer que aplicaciones son compatibles, [y cuales serían sus reemplazos](http://www.datamation.com/open-source/78-open-source-replacements-for-expensive-applications-1.html).
 
-* Si Deepin está genial, no lo modifiques. Si tienes problemas con el núcleo Linux, cámbialo por uno compatible.
+* Tienes una [tienda de aplicaciones]({{ site.url }}/apps/store/). Si Deepin está genial, no lo modifiques. Si tienes problemas con el núcleo Linux, cámbialo por uno compatible.
 
 * Darle un mantenimiento a Deepin es fácil. Utiliza [Ubuntu Cleaner]({{ site.url }}/apps/ubuntucleaner/) para hacer una limpieza, [GParter]({{ site.url }}/apps/gparter/) para comprobar el disco duro, [Resetter]({{ site.url }}/apps/resetter/) para restaurar aplicaciones preinstaladas, [Synaptic]({{ site.url }}/apps/synaptic/) para gestionar paquetes del sistema, entre otros.
 

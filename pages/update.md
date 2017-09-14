@@ -40,6 +40,7 @@ Aparte del [oficial](https://www.deepin.org/en/mirrors/packages/):
 Ejemplos:
 * [Linux Kernel Mirror](http://mirrors.kernel.org/deepin/)
 * [Silicon Valley](http://mirror1.sjc02.svwh.net/deepin/)
+* Otros espejos en [la página Lista de espejos]({{ site.url }}//tips/mirror/).
 
 ## Actualizar
 

@@ -40,20 +40,25 @@ Hay varias maneras de descargar, además del [oficial](https://www.deepin.org/en
 * [En SourceForge](https://sourceforge.net/projects/deepin/)
 * [Kernel.org](http://mirrors.kernel.org/deepin-cd/)
 * [Empresa en Silicon Valley, EUA](http://mirror1.sjc02.svwh.net/deepin-cd/)
+* Otras formas para descargar en [la página Lista de espejos]({{ site.url }}//tips/mirror/).
 
 Torrent:
+
 * [En PCDS, con archivos torrent](http://www.pcds.fi/downloads/iso/debianbased/deepin/about.deepin.debian.html)
 * [Linuxtracker.org, para la versión 15.4](http://linuxtracker.org/index.php?page=torrent-details&id=74fcdc5403dce919e83aa7e2c74bca2be12632a4)
 
 Nota: Para la versión Manjaro, no oficial: [Sourcefource](https://sourceforge.net/projects/manjaro-deepin/)
 
+Nota 2: Para descargar vía torrent es necesario un cliente compatible y comprobar la mayor cantidad de semillas, clientes encargadas de distribuir los archivos hacia otros clientes.
+
 ## Instalación en limpio
 
 ### Preparación
 
-Cuando tengas el archivo ISO, utiliza una aplicación para copiar los archivos al USB o DVD (no CD) con Deepin Boot Maker.
+Cuando tengas el archivo ISO, utiliza una aplicación para copiar los archivos al USB o DVD (no CD) con Deepin Boot Maker (obviamente disponible en Deepin Store).
 * Asegúrate de ser una unidad flash USB con 4 GB de almacenamiento mínimo o un DVD.
 * Alternativamente puedes usar aplicaciones externas como [Rufus](https://rufus.akeo.ie/) o Unetbootin si la aplicación falla.
+* Sobre Rufus, puedes usar la aplicación portátil para Windows que pesa unos megabytes.
 
 
 ### Instalación
