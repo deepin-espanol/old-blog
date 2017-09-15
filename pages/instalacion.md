@@ -68,12 +68,6 @@ Cuando tengas el archivo ISO, utiliza una aplicación para copiar los archivos a
 * Para establecer las particiones del disco, realiza una instalación avanzada. No olvides de "/", "/boot", entre otros.
 * La instalación demora unos minutos.
 
-Un vídeo explicativo para instalar Deepin cortesía de Salmorejo Geek:
-
-<div class="flex-video">
-        <iframe width="1280" height="720" src="//www.youtube.com/embed/A_VM9XSBaus" frameborder="0" allowfullscreen></iframe>
-</div>
-
 ## Instalación junto a Windows
 
 Si deseas usar Deepin junto a Windows, debes instalar de forma avanzada. Añade particiones "/", "/home" para Deepin y la carpeta de Mis documentos, recomendamos hacer en un disco duro aparte. Además, usa la partición "/boot" para establecer el doble arranque (o dual boot), si tu PC no tiene uno.
@@ -81,6 +75,16 @@ Si deseas usar Deepin junto a Windows, debes instalar de forma avanzada. Añade 
 Pero al ser complicado y tedioso tener Windows y Deepin en un solo disco duro, intenta instalar Deepin con la aplicación [Deepin Windows Installer](https://www.deepin.org/it/original/deepin-installer/) para Microsoft Windows.
 
 Advertencia: [Revisa la página Dual Boot]({{ site.url }}/manual/dual-boot/) para conocer los riegos que conlleva.
+
+## Anexo: Vídeos explicativos
+Un vídeo explicativo para instalar Deepin cortesía de Salmorejo Geek:
+
+<div class="flex-video">
+        <iframe width="1280" height="720" src="//www.youtube.com/embed/A_VM9XSBaus" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="flex-video">
+        <iframe width="1280" height="720" src="//www.youtube.com/embed/-oswVXK8Vs0" frameborder="0" allowfullscreen></iframe>
+</div>
 
 {% include alert success='Quieres mejorar, ¡colabora con nosotros!' %}
 {% include _improve_content.html %}
