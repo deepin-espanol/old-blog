@@ -22,36 +22,38 @@ header:
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 {% include alert text='Actualizado el 2 de agosto de 2017. Es posible que sufran algunos cambios para casos específicos.' %}
 
-Bienvenidos a Tutopost, ¡el taller de la comunidad! Esta selección está pensado en crear, organizar y mejorar publicaciones (o posts) y materiales para Deepin en Español.
-
-Contiene una serie de tutoriales hacia los nuevos colaboradores a editores. Dependiendo del nivel de aprendizaje, la mejor forma es seguir lo más básico como añadir publicaciones desde el sitio web.
+Bienvenidos a Tutopost, ¡el taller de la comunidad! Esta selección está pensado en crear, organizar y mejorar publicaciones (o posts) y materiales para Deepin en Español. Contiene una serie de tutoriales hacia los nuevos colaboradores a experimentados.
 
 ## Para usuarios de Wordpress y Blogger
 
-¿Quieres añadir un post a la página web? Si eres usuario Wordpress o Blogger te costará un poco entender la interfaz de usuario. No existe una interfaz automatizada, en lugar de eso, necesitarás conocer los archivos, el código de los mismos y su mecanismo.
+¿Quieres añadir un post a la página web? Si eres usuario Wordpress o Blogger te costará un poco entender la interfaz de usuario. El mejor consejo es usar el cliente Atom, fácil de usar, organizada e intuitiva. La otra opción es mediante su sitio web.
 
-Sobre el código es similar a la de una wiki pero escrita en Markdown. En el caso de mecanismo, usamos un sistema de código abierto llamado Git para gestionar que contenido está añadido o no y que permisos tienen los editores.
+Las páginas están escritas en Markdown. Nosotros usamos Git para sincronizar los cambios de los editores y gestionamos los permisos en esa plataforma.
 
 ## Tutoriales para principiantes
 
-Ahora si conoces algo de Markdown y Github, basta leer las siguientes páginas.
+Método 1 (offline):
+* [Añadir y editar post desde Atom]({{ site.url }}/tutopost/desdeatom/).
+* [Qué contiene una publicación]({{ site.url }}/tutopost/plantillapost/).
 
+Método 2 (online):
 * [Añadir y editar posts desde la web de Github]({{ site.url }}/tutopost/usargithub/).
-* [Qué debe contener una publicación]({{ site.url }}/tutopost/plantillapost/).
+* [Qué contiene una publicación]({{ site.url }}/tutopost/plantillapost/).
 
-Lectura adicional:
+## Documentación avanzada
+
+### Lectura adicional
 
 * [Complementos para escribir en Markdown]({{ site.url }}/tutopost/extra/).
 
-Si tienes una publicación pero no quieres subir a Github, visita la sección "Contacto".
+### Tutoriales sobre CMS
 
-## Tutoriales para avanzados
-CMS:
 * [Git]({{ site.url }}/tutopost/git/).
 * [Jekyll]({{ site.url }}/tutopost/jekyll/).
 * [Formas de elaborar y publicar posts]({{ site.url }}/tutopost/crearpost/).
 
-Extras y capacidades extras:
+### Otras capacidades
+
 * [Mediaelement]({{ site.url }}/tutopost/mediaelement/).
 * [Códigos de encabezado]({{ site.url }}/tutopost/doc/).
 * [Tipografía permitida]({{ site.url }}/tutopost/tipografia/).

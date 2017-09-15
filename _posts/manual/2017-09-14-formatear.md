@@ -10,26 +10,28 @@ tags:
     - aplicaciones
     - store
 <!--more-->
-En Deepin en Español te enseñamos a instalar. Pero si  falta de espacio o porque 
+En Deepin en Español te enseñamos a [instalar]({{ site.url }}/instalacion/). Pero si tienes problemas al organizar los archivos, no necesitas volver a reinstalar.
 
-Tiene catalogados más de 100 aplicaciones gratuitas. Algunas aplicación son enlaces web; además son adaptadas de Android y complementos de otras aplicaciones.
+Para tal caso necesitarás una aplicación encargada de particiones como [GParter]({{ site.url }}/apps/gparted/). Recuerda que necesitarás permisos de administrador y haber tenido una copia de seguridad para evitar problemas.
 
-Puedes instalar varias aplicaciones a la vez con la venta de descargas no necesitas permisos de administrador para los usuarios. También puedes usar la cuenta de Deepin para administrar archivos.
+## Vistazo
 
-## Categorías (15.4)
+Tienes un panel para ver las particiones del disco duro. Puedes formatear, redimencionar, etcétera.
 
-* Renkings
-* Internet
-* Chat
-* Music
-* Video
-* Graphics
-* Game
-* Office
-* Reading
-* Development
-* System
-* Others
+Puedes montar unidades externas y desmontarlas. Si quieres desmontar las particiones de tu PC, inicia Deepin en modo seguro desde el USB o CD.
+
+Que contiene una partición:
+* Tipo de partición
+* Nombre y etiqueta
+* Montaje
+
+## Crear tabla de particiones
+
+Esta opción es peligrosa. Se encarga de reorganizar el sistema de partciones. Recomendamos GPT.
+
+## Rescatar los datos
+
+Si la partición está dañada usa esta opción. Primero verifícala con el botón secundario a una partición.
 
 ### Más en Manual
 {: .t60 }

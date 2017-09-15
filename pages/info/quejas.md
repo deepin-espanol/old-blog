@@ -22,7 +22,7 @@ header:
 
 En la *Comunidad Deepin* aclaramos que el sistema operativo  perfecto no existe. Aunque buscamos ser el más apropiado para las tareas cotidianas, hay usuarios que ven a este sistema como algo negativo. En esta página respondemos los argumentos más comunes relacionados al sistema operativo o la tecnología que está basada.
 
-Puedes enlazar esta página si la respuesta proviene de un grupo.
+Puedes enlazar esta página si la respuesta proviene de un grupo. Windows es una marca registrada de Microsoft.
 
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
@@ -57,7 +57,7 @@ Echa un vistazo en [Juegos para Deepin]({{ site.url }}/games/). Lo puedes conseg
 
 ### Deepin te espía
 
-No, al ser de código abierto se audita el código fuente. Sin embargo, para evitar inconvenientes desinstala aplicaciones que viene por defecto. 
+No, al ser de código abierto se audita el código fuente. Sin embargo, para evitar inconvenientes desinstala aplicaciones que viene por defecto.
 
 Echa un vistazo al vídeo [Distros da China - Deepin espiona usuários?](https://www.youtube.com/watch?v=utW1J4hEJhI).
 
@@ -95,7 +95,7 @@ Sabemos que existen aplicaciones como CCleaner. En este caso tienes a [Ubuntu Cl
 
 Intenta usar [Resetter]({{ site.url }}/apps/resetter/).
 
-### No puedo arrancar Deepin por culpa de windows
+### No puedo arrancar Deepin por culpa de Windows
 
 Revisa [algunas recomendaciones]({{ site.url }}/manual/dual-boot/).
 
