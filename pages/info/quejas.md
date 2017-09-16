@@ -49,11 +49,21 @@ Es posible instalar la versión Manjaro Deepin, hecha por la comunidad. [Revisa 
 
 No. Tiene un [catálogo de aplicaciones](https://www.deepin.org/en/original/) para mejorar la experiencia. Consulta la sección de Ayuda de cada aplicación.
 
+Es más, tienes [un catálogo de aplicaciones para que instales en lugar de las aplicaciones originales]({{ site.url }}/games/).
+
 <small markdown="1">[Ir al índice](#toc)</small>
 
 ### Deepin no es para jugar
 
 Echa un vistazo en [Juegos para Deepin]({{ site.url }}/games/). Lo puedes conseguir en la Deepin Store o Steam.
+
+Adicionalmente tendrás que modificiar parte del código para optimizar el sistema operativo, como este vídeo.
+
+<div class="flex-video">
+        <iframe width="1280" height="720" src="//www.youtube.com/embed/CnSkR96iIpY" frameborder="0" allowfullscreen></iframe>
+</div>
+
+O usar [Crossover]({{ site.url }}/apps/crossover/)
 
 ### Deepin te espía
 

@@ -48,7 +48,7 @@ La forma más elegante de actualizar, es accediendo el acceso "Actualizar" desde
 
 ### Pasos
 
-1. Actualiza 
+1. Actualiza
 2. Espera unos minutos, dependiendo de la conexión a Internet
 3. Haz clic en actualizar
 4. Cuando se actualiza componentes del sistema, cierra las aplicaciones y procede
@@ -56,6 +56,8 @@ La forma más elegante de actualizar, es accediendo el acceso "Actualizar" desde
 
 ## Anexo: Desde la terminal
 Otra forma es accediendo a la **Terminal de Deepin**, útil para no reiniciar el equipo. En primer lugar, deberás actualizar la lista de paquetes con el comando `update` y escribe la contraseña root.
+
+Más detalles en [la página correspondiente]({{ site.url }}/tips/sources/).
 
 ~~~
 sudo apt update
