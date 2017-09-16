@@ -29,7 +29,7 @@ Antes de usar Deepin tu equipo debe estar preparado con estos requisitos:
 * Tarjeta gráfica Intel, NVdia o AMD compatible
 * 2 GB de memoria RAM, recomendamos de 4 GB a más para aprovechar al máximo
 
-Los equipos más recientes soportan más memoria RAM ya que son de 64 bits de arquitectura. En caso que tengas problemas con la versión original, instala su versión Arch llamado [Manjaro Deepin](https://manjaro.org/category/community-editions/deepin/) que soporta 32 bis también (y es recomendado para esa arquitectura). [Detalles en vídeo](https://www.youtube.com/watch?v=jufTUvAOf8k).
+Los equipos más recientes soportan más memoria RAM ya que son de 64 bits de arquitectura. En caso que tengas problemas con la versión original, instala su versión Arch llamado [Manjaro Deepin](https://manjaro.org/category/community-editions/deepin/) que soporta 32 bis también (y es recomendado para esa arquitectura).
 
 Sobre las tarjetas gráficas, tal como explica el portal [Colaboratorio](https://colaboratorio.net/juan/colaboratorio/2017/tarjeta-grafica-comprar-gnulinux/), recomendamos una gráfica dedicada (o independiente) en lugar de la integrada para aprovechar los recursos a la memoria RAM. Eso puedes configurar en la Bios.
 
@@ -60,7 +60,6 @@ Cuando tengas el archivo ISO, utiliza una aplicación para copiar los archivos a
 * Alternativamente puedes usar aplicaciones externas como [Rufus](https://rufus.akeo.ie/) o Unetbootin si la aplicación falla.
 * Sobre Rufus, puedes usar la aplicación portátil para Windows que pesa unos megabytes.
 
-
 ### Instalación
 
 * Arranca desde el disco o USB
@@ -78,10 +77,14 @@ Advertencia: [Revisa la página Dual Boot]({{ site.url }}/manual/dual-boot/) par
 
 ## Anexo: Vídeos explicativos
 Un vídeo explicativo para instalar Deepin cortesía de Salmorejo Geek:
-
 <div class="flex-video">
         <iframe width="1280" height="720" src="//www.youtube.com/embed/A_VM9XSBaus" frameborder="0" allowfullscreen></iframe>
 </div>
+Sobre la instalación en el disco duro:
+<div class="flex-video">
+        <iframe width="1280" height="720" src="//www.youtube.com/embed/-oswVXK8Vs0" frameborder="0" allowfullscreen></iframe>
+</div>
+Manjaro Deepin:
 <div class="flex-video">
         <iframe width="1280" height="720" src="//www.youtube.com/embed/-oswVXK8Vs0" frameborder="0" allowfullscreen></iframe>
 </div>
