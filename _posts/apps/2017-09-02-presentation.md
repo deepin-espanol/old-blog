@@ -10,11 +10,11 @@ tags:
     - assistant
 categories:
     - apps
-iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/--------' frameborder='0' allowfullscreen></iframe>"
+iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/j2O6Ag-2pyg' frameborder='0' allowfullscreen></iframe>"
 video:
-    embedURL: "https://www.youtube.com/embed/----------"
-    contentURL: "https://www.youtube.com/watch?v=-------"
-    thumbnailUrl: "http://img.youtube.com/vi/--------/maxresdefault.jpg"
+    embedURL: "https://www.youtube.com/embed/j2O6Ag-2pyg"
+    contentURL: "https://www.youtube.com/watch?v=j2O6Ag-2pyg"
+    thumbnailUrl: "http://img.youtube.com/vi/j2O6Ag-2pyg/maxresdefault.jpg"
 ---
 <!--more-->
 
