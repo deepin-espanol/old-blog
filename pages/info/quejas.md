@@ -101,6 +101,10 @@ Es falso, la terminal es el equivalente al "Símbolo de sistema" en Windows. Pue
 
 Sabemos que existen aplicaciones como CCleaner. En este caso tienes a [Ubuntu Cleaner]({{ site.url }}/apps/ubuntucleaner/) o [BleachBit]({{ site.url }}/apps/bleachbit/) disponible en Deepin Store.
 
+### No puedo arreglar la conexión red:
+
+Visita ({{ site.url }}/tips/wififix/).
+
 ### Recuperar a estado de fábrica es larguísimo
 
 Intenta usar [Resetter]({{ site.url }}/apps/resetter/).
