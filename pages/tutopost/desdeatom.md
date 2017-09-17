@@ -74,6 +74,9 @@ Para recibir cambios:
     </div><!-- /.medium-4.columns -->
 </div>
 
+## Lectura adicionales
+* ["Git en Atom"]({{ site.url }}/tips/gitatom/)
+
 
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
