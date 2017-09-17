@@ -24,15 +24,7 @@ Crossover es una aplicación intérprete que ejecuta aplicaciones Windows, sin p
 
 Para instalar y ejecutar una aplicación dependerás de botellas. Por ejemplo para Office 2013 tienes una botella para ese programa, a pesar que usa muchas librerías y componentes exclusivos de Windows.
 
-## Requisitos
-
-Los requisitos varían en cada aplicación. El espacio de almacenamiento tiende a ser mayor en aplicaciones de 64-bits y con librerías adicionales como DirectX.
-
-## Botellas
-
-Una botella es una estancia en el sistema donde se introducen los elementos necesarios para hacer correr una aplicación/programa diseñada para Windows. Se gestionan desde la opción "Mostrar botellas" con la lista de componentes, la base del sistema operativo y otras más.
-
-La carpeta donde se guarda la información se ubica ´~/cxoffice/bin/cxsetup´. Puedes exportar los cambios para futuras mejoras, la extensión es "cxarchive".
+La información para instalar, lo consultarás en [nuestro manual]({{ site.url }}/manual/exeapps/).
 
 ## Disponibilidad
 
