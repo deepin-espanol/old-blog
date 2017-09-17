@@ -46,11 +46,11 @@ Simple y en el lugar correcto. Incluímos multimedia,  y contenido incrustado de
 
 En Deepin publicamos [noticias]({{ site.url }}/noticias/) que pueden ser de interés, de forma irregular.
 
-Más allá, tenemos una categoría repleta de [manuales]({{ site.url }}/manual/) para conocer Deepin desde cero y una sobre [tips]({{ site.url }}/tips/) para complementar.
+Más allá, tenemos una categoría repleta de [manuales]({{ site.url }}/manual/) para conocer Deepin desde cero y una sobre [tips]({{ site.url }}/tips/) para complementar y experimentar con nuevas formas.
 
 ¿Quieres saber que aplicaciones funcionan? Tenemos más de 20 en la [lista]({{ site.url }}/apps/) y seguimos creciendo.
 
-Otra páginas están centrados en la [instalación]({{ site.url }}/instalacion/) y el [código fuente]({{ site.url }}/source/) de Deepin.
+Otra páginas están centradas en la [instalación]({{ site.url }}/instalacion/) y el [código fuente]({{ site.url }}/source/) de Deepin.
 
 ## »Todos bienvenidos(as)«
 No hay más que decir. ¿Quieres aportar? Tenemos un [Tutopost]({{ site.url }}/tutopost/)) a disposición de novatos y experimentados.
