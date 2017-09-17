@@ -55,10 +55,9 @@ Nota 2: Para descargar vía torrent es necesario un cliente compatible y comprob
 
 ### Preparación
 
-Cuando tengas el archivo ISO, utiliza una aplicación para copiar los archivos al USB o DVD (no CD) con Deepin Boot Maker (obviamente disponible en Deepin Store).
-* Asegúrate de ser una unidad flash USB con 4 GB de almacenamiento mínimo o un DVD.
-* Alternativamente puedes usar aplicaciones externas como [Rufus](https://rufus.akeo.ie/) o Unetbootin si la aplicación falla.
-* Sobre Rufus, puedes usar la aplicación portátil para Windows que pesa unos megabytes.
+Cuando tengas el archivo ISO, utiliza una aplicación para copiar los archivos al USB o DVD (no CD) con la aplicación que prefieras.
+
+Si no conoces, te [damos una mano](({{ site.url }}/manual/discoarranque/)).
 
 ### Instalación
 

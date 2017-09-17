@@ -24,7 +24,7 @@ Como Deepin es una distribución Linux, contiene una serie de componentes desarr
 
 >Para reducir las restricciones al modificar el sistema operativo, evitar software malintencionado revisando el código fuente y generar confianza cuando el sistema está actualizado y seguro.
 
-Además, libre no implica gratis. Cualquier empresa puede aportar Linux y desarrollar aplicaciones de pago o soportes comerciales. La falta de soporte de larga duración es el motivo principal de la obsolencia programada.
+Además, libre no implica gratis ni incita a la piratería. Cualquier empresa puede aportar Linux y desarrollar aplicaciones de pago o soportes comerciales. La falta de soporte de larga duración es el motivo principal de la obsolencia programada.
 
 <div class="flex-video">
         <iframe width="1280" height="720" src="//www.youtube.com/embed/UUJ0dFpj1-M" frameborder="0" allowfullscreen></iframe>
@@ -33,10 +33,12 @@ Además, libre no implica gratis. Cualquier empresa puede aportar Linux y desarr
         <iframe width="1280" height="720" src="//www.youtube.com/embed/HuoljD3rgVM" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Debajo, el vídeo de RTVE sobre Linux:
+Debajo, el documental "Codename:Linux" traducido para RTVE:
 <div class="flex-video">
         <iframe width="1280" height="720" src="//www.youtube.com/embed/r8I-eJGL7O8" frameborder="0" allowfullscreen></iframe>
 </div>
+
+Más detalles en [Código fuente]({{ site.url }}/source/).
 
 ## Páginas de apoyo
 Para transparencia, damos a conocer [los términos y condiciones del sitio]({{ site.url }}/info/tos/) incluyendo las limitaciones de responsabilidad.

@@ -73,9 +73,9 @@ Echa un vistazo al vídeo [Distros da China - Deepin espiona usuários?](https:/
 
 <small markdown="1">[Ir al índice](#toc)</small>
 
-### Deepin es gratis porque es libre
+### Deepin me incita a la piratería porque es libre
 
-No del todo, al ser libre es porque garantiza 4 cosas: Puedes compartir, estudiar, ejecutar y modificar. Los creadores pueden vender el producto, añadir versiones de pago u ofrecer ediciones empresariales para sustentarse económicamente.
+No, al ser libre es porque garantiza 4 cosas: Puedes compartir, estudiar, ejecutar y modificar. Los creadores pueden vender el producto, añadir versiones de pago u ofrecer ediciones empresariales para sustentarse económicamente.
 
 <img class="t60" src="{{ site.urlimg }}free-vs-gratis.jpg" alt="">
 
