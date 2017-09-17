@@ -24,9 +24,9 @@ Tal como explica el portal [Colaboratorio](https://colaboratorio.net/juan/colabo
 
 ## Controladores
 
-*AMD: El recomendado es AMDGPU para la marca. Otra versión y siendo comercial es AMDGPUPRO.
-*Intel: Tiene un controlador propio
-*Nvidia: El libre es Noveau y el propietario es Nvidia. Algunos controladores para laptops llevan el nombre de Bumbelee.
+* AMD: El recomendado es AMDGPU para la marca. Otra versión y siendo comercial es AMDGPUPRO.
+* Intel: Tiene un controlador propio
+* Nvidia: El libre es Noveau y el propietario es Nvidia. Algunos controladores para laptops llevan el nombre de Bumbelee.
 
 ## Vídeo
 AMD:
