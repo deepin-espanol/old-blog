@@ -8,26 +8,45 @@ header:
     image_fullwidth: "header_drop.jpg"
 ---
 
-Bienvenidos a la *Comunidad Deepin*, un proyecto hecho por voluntarios no relacionado directamente con Deepin Wuhan. 
+Gracias por visitar **Deepin en Español**, un proyecto hecho por voluntarios no relacionado directamente con Deepin Wuhan.
 
-Siéntasen libres de mejorar y crecer este proyecto.
+Si bien, no ofrecemos contenido oficial, los voluntarios añaden contenido y recopilaciones de redes sociales.
 
 ## Sobre nosotros
 
-Por ahora somos un grupo pequeños. A medida que crezca, iremos aclarando más sobre esta comunidad.
+Por ahora somos un grupo pequeño. A medida que crezca, iremos aclarando más sobre esta comunidad.
 
-## Detalles adicionales
-Algunos agradecimientos:
+Estamos en redes sociales para que interactúes como [Google+](https://plus.google.com/communities/115544729561220868525) y [Telegram](http://telegram.me/deepinenespanol).
 
-Como [tema para jekyll](http://mademistakes.com/work/jekyll-themes/). Íconos por [Daniel Bruce](http://entypo.com/). Imágenes de muestra de [unplash](http://unsplash.com/) y [pixabay](http://pixabay.com).
+### Aclarando Linux y software libre
 
-Desarrollamos esta página bajo [jekyll](http://jekyll.org/), [backstrech](http://srobbin.com/jquery-plugins/backstretch/) y [fundation](http://foundation.zurb.com/).
+Como Deepin es una distribución Linux, contiene una serie de componentes desarrollados bajo una filosofía de software libre. Quizá no te sea relevante; sin embargo, el motivo para aplicar dicha filosofía es la siguiente:
+
+>Para reducir las restricciones al modificar el sistema operativo, evitar software malintencionado revisando el código fuente y generar confianza cuando el sistema está actualizado y seguro.
+
+Además, libre no implica gratis. Cualquier empresa puede aportar Linux y desarrollar aplicaciones de pago o soportes comerciales. La falta de soporte de larga duración es el motivo principal de la obsolencia programada.
+
+<div class="flex-video">
+        <iframe width="1280" height="720" src="//www.youtube.com/embed/UUJ0dFpj1-M" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="flex-video">
+        <iframe width="1280" height="720" src="//www.youtube.com/embed/HuoljD3rgVM" frameborder="0" allowfullscreen></iframe>
+</div>
+
+Debajo, el vídeo de RTVE sobre Linux:
+<div class="flex-video">
+        <iframe width="1280" height="720" src="//www.youtube.com/embed/r8I-eJGL7O8" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ## Páginas de apoyo
-Para los iniados en Git/Jekyll te presentamos un [microtutorial para realizar artículos en el blog]({{ site.url }}/info/tutopost/)).
+Para transparencia, damos a conocer [los términos y condiciones del sitio]({{ site.url }}/info/tos/) incluyendo las limitaciones de responsabilidad.
 
-Para aprovechar markdown visita [Mediaelement]({{ site.url }}/tutopost/mediaelement/) y [Tipografía]({{ site.url }}/tutopost/tipografia/).
+Si tienes alguna consulta, elaboramos una [página con los argumentos más frecuentes]({{ site.url }}/info/quejas/).
 
-Estamos en redes sociales. Tenemos una página con [los términos y condiciones del sitio]({{ site.url }}/info/tos/).
+## Detalles de la página web
 
-Si tienes alguna queja, elaboramos una [página con los argumentos más frecuentes para debatirlo]({{ site.url }}/info/quejas/).
+La página *Deepin en Español* está desarrollado con [jekyll](http://jekyll.org/), en específico un tema de [mademistakes.com](http://mademistakes.com/work/jekyll-themes/). Los íconos son de [Daniel Bruce](http://entypo.com/). Algunas imaǵenes de muestra son cortesía de [unplash](http://unsplash.com/) y [pixabay](http://pixabay.com).
+
+Aparte de ser una página HTML5 tiene agregados a JQuery, al plugin [backstrech](http://srobbin.com/jquery-plugins/backstretch/) y [fundation](http://foundation.zurb.com/).
+
+Los detalles del funcionamiento está en [Tutopost]({{ site.url }}/tutopost/). Para los iniados en Git/Jekyll te presentamos un [microtutorial para realizar artículos en el blog con solo un programa]({{ site.url }}/info/tutopost/desdeatom/)). No olvides visitar [Mediaelement]({{ site.url }}/tutopost/mediaelement/) para que te guies al escribir posts.

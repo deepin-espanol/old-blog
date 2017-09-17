@@ -52,7 +52,14 @@ Más allá, tenemos una categoría repleta de [manuales]({{ site.url }}/manual/)
 
 Otra páginas están centradas en la [instalación]({{ site.url }}/instalacion/) y el [código fuente]({{ site.url }}/source/) de Deepin.
 
+## »Más allá«
+Tenemos redes sociales para que interactúes con la comunidad, principalmente con [Google+](https://plus.google.com/communities/115544729561220868525) y [Telegram](http://telegram.me/deepinenespanol). Nuestro equipo conforman voluntarios de varios países y puntos de vista.
+
+También realizamos traducciones para [Transifex](https://www.transifex.com/linuxdeepin/). Si quieres aportar, recomendamos el español internacional y conocer algo de inglés.
+
+Más información añadiremos en [la página dedicada](https://deepin-espanol.github.io/info/).
+
 ## »Todos bienvenidos(as)«
-No hay más que decir. ¿Quieres aportar? Tenemos un [Tutopost]({{ site.url }}/tutopost/)) a disposición de novatos y experimentados.
+No hay más que decir. ¿Quieres aportar? Tenemos un [Tutopost]({{ site.url }}/tutopost/) a disposición de novatos y experimentados.
 
 Y como las introducciones son breves. ¡Sean bienvenidos y bienvenidas al mundo del software de calidad, facilidad y productividad!
