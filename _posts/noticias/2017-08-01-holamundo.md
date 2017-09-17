@@ -55,4 +55,4 @@ Otra páginas están centradas en la [instalación]({{ site.url }}/instalacion/)
 ## »Todos bienvenidos(as)«
 No hay más que decir. ¿Quieres aportar? Tenemos un [Tutopost]({{ site.url }}/tutopost/)) a disposición de novatos y experimentados.
 
-Y como las introducciones son breves. ¡Sean bienvenidos y bienvenidas al mundo del software de calidad, facilidad y productividad.
+Y como las introducciones son breves. ¡Sean bienvenidos y bienvenidas al mundo del software de calidad, facilidad y productividad!
