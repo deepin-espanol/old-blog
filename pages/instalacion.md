@@ -57,7 +57,7 @@ Nota 2: Para descargar vía torrent es necesario un cliente compatible y comprob
 
 Cuando tengas el archivo ISO, utiliza una aplicación para copiar los archivos al USB o DVD (no CD) con la aplicación que prefieras.
 
-Si no conoces, te [damos una mano](({{ site.url }}/manual/discoarranque/)).
+Si no conoces, te [damos una mano]({{ site.url }}/manual/discoarranque/).
 
 ### Instalación
 
