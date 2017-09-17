@@ -30,22 +30,29 @@ mediaplayer: true
 ---
 Este es una página web cualquiera. Mientras que añadimos más cosas, iremos mejorando, creciendo y hacer grande. De todas formas, estamos ayudándote, ayudando a otros.
 
-## »Fácil lectura«
+Creado originalmente el 1 de agosto de 2017, actualizado el 17 de setiembre.
 
-Hemos analizado al milímetro el texto, los pasos son legibles. Puedes usar desde tu computadora, tablet, celular, TV, red social o cualquier pantalla.
+## »Fácil manejo«
+
+Hemos analizado al milímetro los detalles de la página, el texto es legible y los menúes están definidos a lado del [buscador]({{ site.url }}/search/).
+
+Deepin en Español está disponible desde tu computadora, tablet, celular, TV, red social o cualquier aparato con conexión a Internet.
 
 ## »Con imágenes y vídeos«
 
-Simple y en el lugar correcto. Soporta Youtube, sonido y páginas web externas. Quizás pregúntale a [Mediaelement]({{ site.url }}/info/mediaelement/)) para hacer su trabajo.
+Simple y en el lugar correcto. Incluímos multimedia,  y contenido incrustado desde Youtube. Tratamos de añadir imágenes de alta calidad para complacer a los seguidores. Más detalles en nuestro [Tutopost]({{ site.url }}/tutopost/extra/).
 
-## »Categorías«
+## »Contenido«
 
-En Deepin publicamos noticias que pueden ser de interés.
+En Deepin publicamos [noticias]({{ site.url }}/noticias/) que pueden ser de interés, de forma irregular.
 
-¿Quieres agregar un paso? La sección Tips alberga los pasos que puedes potenciar. Hay también Aplicaciones y Manuales para seguir estudiando.
+Más allá, tenemos una categoría repleta de [manuales]({{ site.url }}/manual/) para conocer Deepin desde cero y una sobre [tips]({{ site.url }}/tips/) para complementar.
+
+¿Quieres saber que aplicaciones funcionan? Tenemos más de 20 en la [lista]({{ site.url }}/apps/) y seguimos creciendo.
+
+Otra páginas están centrados en la [instalación]({{ site.url }}/instalacion/) y el [código fuente]({{ site.url }}/source/) de Deepin.
 
 ## »Todos bienvenidos(as)«
-No hay más que decir. Si quieres seguir descubriendo, tienes el código fuente.
+No hay más que decir. ¿Quieres aportar? Tenemos un [Tutopost]({{ site.url }}/tutopost/)) a disposición de novatos y experimentados.
 
 Sabemos que esto es breve. ¡Sean bienvenidos y bienvenidas al mundo del software de calidad, facilidad y productividad.
-
