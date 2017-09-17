@@ -37,7 +37,7 @@ Instalar y ejecutar Doom:
 
 ### Nota
 
-La calidad del vídeo dependerá de la tarjeta de vídeo. Comprueba si la tarjeta de vídeo tienen una versión de OpenGL adecuada para que el motor Wine ejecute juegos.
+La calidad del vídeo dependerá de la tarjeta de vídeo. Comprueba si la [tarjeta de vídeo]({{ site.url }}/manual/videocard/) tienen una versión de OpenGL adecuada para que el motor Wine ejecute juegos.
 
 ### Créditos
 

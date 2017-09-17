@@ -36,7 +36,7 @@ Se gestionan desde la opción "Mostrar botellas" con la lista de componentes, la
 
 ## Más información
 
-Visita [cómo instalar aplicaciones en PlayonLinux]({{ site.url }}/tips/playonlinux/).
+Visita [cómo instalar aplicaciones en PlayonLinux]({{ site.url }}/tips/playonlinuxapps/).
 
 ## Disponibilidad
 
