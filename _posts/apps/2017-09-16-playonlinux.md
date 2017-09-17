@@ -34,6 +34,10 @@ Una botella es una estancia en el sistema donde se introducen los elementos nece
 
 Se gestionan desde la opción "Mostrar botellas" con la lista de componentes, la base del sistema operativo y otras más.
 
+## Más información
+
+Visita [cómo instalar aplicaciones en PlayonLinux]({{ site.url }}/tips/playonlinux/).
+
 ## Disponibilidad
 
 Está disponible en Deepin Store. Una alternativa similar es [Crossover]({{ site.url }}/apps/crossover/).
