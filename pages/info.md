@@ -20,23 +20,11 @@ Estamos en redes sociales para que interactúes como [Google+](https://plus.goog
 
 ### Aclarando Linux y software libre
 
-Como Deepin es una distribución Linux, contiene una serie de componentes desarrollados bajo una filosofía de software libre. Quizá no te sea relevante; sin embargo, el motivo para aplicar dicha filosofía es la siguiente:
+Como Deepin es una distribución Linux, contiene una serie de componentes desarrollados bajo una filosofía de software libre. Quizá no te sea relevante; sin embargo, resumimos el significado de la siguiente manera:
 
->Para reducir las restricciones al modificar el sistema operativo, evitar software malintencionado revisando el código fuente y generar confianza cuando el sistema está actualizado y seguro.
+>Para reducir las restricciones al modificar el sistema operativo y el código fuente, haciendo los componentes físicos y virtuales fiables, actualizados y seguros.
 
-Además, libre no implica gratis ni incita a la piratería. Cualquier empresa puede aportar Linux y desarrollar aplicaciones de pago o soportes comerciales. La falta de soporte de larga duración es el motivo principal de la obsolencia programada.
-
-<div class="flex-video">
-        <iframe width="1280" height="720" src="//www.youtube.com/embed/UUJ0dFpj1-M" frameborder="0" allowfullscreen></iframe>
-</div>
-<div class="flex-video">
-        <iframe width="1280" height="720" src="//www.youtube.com/embed/HuoljD3rgVM" frameborder="0" allowfullscreen></iframe>
-</div>
-
-Debajo, el documental "Codename:Linux" traducido para RTVE:
-<div class="flex-video">
-        <iframe width="1280" height="720" src="//www.youtube.com/embed/r8I-eJGL7O8" frameborder="0" allowfullscreen></iframe>
-</div>
+>Para promover el apoyo entre empresas, desarrolladores y usuario, evitando la obsolescencia programada, la piratería y la incorporación de software malintencionado.
 
 Más detalles en [Código fuente]({{ site.url }}/source/).
 
