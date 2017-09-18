@@ -39,4 +39,4 @@ La página *Deepin en Español* está desarrollado con [jekyll](http://jekyll.or
 
 Aparte de ser una página HTML5 tiene agregados a JQuery, al plugin [backstrech](http://srobbin.com/jquery-plugins/backstretch/) y [fundation](http://foundation.zurb.com/).
 
-Los detalles del funcionamiento está en [Tutopost]({{ site.url }}/tutopost/). Para los iniados en Git/Jekyll te presentamos un [microtutorial para realizar artículos en el blog con solo un programa]({{ site.url }}/info/tutopost/desdeatom/)). No olvides visitar [Mediaelement]({{ site.url }}/tutopost/mediaelement/) para que te guies al escribir posts.
+Los detalles del funcionamiento está en [Tutopost]({{ site.url }}/tutopost/). Para los iniados en Git/Jekyll te presentamos un [microtutorial para realizar artículos en el blog con solo un programa]({{ site.url }}/tutopost/desdeatom/)). No olvides visitar [Mediaelement]({{ site.url }}/tutopost/mediaelement/) para que te guies al escribir posts.
