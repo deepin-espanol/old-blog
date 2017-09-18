@@ -52,5 +52,5 @@ También puedes usar los archivos "appimage", archivos comprimidos para ejecutar
 
 ## Lista de aplicaciones
 {: .t60 }
-{% include list-posts categories='apps' %}
+{% include list-posts categories='apps' entries='10'%}
 <!--more-->

@@ -9,7 +9,8 @@ tags:
     - tienda
     - aplicaciones
     - store
-<!--more-->
+
+---
 En Deepin en Español te enseñamos a [instalar]({{ site.url }}/instalacion/). Pero si tienes problemas al organizar los archivos, no necesitas volver a reinstalar.
 
 Para tal caso necesitarás una aplicación encargada de particiones como [GParter]({{ site.url }}/apps/gparted/). Recuerda que necesitarás permisos de administrador y haber tenido una copia de seguridad para evitar problemas.
@@ -35,5 +36,4 @@ Si la partición está dañada usa esta opción. Primero verifícala con el bot�
 
 ### Más en Manual
 {: .t60 }
-
-{% include list-posts tag='manual' %}
+{% include list-posts category='manual' entries='3'%}

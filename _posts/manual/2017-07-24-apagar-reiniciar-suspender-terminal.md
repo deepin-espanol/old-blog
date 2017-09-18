@@ -37,6 +37,6 @@ Suspender:
 pm-suspend
 ~~~
 
-## Other Post Formats
+### Más en Manual
 {: .t60 }
-{% include list-posts tag='post format' %}
+{% include list-posts category='manual' entries='3'%}

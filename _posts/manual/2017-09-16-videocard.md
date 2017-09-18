@@ -36,5 +36,4 @@ AMD:
 
 ### Más en Manual
 {: .t60 }
-
-{% include list-posts tag='manual' %}
+{% include list-posts category='manual' entries='3'%}

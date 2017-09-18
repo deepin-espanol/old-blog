@@ -41,7 +41,27 @@ Para Deepin Boot Maker:
     </div><!-- /.medium-4.columns -->
 </div>
 
+Para Rufus (solo USB):
+1. Selecciona el dispositivo;
+2. Haz clic en el icono al costado de "Imagen ISO" y selecciona el archivo deepin-xx.iso (el nombre varía)
+3. Deja la configuración recomendada:
+  - Partición GPT para computadora UEFI
+  - Sistema de archivos FAT32
+  - Las etiquetas "Crear disco de arranque" y "Formateo rápido" marcadas
+4. Pulsa "Empezar"
+
+Para unetbootin:
+1. Selecciona "Imagen de disco" y selecciona el archivo
+2. Selecciona el tipo "USB Drive" o "CD" y la unidad
+3. Acepta
+
+<div class="row">
+    <div class="medium-12 columns t30">
+    <img src="{{ site.urlimg }}unetboot.jpg" alt="">
+    </div><!-- /.medium-4.columns -->
+</div>
+
+
 ### Más en Manual
 {: .t60 }
-
-{% include list-posts category='manual' %}
+{% include list-posts category='manual' entries='3'%}
