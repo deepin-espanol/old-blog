@@ -93,10 +93,6 @@ Sobre la instalación en el disco duro:
 <div class="flex-video">
         <iframe width="1280" height="720" src="//www.youtube.com/embed/-oswVXK8Vs0" frameborder="0" allowfullscreen></iframe>
 </div>
-Manjaro Deepin:
-<div class="flex-video">
-        <iframe width="1280" height="720" src="//www.youtube.com/embed/-oswVXK8Vs0" frameborder="0" allowfullscreen></iframe>
-</div>
 
 {% include alert success='Quieres mejorar, ¡colabora con nosotros!' %}
 {% include _improve_content.html %}
