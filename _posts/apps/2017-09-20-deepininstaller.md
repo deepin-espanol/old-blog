@@ -10,16 +10,18 @@ tags:
     - exe
 categories:
     - apps
-iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/mAQ4pAakLrg' frameborder='0' allowfullscreen></iframe>"
+iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/X9CtS251bv0' frameborder='0' allowfullscreen></iframe>"
 video:
-    embedURL: "https://www.youtube.com/embed/mAQ4pAakLrg"
-    contentURL: "https://www.youtube.com/watch?v=mAQ4pAakLrg"
-    thumbnailUrl: "http://img.youtube.com/vi/mAQ4pAakLrg/maxresdefault.jpg"
+    embedURL: "https://www.youtube.com/embed/X9CtS251bv0"
+    contentURL: "https://www.youtube.com/watch?v=X9CtS251bv0"
+    thumbnailUrl: "http://img.youtube.com/vi/X9CtS251bv0/maxresdefault.jpg"
 ---
 <!--more-->
 
 ## Qué es Deepin Installer
-Deepin Installer es una aplicación para Windows para instruirte. No alterará el funcionamiento con el sistema operativo.
+Deepin Installer es una aplicación para Windows para ayudar en la instalación del sistema operativo Deepin. A diferencia de la instalación convencional, el arranque no alterará el funcionamiento de ambos sistemas operativos.
+
+No confundir con Deepin Boot Maker.
 
 ## Disponibilidad
 
