@@ -62,7 +62,7 @@ El escritorio Deepin rquiere la librer√≠a Qt 5.7, necesaria para la interfaz gr√
 
 <div class="row">
     <div class="medium-12 columns t30">
-    <img src="{{ site.urlimg }}" alt="">
+    <img src="{{ site.urlimg }}manjaro-deepin-17.0.2.png" alt="Manjaro 17.0.2">
     </div><!-- /.medium-4.columns -->
 </div>
 
