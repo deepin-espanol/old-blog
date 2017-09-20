@@ -33,7 +33,8 @@ Los equipos más recientes soportan más memoria RAM ya que son de 64 bits de ar
 
 Para los gráficos, consulta [la página "Tarjetas de vídeo"]({{ site.url }}/manual/videocard/).
 
-## Descarga Deepin
+## Pasos para Deepin OS
+### Descarga Deepin
 
 Hay varias maneras de descargar, además del [oficial](https://www.deepin.org/en/download/):
 
@@ -47,11 +48,7 @@ Torrent:
 * [En PCDS, con archivos torrent](http://www.pcds.fi/downloads/iso/debianbased/deepin/about.deepin.debian.html)
 * [Linuxtracker.org, para la versión 15.4](http://linuxtracker.org/index.php?page=torrent-details&id=74fcdc5403dce919e83aa7e2c74bca2be12632a4)
 
-Nota: Para la versión Manjaro, no oficial: [Sourcefource](https://sourceforge.net/projects/manjaro-deepin/)
-
-Nota 2: Para descargar vía torrent es necesario un cliente compatible y comprobar la mayor cantidad de semillas, clientes encargadas de distribuir los archivos hacia otros clientes.
-
-## Instalación en limpio
+Para descargar vía torrent es necesario un cliente compatible y comprobar la mayor cantidad de semillas, clientes encargadas de distribuir los archivos hacia otros clientes.
 
 ### Preparación
 
@@ -61,18 +58,31 @@ Si no conoces, te [damos una mano]({{ site.url }}/manual/discoarranque/).
 
 ### Instalación
 
-* Arranca desde el disco o USB
-* Sigue las instrucciones
-* Para establecer las particiones del disco, realiza una instalación avanzada. No olvides de "/", "/boot", entre otros.
+* Arranca desde el disco o USB;
+* Sigue las instrucciones;
+* Selecciona la partición para el sistema y el arranque;
 * La instalación demora unos minutos.
 
-## Instalación junto a Windows
+### Instalación avanzada
+Para establecer las particiones del disco, realiza una instalación avanzada. Eso es útil para conservar **el sistema operativo vecino** como Windows. Las particiones que debes establecer lo explicamos:
 
-Si deseas usar Deepin junto a Windows, debes instalar de forma avanzada. Añade particiones "/", "/home" para Deepin y la carpeta de Mis documentos, recomendamos hacer en un disco duro aparte. Además, usa la partición "/boot" para establecer el doble arranque (o dual boot), si tu PC no tiene uno.
+1. Añade una partición EXT4 con el arranque "/" para el sistema operativo. El mínimo es 10GB.
+2. Tienes dos formas de establecer el sistema arranque, en el disco duro o en una la partición EXT4 de 300MB "/boot" (para el dual boot).
+2. Otra partición "/home" para la carpeta de Mis documentos. Si establecer en un disco duro aparte de los componentes, mejor.
 
-Pero al ser complicado y tedioso tener Windows y Deepin en un solo disco duro, intenta instalar Deepin con la aplicación [Deepin Windows Installer](https://www.deepin.org/it/original/deepin-installer/) para Microsoft Windows.
+Nota: Revisa [la página Dual Boot]({{ site.url }}/manual/dual-boot/) para conocer los riegos que conlleva.
 
-Advertencia: [Revisa la página Dual Boot]({{ site.url }}/manual/dual-boot/) para conocer los riegos que conlleva.
+## Otras formas de instalar Deepin
+
+### Deepin Manjaro
+
+Es una [versión no oficial](https://manjaro.github.io/Manjaro-Deepin-released/) basada en Arch en lugar de Debian. Descárgalos desde [Sourcefource](https://sourceforge.net/projects/manjaro-deepin/).
+
+Si tienes instalado un sistema operativo, visita [la página Otras distros]({{ site.url }}/manual/otrasdistros/) para conseguir el escritorio.
+
+### Instalación junto a Windows
+
+Si te complica instalar Deepin con la instalación avanzada Deepin con la [aplicación para Microsoft Windows]({{ site.url }}/apps/deepininstaller/).
 
 ## Anexo: Vídeos explicativos
 Un vídeo explicativo para instalar Deepin cortesía de Salmorejo Geek:

@@ -25,7 +25,7 @@ header:
 Los códigos fuente del sistema operativo y las aplicaciones está en [Github](https://github.com/linuxdeepin/). Parte del sistema está basado en Debian, [el código fuente esta en debian.net](https://sources.debian.net/).
 
 ## Sobre Linux
-Linux es el alma del sistema operativo para que funcione en muchos dispositivos. Si deseas cambiar a una propia consígelo del [código fuente original](https://github.com/torvalds/linux) e [instala esa versión]({{ site.url }}/tips/kernel/) .
+Linux es el alma del sistema operativo para que funcione en muchos dispositivos. Si deseas cambiar a una propia consígelo del [código fuente original](https://github.com/torvalds/linux) e [instala esa versión]({{ site.url }}/tips/kernel/).
 
 Debajo, el documental "Codename:Linux" traducido para RTVE:
 <div class="flex-video">
