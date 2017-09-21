@@ -35,4 +35,4 @@ Al iniciar tienes un código QR para conectar en poco tiempo. Si no fuenciona, t
 
 Assistant está disponible en Deepin Store.
 
-Fuente: [Deepin](https://www.deepin.org/en/2017/09/01/deepin-presentation-assistant-v1-0-is-released-wireless-projection-without-wire-limitation/)
+Fuente: [Deepin](https://www.deepin.org/es/2017/09/01/deepin-presentation-assistant-v1-0-is-released-wireless-projection-without-wire-limitation/)
