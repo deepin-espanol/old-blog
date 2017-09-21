@@ -22,12 +22,16 @@ Nota: Los cambios están enfocados en la página web y el material que estemos b
 
 2017-07-31
 :  Lanzamiento de Deepin en Español con 4 categorías, portada con selección de noticias y redes sociales.
+:  Anunciado Deepin 15.4.1.
 
 2017-07-22
 :  Primeros avances del proyecto Deepin en Español gracias a [Jeryll](http://jeryll.org). Una de ellas es el [blog]({{ site.url }}/blog/) y [la lista de archivos]({{ site.url }}/blog/archive/)
 
 2017-06-30
 :  Primera versión candidata de Deepin 15.4.1.
+
+Noviembre de 2016
+:  Creación del grupo Deepin en Español en Telegram
 
 
 
