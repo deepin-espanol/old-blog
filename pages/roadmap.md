@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Hoja de ruta"
-subheadline: "Páginas para consultar los últimos avances por hacer"
-teaser: "Planes para el proyecto Deepin en Español y las características que se añadirán a Deepin OS."
+subheadline: "Extra"
+teaser: "Recopilado de mejoras y próximos proyectos en Deepin."
 header:
    image_fullwidth: "header_roadmap_3.jpg"
 permalink: "/roadmap/"
