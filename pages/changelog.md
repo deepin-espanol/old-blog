@@ -2,8 +2,8 @@
 layout: page
 title: "¡Nuestro historial!"
 meta_title: "Avances"
-subheadline: "Cambios en el proyecto web y el sistema operativo"
-teaser: "History and changelog of Feeling Responsive Theme"
+subheadline: "Extra"
+teaser: "Cambios en el proyecto web y el sistema operativo"
 header:
    image_fullwidth: "header_unsplash_9.jpg"
 permalink: "/changelog/"
