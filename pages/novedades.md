@@ -2,18 +2,16 @@
 layout: page
 show_meta: false
 title: "Novedades"
-subheadline: "Avances y mejoras en Deepin y la comunidad"
-teaser: "Nuestra página de la comunidad."
+subheadline: "Extra"
+teaser: "Recopilatorio de novedades."
 header:
    image_fullwidth: "header_homepage_13.jpg"
 permalink: "/novedades/"
 ---
-Este es la página de novedades. Dos de las páginas son:
-1. [La lista de cambios en Deepin][1] para consultar *los cambios significativos en el sitema operativo*.
-1. [La hoja de ruta en Deepin][2] para ver qué mejoras tienen planeadas en las siguientes versiones.
+Este es un recopilatorio de las novedades que añadimos en Deepin:
+* [La lista de cambios de Deepin en Español]({{ site.url }}{{ site.baseurl }}/changelog/).
+* [La hoja de ruta en Deepin]({{ site.url }}{{ site.baseurl }}/roadmap/) con enlaces a las páginas de desarrollo del equipo oficial.
 
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/documentation/">Check out the documentation for all the tricks ›</a>
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/info/">No olvides conocer a nosotros ›</a>
 
-
- [1]: {{ site.url }}{{ site.baseurl }}/changelog/
- [1]: {{ site.url }}{{ site.baseurl }}/roadmap/
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/tips/feedback/">Reporta un error o sugerencia ›</a>

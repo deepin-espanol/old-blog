@@ -12,8 +12,8 @@
     url: "/update/"
   - title: "Código fuente"
     url: "/source/"
-  - title: "Avances"
-    url: "/changelog/"
+  - title: "Hoja de ruta"
+    url: "/roadmap/"
 
 - title: "Aplicaciones"
   url: "/apps/"
@@ -52,5 +52,5 @@
     url: "/info/contact/"
   - title: "Quejas frecuentes"
     url: "/info/quejas/"
-  - title: "Hoja de ruta"
-    url: "/roadmap/"
+  - title: "Historial"
+    url: "/changelog/"
