@@ -1,15 +1,16 @@
 ---
 #
-# Use the widgets beneath and the content will be
-# inserted automagically in the webpage. To make
-# this work, you have to use › layout: frontpage
+# Usamos los widgets y la cadena del contenido
+# para incrustarlo automáticamente, si estás
+# editando, revisa › layout: frontpage
 #
-# Nota: Cambiar http://deepin-espanol.github.io si fuera necesario
+# Nota: La base es http://deepin-espanol.github.io
 #
 layout: frontpage
-teaser: "Página web Deepin en Español"
+teaser: "¡Una alternativa en nuestro idioma!"
 header:
   image_fullwidth: header_unsplash_12.jpg
+# Widgets
 widget1:
   title: "Instructivo"
   url: 'https://deepin-espanol.github.io/blog/'
