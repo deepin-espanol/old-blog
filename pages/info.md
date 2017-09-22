@@ -29,7 +29,7 @@ Como Deepin es una distribución Linux, contiene una serie de componentes desarr
 Más detalles en [Código fuente]({{ site.url }}/source/).
 
 ## Páginas de apoyo
-Para transparencia, damos a conocer [los términos y condiciones del sitio]({{ site.url }}/info/tos/) incluyendo las limitaciones de responsabilidad.
+Para transparencia, damos a conocer [los términos y condiciones del sitio]({{ site.url }}/info/tos/) incluyendo las limitaciones de responsabilidad. La lista de cambios [lo publicamos en una página aparte]({{ site.url }}{{ site.baseurl }}/changelog/).
 
 Si tienes alguna consulta, elaboramos una [página con los argumentos más frecuentes]({{ site.url }}/info/quejas/).
 

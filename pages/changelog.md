@@ -11,6 +11,9 @@ permalink: "/changelog/"
 
 Nota: Los cambios están enfocados en la página web y el material que estemos brindando.
 
+2017-09-17
+: Ya es estable. Contiene Redes sociales, Barra de navegación, [Información]({{ site.url }}/info/) del proyecto y Tutoriales.
+
 2017-09-01
 :  Añadido ["Términos de uso"]({{ site.url }}/info/tos) con explicaciones sobre los derechos y deberes.
 
