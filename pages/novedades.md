@@ -23,3 +23,9 @@ Tomamos como referencia estos enlaces:
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/info/">No olvides conocer a nosotros ›</a>
 
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/tips/feedback/">Reporta un error o sugerencia ›</a>
+
+<div class="row">
+    <div class="medium-12 columns t30">
+    <img src="{{ site.urlimg }}deepinmascot.png" alt="Mascota Deepin, elaborado por el equipo.">
+    </div><!-- /.medium-4.columns -->
+</div>
