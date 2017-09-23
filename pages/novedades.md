@@ -14,8 +14,9 @@ Este es la página recopilatoria de ideas y propuestas para mejorar Deepin. Por 
 Tomamos como referencia estos enlaces:
 
 * Las propuestas para la nueva versión de Deepin en español están [en la página de deepin.org](https://www.deepin.org/en/developer-community/planning/).
-* Para la corrección de errores, [recurrimos a Bugzilla](https://bugzilla.deepin.io/) (requiere registro).
-* La lista de cambios del sistema y las aplicaciones están en [Google Developers](https://groups.google.com/d/msg/deepin-developers/)
+* Para la corrección de errores, [recurrimos a Bugzilla](https://bugzilla.deepin.io/) y [el control de calidad](https://cr.deepin.io/) (requieren registro).
+* La lista de cambios del sistema y las aplicaciones están en [Google Developers](https://groups.google.com/forum/#!forum/deepin-developers)
+* Publicaciones en [Distrowatch](http://distrowatch.com/table.php?distribution=deepin)
 
 ## Más enlaces
 
