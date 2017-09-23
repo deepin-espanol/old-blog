@@ -46,7 +46,7 @@ Los archivos llevan la terminación .flatpak. Para la interfaz de usuario necesi
 
 ## Otras formas
 
-Hay otras formas de instalar usando scripts (archivos sh). Este método es menos seguro y genera cierta inestabilidad.
+Hay otras formas de instalar usando scripts (archivos sh o bin). Este método es menos seguro y genera cierta inestabilidad al no usar las herramientas adecuadas. Considera crear un [acceso directo]({{ site.url }}{{ site.baseurl }}/tips/accesodirecto/) si quieres abrir desde el escritorio.
 
 También puedes usar los archivos "appimage", archivos comprimidos para ejecutar los programas sin necesidad de instalarlos. Aunque, algunos archivos se guardan en una carpeta con el nombre del programa.
 
