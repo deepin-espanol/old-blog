@@ -9,7 +9,6 @@ permalink: "/novedades/"
 ---
 Este es la página recopilatoria de ideas y propuestas para mejorar Deepin. Por motivos de tiempo, no añadimos las próximas mejoras, lo haremos en la categoría Noticias. Palabra.
 
-
 ## Páginas de apoyo
 
 Tomamos como referencia estos enlaces:
