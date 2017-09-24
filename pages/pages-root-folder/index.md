@@ -38,7 +38,7 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: 'https://deepin-espanol.github.io/instalacion'
+  url: 'https://deepin-espanol.github.io/download'
   text: 'Descarga e instala la última versión de Deepin ›'
   style: alert
 permalink: /index.html

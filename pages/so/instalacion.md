@@ -33,30 +33,7 @@ Los equipos más recientes soportan más memoria RAM ya que son de 64 bits de ar
 
 Para los gráficos, consulta [la página "Tarjetas de vídeo"]({{ site.url }}/manual/videocard/).
 
-## Pasos para Deepin OS
-### Descarga Deepin
-
-Hay varias maneras de descargar, además del [oficial](https://www.deepin.org/en/download/):
-
-* [En SourceForge](https://sourceforge.net/projects/deepin/)
-* [Kernel.org](http://mirrors.kernel.org/deepin-cd/)
-* [Empresa en Silicon Valley, EUA](http://mirror1.sjc02.svwh.net/deepin-cd/)
-* Otras formas para descargar en [la página Lista de espejos]({{ site.url }}//tips/mirror/).
-
-Torrent:
-
-* [En PCDS, con archivos torrent](http://www.pcds.fi/downloads/iso/debianbased/deepin/about.deepin.debian.html)
-* [Linuxtracker.org, para la versión 15.4](http://linuxtracker.org/index.php?page=torrent-details&id=74fcdc5403dce919e83aa7e2c74bca2be12632a4)
-
-Para descargar vía torrent es necesario un cliente compatible y comprobar la mayor cantidad de semillas, clientes encargadas de distribuir los archivos hacia otros clientes.
-
-### Preparación
-
-Cuando tengas el archivo ISO, utiliza una aplicación para copiar los archivos al USB o DVD (no CD) con la aplicación que prefieras.
-
-Si no conoces, te [damos una mano]({{ site.url }}/manual/discoarranque/).
-
-### Instalación
+## Instalación
 
 * Arranca desde el disco o USB;
 * Sigue las instrucciones;
@@ -72,17 +49,13 @@ Para establecer las particiones del disco, realiza una instalación avanzada. Es
 
 Nota: Revisa [la página Dual Boot]({{ site.url }}/manual/dual-boot/) para conocer los riegos que conlleva.
 
-## Otras formas de aprovechar Deepin
-
-### Deepin Manjaro
-
-Es una [versión no oficial](https://manjaro.github.io/Manjaro-Deepin-released/) basada en Arch en lugar de Debian. Descárgalos desde [Sourcefource](https://sourceforge.net/projects/manjaro-deepin/).
-
-Si tienes instalado un sistema operativo, visita [la página Otras distros]({{ site.url }}/manual/otrasdistros/) para conseguir el escritorio.
+## Otras formas de instalar Deepin
 
 ### Instalación junto a Windows
 
 Si te complica instalar Deepin con la instalación avanzada Deepin con la [aplicación para Microsoft Windows]({{ site.url }}/apps/deepininstaller/).
+
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/update/">Continúa con las actualizaciones ›</a>
 
 ## Anexo: Vídeos explicativos
 Un vídeo explicativo para instalar Deepin cortesía de Salmorejo Geek:

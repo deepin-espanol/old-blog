@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Novedades y hoja de ruta"
+title: "Novedades y avances"
 subheadline: "Extra"
 teaser: "Recopilado de mejoras y próximos proyectos en Deepin."
 header:

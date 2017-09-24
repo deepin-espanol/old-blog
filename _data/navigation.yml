@@ -6,14 +6,16 @@
   url: "/so/"
   side: left
   dropdown:
+  - title: "Descarga"
+    url: "/download/"
   - title: "Instalación"
     url: "/instalacion/"
   - title: "Actualización"
     url: "/update/"
+  - title: "Novedades y avances"
+    url: "/novedades/"
   - title: "Código fuente"
     url: "/source/"
-  - title: "Hoja de ruta"
-    url: "/novedades/"
 
 - title: "Aplicaciones"
   url: "/apps/"
