@@ -43,7 +43,7 @@ Cuando tengas el archivo ISO, utiliza una aplicación para copiar los archivos a
 
 Si no conoces, te [damos una mano]({{ site.url }}/manual/discoarranque/).
 
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/update/">Continúa con la instalación ›</a>
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/instalacion/">Continúa con la instalación ›</a>
 
 ## Anexo: Ediciones no oficiales
 

@@ -49,15 +49,14 @@ Para establecer las particiones del disco, realiza una instalación avanzada. Es
 
 Nota: Revisa [la página Dual Boot]({{ site.url }}/manual/dual-boot/) para conocer los riegos que conlleva.
 
-## Otras formas de instalar Deepin
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/update/">Continúa con las actualizaciones ›</a>
+
+## Anexo: Otras formas de instalar Deepin
 
 ### Instalación junto a Windows
 
 Si te complica instalar Deepin con la instalación avanzada Deepin con la [aplicación para Microsoft Windows]({{ site.url }}/apps/deepininstaller/).
 
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/update/">Continúa con las actualizaciones ›</a>
-
-## Anexo: Vídeos explicativos
 Un vídeo explicativo para instalar Deepin cortesía de Salmorejo Geek:
 <div class="flex-video">
         <iframe width="1280" height="720" src="//www.youtube.com/embed/A_VM9XSBaus" frameborder="0" allowfullscreen></iframe>
