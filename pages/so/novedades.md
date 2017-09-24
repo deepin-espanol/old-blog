@@ -17,6 +17,7 @@ Tomamos como referencia estos enlaces:
 * Para la corrección de errores, [recurrimos a Bugzilla](https://bugzilla.deepin.io/) y [el control de calidad](https://cr.deepin.io/) (requieren registro).
 * La lista de cambios del sistema y las aplicaciones están en [Google Developers](https://groups.google.com/forum/#!forum/deepin-developers)
 * Publicaciones en [Distrowatch](http://distrowatch.com/table.php?distribution=deepin)
+* Del [código fuente]({{ site.url }}{{ site.baseurl }}/source/)
 
 ## Más enlaces
 
