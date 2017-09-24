@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 title: "Actualización"
-subheadline: "Actualiza Deepin fácilmente"
+subheadline: "Sistema operativo"
 teaser: "Los pasos más claros para actualizar"
 permalink: "/update/"
 header:
@@ -25,8 +25,9 @@ header:
 Antes de actualizar Deepin tu equipo debe estar preparado:
 
 * Ten al menos 10 GB de espacio libre en el disco duro o sólido para descargar los archivos
-* Tu equipo debe estar conectado a Internet
-* Evita ejecutar aplicaciones pesadas o que comprometa el rendimiento del equipo
+* Tu equipo debe estar conectado a Internet, cableado o vía WiFi
+* Cierra las aplicaciones que consuman muchos recursos
+* En caso de computadores portátiles, debe tener un buen estado de batería
 
 ## Selecciona un espejo
 

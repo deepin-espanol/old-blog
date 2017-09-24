@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 title: "Código fuente"
-subheadline: "Desarrolladores"
+subheadline: "Sistema operativo"
 teaser: "Para desarrolladores que quieren colaborar en Deepin"
 permalink: "/source/"
 header:

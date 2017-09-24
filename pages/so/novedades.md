@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: page-fullwidth
 title: "Novedades y avances"
-subheadline: "Extra"
+subheadline: "Sistema operativo"
 teaser: "Recopilado de mejoras y próximos proyectos en Deepin."
 header:
    image_fullwidth: "wallpaper.jpg"

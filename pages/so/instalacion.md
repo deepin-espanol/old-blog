@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 title: "Instalación"
-subheadline: "En unos minutos"
+subheadline: "Sistema operativo"
 teaser: "Esta página explica como instalar"
 permalink: "/instalacion/"
 header:

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Sobre el sistema operativo"
-subheadline: "Ayuda"
+title: "Índice el sistema operativo"
+subheadline: "Sistema operativo"
 teaser: "Páginas relacionadas al sistema operativo"
 permalink: "/so/"
 categories:

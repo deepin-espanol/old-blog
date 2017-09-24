@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 title: "Descarga Deepin"
-subheadline: "SO"
+subheadline: "Sistema operativo"
 teaser: "En varios portales y espejos web"
 permalink: "/download/"
 header:
@@ -48,6 +48,8 @@ Si no conoces, te [damos una mano]({{ site.url }}/manual/discoarranque/).
 ## Anexo: Ediciones no oficiales
 
 Manjaro Deepin es una [versión no oficial](https://manjaro.github.io/Manjaro-Deepin-released/) basada en Arch en lugar de Debian. Descárgalos desde [Sourcefource](https://sourceforge.net/projects/manjaro-deepin/).
+
+Pardus, basada en la versión estable Debian 9, utilizará el entorno Deepin. Está disponible [desde su página web](http://www.pardus.org.tr/).
 
 Si tienes instalado un sistema operativo, visita [la página Otras distros]({{ site.url }}/manual/otrasdistros/) para conseguir el escritorio.
 
