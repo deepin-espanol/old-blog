@@ -26,6 +26,6 @@ Tomamos como referencia estos enlaces:
 
 <div class="row">
     <div class="medium-12 columns t30">
-    <img src="{{ site.urlimg }}deepinmascot.png" alt="Mascota Deepin, elaborado por el equipo.">
+    <img src="{{ site.urlimg }}deepinmascot.jpg" alt="Mascota Deepin, elaborado por el equipo.">
     </div><!-- /.medium-4.columns -->
 </div>
