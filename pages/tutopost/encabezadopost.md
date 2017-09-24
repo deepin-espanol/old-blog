@@ -54,7 +54,7 @@ Cuerpo del texto
 
 ### Con una imagen de fondo
 
-Eso es opcional, añade una imagen para decorar el contenido.
+Eso es opcional, añade una imagen para decorar el contenido. El resultado sería [decorativo]({{ site.url }}{{ site.baseurl }}/tutopost/extra/).
 
 ~~~
 ---
@@ -82,6 +82,7 @@ image:
 ---
 Cuerpo del texto
 ~~~
+
 ### Vídeo de fondo
 También puedes usar una vídeo de fondo. Muy adecuado a presentar una grabación sin recurrir demasiado al texto.
 
