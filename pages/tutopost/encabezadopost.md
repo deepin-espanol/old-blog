@@ -3,7 +3,7 @@ layout: page-fullwidth
 title: "Encabezado del post"
 subheadline: "Ayuda"
 teaser: "Qué encabezado debe tener el post"
-permalink: "/tutopost/plantillapost/"
+permalink: "/tutopost/encabezadopost/"
 categories:
   - tutopost
 header:
