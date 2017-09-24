@@ -4,7 +4,7 @@ title: "Novedades y avances"
 subheadline: "Extra"
 teaser: "Recopilado de mejoras y próximos proyectos en Deepin."
 header:
-   image_fullwidth: "header_homepage_3.jpg"
+   image_fullwidth: "wallpaper.jpg"
 permalink: "/novedades/"
 ---
 Este es la página recopilatoria de ideas y propuestas para mejorar Deepin. Por motivos de tiempo, no añadimos las próximas mejoras, lo haremos en la categoría Noticias. Palabra.

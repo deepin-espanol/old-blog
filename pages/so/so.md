@@ -12,7 +12,7 @@ header:
 
 Estas son las páginas acerca del sistema operativo Deepin:
 
-* [Instalación]({{ site.url }}{{ site.baseurl }}/instalacion/).
+* [Descarga]({{ site.url }}{{ site.baseurl }}/download/).
 * [Instalación]({{ site.url }}{{ site.baseurl }}/instalacion/).
 * [Actualización]({{ site.url }}{{ site.baseurl }}/update/).
 * [Novedades y avances]({{ site.url }}{{ site.baseurl }}/changelog/).
@@ -30,4 +30,6 @@ Deepin es un sistema operativo que irá mejorando a medida que conozcas. Está p
 
 * Si tienes alguna sugerencia o error del software, repórtalo desde [Deepin Feedback](http://feedback.deepin.org/?language=en_US). Basta acceder desde el lanzador y, si quieres añadir un archivo con detalles del sistema operativo, accede como administrador.
 
-* Estamos seguro que hay otras distros relacionados a Deepin como Linux Mint (basada en Ubuntu), Manjaro (basada en Arch) o Korora (basada en Fedora). Si necesitas alguno por su complejidad, compatibilidad o enfocado en empresas, elige cualquiera de los tres.
+## Hay más... GNU/Linux
+
+Estamos seguro que hay otras distros relacionados a Deepin como Linux Mint (basada en Ubuntu), Manjaro (basada en Arch) o Korora (basada en Fedora). Si necesitas alguno por su complejidad, compatibilidad o enfocado en empresas, elige cualquiera de los tres. Si usas el tema Adapta Theme en entornos KDE o GNOME, lo harás más moderno de lo esperado.
