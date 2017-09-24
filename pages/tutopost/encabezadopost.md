@@ -110,6 +110,8 @@ video:
     contentURL: ""
     thumbnailUrl: ""
 ---
+Cuerpo del texto
+~~~
 
 ## Extra
 
