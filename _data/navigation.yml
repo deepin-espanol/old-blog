@@ -21,6 +21,8 @@
   url: "/apps/"
   side: left
   dropdown:
+  - title: "Escenciales"
+    url: "/escenciales/"
   - title: "Juegos"
     url: "/games/"
   - title: "Iconos"
