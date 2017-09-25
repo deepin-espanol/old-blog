@@ -6,16 +6,19 @@ subheadline: "Extra"
 teaser: "Cambios en el proyecto web y el sistema operativo"
 header:
    image_fullwidth: "header_unsplash_9.jpg"
-permalink: "/changelog/"
+permalink: "/info/historial/"
 ---
 
 Nota: Los cambios están enfocados en la página web y el material que estemos brindando.
 
+2017-09-24
+: Sección [Aplicaciones escenciales]({{ site.url }}{{ site.baseurl }}/escenciales/). Reestructuración.
+
 2017-09-17
-: Ya es estable. Contiene Redes sociales, Barra de navegación, [Información]({{ site.url }}/info/) del proyecto y Tutoriales.
+: Ya es estable. Contiene Redes sociales, Barra de navegación, [Información]({{ site.url }}{{ site.baseurl }}/info/) del proyecto y Tutoriales.
 
 2017-09-01
-:  Añadido ["Términos de uso"]({{ site.url }}/info/tos) con explicaciones sobre los derechos y deberes.
+:  Añadido ["Términos de uso"]({{ site.url }}{{ site.baseurl }}/info/tos) con explicaciones sobre los derechos y deberes.
 
 2017-08-17
 :  Lanzada ["Tutopost"]({{ site.url }}/tutopost) para conocer mejor al proyecto Deepin en español.

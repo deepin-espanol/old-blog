@@ -2,7 +2,7 @@
 title: "Juegos es Games"
 layout: redirect
 sitemap: false
-permalink: /contact/
-redirect_to:  "../info/contact"
+permalink: /juegos/
+redirect_to:  "../games/"
 ---
 Estamos redirigiendo la página a `games`. Un momento.
