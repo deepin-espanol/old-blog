@@ -5,9 +5,9 @@ subheadline: "Aplicaciones"
 teaser: "Mensajería sencilla y general"
 tags:
     - mensajeria
-    - cifrado
+    - comunicacion
     - contacto
-    - seguridad
+    - telefonia
 categories:
     - apps
 iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/0ln1GQ4e5lQ' frameborder='0' allowfullscreen></iframe>"
