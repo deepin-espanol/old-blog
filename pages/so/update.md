@@ -21,6 +21,7 @@ header:
 {% include _improve_content.html %}
 
 ## Antes de actualizar
+## Recomendaciones
 
 Antes de actualizar Deepin tu equipo debe estar preparado:
 
@@ -29,7 +30,7 @@ Antes de actualizar Deepin tu equipo debe estar preparado:
 * Cierra las aplicaciones que consuman muchos recursos
 * En caso de computadores portátiles, debe tener un buen estado de batería
 
-## Selecciona un espejo
+### Selecciona un espejo
 
 Aparte del [oficial](https://www.deepin.org/en/mirrors/packages/):
 
@@ -45,20 +46,23 @@ Ejemplos:
 
 ## Actualizar
 
-La forma más elegante de actualizar, es accediendo el acceso "Actualizar" desde el Centro de Control.
+La forma más elegante de conseguir la última versión es accediendo al Centro de Control.
 
-### Pasos
+1. Revisa si tienes una notificación o dirígete a la opción "Actualizar";
+2. Espera unos minutos, dependiendo de la conexión a Internet;
+3. Revisa la lista de cambios y haz clic en actualizar;
+4. Cuando se descarga los componentes del sistema, cierra las aplicaciones y procede a instalar;
+5. Se reiniciará y demorará unos minutos.
 
-1. Actualiza
-2. Espera unos minutos, dependiendo de la conexión a Internet
-3. Haz clic en actualizar
-4. Cuando se actualiza componentes del sistema, cierra las aplicaciones y procede
-5. Se reiniciará y demorará unos minutos
+## Anexos
+
+### Ver los útlimos cambios
+Tenemos un listado de cambios en la opción "Revisa las novedades". Para las actualizaciones de seguridad visita la [página web de Deepin](https://www.deepin.org/en/category/system-update/).
 
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/novedades/">No olvides revisar las novedades y avances ›</a>
 
-## Anexo: Desde la terminal
-Otra forma es accediendo a la **Terminal de Deepin**, útil para no reiniciar el equipo. En primer lugar, deberás actualizar la lista de paquetes con el comando `update` y escribe la contraseña root.
+## Usar la terminal
+Otra forma es accediendo a la **Terminal de Deepin**, útil para no reiniciar el equipo o comprobar las dependencias en los paquetes. En primer lugar, deberás actualizar la lista de paquetes con el comando `update` y escribe la contraseña root.
 
 Más detalles en [la página correspondiente]({{ site.url }}/tips/sources/).
 
