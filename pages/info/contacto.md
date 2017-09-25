@@ -14,7 +14,7 @@ Si este proyecto tiene problemas con los derechos de autor, usa [este formulario
 ## Sobre la comunidad Deepin en Español
 * [Grupo en Telegram](https://t.me/deepinenespanol)
 
-Nota: No tenemos una página de formulario o foro.
+Nota: No tenemos una página de formulario o foro elaborado por la comunidad Deepin en Español.
 
 ## Sobre Deepin
 * [Página web oficial](https://www.deepin.org/en/)
