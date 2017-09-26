@@ -5,7 +5,7 @@ subheadline: "Sistema operativo"
 teaser: "Haz que Deepin sea comprensible a hispanohablantes."
 header:
    image_fullwidth: "wallpaper.jpg"
-permalink: "/novedades/"
+permalink: "/translate/"
 ---
 Deepin es traducido en varios idiomas, incluyendo el español. Para que Deepin sea fácil de entender a los hablantes de la lengua de Cervantes, necesitamos tu ayuda con recomendaciones para entender mejor.
 
