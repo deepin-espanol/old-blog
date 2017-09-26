@@ -23,6 +23,9 @@ Tomamos como referencia estos enlaces:
 
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/info/">No olvides conocer a nosotros ›</a>
 
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/translate/">Traduce Deepin al español ›</a>
+
+
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/tips/feedback/">Reporta un error o sugerencia ›</a>
 
 <div class="row">
