@@ -16,6 +16,7 @@ Estas son las páginas acerca del sistema operativo Deepin:
 * [Instalación]({{ site.url }}{{ site.baseurl }}/instalacion/).
 * [Actualización]({{ site.url }}{{ site.baseurl }}/update/).
 * [Novedades y avances]({{ site.url }}{{ site.baseurl }}/changelog/).
+* [Traducción]({{ site.url }}{{ site.baseurl }}/translate/).
 * [Código fuente]({{ site.url }}{{ site.baseurl }}/source/).
 
 ### Recomendaciones

@@ -31,7 +31,7 @@ baseurl: '/'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/deepin-espanol/deepin-espanol.github.io/edit/gh-pages/
+improve_content: https://github.com/deepin-espanol/deepin-espanol.github.io/edit/master/
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -76,7 +76,7 @@ exclude:
     - README.md
     - ADVETENCIA.md
     - AYUDAPOST.md
-    
+
 exclude_paths:
     - "licenses/"
 
@@ -194,8 +194,8 @@ og_type:                            'website'
 #
 
 socialmedia:
-    twitter: 
-    facebook: 
+    twitter:
+    facebook:
 
 
 #        ____  _
@@ -207,7 +207,7 @@ socialmedia:
 #
 # used in _includes/comments
 
-#disqus_shortname: 
+#disqus_shortname:
 
 
 #      _____
@@ -231,7 +231,7 @@ sass:
 #
 # used in _includes/footer_scripts
 
-# google_analytics_tracking_id: 
+# google_analytics_tracking_id:
 
 
 

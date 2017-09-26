@@ -49,6 +49,7 @@ Qué contiene el post:
 ### Otras capacidades
 
 * [Mediaelement]({{ site.url }}/tutopost/mediaelement/).
+* [Wallpaper]({{ site.url }}/tutopost/wallpost/).
 * [Códigos de encabezado]({{ site.url }}/tutopost/doc/).
 * [Tipografía permitida]({{ site.url }}/tutopost/tipografia/).
 
