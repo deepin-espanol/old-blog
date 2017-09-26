@@ -17,7 +17,7 @@ Visita la página del proyecto en [Transifex](https://www.transifex.com/linuxdee
 
 ## Recomendaciones
 
-Tenemos un [listado en crecimiento]({{ site.url }}{{ site.baseurl }}/traducciones/).
+Tenemos un [listado en crecimiento]({{ site.url }}{{ site.baseurl }}/traducciones/). La mayoría en español internacional.
 
 ## Páginas de apoyo
 
@@ -26,6 +26,6 @@ Tenemos un [listado en crecimiento]({{ site.url }}{{ site.baseurl }}/traduccione
 
 <div class="row">
     <div class="medium-12 columns t30">
-    <img src="{{ site.urlimg }}deepintransifex.jpg" alt="La página de traducción en Transifex.">
+    <img src="{{ site.urlimg }}deepintransifex.png" alt="La página de traducción en Transifex.">
     </div><!-- /.medium-4.columns -->
 </div>
