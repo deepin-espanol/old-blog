@@ -2,10 +2,10 @@
 layout: page-fullwidth
 title: "Traduce Deepin"
 subheadline: "Sistema operativo"
-teaser: "Haz que Deepin sea comprensible a hispanohablantes."
+teaser: "Lista de traducciones."
 header:
    image_fullwidth: "wallpaper.jpg"
-permalink: "/novedades/"
+permalink: "/traducciones/"
 ---
 
 {% include _improve_content.html %}
