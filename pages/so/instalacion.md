@@ -51,6 +51,8 @@ Nota: Revisa [la página Dual Boot]({{ site.url }}/manual/dual-boot/) para conoc
 
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/update/">Continúa con las actualizaciones ›</a>
 
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/escenciales/">Ver lista de aplicaciones escenciales ›</a>
+
 ## Anexo: Otras formas de instalar Deepin
 
 ### Instalación junto a Windows

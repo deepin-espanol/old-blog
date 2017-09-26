@@ -32,21 +32,15 @@ Las páginas están escritas en Markdown. Nosotros usamos Git para sincronizar l
 
 ## Tutoriales para principiantes
 
-Método 1 (offline):
-* [Añadir y editar post desde Atom]({{ site.url }}/tutopost/desdeatom/).
-* [Qué contiene una publicación]({{ site.url }}/tutopost/plantillapost/).
+Formas de editar la página web y añadir post:
+* [Desde Atom]({{ site.url }}/tutopost/desdeatom/).
+* [Desde la web de Github]({{ site.url }}/tutopost/usargithub/).
 
-Método 2 (online):
-* [Añadir y editar posts desde la web de Github]({{ site.url }}/tutopost/usargithub/).
-* [Qué contiene una publicación]({{ site.url }}/tutopost/plantillapost/).
+Qué contiene el post:
+* [Encabezado post]({{ site.url }}/tutopost/encabezadopost/).
+* [Cuerpo del post]({{ site.url }}/tutopost/cuerpopost/).
 
-## Documentación avanzada
-
-### Lectura adicional
-
-* [Complementos para escribir en Markdown]({{ site.url }}/tutopost/extra/).
-
-### Tutoriales sobre CMS
+## Documentación sobre CMS
 
 * [Git]({{ site.url }}/tutopost/git/).
 * [Jekyll]({{ site.url }}/tutopost/jekyll/).

@@ -61,10 +61,10 @@ Tenemos un listado de cambios en la opción "Revisa las novedades". Para las act
 
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/novedades/">No olvides revisar las novedades y avances ›</a>
 
-## Usar la terminal
+## Anexo: Usar la terminal
 Otra forma es accediendo a la **Terminal de Deepin**, útil para no reiniciar el equipo o comprobar las dependencias en los paquetes. En primer lugar, deberás actualizar la lista de paquetes con el comando `update` y escribe la contraseña root.
 
-Más detalles en [la página correspondiente]({{ site.url }}/tips/sources/).
+Adicionalmente, edita el archivo para las fuentes de la página. Más detalles en [la página correspondiente]({{ site.url }}/tips/sources/).
 
 ~~~
 sudo apt update

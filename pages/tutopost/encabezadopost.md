@@ -54,7 +54,7 @@ Cuerpo del texto
 
 ### Con una imagen de fondo
 
-Eso es opcional, añade una imagen para decorar el contenido. El resultado sería [decorativo]({{ site.url }}{{ site.baseurl }}/tutopost/extra/).
+Eso es opcional, añade una imagen para decorar el contenido. El resultado sería [decorativo]({{ site.url }}{{ site.baseurl }}/header/).
 
 ~~~
 ---
@@ -131,12 +131,14 @@ breadcrumb: true
 
 ### Comentarios
 
-Puedes usar comentarios con *Feeling Responsive* cortesía de Disqus. Si usas Disqus-Comments abre `config.yml` y establece en el `disqus_shortname`. [More on how to use Disqus ›](https://disqus.com/websites/)
+Puedes usar comentarios con *Feeling Responsive* cortesía de Disqus. Si usas Disqus-Comments abre `config.yml` y establece en el `disqus_shortname`. [Sitio web de Disqus ›](https://disqus.com/websites/)
 
 Por defecto, están desactivados y puedes personalizar en `config.yml`. Para **activar comentarios** añade el código `comments: true` debajo de `layout: page`.
 
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
+
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/cuerpopost/">Ver información del cuerpo del post ›</a>
 
 ## Agradecimientos
 
