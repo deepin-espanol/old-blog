@@ -29,3 +29,5 @@ Glosario o Palabras frecuentes:
 * File, Folder: Archivo, Carperta
 * Open, Close/Opened, Closed: Abrir, Cerrar/ Abierto, Cerrado
 * Interface, Font: Interfaz, Fuente
+* DDE, Deepin Desktop: Escritorio Deepin
+* DTK: Kit de desarrollo Deepin (interfaz propia no confundir con GNOME o KDE)
