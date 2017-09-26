@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: "Código de for en posts"
+title: "Código de formato en posts"
 subheadline: "Ayuda"
 teaser: "El repertorio de opciones que puedes incorporar a las publicación"
 permalink: "/tutopost/formatopost/"

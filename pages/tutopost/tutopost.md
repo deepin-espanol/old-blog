@@ -20,7 +20,7 @@ header:
 </div><!-- /.medium-4.columns -->
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
-{% include alert text='Actualizado el 2 de agosto de 2017. Es posible que sufran algunos cambios para casos específicos.' %}
+{% include alert text='Actualizado el 25 de setiembre de 2017. Es posible que sufran algunos cambios para casos específicos.' %}
 
 Bienvenidos a Tutopost, ¡el taller de la comunidad! Esta selección está pensado en crear, organizar y mejorar publicaciones (o posts) y materiales para Deepin en Español. Contiene una serie de tutoriales hacia los nuevos colaboradores a experimentados.
 
