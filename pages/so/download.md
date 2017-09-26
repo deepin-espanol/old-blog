@@ -53,7 +53,7 @@ Pardus, basada en la versión estable Debian 9, utilizará el entorno Deepin. Es
 
 Si tienes instalado un sistema operativo, visita [la página Otras distros]({{ site.url }}/manual/otrasdistros/) para conseguir el escritorio.
 
-También existe una adaptación del código de Deepin a ARM, desarrollado por [ARM](https://www.deepin.org/en/2016/01/28/deepin-15-arm-edition-officially-released/). El [vídeo explicativo en el enlace](https://www.youtube.com/watch?v=1ycF0VPlrnc).
+Existe un port para ARM, los detalles en [el manual](({{ site.url }}/manual/arm/))
 
 {% include alert success='Quieres mejorar, ¡colabora con nosotros!' %}
 {% include _improve_content.html %}
