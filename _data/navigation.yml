@@ -14,6 +14,8 @@
     url: "/update/"
   - title: "Novedades y avances"
     url: "/novedades/"
+  - title: "Traducción"
+    url: "/translate/"
   - title: "Código fuente"
     url: "/source/"
 
