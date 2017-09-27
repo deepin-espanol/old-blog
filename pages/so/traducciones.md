@@ -22,11 +22,12 @@ En orden anecdótico:
 * Aplication/App: Aplicación
 * System: Sistema
 * Dock: Dock (también panel)
-* Launcher: Lanzador (no confundir con lanzador)
+* Launcher: Lanzador (no confundir con menú de aplicaciones)
 * Options, Settings, Configuration: Opciones, Ajustes, Configuración
 * File, Folder: Archivo, Carperta
 * Open, Close/Opened, Closed: Abrir, Cerrar/ Abierto, Cerrado
 * Interface, Font: Interfaz, Fuente
+* Select: Seleccionar (desaconsejamos **Escoger**)
 * DDE, Deepin Desktop: Escritorio Deepin
 * DTK: Kit de desarrollo Deepin (interfaz propia, no confundir con GNOME o KDE)
 * ARM, AMD64: *Se mantiene la traducción* (son las arquitecturas del equipo)
