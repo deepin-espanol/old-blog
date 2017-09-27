@@ -47,3 +47,6 @@ Esta lista define que nombre de aplicación debe traducirse oficialmente o conse
 * developer: Desarrollador(a)
 * Mirror, Mirror Site, Mirror repository: Espejo, sitio espejo, repositorio espejo
 * CVE: CVE (siglas de [Common Vulnerabilities and Exposures](https://cve.mitre.org/))
+
+### Teclado
+* Super: *se conserva la traducción* (equivale a botón Windows o Inicio)
