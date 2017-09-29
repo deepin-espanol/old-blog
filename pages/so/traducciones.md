@@ -126,16 +126,52 @@ Palabras relaciondas para la interfaz y experiencia de uso.
       <td>Archivo</td>
       <td></td>
     </tr>
+    <tr>
+      <td>Folder</td>
+      <td>Carpeta</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Open/Close</td>
+      <td>Abrir/Cerrar</td>
+      <td>Opened/Closed = Abierto/Cerrado</td>
+    </tr>
+    <tr>
+      <td>User Interface</td>
+      <td>Interfaz de usuario</td>
+      <td>Abreviado UI</td>
+    </tr>
+    <tr>
+      <td>Font</td>
+      <td>Fuente</td>
+      <td>Typografy = Tipografía</td>
+    </tr>
+    <tr>
+      <td>Select</td>
+      <td>Seleccionar</td>
+      <td>Select All = Seleccionar todo<br/> desaconsejamos "Escoger"</td>
+    </tr>
+    <tr>
+      <td>Restart</td>
+      <td>Reiniciar</td>
+      <td>También "Reboot"</td>
+    </tr>
+    <tr>
+      <td>Update</td>
+      <td>Actualizar</td>
+      <td>Update = Actualizado. El infinitivo es Actualización</td>
+    </tr>
+    <tr>
+      <td>Install</td>
+      <td>Instalar</td>
+      <td>Installed = Instalado. El infinitivo es Instalación</td>
+    </tr>
+    <tr>
+      <td>Mirror</td>
+      <td>Espejo</td>
+      <td>También Mirror Site, Mirror repository</td>
+    </tr>
 </table>
-
-* Folder: Carperta
-* Open, Close/Opened, Closed: Abrir, Cerrar/ Abierto, Cerrado
-* Interface: Interfaz
-* Font: Fuente
-* Select: Seleccionar (desaconsejamos **Escoger**)
-* Restart, Reboot: Reiniciar
-* Update o install: implican dos formas, acción (Actualizar/Instalar) y subtítulo (Actualzación/Instalación)
-* Mirror, Mirror Site, Mirror repository: Espejo, sitio espejo, repositorio espejo
 
 ### Glosario enfocada a Deepin {#deepin}
 * DDE, Deepin Desktop: Escritorio Deepin
