@@ -15,25 +15,118 @@ Este listado de recomendaciones está relacionado a los títulos, palabras frecu
 ## Glosario {#glosario}
 ### Glosario básico {#basico}
 Palabras relaciondas para la interfaz y experiencia de uso.
-| Nombre original |  Nombre en español |                   Notas                  |
-|:---------------:|:------------------:|:----------------------------------------:|
-| Control center  | Centro de control  |                                          |
-| Desktop         | Escritorio         | Nombre internacional                     |
-| Trash           | Papelera           |                                          |
-| Documents       | Documentos         |                                          |
-| Shortcut        | Atajo              | Atajo de teclado                         |
-| Link            | Enlace             | Link web = Enlace web                    |
-| OK/Cancel       | Aceptar/Cancelar   | Desaconsejamos "De acuerdo"              |
-| Today           | Hoy                |                                          |
-| Tomorrow        | Mañana             |                                          |
-| Aplication/App  | Aplicación         |                                          |
-| System          | Sistema            |                                          |
-| Dock            | Dock               | También Panel                            |
-| Launcher        | Lanzador           | No confundir con menú de aplicaciones    |
-| Options         | Mañana             | Opciones                                 |
-| Settings        | Ajustes            |                                          |
-| Configuration   | Configuración      |                                          |
-| File            | Archivo            |                                          |
+
+<table>
+  <caption>Glosario</caption>
+  <colgroup>
+    <col span="1" style="width: 15%;">
+    <col span="1" style="width: 50%;">
+    <col span="1" style="width: 35%;">
+  </colgroup>
+  <thead>
+    <tr>
+      <th>Nombre original</th>
+      <th>Nombre en español</th>
+      <th>Notas</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Control center</td>
+      <td>Centro de control </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Desktop</td>
+      <td>Escritorio</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trash</td>
+      <td>Papelera</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Documents</td>
+      <td>Documentos</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Shortcut</td>
+      <td>Atajo</td>
+      <td>Atajo de teclado</td>
+    </tr>
+    <tr>
+      <td>Link</td>
+      <td>Enlace</td>
+      <td>Link web = Enlace web</td>
+    </tr>
+    <tr>
+      <td>OK/Cancel</td>
+      <td>Aceptar/Cancelar</td>
+      <td>Desaconsejamos "De acuerdo" al OK.</td>
+    </tr>
+    <tr>
+      <td>Today</td>
+      <td>Hoy</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Today</td>
+      <td>Hoy</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tomorrow</td>
+      <td>Mañana</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Aplication/App</td>
+      <td>Aplicación</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>System</td>
+      <td>Sistema</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dock</td>
+      <td>Dock</td>
+      <td>También Panel</td>
+    </tr>
+    <tr>
+      <td>Launcher</td>
+      <td>Lanzador</td>
+      <td>No confundir con "Menú de aplicaciones"</td>
+    </tr>
+    <tr>
+      <td>Options</td>
+      <td>Opciones</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Options</td>
+      <td>Opciones</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Settings</td>
+      <td>Ajustes</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Configuration</td>
+      <td>Configuración</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>File</td>
+      <td>Archivo</td>
+      <td></td>
+    </tr>
+</table>
 
 * Folder: Carperta
 * Open, Close/Opened, Closed: Abrir, Cerrar/ Abierto, Cerrado
@@ -61,8 +154,34 @@ Palabras que **no se deben traducir** y los motivos.
 
 ## Aplicaciones originales de Deepin {#originales}
 Esta lista define que nombre de aplicación debe traducirse oficialmente o conservarse por motivos de internacionalización.
-| Nombre original |  Nombre en español |                   Notas                  |
-|:---------------:|:------------------:|:----------------------------------------:|
-| File Manager    | Gestor de archivos | Se voto en la encuesta de agosto de 2017 |
-| Deepin Clone    | Deepin Clone       | Nombre internacional                     |
-| Deepin Movies   | Deepin Movies      | Traducir a Películas genera confusión    |
+<table>
+  <caption>&lt;table&gt; defines an HTML table</caption>
+  <colgroup>
+    <col span="1" style="width: 15%;">
+    <col span="1" style="width: 50%;">
+    <col span="1" style="width: 35%;">
+  </colgroup>
+  <thead>
+    <tr>
+      <th>Nombre original</th>
+      <th>Nombre en español</th>
+      <th>Notas</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>File Manager</td>
+      <td>Gestor de archivos</td>
+      <td>Se voto en la encuesta de agosto de 2017</td>
+    </tr>
+    <tr>
+      <td>Deepin Clone</td>
+      <td>Deepin Clone</td>
+      <td>Fácil de identificar</td>
+    </tr>
+    <tr>
+      <td>Deepin Movies</td>
+      <td>Deepin Movies</td>
+      <td>Traducir a Películas genera confusión</td>
+    </tr>
+</table>
