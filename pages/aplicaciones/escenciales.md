@@ -39,11 +39,11 @@ En Deepin comentamos y comprobamos varias aplicaciones. Después de  [instalar e
     </tr>
     <tr>
       <td>Suite de oficina</td>
-      <td>[LibreOffice]({{ site.url }}{{ site.baseurl }}/apps/libreoffice/), [**WPS**]({{ site.url }}{{ site.baseurl }}/apps/wps/), Google Docs, OpenOffice</td>
+      <td><a href="{{ site.url }}{{ site.baseurl }}/apps/libreoffice">LibreOffice</a>, <b><a href="{{ site.url }}{{ site.baseurl }}/apps/wps">WPS</a></b>, Google Docs, OpenOffice</td>
     </tr>
     <tr>
-      <td>Suite de oficina</td>
-      <td>[LibreOffice]({{ site.url }}{{ site.baseurl }}/apps/libreoffice/), [**WPS**]({{ site.url }}{{ site.baseurl }}/apps/wps/), Google Docs, OpenOffice</td>
+      <td>Mapas concepctuales</td>
+      <td><a href="https://lignux.com/freeplane-un-editor-de-mapas-conceptuales/>Freeplane</a></td>
     </tr>
     <tr>
       <td>Calendario</td>
@@ -79,7 +79,7 @@ En Deepin comentamos y comprobamos varias aplicaciones. Después de  [instalar e
     </tr>
     <tr>
       <td>Editor de vídeo</td>
-      <td>[OpenShot]({{ site.url }}{{ site.baseurl }}/apps/openshot/), [Pitivi]({{ site.url }}{{ site.baseurl }}/apps/pitivi/), KDEnlive</td>
+      <td><a href="{{ site.url }}{{ site.baseurl }}/apps/openshot">OpenShot</a>, <a href="{{ site.url }}{{ site.baseurl }}/apps/pitivi">Pitivi</a>, KDEnlive</td>
     </tr>
     <tr>
       <td>Reproductor de música</td>
@@ -91,7 +91,7 @@ En Deepin comentamos y comprobamos varias aplicaciones. Después de  [instalar e
     </tr>
     <tr>
       <td>Suite multimedia</td>
-      <td>[Kodi]({{ site.url }}{{ site.baseurl }}/apps/kodi/)</td>
+      <td><a href="{{ site.url }}{{ site.baseurl }}/apps/kodi">Kodi</a></td>
     </tr>
   </tbody>
 </table>
@@ -115,7 +115,7 @@ En Deepin comentamos y comprobamos varias aplicaciones. Después de  [instalar e
     </tr>
     <tr>
       <td>Gestor de archivos</td>
-      <td>[**File Manager**]({{ site.url }}{{ site.baseurl }}/apps/filemanager/), Nautilus, Dolphin</td>
+      <td><b><a href="{{ site.url }}{{ site.baseurl }}/apps/filemanager">File Manager</a></b>, Nautilus, Dolphin</td>
     </tr>
   </tbody>
 </table>
@@ -138,7 +138,7 @@ En Deepin comentamos y comprobamos varias aplicaciones. Después de  [instalar e
   <tbody>
     <tr>
       <td>Navegador</td>
-      <td>**Chrome**, [Firefox]({{ site.url }}{{ site.baseurl }}/apps/firefox/), Chromium, Vivaldi, Opera</td>
+      <td><b>Chrome</b>, <a href="{{ site.url }}{{ site.baseurl }}/apps/kodi">Firefox</a>, Chromium, Vivaldi, Opera</td>
     </tr>
     <tr>
       <td>Correo electrónico</td>
@@ -161,12 +161,12 @@ En Deepin comentamos y comprobamos varias aplicaciones. Después de  [instalar e
   </thead>
   <tbody>
     <tr>
-      <td>Navegador</td>
-      <td>**Chrome**, [Firefox]({{ site.url }}{{ site.baseurl }}/apps/firefox/), Chromium, Vivaldi, Opera</td>
-    </tr>
+      <td>Multiservicios en uno</td>
+      <td><a href="{{ site.url }}{{ site.baseurl }}/apps/kodi">Rambox</a></td>
+      </tr>
     <tr>
       <td>Mensajería instantánea centralizada</td>
-      <td>[Telegram]({{ site.url }}{{ site.baseurl }}/apps/telegram/), [Messenger]({{ site.url }}{{ site.baseurl }}/apps/fbmessenger/), WeChat, [Rambox]({{ site.url }}{{ site.baseurl }}/apps/rambox/) (multiservicio)</td>
+      <td><a href="{{ site.url }}{{ site.baseurl }}/apps/telegram">Telegram</a>, <a href="{{ site.url }}{{ site.baseurl }}/apps/fbmessenger">Facebook Messenger</a>, WeChat</td>
     </tr>
     <tr>
       <td>Mensajería IRC (antigua)</td>
@@ -174,7 +174,7 @@ En Deepin comentamos y comprobamos varias aplicaciones. Después de  [instalar e
     </tr>
     <tr>
       <td>Mensajería desentralizada y abierta</td>
-      <td>[Riot]({{ site.url }}{{ site.baseurl }}/apps/riot/) (Matrix), [Wire]({{ site.url }}{{ site.baseurl }}/apps/wire/)</td>
+      <td><a href="{{ site.url }}{{ site.baseurl }}/apps/riot">Riot</a> (Matrix), <a href="{{ site.url }}{{ site.baseurl }}/apps/wire">Wire</a></td>
     </tr>
   </tbody>
 </table>
