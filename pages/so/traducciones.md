@@ -19,9 +19,9 @@ Palabras relaciondas para la interfaz y experiencia de uso.
 <table>
   <caption>Glosario</caption>
   <colgroup>
-    <col span="1" style="width: 15%;">
-    <col span="1" style="width: 50%;">
-    <col span="1" style="width: 35%;">
+    <col span="1" style="width: 26%;">
+    <col span="1" style="width: 26%;">
+    <col span="1" style="width: 48%;">
   </colgroup>
   <thead>
     <tr>
@@ -194,9 +194,9 @@ Esta lista define que nombre de aplicación debe traducirse oficialmente o conse
 <table>
   <caption>&lt;table&gt; defines an HTML table</caption>
   <colgroup>
-    <col span="1" style="width: 15%;">
-    <col span="1" style="width: 50%;">
-    <col span="1" style="width: 35%;">
+    <col span="1" style="width: 26%;">
+    <col span="1" style="width: 26%;">
+    <col span="1" style="width: 48%;">
   </colgroup>
   <thead>
     <tr>
