@@ -15,20 +15,27 @@ Este listado de recomendaciones está relacionado a los títulos, palabras frecu
 ## Glosario {#glosario}
 ### Glosario básico {#basico}
 Palabras relaciondas para la interfaz y experiencia de uso.
-* Control center: Centro de control
-* Desktop: Escritorio
-* Trash: Papelera
-* Documents: Documentos
-* Shortcut, Linf: Atajo, Enlace
-* OK, Cancel: Aceptar, Cancelar
-* Today: Hoy
-* Tomorrow: Mañana
-* Aplication/App: Aplicación
-* System: Sistema
-* Dock: Dock (también panel)
-* Launcher: Lanzador (no confundir con menú de aplicaciones)
-* Options, Settings, Configuration: Opciones, Ajustes, Configuración
-* File, Folder: Archivo, Carperta
+| Nombre original |  Nombre en español |                   Notas                  |
+|:---------------:|:------------------:|:----------------------------------------:|
+| Control center  | Centro de control  |                                          |
+| Desktop         | Escritorio         | Nombre internacional                     |
+| Trash           | Papelera           |                                          |
+| Documents       | Documentos         |                                          |
+| Shortcut        | Atajo              | Atajo de teclado                         |
+| Link            | Enlace             | Link web = Enlace web                    |
+| OK/Cancel       | Aceptar/Cancelar   | Desaconsejamos "De acuerdo"              |
+| Today           | Hoy                |                                          |
+| Tomorrow        | Mañana             |                                          |
+| Aplication/App  | Aplicación         |                                          |
+| System          | Sistema            |                                          |
+| Dock            | Dock               | También Panel                            |
+| Launcher        | Lanzador           | No confundir con menú de aplicaciones    |
+| Options         | Mañana             | Opciones                                 |
+| Settings        | Ajustes            |                                          |
+| Configuration   | Configuración      |                                          |
+| File            | Archivo            |                                          |
+
+* Folder: Carperta
 * Open, Close/Opened, Closed: Abrir, Cerrar/ Abierto, Cerrado
 * Interface: Interfaz
 * Font: Fuente
@@ -54,5 +61,8 @@ Palabras que **no se deben traducir** y los motivos.
 
 ## Aplicaciones originales de Deepin {#originales}
 Esta lista define que nombre de aplicación debe traducirse oficialmente o conservarse por motivos de internacionalización.
-* File Manager: Gestor de archivos
-* Deepin Clone: Deepin Clone
+| Nombre original |  Nombre en español |                   Notas                  |
+|:---------------:|:------------------:|:----------------------------------------:|
+| File Manager    | Gestor de archivos | Se voto en la encuesta de agosto de 2017 |
+| Deepin Clone    | Deepin Clone       | Nombre internacional                     |
+| Deepin Movies   | Deepin Movies      | Traducir a Películas genera confusión    |
