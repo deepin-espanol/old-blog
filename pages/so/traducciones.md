@@ -10,15 +10,19 @@ permalink: "/traducciones/"
 
 {% include _improve_content.html %}
 
-Este listado de recomendaciones está relacionado a los títulos, palabras frecuentes y aproximaciones:
+Este listado de recomendaciones está relacionado a los títulos, palabras frecuentes y aproximaciones. Muchas veces usamos para la interfaz de Deepin, la página web o las marcas comerciales.
 
-### Glosario (interfaz y experiencia de uso) {#glosario}
-En orden anecdótico:
+## Glosario {#glosario}
+### Glosario básico {#basico}
+Palabras relaciondas para la interfaz y experiencia de uso.
 * Control center: Centro de control
-* Desktop, Trash, Documents: Escritorio, Papelera, Documentos
+* Desktop: Escritorio
+* Trash: Papelera
+* Documents: Documentos
 * Shortcut, Linf: Atajo, Enlace
 * OK, Cancel: Aceptar, Cancelar
-* Today, Tomorrow: Hoy, mañana
+* Today: Hoy
+* Tomorrow: Mañana
 * Aplication/App: Aplicación
 * System: Sistema
 * Dock: Dock (también panel)
@@ -26,27 +30,29 @@ En orden anecdótico:
 * Options, Settings, Configuration: Opciones, Ajustes, Configuración
 * File, Folder: Archivo, Carperta
 * Open, Close/Opened, Closed: Abrir, Cerrar/ Abierto, Cerrado
-* Interface, Font: Interfaz, Fuente
+* Interface: Interfaz
+* Font: Fuente
 * Select: Seleccionar (desaconsejamos **Escoger**)
+* Restart, Reboot: Reiniciar
+* Update o install: implican dos formas, acción (Actualizar/Instalar) y subtítulo (Actualzación/Instalación)
+* Mirror, Mirror Site, Mirror repository: Espejo, sitio espejo, repositorio espejo
+
+### Glosario enfocada a Deepin {#deepin}
 * DDE, Deepin Desktop: Escritorio Deepin
 * DTK: Kit de desarrollo Deepin (interfaz propia, no confundir con GNOME o KDE)
-* ARM, AMD64: *Se mantiene la traducción* (son las arquitecturas del equipo)
-* Restart, Reboot: Reiniciar
-* Sudo, APT, help *Se mantiene la traducción* (son comandos de la terminal)
-Administrator, Root: Administrador (para usuarios privilegiados), Root (como administrador del sistema, no confundir con Rooting)
+* deepin Security Updates: Actualizaciones de seguridad en Deepin
+* developer: Desarrollador(a)
 
-### Aplicaciones originales de Deepin {#originales}
+### Palabras ambiguas {#ambiguas}
+Palabras que **no se deben traducir** y los motivos.
+* Sudo, APT, help: comandos de la terminal)
+* Administrator, Root: como administrador del sistema, no confundir con Rooting
+* alfa/beta/release: Implica las fases de desarrollo (pruebas)
+* CVE: siglas de [Common Vulnerabilities and Exposures](https://cve.mitre.org/)
+* Super: equivale a botón Windows o Inicio
+* ARM, AMD64: son las arquitecturas del equipo
+
+## Aplicaciones originales de Deepin {#originales}
 Esta lista define que nombre de aplicación debe traducirse oficialmente o conservarse por motivos de internacionalización.
 * File Manager: Gestor de archivos
 * Deepin Clone: Deepin Clone
-
-### Palabras ambiguas (web) {#ambiguas}
-* Update o install: implican dos formas, acción (Actualizar/Instalar) y subtítulo (Actualzación/Instalación)
-* deepin Security Updates: Actualizaciones de seguridad en Deepin
-* alfa/beta/release: Implica las fases de desarrollo (pruebas)
-* developer: Desarrollador(a)
-* Mirror, Mirror Site, Mirror repository: Espejo, sitio espejo, repositorio espejo
-* CVE: CVE (siglas de [Common Vulnerabilities and Exposures](https://cve.mitre.org/))
-
-### Teclado
-* Super: *se conserva la traducción* (equivale a botón Windows o Inicio)
