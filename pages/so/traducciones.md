@@ -171,6 +171,7 @@ Palabras relaciondas para la interfaz y experiencia de uso.
       <td>Espejo</td>
       <td>También Mirror Site, Mirror repository</td>
     </tr>
+  </tbody>
 </table>
 
 ### Glosario enfocada a Deepin {#deepin}
@@ -220,4 +221,5 @@ Esta lista define que nombre de aplicación debe traducirse oficialmente o conse
       <td>Deepin Movies</td>
       <td>Traducir a Películas genera confusión</td>
     </tr>
+  </tbody>
 </table>
