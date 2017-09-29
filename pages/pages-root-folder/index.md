@@ -8,6 +8,7 @@
 #
 layout: frontpage
 teaser: "¡Una alternativa en nuestro idioma!"
+meta_teaser: "Una alternativa en nuestro idioma"
 header:
   image_fullwidth: header_unsplash_12.jpg
 # Widgets

@@ -51,7 +51,7 @@ Qué contiene el post:
 * [Mediaelement]({{ site.url }}/tutopost/mediaelement/).
 * [Wallpaper]({{ site.url }}/tutopost/wallpost/).
 * [Códigos de encabezado]({{ site.url }}/tutopost/doc/).
-* [Tipografía permitida]({{ site.url }}/tutopost/tipografia/).
+* [Tipografía en HTML5]({{ site.url }}/tutopost/tipografia/), y como añadimos encabezados, citas y tablas.
 
 ## Agradecimientos
 

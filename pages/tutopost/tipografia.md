@@ -1,18 +1,18 @@
 ---
 layout: page-fullwidth
-title: "Hermosa tipografía"
+title: "Tipografía y HTML5"
 subheadline: "Info"
 meta_teaser: "En Feeling Responsive usamos Volkhov para encabezado, Lato para el cuerpo del texto y Lucida Console para código."
-teaser: "<em>Feeling Responsive</em> uses <a href='https://www.google.com/fonts/specimen/Volkhov'>Volkhov</a> for headlines, <a href='https://www.google.com/fonts/specimen/Lato'>Lato</a> for everything else and if you are in need to show some code, it will be in <a href='http://www.microsoft.com/typography/fonts/family.aspx?FID=18'>Lucida Console</a> or <a href='http://en.wikipedia.org/wiki/Monaco_(typeface)'>Monaco</a>."
+teaser: "<em>Feeling Responsive</em> usa <a href='https://www.google.com/fonts/specimen/Volkhov'>Volkhov</a> para encabezado, <a href='https://www.google.com/fonts/specimen/Lato'>Lato</a> para el cuerpo del texto, y para el código empleamos <a href='http://www.microsoft.com/typography/fonts/family.aspx?FID=18'>Lucida Console</a> o <a href='http://en.wikipedia.org/wiki/Monaco_(typeface)'>Monaco</a>."
 header:
     image: homepage_typography.jpg
     background-color: "#262930"
-    caption: This is a caption for the header image with link
+    caption: Este es una descrpción de la cabecera con enlace
     caption_url: https://unsplash.com/
 image:
     thumb:  homepage_typography-thumb.jpg
     homepage: homepage_typography.jpg
-    caption: Image by Antonio
+    caption: Imagen por Antonio
     caption_url: "http://www.aisleone.net/"
 permalink: "/tutopost/tipografia/"
 categories:
@@ -34,9 +34,9 @@ categories:
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
-## Lato – A Sans Serif Typeface Family
+## Lato – Una familia tipográfica Sans Serif
 
-[<dfn>Lato</dfn>][4] is a sans serif typeface family started in the summer of 2010 by Warsaw-based designer Łukasz Dziedzic. »Lato« means »Summer« in Polish. In December 2010 the Lato family was published under the Open Font License by his foundry tyPoland, with support from Google. 
+[<dfn>Lato</dfn>][4] is a sans serif typeface family started in the summer of 2010 by Warsaw-based designer Łukasz Dziedzic. »Lato« means »Summer« in Polish. In December 2010 the Lato family was published under the Open Font License by his foundry tyPoland, with support from Google.
 
 > <span class="teaser">I do not think of type as something that should be readable. It should be beautiful.</span><cite>[Ed Benguiat][3]</cite>
 
@@ -47,11 +47,11 @@ When working on Lato, Łukasz tried to carefully balance some potentially confli
 The semi-rounded details of the letters give Lato a feeling of warmth, while the strong structure provides stability and seriousness. “Male and female, serious but friendly. With the feeling of the Summer,” says Łukasz. Learn more at [www.latofonts.com][6]
 
 
-## About Volkhov &lt;h2&gt; 
+## Acerca de Volkhov &lt;h2&gt;
 
 <dfn>Volkhov</dfn> is a low-contrast seriffed typeface with a robust character, intended for providing a motivating reading experience. Volkhov was designed by Ivan Petrov.
 
-### Feeling Responsive uses Volkhov for...  &lt;h3&gt;
+### Feeling Responsive usa Volkhov para...  &lt;h3&gt;
 
 * &lt;h1&gt;-headings
 * &lt;h2&gt;-headings
@@ -61,24 +61,23 @@ The semi-rounded details of the letters give Lato a feeling of warmth, while the
 * &lt;h6&gt;-headings
 
 
-#### Heading in Volkhov &lt;h4&gt;
+#### Títulos en Volkhov &lt;h4&gt;
 
 As a four-weight family it is well-suited for complex text environments being economic and legible, contemporary and prominent. Many of its design solutions relate to this purpose: large open counters, rather short descenders, and brutal asymmetric serifs.
 
-##### Heading in Volkhov &lt;h5&gt;
+##### Títulos en Volkhov &lt;h5&gt;
 
 Spacing in Bold is slightly increased compared to the normal weight, because the bold mass is mostly grown inwards. The Italic has a steep angle and a distinctive calligraphically reminiscent character, as a counterpart to the rigorous Regular.
 
 
-
-## Modular Scale
+## Escala modular
 
 *Feeling Responsive* explores the *2:3 perfect fifth* modular scale created with [www.modular-scale.com][7]. This is the modular scale of  *Feeling Responsive*.
 
 44px @ 1:1.5 – Ideal text size  
 16px @ 1:1.5 – Important number
 
-| Modular Scale
+| Escala modular
 ------ | ----- | ----- | -------
 44.000 | 1     | 2.75  | 338.462
 36.000 | 0.818 | 2.25  | 276.923
@@ -89,16 +88,16 @@ Spacing in Bold is slightly increased compared to the normal weight, because the
 
 
 
-## Typographical Elements
+## Elementos tipográficos
 {: .t60 }
 
 Here you'll find the [complete list of HTML5-Tags][1] and this is how they look like.
 
-### &lt;hr&gt; Horizontal Line
+### &lt;hr&gt; Trazo horizontal
 <hr>
 
 
-### &lt;pre&gt; Displaying Code
+### &lt;pre&gt; Muestra de código
 ~~~
 <html>
     <head>
@@ -118,7 +117,7 @@ Here you'll find the [complete list of HTML5-Tags][1] and this is how they look 
 <cite>Mark Twain</cite>
 
 
-### &lt;ol&gt; Ordered Lists
+### &lt;ol&gt; Listas ordenadas
 
 1. Ordered List
 2. Second List Item
@@ -133,7 +132,7 @@ Here you'll find the [complete list of HTML5-Tags][1] and this is how they look 
 5. Fifth List Item
 
 
-### &lt;ul&gt; Unordered Lists
+### &lt;ul&gt; Listas no ordenadas
 
 - Unordered List
 - Second List Item
@@ -157,7 +156,7 @@ Beef ribs jowl swine porchetta
 
 Pancetta flank sirloin pork
 :   short ribs shankle prosciutto landjaeger. Beef ribs turkey shoulder drumstick. Leberkas pork belly ribeye, bresaola jerky strip steak tenderloin bacon landjaeger short ribs beef ribs. Flank pork chop fatback tail kielbasa filet mignon jowl landjaeger bresaola tongue corned beef biltong.
-:   Landjaeger spare ribs fatback corned beef tenderloin drumstick, swine chicken beef turkey biltong doner tri-tip filet mignon. 
+:   Landjaeger spare ribs fatback corned beef tenderloin drumstick, swine chicken beef turkey biltong doner tri-tip filet mignon.
 
 
 ### &lt;a&gt;
@@ -337,13 +336,13 @@ Even tables are responsive thanks to foundation. A table can consist of these el
     </tr>
     <tr>
       <td>&lt;colgroup&gt;</td>
-      <td>specifies a group of one or more columns in a table for 
+      <td>specifies a group of one or more columns in a table for
 formatting. The &lt;colgroup&gt; tag is useful for applying styles to entire columns, instead of repeating the styles for each cell, for each row.</td>
       <td>no styling needed</td>
     </tr>
     <tr>
       <td>&lt;col&gt;</td>
-      <td>specifies column properties for each column within a `&lt;colgroup&gt;` 
+      <td>specifies column properties for each column within a `&lt;colgroup&gt;`
 element</td>
       <td>no styling needed</td>
     </tr>
@@ -387,5 +386,3 @@ element</td>
 
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
-
-

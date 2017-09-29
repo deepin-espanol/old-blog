@@ -209,7 +209,7 @@ Esta lista define que nombre de aplicación debe traducirse oficialmente o conse
     <tr>
       <td>File Manager</td>
       <td>Gestor de archivos</td>
-      <td>Se voto en la encuesta de agosto de 2017</td>
+      <td>De la encuesta de agosto de 2017</td>
     </tr>
     <tr>
       <td>Deepin Clone</td>
