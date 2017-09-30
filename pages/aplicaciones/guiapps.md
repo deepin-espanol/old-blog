@@ -10,7 +10,7 @@ header:
 
 En Deepin comentamos y comprobamos varias aplicaciones despúes de [instalar el sistema operativo]({{ site.url }}{{ site.baseurl }}/instalacion/). No obstante, te mostramos una selección de [aplicaciones escenciales]({{ site.url }}{{ site.baseurl }}/apps/) que deberías revisar para tareas cotidianas.
 
-## Aplicaciones de oficina
+## Aplicaciones de oficina y productividad
 
 <table>
   <caption>Ofimática</caption>
@@ -80,7 +80,7 @@ En Deepin comentamos y comprobamos varias aplicaciones despúes de [instalar el 
     </tr>
     <tr>
       <td>Editor de vídeo</td>
-      <td><a href="{{ site.url }}{{ site.baseurl }}/apps/openshot">OpenShot</a>, <a href="{{ site.url }}{{ site.baseurl }}/apps/pitivi">Pitivi</a>, KDEnlive</td>
+      <td><a href="{{ site.url }}{{ site.baseurl }}/apps/openshot">OpenShot</a>, <a href="{{ site.url }}{{ site.baseurl }}/apps/pitivi">Pitivi</a>, KDEnlive, Cinerrela</td>
     </tr>
     <tr>
       <td>Reproductor de música</td>
@@ -177,6 +177,32 @@ En Deepin comentamos y comprobamos varias aplicaciones despúes de [instalar el 
   </tbody>
 </table>
 
+## Compatibilidad con otros sistemas
+
+<table>
+  <caption>Mensajería insantánea</caption>
+  <colgroup>
+    <col span="1" style="width: 30%;">
+    <col span="1" style="width: 70%;">
+      </colgroup>
+  <thead>
+    <tr>
+      <th>Función</th>
+      <th>Aplicaciones</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Compatible con Windows</td>
+      <td><a href="{{ site.url }}{{ site.baseurl }}/apps/crossover">Crossover</a></td>
+    </tr>
+    <tr>
+      <td>Compatible con Android</td>
+      <td>Anbox, a href="{{ site.url }}{{ site.baseurl }}/apps/genymotion">Genymotion</a></td>
+    </tr>
+  </tbody>
+</table>
+
 
 ## Notas
-Basada en una [publicación de MuyLinux](https://www.muylinux.com/2017/09/19/aplicaciones-por-defecto-ubuntu-18-04-2/). Las aplicaciones en negritas indican por defecto en Deepin 15.4.1.
+Basada en una [publicación de MuyLinux](https://www.muylinux.com/2017/09/19/aplicaciones-por-defecto-ubuntu-18-04-2/). Las aplicaciones por defecto en Deepin 15.4.1 están indicadas en [Escenciales]({{ site.url }}{{ site.baseurl }}/escenciales/).
