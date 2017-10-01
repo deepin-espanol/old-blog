@@ -35,7 +35,7 @@ Si tienes alguna consulta, elaboramos una [página con los argumentos más frecu
 
 ## Detalles de la página web
 
-La página *Deepin en Español* está desarrollado con [jekyll](http://jekyll.org/), en específico un tema de [mademistakes.com](http://mademistakes.com/work/jekyll-themes/). Los íconos son de [Daniel Bruce](http://entypo.com/). Algunas imaǵenes de muestra son cortesía de [unplash](http://unsplash.com/) y [pixabay](http://pixabay.com).
+La página *Deepin en Español* está desarrollado con [jekyll](http://jekyll.org/), en específico un tema de [mademistakes.com](http://mademistakes.com/work/jekyll-themes/). Los íconos son de [Daniel Bruce](http://entypo.com/). Algunas imaǵenes de muestra son cortesía de [unplash](http://unsplash.com/) (bajo una licencia permisiva), [Pexels](https://www.pexels.com/) y [pixabay](http://pixabay.com) (licenciados bajo CC-0).
 
 Aparte de ser una página HTML5 tiene agregados a JQuery, al plugin [backstrech](http://srobbin.com/jquery-plugins/backstretch/) y [fundation](http://foundation.zurb.com/).
 

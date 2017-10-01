@@ -1,11 +1,9 @@
 ---
 layout: page-fullwidth
-title: "Condiciones de la comunidad"
+title: "Términos de usod"
 subheadline: "Ayuda"
-teaser: "Algo así como los términos de uso"
+teaser: "Reglas de la comunidad"
 permalink: "/info/tos/"
-header:
-   image_fullwidth: "rules.jpg"
 ---
 <div class="row">
 <div class="medium-4 medium-push-8 columns" markdown="1">
@@ -18,7 +16,7 @@ header:
 </div><!-- /.medium-4.columns -->
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
-{% include alert text='Actualizado el 1 de septiembre de 2017. Es posible que sufran algunos cambios para casos específicos y avisaremos en la sección "Noticias".' %}
+{% include alert text='Actualizado el 30 de septiembre de 2017. Es posible que sufran algunos cambios para casos específicos y avisaremos en la sección "Noticias".' %}
 
 ## Introducción
 
@@ -30,7 +28,7 @@ La página de la COMUNIDAD usa cookies, al visitar estas páginas, eres conscien
 
 ## Código de conducta
 
-Cualquier aporte es bienvenido con reglas:
+Cualquier aporte es bienvenido con reglas de conducta:
 
 * Opina sin miedo pero con respeto: Evita los insultos, conversaciones hostiles o críticas destructivas. No apoderes ideas ajenas para propósitos indebidos.
 
@@ -81,7 +79,7 @@ En caso que el usuario promueva el terrorismo o pornografía infantil, amenace a
 ### Alcance
 
 Este código de conducta aplica tanto a espacios del proyecto como a espacios públicos donde un individuo esté en representación del proyecto o comunidad. Ejemplos de esto incluye el uso de la cuenta oficial de correo electrónico, publicaciones a través de las redes sociales oficiales, o presentaciones con personas designadas en eventos *online* u *offline*. La representación del proyecto puede ser clarificada explicitamente por los administradores del proyecto.
- 
+
 ### Limitaciones legales
 
 El contenido desarrollado por la comunidad no tiene una cláusula de garantía debido a la naturaleza gratuita de cooperar. Los administradores no se harán responsables frente a:
