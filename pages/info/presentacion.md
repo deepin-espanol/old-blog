@@ -11,12 +11,12 @@ sitemap: false
 <div class="row t60">
     <div class="medium-6 columns b30">
         <img src="{{ site.urlimg }}landscape.jpg" alt="">
-        <p><a href="{{ site.url }}{{ site.baseurl }}/so">Inicia Deepin</a> o <a href="{{ site.url }}{{ site.baseurl }}/download">descárgalo</a></p>
+        <p><a href="{{ site.url }}{{ site.baseurl }}/so">SO</a> (<a href="{{ site.url }}{{ site.baseurl }}/download">descargar</a>, <a href="{{ site.url }}{{ site.baseurl }}/install">instalar</a>, <a href="{{ site.url }}{{ site.baseurl }}/update">actualizar</a>)</p>
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-6 columns b30">
         <img src="{{ site.urlimg }}people.jpg" alt="">
-        <p><a href="{{ site.url }}{{ site.baseurl }}/info/">Soporte comunitario</a> (<a href="{{ site.url }}{{ site.baseurl }}/info/contacto">contacto</a>)</p>
+        <p><a href="{{ site.url }}{{ site.baseurl }}/info/">Soporte comunitario</a> (<a href="{{ site.url }}{{ site.baseurl }}/info/contacto">contacto</a>, <a href="{{ site.url }}{{ site.baseurl }}/info/quejas">quejas frecuentes</a>)</p>
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
 
