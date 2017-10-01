@@ -16,6 +16,9 @@ Si este proyecto tiene problemas con los derechos de autor, usa [este formulario
 
 Nota: No tenemos una página de formulario o foro elaborado por la comunidad Deepin en Español.
 
+## Voluntarios activos
+Próximamente...
+
 ## Sobre Deepin
 * [Página web oficial](https://www.deepin.org/en/)
 * [Grupo de Deepin Original en Telegram](https://t.me/deepin)

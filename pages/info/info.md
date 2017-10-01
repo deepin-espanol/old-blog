@@ -31,7 +31,7 @@ Más detalles en [Código fuente]({{ site.url }}/source/).
 ## Páginas de apoyo
 Para transparencia, damos a conocer [los términos y condiciones del sitio]({{ site.url }}/info/tos/) incluyendo las limitaciones de responsabilidad. La lista de cambios [lo publicamos en una página aparte]({{ site.url }}{{ site.baseurl }}/changelog/).
 
-Si tienes alguna consulta, elaboramos una [página con los argumentos más frecuentes]({{ site.url }}/info/quejas/).
+Si tienes alguna consulta, elaboramos una [página con los argumentos más frecuentes]({{ site.url }}/info/quejas/). Si quieres participar de otras formas visita la página [Participa]({{ site.url }}/participa/).
 
 ## Detalles de la página web
 

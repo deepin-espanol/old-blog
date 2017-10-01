@@ -33,9 +33,9 @@ sitemap: false
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}margarita.jpg" alt="">
+        <img src="{{ site.urlimg }}newspaper.jpg" alt="">
         <p><a href="{{ site.url }}{{ site.baseurl }}/noticias/">Noticias</a></p>
     </div><!-- /.medium-4.columns -->
 
 </div><!-- /.row -->
-¿Quieres hacer una consulta o revisar el archivo? Te ofrecemos el <a href="<a href="{{ site.url }}{{ site.baseurl }}/search/">buscador</a>.
+¿Quieres hacer una consulta o revisar el archivo? Te ofrecemos el <a href="{{ site.url }}{{ site.baseurl }}/search/">buscador</a>.
