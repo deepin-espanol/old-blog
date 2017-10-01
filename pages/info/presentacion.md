@@ -29,7 +29,7 @@ sitemap: false
 
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}rules.jpg" alt="">
-        <p><a href="{{ site.url }}{{ site.baseurl }}/manual/">Manual de uso</a> y <a href="<a href="{{ site.url }}{{ site.baseurl }}/tips/">sección tips</a></p>
+        <p><a href="{{ site.url }}{{ site.baseurl }}/manual/">Manual de uso</a> y <a href="{{ site.url }}{{ site.baseurl }}/tips/">sección tips</a></p>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
