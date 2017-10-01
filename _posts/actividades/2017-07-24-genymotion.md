@@ -1,18 +1,17 @@
 ---
-layout: video
-title: "Genymotion"
-subheadline: "Aplicaciones"
-teaser: "Casi emulador para ejecutar aplicaciones de Android, para uso personal"
+layout: page
+title: "Traduce Deepin"
+subheadline: "Actividades"
+teaser: "Participa en la traducción"
 tags:
-    - android
-    - genymotion
+    - traduccion
+    - localizacion
     - apk
 categories:
     - apps
-iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/5ldLEtj_4MA' frameborder='0' allowfullscreen></iframe>"
 #
 # These video settings are totally optional. It's only purpose
-# is SEO, so that videos show up in Google hopefully with a 
+# is SEO, so that videos show up in Google hopefully with a
 # thumbnail.
 # More › https://developers.google.com/webmasters/videosearch/schema?hl=en&rd=1
 #

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Acerca"
-subheadline: "¿Qué es Comunidad Deepin?"
-teaser: "Es una comunidad desarrollada por voluntarios con la intención de ayudar a experimentar este sistema operativo. También participamos en proyectos relacionados a Linux."
+title: "¿Qué es Comunidad Deepin?"
+subheadline: "Info"
+teaser: "Conoce a nuestra comunidad desarrollada por voluntarios con la intención de interaccionar al sistema operativo y proyectos relacionados a Linux."
 permalink: "/info/"
 header:
     image_fullwidth: "header_drop.jpg"
@@ -10,13 +10,13 @@ header:
 
 Gracias por visitar **Deepin en Español**, un proyecto hecho por voluntarios no relacionado directamente con Deepin Wuhan.
 
-Si bien, no ofrecemos contenido oficial, los voluntarios añaden contenido y recopilaciones de redes sociales.
+No busques contenido oficial, para eso está el sitio web oficial. Los aportes que añadimos son de voluntarios y puedes formar parte realizando cualquiera de esas actividades.
 
 ## Sobre nosotros
 
-Por ahora somos un grupo pequeño. A medida que crezca, iremos aclarando más sobre esta comunidad.
+Somos un grupo pequeño formado por voluntarios en varios países.
 
-Estamos en redes sociales para que interactúes como [Google+](https://plus.google.com/communities/115544729561220868525) y [Telegram](http://telegram.me/deepinenespanol).
+Estamos en redes sociales para que interactúes como [Google+](https://plus.google.com/communities/115544729561220868525), [Telegram](http://telegram.me/deepinenespanol) y [otras formas]({{ site.url }}/info/contacto/).
 
 ### Aclarando Linux y software libre
 

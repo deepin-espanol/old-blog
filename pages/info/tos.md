@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: "Términos de usod"
+title: "Términos de uso"
 subheadline: "Ayuda"
 teaser: "Reglas de la comunidad"
 permalink: "/info/tos/"
