@@ -10,13 +10,13 @@ sitemap: false
 
 <div class="row t60">
     <div class="medium-6 columns b30">
-        <img src="{{ site.urlimg }}wallpaper.jpg" alt="">
+        <img src="{{ site.urlimg }}landscape.jpg" alt="">
         <p><a href="{{ site.url }}{{ site.baseurl }}/so">Inicia Deepin</a> o <a href="{{ site.url }}{{ site.baseurl }}/download">descárgalo</a></p>
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-6 columns b30">
         <img src="{{ site.urlimg }}people.jpg" alt="">
-        <p><a href="<a href="{{ site.url }}{{ site.baseurl }}/info/">Soporte comunitario</a> (<a href="{{ site.url }}{{ site.baseurl }}/info/contacto">contacto</a>)</p>
+        <p><a href="{{ site.url }}{{ site.baseurl }}/info/">Soporte comunitario</a> (<a href="{{ site.url }}{{ site.baseurl }}/info/contacto">contacto</a>)</p>
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
 
@@ -33,7 +33,7 @@ sitemap: false
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}landscape.jpg" alt="">
+        <img src="{{ site.urlimg }}margarita.jpg" alt="">
         <p><a href="{{ site.url }}{{ site.baseurl }}/noticias/">Noticias</a></p>
     </div><!-- /.medium-4.columns -->
 
