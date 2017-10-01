@@ -21,7 +21,7 @@ widget1:
 widget2:
   title: "Did&aacute;ctico"
   url: 'https://deepin-espanol.github.io/info/'
-  text: 'En <em>Deepin en Español</em> nos comprometemos:<br/>1. Contenido enriquecido.<br/>2. Ilustraciones y vídeos.<br/>3. Multiplataforma.<br/>4. <a href="/tutopost/">Publicaciones colaborativas</a>.<br/>5. Y otras más...'
+  text: 'En <em>Deepin en Español</em> nos comprometemos:<br/>1. <a href="/tutopost/">Contenido enriquecido</a>.<br/>2. Ilustraciones y vídeos.<br/>3. Multiplataforma.<br/>4. <a href="/participa/">Publicaciones colaborativas</a>.<br/>5. Y otras más...'
   video: '<a href="#" data-reveal-id="videoModal"><img src="https://deepin-espanol.github.io/images/widget-2-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Rec&iacute;proco"
