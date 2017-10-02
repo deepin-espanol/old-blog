@@ -11,6 +11,12 @@ permalink: "/info/historial/"
 
 Nota: Los cambios están enfocados en la página web y el material que estemos brindando.
 
+2017-10-02
+: Sección [Actividades]({{ site.url }}{{ site.baseurl }}/actividades/). Motivamos a participar en varios eventos.
+
+2017-10-01
+: Añadido [Presentación]({{ site.url }}{{ site.baseurl }}/presentacion/)
+
 2017-09-24
 : Sección [Aplicaciones escenciales]({{ site.url }}{{ site.baseurl }}/escenciales/). Reestructuración.
 

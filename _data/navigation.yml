@@ -52,6 +52,8 @@
   url: "/info/"
   side: right
   dropdown:
+  - title: "Actividades"
+    url: "/actividades/"
   - title: "Tutopost"
     url: "/tutopost/"
   - title: "Contacto"
