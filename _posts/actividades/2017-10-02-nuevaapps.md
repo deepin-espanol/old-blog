@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+layout: page
 title: "Propuestas de nuevas aplicaciones"
 subheadline: "Actividades"
 teaser: "Participa en añadir aplicaciones"
@@ -12,17 +12,20 @@ tags:
 categories:
     - actividades
 ---
-Próximamente.
+Para gusto de los usuarios de Deepin, hay una tienda con un amplio catálogo de aplicaciones. Pero hay más que puedes proponer para seguir creciendo.
 
 ## Requisitos
-1. Apliación debe correr con normalidad en Deepin
-2. Se considera una buena aplicación de calidad con buena interfaz, elegancia y de uso fácil
-3. La aplicación debe estar disponible gratuitamente, en caso de tener una versión de paga, infórmanos
-4. La aplicación no debe comprometer la seguridad de Deepin
-5. La aplicación no debe infringir los derechos de autor y comerciales
-6. La aplicación no debe tener software malintencionado, recolección de datos sin consentimiento, contenido no deseado y dificultades de desinstalación
-* La apliación debe ser apta para todo público, sin violencia, pornografía, discriminación, fin político, intenciones ilegales, entre otros.
-* No consideramos aplicaciones incompletas como las etiquetadas con "demo" o "versión de prueba"
+Para que la aplicación forma parte de Deepin Store, es necesario:
+1. Correr con normalidad en la última versión de Deepin.
+2. Tener una interfaz, experiencia y usabilidad de calidad.
+3. **No** debe comprometer la seguridad de Deepin.
+4. **No** debe infringir los derechos de autor y comerciales.
+5. Debe estar libre de software malintencionado, recolección de datos sin consentimiento, contenido no deseado y dificultades de desinstalación.
+6. Debe ser apta para todo público, sin fomentar la violencia, pornografía, discriminación, afán político, intenciones ilegales, entre otros.
+
+Para los pagos:
+7. Debe estar disponible de forma gratuita. 8. En caso de tener herramientas de pago, explica como funciona.
+9. **No consideramos aplicaciones incompletas** como las etiquetadas con "demo" o "versión de prueba".
 
 ## Aportaciones
 
