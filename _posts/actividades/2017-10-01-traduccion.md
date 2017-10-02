@@ -24,6 +24,12 @@ Deepin es traducido en varios idiomas, incluyendo el inglés y español. Para qu
 
 Visita la página del proyecto en [Transifex](https://www.transifex.com/linuxdeepin/).
 
+<div class="row">
+    <div class="medium-12 columns t30">
+    <img src="{{ site.urlimg }}deepintransifex.png" alt="La página de traducción en Transifex.">
+    </div><!-- /.medium-4.columns -->
+</div>
+
 ## Recomendaciones
 
 Tenemos un [listado en crecimiento]({{ site.url }}{{ site.baseurl }}/traducciones/). La mayoría en español internacional.
@@ -32,9 +38,3 @@ Tenemos un [listado en crecimiento]({{ site.url }}{{ site.baseurl }}/traduccione
 
 * Para traducciones automáticas recurre a DeepL, Yandex, Bing o Google.
 * Tienes la [información de contacto]({{ site.url }}{{ site.baseurl }}/info/contacto/) para contactar con los colaboradores.
-
-<div class="row">
-    <div class="medium-12 columns t30">
-    <img src="{{ site.urlimg }}deepintransifex.png" alt="La página de traducción en Transifex.">
-    </div><!-- /.medium-4.columns -->
-</div>

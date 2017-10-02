@@ -29,12 +29,12 @@ sitemap: false
 
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}rules.jpg" alt="">
-        <p style="font-size: 180%"><a href="{{ site.url }}{{ site.baseurl }}/manual/">Manual de uso</a> y <a href="{{ site.url }}{{ site.baseurl }}/tips/">sección tips</a></p>
+        <p style="font-size: 180%"><a href="{{ site.url }}{{ site.baseurl }}/manual/">Manual de uso</a> y <a href="{{ site.url }}{{ site.baseurl }}/tips/">sección Tips</a></p>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}newspaper.jpg" alt="">
-        <p style="font-size: 180%"><a href="{{ site.url }}{{ site.baseurl }}/noticias/">Noticias</a></p>
+        <p style="font-size: 180%"><a href="{{ site.url }}{{ site.baseurl }}/noticias/">Noticias</a> y <a href="{{ site.url }}{{ site.baseurl }}/actividades/">Actividades</a></p>
     </div><!-- /.medium-4.columns -->
 
 </div><!-- /.row -->
