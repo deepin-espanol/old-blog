@@ -19,14 +19,14 @@ Tomamos como referencia estos enlaces:
 * Publicaciones en [Distrowatch](http://distrowatch.com/table.php?distribution=deepin)
 * Del [código fuente]({{ site.url }}{{ site.baseurl }}/source/)
 
-## Más enlaces
+## Otras formas de participar
+Mientras esperamos de las nuevas novedades, puedes seguir participando en [las actividads que recopilamos]({{ site.url }}/actividades/).
 
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/info/">No olvides conocer a nosotros ›</a>
 
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/translate/">Traduce Deepin al español ›</a>
 
-
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/tips/feedback/">Reporta un error o sugerencia ›</a>
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/novedades/feedback/">Reporta un error o sugerencia ›</a>
 
 <div class="row">
     <div class="medium-12 columns t30">
