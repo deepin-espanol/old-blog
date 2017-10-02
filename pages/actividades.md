@@ -8,8 +8,6 @@ header:
 permalink: "/actividades/"
 ---
 
-<img src="{{ site.urlimg }}Fondo 3d Logo comunidad.png" alt="">
-
 Actividades que puedes hacer:
 
 <ul>
@@ -17,3 +15,5 @@ Actividades que puedes hacer:
     <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
+
+<img src="{{ site.urlimg }}Fondo 3d Logo comunidad.png" alt="">

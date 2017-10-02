@@ -32,6 +32,8 @@ Debajo, el documental "Codename:Linux" traducido para RTVE:
         <iframe width="1280" height="720" src="//www.youtube.com/embed/r8I-eJGL7O8" frameborder="0" allowfullscreen></iframe>
 </div>
 
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/source/">Ayúdanos a llegar a más dispositivos ›</a>
+
 ## Porqué de software libre
 No es una idea capitalista ni comunista, es sentido común. La idea es evitar las restricciones al compartir material y generar retroalimentación por otros usuarios.
 
