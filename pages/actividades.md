@@ -5,7 +5,7 @@ subheadline: "Info"
 teaser: "Ayúdanos a mejorar Deepin recibiendo comentarios o aportando mejoras."
 header:
    image_fullwidth: "header_roadmap_3.jpg"
-permalink: "/participa/"
+permalink: "/actividades/"
 ---
 
 <img src="{{ site.urlimg }}Fondo 3d Logo comunidad.png" alt="">
