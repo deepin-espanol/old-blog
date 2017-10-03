@@ -1,21 +1,19 @@
 ---
 layout: page
-title:  "Mis documentos"
+title:  "Otras formas de instalar Deepin"
 subheadline:  "Manual"
-teaser: "Un vistazo a tus documentos"
+teaser: "Seamos creativos"
 categories:
     - manual
 tags:
-    - documentos
-    - archivos
-    - gestor
-    - explorador
-    - fotos
+    - instalacion
+    - pc
+    - usb
+    - sistemas
+    - videos
 
 ---
-Cuando quieras guardar tus archivos, tienes una carpeta de Documentos. Lo administras en [el gestor de archivos incluido]({{ site.url }}/apps/filemanager/).
-
-## Otras formas de instalar Deepin
+Además de [la instalación convencional]({{ site.url }}/instalacion/), te mostramos algunos ejemplos para instalar Deepin.
 
 ### Instalación junto a Windows
 
