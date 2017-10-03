@@ -27,7 +27,7 @@ Los códigos fuente del sistema operativo y las aplicaciones está en [Github](h
 ## Sobre Linux
 Linux es el alma del sistema operativo para que funcione en muchos dispositivos. Si deseas cambiar a una propia consígelo del [código fuente original](https://github.com/torvalds/linux) e [instala esa versión]({{ site.url }}/tips/kernel/).
 
-Debajo, el documental "Codename:Linux" traducido para RTVE:
+Siempre puedes [participar en su desarrollo]({{ site.url }}{{ site.baseurl }}/novedades/kernel/). Debajo, el documental "Codename:Linux" traducido para RTVE:
 <div class="flex-video">
         <iframe width="1280" height="720" src="//www.youtube.com/embed/r8I-eJGL7O8" frameborder="0" allowfullscreen></iframe>
 </div>
