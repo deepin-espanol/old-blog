@@ -23,10 +23,11 @@ Tenemos dos tipos: la integrada que tiene limitaciones con el 3D y viene por def
 Tal como explica el portal [Colaboratorio](https://colaboratorio.net/juan/colaboratorio/2017/tarjeta-grafica-comprar-gnulinux/), puedes configurar en la Bios. Si usas la tarjeta dedicada, los gráficos no interferirán al consumo de RAM.
 
 ## Controladores
+Algunos controladores son mantenidos por [desarrolladores]({{ site.url }}{{ site.baseurl }}/actividades/drivers/) y otros son elaborados por empresas.
 
 * AMD: El recomendado es AMDGPU para la marca. Otra versión y siendo comercial es AMDGPUPRO.
 * Intel: Tiene un controlador propio
-* Nvidia: El libre es Noveau y el propietario es Nvidia. Algunos controladores para laptops llevan el nombre de Bumbelee.
+* Nvidia: El libre es Nouveau y el propietario es Nvidia. Algunos controladores para laptops llevan el nombre de Bumbelee.
 
 ## Vídeo
 AMD:
