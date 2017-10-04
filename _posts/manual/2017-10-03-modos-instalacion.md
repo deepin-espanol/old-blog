@@ -13,11 +13,11 @@ tags:
     - videos
 
 ---
-Además de [la instalación convencional]({{ site.url }}/instalacion/), te mostramos algunos ejemplos para instalar Deepin.
+Además de [la instalación convencional]({{ site.url }}{{ site.baseurl }}/instalacion/), te mostramos algunos ejemplos para instalar Deepin.
 
 ### Instalación junto a Windows
 
-Si te complica instalar Deepin con la instalación avanzada Deepin con la [aplicación para Microsoft Windows]({{ site.url }}/apps/deepininstaller/).
+Si te complica instalar Deepin con la instalación avanzada Deepin con la [aplicación para Microsoft Windows]{{ site.url }}{{ site.baseurl }}/apps/deepininstaller/).
 
 Un vídeo explicativo para instalar Deepin cortesía de Salmorejo Geek:
 <div class="flex-video">
