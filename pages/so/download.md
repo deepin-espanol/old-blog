@@ -37,6 +37,8 @@ Torrent:
 
 Para descargar vía torrent es necesario un cliente compatible y comprobar la mayor cantidad de semillas, clientes encargadas de distribuir los archivos hacia otros clientes.
 
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/manual/sabores/">¿Quieres usar otro sistema con Deepin preinstalado? Revisa la página "Sabores"›</a>
+
 ## Preparación
 
 Cuando tengas el archivo ISO, utiliza una aplicación para copiar los archivos al USB o DVD (no CD) con la aplicación que prefieras.
@@ -45,17 +47,6 @@ Si no conoces, te [damos una mano]({{ site.url }}/manual/discoarranque/).
 
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/instalacion/">Continúa con la instalación ›</a>
 
-## Anexo: Ediciones no oficiales
-
-Manjaro Deepin es una [versión no oficial](https://manjaro.github.io/Manjaro-Deepin-released/) basada en Arch en lugar de Debian. Descárgalos desde [Sourcefource](https://sourceforge.net/projects/manjaro-deepin/).
-
-Pardus, basada en la versión estable Debian 9, utilizará el entorno Deepin. Está disponible [desde su página web](http://www.pardus.org.tr/).
-
-Si tienes instalado un sistema operativo, visita [la página Otras distros]({{ site.url }}/manual/otrasdistros/) para conseguir el escritorio.
-
-Existe un port para ARM, los detalles en [el manual](({{ site.url }}/manual/arm/))
-
-{% include alert success='Quieres mejorar, ¡colabora con nosotros!' %}
 {% include _improve_content.html %}
 
 </div><!-- /.medium-8.columns -->

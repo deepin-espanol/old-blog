@@ -20,6 +20,8 @@ header:
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 {% include _improve_content.html %}
 
+Seguimos con la instalación de Deepin, específicamente la versión oficial para escritorio.
+
 ## Requisitos
 
 Antes de usar Deepin tu equipo debe estar preparado con estos requisitos:

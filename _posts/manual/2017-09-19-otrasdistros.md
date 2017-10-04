@@ -22,16 +22,9 @@ Hasta la versión 14, Deepin estuvo basado en el sistema operativo Ubuntu. Sin e
 ## Distribuciones transplantadas
 
 ### Distribuciones preparadas
-
-En algunas distribuciones, vienen preinstalado el entorno. En el caso de Manjaro, bastaría [averiguar en el sitio web del proyecto](https://manjaro.github.io/Manjaro-Deepin-released/).
-
-<div class="flex-video">
-        <iframe width="1280" height="720" src="//www.youtube.com/embed/q_DK40QNU98" frameborder="0" allowfullscreen></iframe>
-</div>
-
-Descarga ISO: [Sourcefource](https://sourceforge.net/projects/manjaro-deepin/)
-
-Lectura adicional: [Hacer el disco de arranque]({{ site.url }}/manual/discoarranque/)
+Revisa:
+* [Sabores de Deepin no oficiales]({{ site.url }}/manual/sabores/)
+* [Hacer el disco de arranque]({{ site.url }}/manual/discoarranque/)
 
 ### Distribuciones que requieren instalar
 
