@@ -97,9 +97,9 @@ En Deepin comentamos y comprobamos varias aplicaciones despúes de [instalar el 
   </tbody>
 </table>
 
-## Aplicaciones para el sistema
+## Extras
 <table>
-  <caption>Herramientas</caption>
+  <caption>Herramientas del sistema</caption>
   <colgroup>
     <col span="1" style="width: 30%;">
     <col span="1" style="width: 70%;">
@@ -122,6 +122,25 @@ En Deepin comentamos y comprobamos varias aplicaciones despúes de [instalar el 
   </tbody>
 </table>
 
+<table>
+  <caption>Herramientas de seguridad</caption>
+  <colgroup>
+    <col span="1" style="width: 30%;">
+    <col span="1" style="width: 70%;">
+      </colgroup>
+  <thead>
+    <tr>
+      <th>Función</th>
+      <th>Aplicaciones</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Gestión de credenciales</td>
+      <td><a href="{{ site.url }}{{ site.baseurl }}/tips/bitwarden">Bitwarden</a> (via navegador)</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Aplicaciones de comunicación y en línea
 
