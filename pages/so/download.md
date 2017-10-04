@@ -25,8 +25,8 @@ header:
 
 Hay varias maneras de descargar, además del [oficial](https://www.deepin.org/en/download/):
 
-* [En SourceForge](https://sourceforge.net/projects/deepin/)
-*; [Kernel.org](http://mirrors.kernel.org/deepin-cd/);
+* [En SourceForge](https://sourceforge.net/projects/deepin/);
+* [Kernel.org](http://mirrors.kernel.org/deepin-cd/);
 * [Empresa en Silicon Valley, EUA](http://mirror1.sjc02.svwh.net/deepin-cd/);
 * Otras formas para descargar en [la página Lista de espejos]({{ site.url }}//tips/mirror/).
 
