@@ -25,10 +25,10 @@ header:
 
 Antes de actualizar Deepin tu equipo debe estar preparado:
 
-* Ten al menos 10 GB de espacio libre en el disco duro o sólido para descargar los archivos
-* Tu equipo debe estar conectado a Internet, cableado o vía WiFi
-* Cierra las aplicaciones que consuman muchos recursos
-* En caso de computadores portátiles, debe tener un buen estado de batería
+* Ten al menos 10 GB de espacio libre en el disco duro o sólido para descargar los archivos;
+* Tu equipo debe estar conectado a Internet, cableado o vía WiFi;
+* Cierra las aplicaciones que consuman muchos recursos;
+* En caso de computadores portátiles, debe tener un buen estado de batería.
 
 ### Selecciona un respositorio
 
