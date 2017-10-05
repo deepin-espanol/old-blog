@@ -1,7 +1,7 @@
 ---
 layout: page
 sidebar: right
-subheadline: Manual
+subheadline: Tip
 title:  "Apagar, reiniciar e hibernar desde la terminal"
 teaser: "Para casos extremos, hay que descansar a la máquina."
 breadcrumb: true
@@ -9,7 +9,7 @@ tags:
     - deepin
 
 categories:
-    - manual
+    - tips
 image:
     thumb: gallery-example-2-thumb.jpg
     title: gallery-example-2.jpg

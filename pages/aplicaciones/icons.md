@@ -8,7 +8,7 @@ header:
     image_fullwidth: "header_drop.jpg"
 ---
 
-La lista de iconos está aquí. Son aplicaciones etiquetadas como "iconos".
+La lista de iconos está aquí. Son aplicaciones etiquetadas como "iconos". Para cambiar los iconos, revisa la [página del Manual]({{ site.url }}{{ site.baseurl }}/manual/temas/).
 
 <ul>
     {% for post in site.tags.iconos %}

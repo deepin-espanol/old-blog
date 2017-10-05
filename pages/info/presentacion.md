@@ -24,7 +24,7 @@ sitemap: false
 <div class="row t30">
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}apps.jpg" alt="">
-        <p style="font-size: 180%"><a href="{{ site.url }}{{ site.baseurl }}/apps/">Aplicaciones</a> (<a href="{{ site.url }}{{ site.baseurl }}/escenciales/">escenciales</a>)</p>
+        <p style="font-size: 180%"><a href="{{ site.url }}{{ site.baseurl }}/apps/">Aplicaciones</a> (<a href="{{ site.url }}{{ site.baseurl }}/escenciales/">escenciales</a>, <a href="{{ site.url }}{{ site.baseurl }}/icons/">iconos</a>, <a href="{{ site.url }}{{ site.baseurl }}/games/">juegos</a>)</p>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
