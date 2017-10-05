@@ -42,7 +42,7 @@ Aparte del [oficial](https://www.deepin.org/en/mirrors/packages/) tienes una ser
 Ejemplos:
 * [Linux Kernel Mirror](http://mirrors.kernel.org/deepin/)
 * [Silicon Valley](http://mirror1.sjc02.svwh.net/deepin/)
-* Otros espejos en [la página Lista de espejos]({{ site.url }}//tips/mirror/).
+* Otros espejos en [la página Lista de espejos]({{ site.url }}{{ site.baseurl }}/tips/mirror/).
 
 ## Actualizar
 
@@ -54,7 +54,7 @@ La forma más elegante de conseguir la última versión es accediendo al Centro 
 4. Cuando se descarga los componentes del sistema, cierra las aplicaciones y procede a instalar;
 5. Se reiniciará y demorará unos minutos.
 
-Si quieres saber cómo funciona y cómo aprovechar las actualziaciones, visita [la página Espejos]({{ site.url }}//tips/mirror/). En caso de tener problemas, prueba a editar el archivo que te explicaremos en [la página correspondiente]({{ site.url }}/tips/sources/).
+Si quieres saber cómo funciona y cómo aprovechar las actualziaciones, visita [la página Espejos]({{ site.url }}{{ site.baseurl }}/manual/espejos/). En caso de tener problemas, prueba a editar el archivo que te explicaremos en [la página correspondiente]({{ site.url }}{{ site.baseurl }}/tips/sources/).
 
 ## Ver los útlimos cambios
 Tenemos un listado de cambios en la opción "Revisa las novedades". Para las actualizaciones de seguridad visita la [página web de Deepin](https://www.deepin.org/en/category/system-update/).
