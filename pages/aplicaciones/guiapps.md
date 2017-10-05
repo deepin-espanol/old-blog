@@ -163,7 +163,7 @@ En Deepin comentamos y comprobamos varias aplicaciones despúes de [instalar el 
     </tr>
     <tr>
       <td>Webapps en uno</td>
-      <td><a href="{{ site.url }}{{ site.baseurl }}/apps/kodi">Rambox</a>, Franz</td>
+      <td><a href="{{ site.url }}{{ site.baseurl }}/apps/kodi">Rambox</a>, <a href="{{ site.url }}{{ site.baseurl }}/apps/webcatalog">WebCatalog</a>, Franz</td>
     </tr>
   </tbody>
 </table>
