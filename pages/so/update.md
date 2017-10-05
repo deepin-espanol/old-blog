@@ -30,9 +30,9 @@ Antes de actualizar Deepin tu equipo debe estar preparado:
 * Cierra las aplicaciones que consuman muchos recursos
 * En caso de computadores portátiles, debe tener un buen estado de batería
 
-### Selecciona un espejo
+### Selecciona un respositorio
 
-Aparte del [oficial](https://www.deepin.org/en/mirrors/packages/):
+Aparte del [oficial](https://www.deepin.org/en/mirrors/packages/) tienes una serie de repositorios optimizados para descargar:
 
 1. Dígete al Centro de Control
 2. Selecciona "Actualizar"
@@ -54,29 +54,14 @@ La forma más elegante de conseguir la última versión es accediendo al Centro 
 4. Cuando se descarga los componentes del sistema, cierra las aplicaciones y procede a instalar;
 5. Se reiniciará y demorará unos minutos.
 
-## Anexos
+Si quieres saber cómo funciona y cómo aprovechar las actualziaciones, visita [la página Espejos]({{ site.url }}//tips/mirror/). En caso de tener problemas, prueba a editar el archivo que te explicaremos en [la página correspondiente]({{ site.url }}/tips/sources/).
 
-### Ver los útlimos cambios
+## Ver los útlimos cambios
 Tenemos un listado de cambios en la opción "Revisa las novedades". Para las actualizaciones de seguridad visita la [página web de Deepin](https://www.deepin.org/en/category/system-update/).
 
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/novedades/">No olvides revisar las novedades y avances ›</a>
 
-## Anexo: Usar la terminal
-Otra forma es accediendo a la **Terminal de Deepin**, útil para no reiniciar el equipo o comprobar las dependencias en los paquetes. En primer lugar, deberás actualizar la lista de paquetes con el comando `update` y escribe la contraseña root.
 
-Adicionalmente, edita el archivo para las fuentes de la página. Más detalles en [la página correspondiente]({{ site.url }}/tips/sources/).
-
-~~~
-sudo apt update
-~~~
-
-Continúa ejecute este comando:
-
-~~~
-sudo apt upgrade && sudo apt full-upgrade
-~~~
-
-Tardará unos minutos, mientras ves los detalles en la ventana. Considera que ´upgrade´ significa "mejorar" y `full-upgrade` es para cambiar de versión (digamos de 15.3 a 15.4).
 
 {% include alert success='Quieres mejorar, ¡colabora con nosotros!' %}
 {% include _improve_content.html %}

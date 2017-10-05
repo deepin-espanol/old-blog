@@ -137,7 +137,7 @@ En Deepin comentamos y comprobamos varias aplicaciones despúes de [instalar el 
   <tbody>
     <tr>
       <td>Gestión de credenciales</td>
-      <td><a href="{{ site.url }}{{ site.baseurl }}/tips/bitwarden">Bitwarden</a> (via navegador)</td>
+      <td><a href="{{ site.url }}{{ site.baseurl }}/tips/bitwarden">Bitwarden</a> (via navegador), <a href="{{ site.url }}{{ site.baseurl }}/apps/keepass">KeePass</a></td>
     </tr>
   </tbody>
 </table>
