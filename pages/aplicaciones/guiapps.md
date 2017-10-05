@@ -159,7 +159,7 @@ En Deepin comentamos y comprobamos varias aplicaciones despúes de [instalar el 
   <tbody>
     <tr>
       <td>Navegador</td>
-      <td><b>Chrome</b>, <a href="{{ site.url }}{{ site.baseurl }}/apps/kodi">Firefox</a>, Chromium, Vivaldi, Opera</td>
+      <td><b><a href="{{ site.url }}{{ site.baseurl }}/apps/chrome">Chrome</a></b>, <a href="{{ site.url }}{{ site.baseurl }}/apps/kodi">Firefox</a>, Chromium, Vivaldi, Opera</td>
     </tr>
     <tr>
       <td>Webapps en uno</td>
@@ -213,11 +213,11 @@ En Deepin comentamos y comprobamos varias aplicaciones despúes de [instalar el 
   <tbody>
     <tr>
       <td>Compatible con Windows</td>
-      <td><a href="{{ site.url }}{{ site.baseurl }}/apps/crossover">Crossover</a></td>
+      <td><b><a href="{{ site.url }}{{ site.baseurl }}/apps/crossover">Crossover</a></b>,<a href="{{ site.url }}{{ site.baseurl }}/apps/playonlinux">PlayOnLinux</a></td>
     </tr>
     <tr>
       <td>Compatible con Android</td>
-      <td>Anbox, a href="{{ site.url }}{{ site.baseurl }}/apps/genymotion">Genymotion</a></td>
+      <td>Anbox (alfa), <a href="{{ site.url }}{{ site.baseurl }}/apps/genymotion">Genymotion</a></td>
     </tr>
   </tbody>
 </table>

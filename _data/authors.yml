@@ -10,18 +10,18 @@ deepinenespanol: # replace this with your info
   siterole: "La comunidad de Deepin en español"
   uri: http://deepin-espanol.github.io/
   email:
-  twitter: 
+  twitter:
 # you can add more authors here
 # puedes añadir autores aquí
 sanguinetti: # replace this with your info
   name: "Diego Sanguinetti"
   siterole: "Desarrollador del proyecto y diseño web"
-  uri: http://sguinetti.github.io/
+  uri: http://sguinetti.gitlab.io/
   email: diego.sanguinetti@hotmail.com
   twitter: "@sguinetti"
 
 gasper: # replace this with your info
-  name: "Alvaro Samudio" 
+  name: "Alvaro Samudio"
   #alias: "G4SP3R"
   siterole: "Colaborador del proyecto"
   uri: https://github.com/alvarosamudio
