@@ -6,6 +6,7 @@ header:
   title: "Presentación de Deepin en Español"
   caption: "Cosas que podemos ofrecer y cooperar."
   image_fullwidth: header_unsplash_12.jpg
+title: "Un vistazo"
 ---
 <!--more-->
 
