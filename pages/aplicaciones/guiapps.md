@@ -88,7 +88,7 @@ En Deepin comentamos y comprobamos varias aplicaciones despúes de [instalar el 
     </tr>
     <tr>
       <td>Editor de música</td>
-      <td>Audicity</td>
+      <td><a href="{{ site.url }}{{ site.baseurl }}/apps/audacity">Audacity</a></td>
     </tr>
     <tr>
       <td>Suite multimedia</td>
