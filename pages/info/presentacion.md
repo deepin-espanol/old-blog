@@ -1,10 +1,10 @@
 ---
 layout: page-fullwidth
-title: "Página de presentación"
-subheadline: "Info"
-teaser: "Cosas que podemos ofrecer y cooperar."
 permalink: /presentacion/
 sitemap: false
+header:
+  title: "Página de presentación"
+  teaser: "Cosas que podemos ofrecer y cooperar."
 ---
 <!--more-->
 
