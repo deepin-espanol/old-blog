@@ -13,7 +13,7 @@ En Deepin comentamos y comprobamos varias aplicaciones despúes de [instalar el 
 Para listas de aplicaciones centradas en tareas específicas, visita la lista [Guía de aplicaciones]({{ site.url }}{{ site.baseurl }}/guiaapps/). Iremos aumentando con la ayuda de colaboradores.
 
 <table>
-  <caption>Aplicaciones escenciales</caption>
+  <caption>🔥 Aplicaciones escenciales</caption>
   <colgroup>
     <col span="1" style="width: 30%;">
     <col span="1" style="width: 70%;">
@@ -76,6 +76,10 @@ Para listas de aplicaciones centradas en tareas específicas, visita la lista [G
     <tr>
       <td>Navegador</td>
       <td><b>Chrome</b>, <a href="{{ site.url }}{{ site.baseurl }}/apps/kodi">Firefox</a>, Chromium, Vivaldi, Opera</td>
+    </tr>
+    <tr>
+      <td>Plataforma de juegos</td>
+      <td><b><a href="{{ site.url }}{{ site.baseurl }}/apps/steam">Steam</a></b>, GOG.com</td>
     </tr>
   </tbody>
 </table>

@@ -13,7 +13,7 @@ En Deepin comentamos y comprobamos varias aplicaciones despúes de [instalar el 
 ## Aplicaciones de oficina y productividad
 
 <table>
-  <caption>Ofimática</caption>
+  <caption>🔖 Ofimática</caption>
   <colgroup>
     <col span="1" style="width: 30%;">
     <col span="1" style="width: 70%;">
@@ -54,7 +54,7 @@ En Deepin comentamos y comprobamos varias aplicaciones despúes de [instalar el 
 
 ## Aplicaciones para multimedia
 <table>
-  <caption>Multimedia</caption>
+  <caption>🔖 Multimedia</caption>
   <colgroup>
     <col span="1" style="width: 30%;">
     <col span="1" style="width: 70%;">
@@ -99,7 +99,7 @@ En Deepin comentamos y comprobamos varias aplicaciones despúes de [instalar el 
 
 ## Extras
 <table>
-  <caption>Herramientas del sistema</caption>
+  <caption>🔖 Herramientas del sistema</caption>
   <colgroup>
     <col span="1" style="width: 30%;">
     <col span="1" style="width: 70%;">
@@ -123,7 +123,7 @@ En Deepin comentamos y comprobamos varias aplicaciones despúes de [instalar el 
 </table>
 
 <table>
-  <caption>Herramientas de seguridad</caption>
+  <caption>🔖 Herramientas de seguridad</caption>
   <colgroup>
     <col span="1" style="width: 30%;">
     <col span="1" style="width: 70%;">
@@ -145,7 +145,7 @@ En Deepin comentamos y comprobamos varias aplicaciones despúes de [instalar el 
 ## Aplicaciones de comunicación y en línea
 
 <table>
-  <caption>Servicios de la nube</caption>
+  <caption>🔖 Servicios de la nube</caption>
   <colgroup>
     <col span="1" style="width: 30%;">
     <col span="1" style="width: 70%;">
@@ -169,7 +169,7 @@ En Deepin comentamos y comprobamos varias aplicaciones despúes de [instalar el 
 </table>
 
 <table>
-  <caption>Mensajería insantánea</caption>
+  <caption>🔖 Mensajería insantánea</caption>
   <colgroup>
     <col span="1" style="width: 30%;">
     <col span="1" style="width: 70%;">
@@ -199,7 +199,7 @@ En Deepin comentamos y comprobamos varias aplicaciones despúes de [instalar el 
 ## Compatibilidad con otros sistemas
 
 <table>
-  <caption>Mensajería insantánea</caption>
+  <caption>🔖 Mensajería insantánea</caption>
   <colgroup>
     <col span="1" style="width: 30%;">
     <col span="1" style="width: 70%;">
