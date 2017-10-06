@@ -11,7 +11,7 @@ sitemap: false
 <div class="row t60">
     <div class="medium-6 columns b30">
         <img src="{{ site.urlimg }}landscape.jpg" alt="">
-        <p style="font-size: 180%"><a href="{{ site.url }}{{ site.baseurl }}/so">🖥️ SO</a> (<a href="{{ site.url }}{{ site.baseurl }}/download">💿 descargar</a>, <a href="{{ site.url }}{{ site.baseurl }}/install">🔻 instalar</a>, <a href="{{ site.url }}{{ site.baseurl }}/update">🔺 actualizar</a>)</p>
+        <p style="font-size: 180%"><a href="{{ site.url }}{{ site.baseurl }}/so">🖥️ SO</a> (<a href="{{ site.url }}{{ site.baseurl }}/download">💿 descargar</a>, <a href="{{ site.url }}{{ site.baseurl }}/install">🔽 instalar</a>, <a href="{{ site.url }}{{ site.baseurl }}/update">🔼 actualizar</a>)</p>
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-6 columns b30">
