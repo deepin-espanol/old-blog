@@ -75,7 +75,7 @@ Para listas de aplicaciones centradas en tareas específicas, visita la lista [G
     </tr>
     <tr>
       <td>Navegador</td>
-      <td><b>Chrome</b>, <a href="{{ site.url }}{{ site.baseurl }}/apps/kodi">Firefox</a>, Chromium, Vivaldi, Opera</td>
+      <td><b><a href="{{ site.url }}{{ site.baseurl }}/apps/chrome">Chrome</a></b>, <a href="{{ site.url }}{{ site.baseurl }}/apps/kodi">Firefox</a>, Chromium, Vivaldi, Opera</td>
     </tr>
     <tr>
       <td>Plataforma de juegos</td>
