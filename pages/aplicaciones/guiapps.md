@@ -46,6 +46,10 @@ En Deepin comentamos y comprobamos varias aplicaciones despúes de [instalar el 
       <td><a href="https://lignux.com/freeplane-un-editor-de-mapas-conceptuales/">Freeplane</a></td>
     </tr>
     <tr>
+      <td>Redacción de textos</td>
+      <td><a href="{{ site.url }}{{ site.baseurl }}/apps/bibisco">Bibisco</a>, <a href="{{ site.url }}{{ site.baseurl }}/apps/manuskript">Manuskript</a>, Trelby</td>
+    </tr>
+    <tr>
       <td>Calendario</td>
       <td><b>Deepin Calendar</b>, Lightning (Thunderbird), Evolution</td>
     </tr>
