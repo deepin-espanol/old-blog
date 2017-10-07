@@ -11,6 +11,7 @@ tags:
     - apk
 categories:
     - actividades
+breadcrumb: true    
 ---
 Deepin es traducido en varios idiomas, incluyendo el inglés y español. Para que Deepin sea fácil de entender a los hablantes de la lengua de Cervantes, necesitamos tu ayuda con recomendaciones para entender mejor.
 

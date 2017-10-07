@@ -11,6 +11,7 @@ tags:
     - apk
 categories:
     - actividades
+breadcrumb: true    
 ---
 Para gusto de los usuarios de Deepin, hay una tienda con un amplio catálogo de aplicaciones. Pero hay más que puedes proponer para seguir creciendo.
 

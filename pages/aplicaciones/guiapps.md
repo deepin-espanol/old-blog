@@ -123,6 +123,14 @@ En Deepin comentamos y comprobamos varias aplicaciones despúes de [instalar el 
       <td>Gestor de archivos</td>
       <td><b><a href="{{ site.url }}{{ site.baseurl }}/apps/filemanager">File Manager</a></b>, Nautilus, Dolphin</td>
     </tr>
+    <tr>
+      <td>Gestor de paquetes</td>
+      <td><a href="{{ site.url }}{{ site.baseurl }}/apps/synaptic">Synaptic</a></td>
+    </tr>
+    <tr>
+      <td>Restauración del sistema</td>
+      <td><a href="{{ site.url }}{{ site.baseurl }}/apps/resetter">Resetter</a></td>
+    </tr>
   </tbody>
 </table>
 

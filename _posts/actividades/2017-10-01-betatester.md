@@ -11,6 +11,7 @@ tags:
     - interno
 categories:
     - actividades
+breadcrumb: true  
 ---
 Deepin es probado constantemente por desarrolladores y voluntarios. Si tienes participación activa, dominas el inglés y formas parte del foro oficial, puedes integrarte al selecto equipo de desarrollo de Deepin.
 

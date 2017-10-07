@@ -11,6 +11,7 @@ tags:
     - pedidos
 categories:
     - actividades
+breadcrumb: true    
 ---
 Deepin en Español tiene un catálogo de varias aplicaciones, tutoriales y otras más. Quisiéramos saber si tienes sugerencia para ampliar un poco más.
 
