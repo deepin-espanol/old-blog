@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<!-- El mapa de sitio es generado automáticamente
+{{ include.name }}: {{ include.links | size }} links with priority={{ include.priority }}, changefreq={{ include.changefreq }} -->
 {% for link in include.links %}
 	{% unless link.sitemap.exclude or link.published == false %}
 	<url>
@@ -23,5 +24,3 @@
 	</url>
 	{% endunless %}
 {% endfor %}
-</urlset><!--
- {{ include.name }}: {{ include.links | size }} links with priority={{ include.priority }}, changefreq={{ include.changefreq }} -->
