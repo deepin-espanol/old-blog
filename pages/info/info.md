@@ -21,7 +21,7 @@ No busques contenido oficial, sería redundante como para añadirlo del sitio we
 
 Somos un grupo pequeño formado por voluntarios en varios países. El proyecto fue creado a mediados de 2016 como pasatiempo, sin saber el potencial que estamos llegando.
 
-Como Deepin es una distribución Linux, contiene una serie de componentes desarrollados bajo una filosofía de software libre. Quizás, un estilo de libre menos atado, en cooperación y en constante cambio.
+Como Deepin es una distribución Linux, contiene una serie de componentes desarrollados bajo una filosofía de software libre. Algo como un estilo de libre menos atado, en cooperación y en constante cambio.
 
 Quizá no te sea relevante por usar otras cosas; sin embargo, te ejemplificamos en estas palabras (por ejemplo, si quieres usar las aplicaciones originales).
 
