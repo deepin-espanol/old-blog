@@ -3,6 +3,7 @@ layout: page
 title:  "Formatear particiones"
 subheadline:  "Manual"
 teaser: "Organizando archivos en particiones"
+sidebar: right
 categories:
     - manual
 tags:

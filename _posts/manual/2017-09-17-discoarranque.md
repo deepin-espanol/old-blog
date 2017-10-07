@@ -3,6 +3,7 @@ layout: page
 title:  "Elaborar disco de arranque"
 subheadline:  "Manual"
 teaser: "Elabora el instalador en tu USB o DVD"
+sidebar: right
 categories:
     - manual
 tags:

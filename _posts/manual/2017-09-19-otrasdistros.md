@@ -3,6 +3,7 @@ layout: page
 title:  "Transplantar DDE en distros Linux"
 subheadline:  "Manual"
 teaser: "El escritorio de Deepin en Ubuntu y otros más"
+sidebar: right
 categories:
     - manual
 tags:

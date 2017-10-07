@@ -1,5 +1,6 @@
 ---
 layout: page
+sidebar: right
 sidebar: left
 subheadline: Manual
 title:  "Instalar aplicaciones Deepin"

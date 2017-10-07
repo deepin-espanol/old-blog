@@ -3,6 +3,7 @@ layout: page
 title:  "Otras formas de instalar Deepin"
 subheadline:  "Manual"
 teaser: "Seamos creativos"
+sidebar: right
 categories:
     - manual
 tags:

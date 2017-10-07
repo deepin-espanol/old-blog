@@ -3,6 +3,7 @@ layout: page
 title:  "Tarjeta de vídeo"
 subheadline:  "Manual"
 teaser: "Revisando la calidad gráfica"
+sidebar: right
 categories:
     - manual
 tags:

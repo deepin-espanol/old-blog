@@ -3,6 +3,7 @@ layout: page
 title:  "Mis documentos"
 subheadline:  "Manual"
 teaser: "Un vistazo a tus documentos"
+sidebar: right
 categories:
     - manual
 tags:
