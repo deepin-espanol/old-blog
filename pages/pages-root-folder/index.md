@@ -7,7 +7,7 @@
 # Nota: La base es http://deepin-espanol.github.io
 #
 layout: frontpage
-teaser: "¡Una alternativa en nuestro idioma!"
+teaser: "¡Una alternativa en nuestro idioma! Conoce Deepin, no solo por ser Linux. Te enseñamos a usarlo, cuidarlo y mantenerlo completo."
 meta_teaser: "Una alternativa en nuestro idioma"
 header:
   image_fullwidth: header_unsplash_12.jpg
