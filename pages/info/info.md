@@ -15,6 +15,9 @@ No busques contenido oficial, para eso está el sitio web oficial. Los aportes q
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/actividades/">Participa en la comunidad con cualquiera de las Actividades ›</a>
 
 ## Sobre nosotros
+<div class="flex-video">
+        <iframe width="1280" height="720" src="//www.youtube.com/embed/dBAqsfE512g" frameborder="0" allowfullscreen></iframe>
+</div>
 
 Somos un grupo pequeño formado por voluntarios en varios países.
 

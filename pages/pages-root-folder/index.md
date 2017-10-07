@@ -17,12 +17,11 @@ widget1:
   url: 'https://deepin-espanol.github.io/blog/'
   image: widget-1-302x182.jpg
   text: 'Llevamos el conocimiento para conocer y dominar nuestro software. <em>Deepin en Español</em> ofrece una guía de instalación, serie de tutoriales y listados de aplicaciones. Además, añadimos un blog de noticias para estar al tanto de los últimos lanzamientos.'
-  video: '<a href="#" data-reveal-id="videoModal2"><img src="https://deepin-espanol.github.io/images/widget-1-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget2:
   title: "Did&aacute;ctico"
   url: 'https://deepin-espanol.github.io/info/'
+  image: widget-2-302x182.jpg
   text: 'En <em>Deepin en Español</em> nos comprometemos:<br/>1. <a href="/tutopost/">Contenido enriquecido</a>.<br/>2. Ilustraciones y vídeos.<br/>3. Multiplataforma.<br/>4. <a href="/participa/">Publicaciones colaborativas</a>.<br/>5. Y otras más...'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="https://deepin-espanol.github.io/images/widget-2-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Rec&iacute;proco"
   url: 'https://deepin-espanol.github.io/contact/'
@@ -49,16 +48,3 @@ permalink: /index.html
 #
 homepage: true
 ---
-
-<div id="videoModal" class="reveal-modal large" data-reveal="">
-  <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/P7AdcIifRFY" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
-</div>
-<div id="videoModal2" class="reveal-modal large" data-reveal="">
-  <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/dBAqsfE512g" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
-</div>
