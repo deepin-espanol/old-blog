@@ -66,6 +66,7 @@ sudo apt autoremove
 * [Blog de jcsis](https://jcsis.wordpress.com/2016/04/28/solucionar-el-problemas-de-dependencias-en-ubuntu-o-debian/)
 * [ComputerWegne](https://computernewage.com/2015/02/22/como-instalar-aplicaciones-en-ubuntu-desde-la-terminal-con-apt-apt-get-y-aptitude/)
 * [Página en Debian](https://www.debian.org/doc/manuals/aptitude/ch01s02.es.html)
+
 ### Más en Tips
 {: .t60 }
 {% include list-posts category='tips' entries='3'%}
