@@ -22,10 +22,10 @@ Halo es un paquete de iconcos para Deepin con un estilo urbano.
 
 ## Motivos para tener el set de iconos Halo
 
-Iconos semicirculares y opacos son el paquete de iconos inspirado en la productividad de las aplicaciones. Diseñados por Carlos Moreno y Alejandro Camarena, colaboradores del grupo Deepin en Español, la compatibilidad irá creciendo con el tiempo, aplicando también a carpetas y otras interfaces de usuario.
+Iconos semicirculares y opacos son el paquete de iconos inspirado en las formas pasteles y productivas de las aplicaciones. Diseñados por Carlos Moreno y Alejandro Camarena, colaboradores del grupo Deepin en Español, la compatibilidad irá creciendo con el tiempo, aplicando también a carpetas y otras interfaces de usuario.
 
 ## Disponibilidad
 
 El enlace de descarga en la sección fuentes.
 
-Fuentes: [Alejandro Camarena](https://www.youtube.com/channel/UCueXeAH1UD72MqwpIFWveXA), [Enlace de descarga](https://drive.google.com/file/d/0B8Tj7kVOYlHzYnp5bzJfMkFwbGc/view)
+Fuentes: [Alejandro Camarena](https://www.youtube.com/channel/UCueXeAH1UD72MqwpIFWveXA), [Enlace de descarga](https://seduccionlinux.wordpress.com/2017/10/07/halo-iconos-1-5/)

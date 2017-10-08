@@ -44,6 +44,8 @@ Ejemplos:
 * [Silicon Valley](http://mirror1.sjc02.svwh.net/deepin/)
 * Otros espejos en [la página Lista de espejos]({{ site.url }}{{ site.baseurl }}/tips/mirror/).
 
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/manual/espejo/">Información para actualizar ›</a>
+
 ## Actualizar
 
 La forma más elegante de conseguir la última versión es accediendo al Centro de Control.
@@ -60,8 +62,6 @@ Si quieres saber cómo funciona y cómo aprovechar las actualziaciones, visita [
 Tenemos un listado de cambios en la opción "Revisa las novedades". Para las actualizaciones de seguridad visita la [página web de Deepin](https://www.deepin.org/en/category/system-update/).
 
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/novedades/">No olvides revisar las novedades y avances ›</a>
-
-
 
 {% include alert success='Quieres mejorar, ¡colabora con nosotros!' %}
 {% include _improve_content.html %}
