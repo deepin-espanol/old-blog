@@ -34,12 +34,14 @@ Siempre puedes [participar en su desarrollo]({{ site.url }}{{ site.baseurl }}/no
 
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/source/">Ayúdanos a llegar a más dispositivos ›</a>
 
-## Porqué de software libre
-No es una idea capitalista ni comunista, es sentido común. La idea es evitar las restricciones al compartir material y generar retroalimentación por otros usuarios.
+## ¿Es necesario que sea software libre?
+No tiene un fin político, es sentido común. Queremos que sea justo y accesible.La idea es ofrece tanto a los usuarioses evitar las restricciones al compartir material y generar retroalimentación por otros usuarios.
+
+>Para garantizar que el mismo usuario conozca el software sin incorporar componentes con fines malintencionados. Tienes derecho a conocer que cambios realizó el software y que técnicas emplea al equipo.
 
 >Para reducir las restricciones al modificar el sistema operativo y el código fuente, haciendo los componentes físicos y virtuales fiables, actualizados y seguros.
 
->Para promover el apoyo entre empresas, desarrolladores y usuario, evitando la obsolescencia programada, la piratería y la incorporación de software malintencionado.
+>Para promover el apoyo entre empresas, desarrolladores y usuario, evitando la obsolescencia programada, la piratería y la competencia desleal.
 
 <div class="flex-video">
         <iframe width="1280" height="720" src="//www.youtube.com/embed/UUJ0dFpj1-M" frameborder="0" allowfullscreen></iframe>
