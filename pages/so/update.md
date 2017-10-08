@@ -20,7 +20,6 @@ header:
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 {% include _improve_content.html %}
 
-## Antes de actualizar
 ## Recomendaciones
 
 Antes de actualizar Deepin tu equipo debe estar preparado:
@@ -44,9 +43,9 @@ Ejemplos:
 * [Silicon Valley](http://mirror1.sjc02.svwh.net/deepin/)
 * Otros espejos en [la página Lista de espejos]({{ site.url }}{{ site.baseurl }}/tips/mirror/).
 
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/manual/espejo/">Información para actualizar ›</a>
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/manual/espejos/">Información para actualizar ›</a>
 
-## Actualizar
+## Realizar una actualización
 
 La forma más elegante de conseguir la última versión es accediendo al Centro de Control.
 
