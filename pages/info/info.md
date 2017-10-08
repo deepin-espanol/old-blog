@@ -34,6 +34,8 @@ Estamos en redes sociales para que interactúes como [Google+](https://plus.goog
 
 Para motivar una discusión transparente, damos a conocer [los términos y condiciones del sitio]({{ site.url }}/info/tos/) incluyendo las limitaciones de responsabilidad. La lista de cambios [lo publicamos en una página aparte]({{ site.url }}{{ site.baseurl }}/changelog/).
 
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/info/contacto/">Más detalles ›</a>
+
 ## Detalles de la página web
 La página *Deepin en Español* está desarrollado de la forma más simple con [jekyll](http://jekyll.org/) (y el tema de [mademistakes.com](http://mademistakes.com/work/jekyll-themes/)). Los íconos son de [Daniel Bruce](http://entypo.com/). Algunas imaǵenes de muestra son cortesía de [unplash](http://unsplash.com/) (bajo una licencia permisiva), [Pexels](https://www.pexels.com/) y [pixabay](http://pixabay.com) (licenciados bajo CC-0).
 

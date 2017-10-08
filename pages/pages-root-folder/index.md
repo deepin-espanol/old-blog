@@ -14,19 +14,19 @@ header:
 # Widgets
 widget1:
   title: "Instructivo"
-  url: 'https://deepin-espanol.github.io/blog/'
+  url: '/blog/'
   image: widget-1-302x182.jpg
-  text: 'Llevamos el conocimiento para conocer y dominar nuestro software. <em>Deepin en Español</em> ofrece una guía de instalación, serie de tutoriales y listados de aplicaciones. Además, añadimos un blog de noticias para estar al tanto de los últimos lanzamientos.'
+  text: 'Llevamos el conocimiento para conocer y dominar nuestro software. <em>Deepin en Español</em> ofrece una <a href="/instalacion/">guía de instalación</a>, <a href="/manual/">serie de tutoriales</a> y <a href="/apps/">listados de aplicaciones</a>. Además, añadimos un blog de <a href="/noticias/">noticias</a> para estar al tanto de los últimos lanzamientos.'
 widget2:
   title: "Did&aacute;ctico"
-  url: 'https://deepin-espanol.github.io/info/'
+  url: '/info/'
   image: widget-2-302x182.jpg
-  text: 'En <em>Deepin en Español</em> nos comprometemos:<br/>1. <a href="/tutopost/">Contenido enriquecido</a>.<br/>2. Ilustraciones y vídeos.<br/>3. Multiplataforma.<br/>4. <a href="/participa/">Publicaciones colaborativas</a>.<br/>5. Y otras más...'
+  text: 'En <em>Deepin en Español</em> nos comprometemos:<br/>1. <a href="/tutopost/">Contenido enriquecido</a>.<br/>2. Ilustraciones y vídeos.<br/>3. Multiplataforma.<br/>4. Tips adicionales.<br/>5. Y otras más...'
 widget3:
   title: "Rec&iacute;proco"
-  url: 'https://deepin-espanol.github.io/contact/'
+  url: '/actividades/'
   image: widget-3-302x182.jpg
-  text: '<em>Nuestra comunidad</em> es atentida por humanos. No importa si has participado con anterioridad, son todos bienvenidos. ¿Quieres estar al día? <a href="/feed.xml">¡Suscríbete!</a> ¿Tienes alguna sugerencia? ¡Puedes contactarnos con nuestro equipo!'
+  text: '<em>Nuestra comunidad</em> es atentida por humanos. No importa si has participado con anterioridad, son todos bienvenidos. ¿Quieres estar al día? <a href="/feed.xml">¡Suscríbete!</a> ¿Tienes alguna sugerencia? ¡Puedes <a href="/info/contacto/">contactar</a> con nuestro equipo!'
 #
 # Use the call for action to show a button on the frontpage
 #
