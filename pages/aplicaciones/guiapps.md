@@ -178,8 +178,12 @@ En Deepin comentamos y comprobamos varias aplicaciones despúes de [instalar el 
   </thead>
   <tbody>
     <tr>
-      <td>Dibujo</td>
+      <td>Dibujo 2D</td>
       <td>Deepin Paint, <a href="{{ site.url }}{{ site.baseurl }}/apps/krita">Krita</a></td>
+    </tr>
+    <tr>
+      <td>Modelado 3D</td>
+      <td><a href="{{ site.url }}{{ site.baseurl }}/apps/blender">Blender</a></td>
     </tr>
     <tr>
       <td>Animación</td>
@@ -249,6 +253,10 @@ En Deepin comentamos y comprobamos varias aplicaciones despúes de [instalar el 
     <tr>
       <td>Gestor de paquetes</td>
       <td><a href="{{ site.url }}{{ site.baseurl }}/apps/synaptic">Synaptic</a></td>
+    </tr>
+    <tr>
+      <td>Limpieza del sistema</td>
+      <td><a href="{{ site.url }}{{ site.baseurl }}/apps/ubuntucleaner">U. Cleaner</a>, <a href="{{ site.url }}{{ site.baseurl }}/apps/bleachbit">Bleachbit</a></td>
     </tr>
     <tr>
       <td>Restauración del sistema</td>

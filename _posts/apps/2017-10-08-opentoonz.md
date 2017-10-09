@@ -8,11 +8,11 @@ tags:
     - dibujos
 categories:
     - apps
-iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/6c1jHvnig0Y' frameborder='0' allowfullscreen></iframe>"
+iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/RhzfEzndpgM' frameborder='0' allowfullscreen></iframe>"
 video:
-    embedURL: "https://www.youtube.com/embed/6c1jHvnig0Y"
-    contentURL: "https://www.youtube.com/watch?v=6c1jHvnig0Y"
-    thumbnailUrl: "http://img.youtube.com/vi/6c1jHvnig0Y/maxresdefault.jpg"
+    embedURL: "https://www.youtube.com/embed/RhzfEzndpgM"
+    contentURL: "https://www.youtube.com/watch?v=RhzfEzndpgM"
+    thumbnailUrl: "http://img.youtube.com/vi/RhzfEzndpgM/maxresdefault.jpg"
 ---
 <!--more-->
 
@@ -22,8 +22,8 @@ Está específicamente planificado para animación tradicional. Puedes comenzar 
 
 ## Descarga
 
-Está disponible en el [sitio web](https://lutris.net/).
+Está disponible en el [sitio web](https://opentoonz.github.io/e/).
 
 Sin embargo, al estar desarrollado para otras plataformas, te recomendamos la [versión de Monerva](https://gumroad.com/l/opentoonz). El cual puedes donar de forma opcional y descargar el archivo appimage. [Hay un artículo que explica mejor la técnicas que usa Minerva para el programa](https://opensource.com/article/17/2/opentoonz-2d-animation-software).
 
-Fuentes: [HEL DSL](https://www.youtube.com/channel/UCRE3NFNtdjR96-H4QG4U1Fg), [código fuente](https://github.com/lutris/lutris), [Wikipedia](https://en.wikipedia.org/wiki/Toonz#Open-sourcing)
+Fuentes: [Enrique Barranco](https://www.youtube.com/channel/UCGkIcTwAyFY9U8QBifFiwbA)
