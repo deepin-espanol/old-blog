@@ -57,7 +57,7 @@ La forma más elegante de conseguir la última versión es accediendo al Centro 
 
 Para saber cómo funciona y cómo aprovechar las actualizaciones, visita [la página Espejos]({{ site.url }}{{ site.baseurl }}/manual/espejos/). En caso de tener problemas, prueba a editar el archivo que te explicaremos en [la página correspondiente]({{ site.url }}{{ site.baseurl }}/tips/sources/).
 
-Al encontrarte con avisos indicándote que debes hacer, revisa la página [Solución a las actualizaciones de configuración]({{ site.url }}{{ site.baseurl }}/tips/actualizar-conf-paquetes/).
+Al encontrarte con avisos tipo "El distribuidor del paquete ha publicado un archivo de configuración actualizado", o similar, revisa la página [Solución a las actualizaciones de configuración]({{ site.url }}{{ site.baseurl }}/tips/actualizar-conf-paquetes/).
 
 ## Ver los útlimos cambios
 Tenemos un listado de cambios en la opción "Revisa las novedades". Para las actualizaciones de seguridad visita la [página web de Deepin](https://www.deepin.org/en/category/system-update/).
