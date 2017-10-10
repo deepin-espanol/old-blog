@@ -22,7 +22,11 @@ Halo es un paquete de iconcos para Deepin con un estilo urbano.
 
 ## Motivos para tener el set de iconos Halo
 
-Iconos semicirculares y opacos son el paquete de iconos inspirado en las formas pasteles y productivas de las aplicaciones. Diseñados por Carlos Moreno y Alejandro Camarena, colaboradores del grupo Deepin en Español, la compatibilidad irá creciendo con el tiempo, aplicando también a carpetas y otras interfaces de usuario.
+Iconos semicirculares y opacos son el paquete de iconos que aprovecha el estilo Mac en una nuevo giro de diseño.
+
+Diseñados por Alejandro Camarena, del grupo Deepin en Español, el paquete irá creciendo con el tiempo, aplicando también a carpetas y otras interfaces de usuario.
+
+Nota: Es posible que algunos iconos utilizen variantes libres de MacOS, específicamente del tema [Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme), licenciado bajo GPL.
 
 ## Disponibilidad
 
