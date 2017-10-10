@@ -56,6 +56,18 @@ Sin embargo, debido a que la configuración fue alterada, requiere tomar una dec
 
 Recomendamos realizar la primera opción o similares y pulsar Enter. En algunos casos, son expresados en letras de confirmación (como Y).
 
+## Recuperar valores predeterminados
+
+En caso que la configuración salga mal tras la actualización.  Tienes la oportunidad de ajustar a los valores predeterminados.
+~~~
+sudo dpkg-reconfigure [nombre del paquete]
+~~~
+
+Por ejemplo, para reajustar la configuración del teclado tras la actualización, ejecuta.
+~~~
+sudo dpkg-reconfigure keyboard-configuration
+~~~
+
 ## Lectura adicional
 
 * [Archivo en la lista de Ubuntu Argentina](https://lists.ubuntu.com/archives/ubuntu-ar/2009-July/022299.html)
