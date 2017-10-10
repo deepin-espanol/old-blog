@@ -1,13 +1,13 @@
 ---
 layout: page
-title:  "Elaborar un repositorio espejo"
+title:  "Instalar el controlador NVidia desde su ejecutable"
 subheadline:  "Tips "
-teaser: "Consigue una copia del repositorio Deepin para proveer a otros usuarios"
+teaser: "Una referencia para instalar archivos desde su sitio web"
 categories:
     - tips
 tags:
-    - repositorio
-    - espejo
+    - controlador
+    - driver
     - instalacion
 
 ---
