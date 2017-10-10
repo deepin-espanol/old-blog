@@ -21,8 +21,8 @@ Si bien la capacidad de los servidores es criterio de cada uno, el almacenamient
 <table>
   <caption>Requisitos para sincronizar los repositorios</caption>
   <colgroup>
-    <col span="1" style="width: 30%;">
     <col span="1" style="width: 70%;">
+    <col span="1" style="width: 30%;">
       </colgroup>
   <thead>
     <tr>
