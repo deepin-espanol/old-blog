@@ -66,8 +66,9 @@ A new version of configuration file `/etc/xxxx.d/xxxx.conf' is available, but th
 ~~~
 
 ## Recuperar valores predeterminados
+Si por equivocación has querido conservar la configuración deberás consultar los cambios que realizaron en la actualización. Lo encontrarás en los foros.
 
-En caso que la configuración salga mal tras la actualización.  Tienes la oportunidad de ajustar a los valores predeterminados.
+Otra forma es ajustar a los valores predeterminados.
 ~~~
 sudo dpkg-reconfigure [nombre del paquete]
 ~~~
@@ -77,10 +78,12 @@ Por ejemplo, para reajustar la [configuración del teclado]({{ site.url }}{{ sit
 sudo dpkg-reconfigure keyboard-configuration
 ~~~
 
+
 ## Lectura adicional
 
 * [Archivo en la lista de Ubuntu Argentina](https://lists.ubuntu.com/archives/ubuntu-ar/2009-July/022299.html)
 * [Consulta en stackexchange ](https://unix.stackexchange.com/questions/113732/a-new-version-of-configuration-file-etc-default-grub-is-available-but-the-vers)
+* [AskUbuntu](https://askubuntu.com/questions/799212/how-can-i-install-view-the-grub-file-that-a-recent-upgrade-was-providing-but-i-a/799220#799220)
 
 ### Más en Tips
 {: .t60 }
