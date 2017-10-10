@@ -31,7 +31,6 @@ Cada paquete tiene una configuración (archivo ´conf´) que puedes modificarlo 
     </div>
 </div>
 
-
 ## Solución
 
 Antes de actualizar, asegúrate de realizar correctamente esos comandos, evitando problemas por falta de dependencias y similares.
@@ -51,10 +50,19 @@ Sin embargo, debido a que la configuración fue alterada, requiere tomar una dec
 (2) Conservar los cambios de la configuración
 (3) Ver los cambios de ambas configuración
 (4) Revisar el código fuente de los archivos
-
 ~~~
 
 Recomendamos realizar la primera opción o similares y pulsar Enter. En algunos casos, son expresados en letras de confirmación (como Y).
+
+***Aclaración**: El texto mostrado anteriormente es una traducción aproximada del original, en inglés. Lo dejamos como referencia:
+
+~~~
+A new version of configuration file `/etc/xxxx.d/xxxx.conf' is available, but the version installed currently has been locally modified:
+(1) Install the package maintainer's version
+(2) Keep the local version currently installed
+(3) Show the differences between the versions
+...
+~~~
 
 ## Recuperar valores predeterminados
 
@@ -71,6 +79,7 @@ sudo dpkg-reconfigure keyboard-configuration
 ## Lectura adicional
 
 * [Archivo en la lista de Ubuntu Argentina](https://lists.ubuntu.com/archives/ubuntu-ar/2009-July/022299.html)
+* [Consulta en stackexchange ](https://unix.stackexchange.com/questions/113732/a-new-version-of-configuration-file-etc-default-grub-is-available-but-the-vers)
 
 ### Más en Tips
 {: .t60 }
