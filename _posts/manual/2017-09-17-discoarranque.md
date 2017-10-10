@@ -25,7 +25,7 @@ En Deepin en Español te enseñamos a hacerlo.
 * Cualquiera de esos programas:
   - [Rufus](https://rufus.akeo.ie/)
   - [Unetbootin](https://unetbootin.github.io/)
-  - Deepin Boot Maker (disponible en Deepin Store)
+  - [Deepin Boot Maker](https://www.youtube.com/watch?v=OzP_l9uCKbM) (disponible en Deepin Store)
 
 Nota: En Windows, usa la aplicación portátil de Rufus que pesa unos megabytes.
 
