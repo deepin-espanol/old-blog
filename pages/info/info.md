@@ -37,8 +37,4 @@ Para motivar una discusión transparente, damos a conocer [los términos y condi
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/info/contacto/">Más detalles ›</a>
 
 ## Detalles de la página web
-La página *Deepin en Español* está desarrollado de la forma más simple con [jekyll](http://jekyll.org/) (y el tema de [mademistakes.com](http://mademistakes.com/work/jekyll-themes/)). Los íconos son de [Daniel Bruce](http://entypo.com/). Algunas imaǵenes de muestra son cortesía de [unplash](http://unsplash.com/) (bajo una licencia permisiva), [Pexels](https://www.pexels.com/) y [pixabay](http://pixabay.com) (licenciados bajo CC-0).
-
-La documentación lo encontrarás en [Tutopost]({{ site.url }}/tutopost/). Para los iniciados en crear y editar posts te presentamos un [microtutorial para realizar artículos en el blog con solo un programa]({{ site.url }}/tutopost/desdeatom/)).
-
-Unos componentes más específicos son la librería JQuery, el plugin [backstrech](http://srobbin.com/jquery-plugins/backstretch/) y [fundation](http://foundation.zurb.com/). Para incrustar archivos multimedia usamos [Mediaelement]({{ site.url }}/tutopost/mediaelement/) (salvo contenido de terceros, como YouTube y otros servicios).
+Los detalles del sitio web, lo encontrarás en la subsección [terceros]({{ site.url }}/info/terceros/).
