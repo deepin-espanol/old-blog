@@ -40,4 +40,6 @@ title: "Un vistazo"
     </div><!-- /.medium-4.columns -->
 
 </div><!-- /.row -->
-Tenemos un catálogo de <a href="{{ site.url }}{{ site.baseurl }}/guiapps/">muchas aplicaciones listas para usar</a>. ¿Piensas hacer una consulta o revisar el archivo? Te ofrecemos el <a href="{{ site.url }}{{ site.baseurl }}/search/">buscador</a> y la <a href="{{ site.url }}{{ site.baseurl }}/info/contacto/">página de contacto</a>. ¿Buscas descargar o actualizar Deepin? Recurre a un <a href="{{ site.url }}{{ site.baseurl }}/tips/mirror">espejo</a>.
+Tenemos un catálogo de <a href="{{ site.url }}{{ site.baseurl }}/guiapps/">muchas aplicaciones listas para usar</a>. En otro lado, seleccionamos <a href="{{ site.url }}{{ site.baseurl }}/destacado/">los pasos más importantes del manual</a> en una página especial.
+
+¿Piensas hacer una consulta o revisar el archivo? Te ofrecemos el <a href="{{ site.url }}{{ site.baseurl }}/search/">buscador</a> y la <a href="{{ site.url }}{{ site.baseurl }}/info/contacto/">página de contacto</a>. ¿Buscas descargar o actualizar Deepin? Recurre a un <a href="{{ site.url }}{{ site.baseurl }}/tips/mirror">espejo</a>.
