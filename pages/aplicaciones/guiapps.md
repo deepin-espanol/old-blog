@@ -314,3 +314,5 @@ En Deepin comentamos y comprobamos varias aplicaciones despúes de [instalar el 
 
 ## Notas
 Basada en una [publicación de MuyLinux](https://www.muylinux.com/2017/09/19/aplicaciones-por-defecto-ubuntu-18-04-2/). Las aplicaciones por defecto en Deepin 15.4.1 están indicadas en [Escenciales]({{ site.url }}{{ site.baseurl }}/escenciales/).
+
+Algunas aplicaciones incluidas en la ISO son por formar socios entre Wuhan Deepin y los desarrolladores.
