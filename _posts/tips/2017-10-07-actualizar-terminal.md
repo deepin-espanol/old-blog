@@ -49,6 +49,9 @@ sudo apt-get -f install
 #### Archivo protegido sources.list
 Eso se depe a que estas interfiriendo con las actualizaciones del centro de control. Reinicia el equipo.
 
+#### Nueva configuración disponible
+Está expresada en oraciones como "El distribuidor del paquete ha publicado una version actualizada". Recomendamos aceptar los nuevos cambios (en general, escribir ´y´ y pulsar ´Enter´). Más detalles en [la sección Tips]({{ site.url }}{{ site.baseurl }}/tips/actualizar-conf-paquetes).
+
 #### Paquetes huérfanos
 Este comando sirve para eliminarlos.
 ~~~
