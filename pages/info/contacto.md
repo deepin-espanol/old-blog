@@ -16,11 +16,11 @@ Hay varias formas de contactarnos. Ten en cuenta que la página del proyecto es 
 Próximamente...
 
 ## Contacto con Wuahn Deepin
-Deepin está siendo desarrollada por una empresa de China. Si quieres contactar con la empresa, comunícate con Wuhan Deepin. Tienes las siguientes direcciones:
+Deepin está siendo desarrollada por una empresa de China. Si quieres contactar con la empresa, comunícate con Wuhan Deepin Technology Co., Ltd. Tienes las siguientes direcciones:
 
 Wuhán: The 6th Floor, Edificio B18, Optics Valley Financial Harbour. Avenida Optics Valley No. 77, Wuhán, China.
 
-Pekín: Room 501, Tower B, Jinqiu International Building. Calle Zhichun, Distrito de Haidian, Pekín, China.
+Pekín: Room 501, Tower B, Jinqiu International Building. Calle Zhichun S/N, Distrito de Haidian, Pekín, China.
 
 Shanghai: Room 15A01. Calle Yuyuan No. 1258, Districto de Changning, Shanghái, China.
 
