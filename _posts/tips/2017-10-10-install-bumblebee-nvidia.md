@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Instalar Nvivia Bumblebee"
+title:  "Instalar Nvidia Bumblebee"
 subheadline:  "Tips "
 teaser: "Un controlador para laptops con dicha marca de video"
 categories:
@@ -23,7 +23,7 @@ Bueno hoy les vengo a enseñar el proceso para instalar el componentes Bumblebee
 5. $ sudo apt install bumblebee (acepta todo hasta finalizar el paso)
 6. $ sudo adduser "name user" bumblebee (sin las comillas, es el nombre de usuario)
 7. $ sudo service bumblebeed (reiniciar)
-7- Otra vez reiniciar
+8. Otra vez reiniciar
 
 
 ## Otros detalles
