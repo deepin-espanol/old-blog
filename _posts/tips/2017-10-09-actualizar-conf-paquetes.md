@@ -63,7 +63,7 @@ En caso que la configuración salga mal tras la actualización.  Tienes la oport
 sudo dpkg-reconfigure [nombre del paquete]
 ~~~
 
-Por ejemplo, para reajustar la configuración del teclado tras la actualización, ejecuta.
+Por ejemplo, para reajustar la [configuración del teclado]({{ site.url }}{{ site.baseurl }}/manual/teclado) tras la actualización, ejecuta.
 ~~~
 sudo dpkg-reconfigure keyboard-configuration
 ~~~

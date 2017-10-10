@@ -30,6 +30,8 @@ Algunos controladores son mantenidos por [desarrolladores]({{ site.url }}{{ site
 * Intel: Tiene un controlador propio
 * Nvidia: El libre es Nouveau y el propietario es Nvidia. Algunos controladores para laptops llevan el nombre de Bumbelee.
 
+Algunos drivers, como [NVidia]({{ site.url }}/apps/install-ejecutable-nvidia/), utilizan un archivo de ejecucción para instalar en cualquier distribución.
+
 ## Vídeo
 AMD:
 <div class="flex-video">
