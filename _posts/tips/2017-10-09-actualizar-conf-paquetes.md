@@ -55,7 +55,7 @@ Sin embargo, debido a que la configuración fue alterada, requiere tomar una dec
 Recomendamos realizar la primera opción o similares y pulsar Enter. En algunos casos, son expresados en letras de confirmación (como Y).
 
 ### Para diálogos en inglés
-Anteriormente mostramos una traducción aproximada. Aquí dejamos una referencia para tomar nota, en inglés:
+Anteriormente mostramos una traducción aproximada. Aquí dejamos una referencia en el idioma original (inglés). Puede resultar útil para consultar a los dearrolladores o en un foro internacional:
 
 ~~~
 A new version of configuration file `/etc/xxxx.d/xxxx.conf' is available, but the version installed currently has been locally modified:
