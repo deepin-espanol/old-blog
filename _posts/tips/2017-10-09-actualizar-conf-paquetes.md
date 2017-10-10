@@ -16,7 +16,7 @@ Al actualizar Deepin, la configuración los paquetes se renueva para adaptarse c
 ## Porqué aparecen esos avisos
 Al realizar una actualización mayor, se cambian los componentes críticos del sistema como el sistema de apagado, el teclado, el núcleo, entre otros.
 
-Cada paquete tiene una configuración (archivo ´conf´) que irá cambiando a medida que lo modifiquemos. Sin embargo, los paquetes actualizados ofrecen modificaciones necesarias para que el sistema operaivo funcione apropiademente.
+Cada paquete tiene una configuración (archivo ´conf´) que puedes modificarlo en el centro de control o un aplicación del sistema. Sin embargo, al conseguir la última versión, tenemos la posibilidad de realizar modificaciones necesarias para que el sistema operativo funcione apropiademente.
 
 <div class="row">
     <div class="medium-12 columns t30">
