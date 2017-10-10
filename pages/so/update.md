@@ -43,7 +43,7 @@ Ejemplos:
 * [Silicon Valley](http://mirror1.sjc02.svwh.net/deepin/)
 * Otros espejos en [la página Lista de espejos]({{ site.url }}{{ site.baseurl }}/tips/mirror/).
 
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/manual/espejos/">Información para actualizar ›</a>
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/manual/espejos/">Información sobre los espejos ›</a>
 
 ## Realizar una actualización
 
@@ -55,7 +55,9 @@ La forma más elegante de conseguir la última versión es accediendo al Centro 
 4. Cuando se descarga los componentes del sistema, cierra las aplicaciones y procede a instalar;
 5. Se reiniciará y demorará unos minutos.
 
-Si quieres saber cómo funciona y cómo aprovechar las actualziaciones, visita [la página Espejos]({{ site.url }}{{ site.baseurl }}/manual/espejos/). En caso de tener problemas, prueba a editar el archivo que te explicaremos en [la página correspondiente]({{ site.url }}{{ site.baseurl }}/tips/sources/).
+Para saber cómo funciona y cómo aprovechar las actualizaciones, visita [la página Espejos]({{ site.url }}{{ site.baseurl }}/manual/espejos/). En caso de tener problemas, prueba a editar el archivo que te explicaremos en [la página correspondiente]({{ site.url }}{{ site.baseurl }}/tips/sources/).
+
+Al encontrarte con avisos indicándote que debes hacer, revisa la página [Solución a las actualizaciones de configuración]({{ site.url }}{{ site.baseurl }}/tips/actualizar-conf-paquetes/).
 
 ## Ver los útlimos cambios
 Tenemos un listado de cambios en la opción "Revisa las novedades". Para las actualizaciones de seguridad visita la [página web de Deepin](https://www.deepin.org/en/category/system-update/).
