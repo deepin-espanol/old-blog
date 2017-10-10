@@ -54,14 +54,15 @@ Sin embargo, debido a que la configuración fue alterada, requiere tomar una dec
 
 Recomendamos realizar la primera opción o similares y pulsar Enter. En algunos casos, son expresados en letras de confirmación (como Y).
 
-***Aclaración**: El texto mostrado anteriormente es una traducción aproximada del original, en inglés. Lo dejamos como referencia:
+### Para diálogos en inglés
+Anteriormente mostramos una traducción aproximada. Aquí dejamos una referencia para tomar nota, en inglés:
 
 ~~~
 A new version of configuration file `/etc/xxxx.d/xxxx.conf' is available, but the version installed currently has been locally modified:
 (1) Install the package maintainer's version
 (2) Keep the local version currently installed
 (3) Show the differences between the versions
-...
+(4) Show a side-by-side difference between the versions
 ~~~
 
 ## Recuperar valores predeterminados
