@@ -2,7 +2,7 @@
 layout: page
 title:  "Conflcitos con la configuración en nuevos paquetes"
 subheadline:  "Tips "
-teaser: "Solucionando el problema de cambiar los paquetes renovados"
+teaser: "Solucionando el problema de cambiar los paquetes actualizados"
 categories:
     - tips
 tags:
@@ -11,7 +11,7 @@ tags:
     - dependencias
 
 ---
-Al actualizar Deepin, la configuración los paquetes son editados para adaptarse con sus versiones mejoradas. En esta página te enseñamos que hacer frente a los cambios, sobre todo si lo realizas en la terminal.
+Al actualizar Deepin, la configuración los paquetes se renueva para adaptarse con sus versiones mejoradas. En esta página te enseñamos que hacer frente a los cambios, sobre todo si lo realizas en la terminal.
 
 ## Porqué aparecen esos avisos
 Al realizar una actualización mayor, se cambian los componentes críticos del sistema como el sistema de apagado, el teclado, el núcleo, entre otros.
