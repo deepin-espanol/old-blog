@@ -14,7 +14,7 @@ tags:
 Este es un apunte de septiembre de 2017 en que Carlos explica como instalar un ejecutable de Nvidia en la PC. Los pasos resultan liosos e inefectivos en algunas [tarjetas gráficas]({{ site.url }}/manual/videocard/).
 
 ## Instalación
-Bueno hoy les vengo a enseñar el proceso para instalar el componentes Bumblebee de Nvidia usando el Prompt (algo así como terminal especial).
+Bueno hoy les vengo a enseñar el proceso para instalar el componentes Bumblebee de Nvidia usando el Prompt (de la [TTY]({{ site.url }}/manual/tips/tty/), claro).
 
 1. $ sudo apt install mesa-utils inxi
 2. $ sudo apt install xserver-xorg-input-mouse
