@@ -25,9 +25,9 @@ header:
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 {% include _improve_content.html %}
 
-Además de añadir encabezados, detalles en [la página correspondiente]({{ site.url }}{{ site.baseurl }}/tutopost/encabezadopost/), en *Deepin en Español* no basta escribir sino decorar con imágenes, vídeos y más.
+Además de añadir encabezados, detalles en [la página correspondiente]({{ site.url }}{{ site.baseurl }}/tecnico/encabezadopost/), en *Deepin en Español* no basta escribir sino decorar con imágenes, vídeos y más.
 
-Nota: Está página es un complemento de la ayuda ["Cómo crear un post desde Atom"]({{ site.url }}{{ site.baseurl }}/tutopost/crearpost/), mientras que los más avanzados se guiarán en [la página dedicada]({{ site.url }}{{ site.baseurl }}/tutopost/crearpost/).
+Nota: Está página es un complemento de la ayuda ["Cómo crear un post desde Atom"]({{ site.url }}{{ site.baseurl }}/tecnico/crearpost/), mientras que los más avanzados se guiarán en [la página dedicada]({{ site.url }}{{ site.baseurl }}/tecnico/crearpost/).
 
 ## Básico
 ### Vídeos

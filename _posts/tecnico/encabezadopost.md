@@ -27,9 +27,9 @@ Si es tu primera vez que crearás un post, no te será complicado hacer desde ce
 
 Lo primero que hacemos es elaborar una página llamada "Hola mundo". Esa base nos servirá para elaborar una base. Tienes algunos campos para rellenar.
 
-El siguiente paso es [que más incluir al post]({{ site.url }}{{ site.baseurl }}/tutopost/extra/).
+El siguiente paso es [que más incluir al post]({{ site.url }}{{ site.baseurl }}/tecnico/extra/).
 
-Nota: Está página es un complemento de la ayuda ["Cómo crear un post desde Atom"]({{ site.url }}{{ site.baseurl }}/tutopost/crearpost/), mientras que los más avanzados se guiarán en [la página dedicada]({{ site.url }}{{ site.baseurl }}/tutopost/crearpost/).
+Nota: Está página es un complemento de la ayuda ["Cómo crear un post desde Atom"]({{ site.url }}{{ site.baseurl }}/tecnico/crearpost/), mientras que los más avanzados se guiarán en [la página dedicada]({{ site.url }}{{ site.baseurl }}/tecnico/crearpost/).
 
 ## Estructura de un post
 Al crear un archivo 12-12-titulo.md, tendrás que presentar el título y otras partes para mostrar en la publicación (categorías y etiquetas).

@@ -56,8 +56,8 @@ gallery:
 ~~~
 
 ## Lectura adicionales
-* ["Git en Atom"]({{ site.url }}/tips/gitatom/).
-* [Cuerpo del post]({{ site.url }}/tutopost/cuerpopost/).
+* ["Git en Atom"]({{ site.url }}/tecnico/gitatom/).
+* [Cuerpo del post]({{ site.url }}/tecnico/cuerpopost/).
 
 
 </div><!-- /.medium-8.columns -->

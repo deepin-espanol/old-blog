@@ -27,7 +27,7 @@ header:
 
 ## Qué es git y Jekyll
 
-Los detalles puedes encontrar en [esta página]({{ site.url }}/tutopost/git/).
+Los detalles puedes encontrar en [esta página]({{ site.url }}/tecnico/git/).
 
 ## Primero: Descarga la copia
 
@@ -71,7 +71,7 @@ Cuando creas un archivo asegúrate que contenga:
 * categories: (como manual, blog, app o tip)
 * tags: (etiqueta)
 
-Más detalles en ["Planilla del post"]({{ site.url }}/tutopost/plantillapost/).
+Más detalles en ["Planilla del post"]({{ site.url }}/tecnico/plantillapost/).
 
 ### Código Markdown
 
