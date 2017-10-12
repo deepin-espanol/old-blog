@@ -3,9 +3,12 @@ layout: page-fullwidth
 title: "Cuerpo del post"
 subheadline: "Ayuda"
 teaser: "Qué más puedes añadir en los posts"
-permalink: "/tutopost/cuerpopost/"
+tags:
+    - tutopost
 categories:
-  - tutopost
+    - tecnico
+breadcrumb: true
+show_meta: false
 header:
    image_fullwidth: "header_roadmap_2.jpg"
 ---

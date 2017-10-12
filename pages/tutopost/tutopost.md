@@ -33,26 +33,19 @@ Las páginas están escritas en Markdown. Nosotros usamos Git para sincronizar l
 ## Tutoriales para principiantes
 
 Formas de editar la página web y añadir post:
-* [Desde Atom]({{ site.url }}/tutopost/desdeatom/).
-* [Desde la web de Github]({{ site.url }}/tutopost/usargithub/).
+* [Desde Atom]({{ site.url }}/tecnico/desdeatom/).
+* [Desde la web de Github]({{ site.url }}/tecnico/usargithub/).
 
 Qué contiene el post:
-* [Encabezado post]({{ site.url }}/tutopost/encabezadopost/).
-* [Cuerpo del post]({{ site.url }}/tutopost/cuerpopost/).
+* [Encabezado post]({{ site.url }}/tecnico/encabezadopost/).
+* [Cuerpo del post]({{ site.url }}/tecnico/cuerpopost/).
 
-## Documentación sobre CMS
-
-* [Git]({{ site.url }}/tutopost/git/).
-* [Jekyll]({{ site.url }}/tutopost/jekyll/).
-* [Formas de elaborar y publicar posts]({{ site.url }}/tutopost/crearpost/).
-
-### Otras capacidades
-
-* [Mediaelement]({{ site.url }}/tutopost/mediaelement/).
-* [Wallpaper]({{ site.url }}/tutopost/wallpost/).
-* [Códigos de encabezado]({{ site.url }}/tutopost/doc/).
-* [Tipografía en HTML5]({{ site.url }}/tutopost/tipografia/), y como añadimos encabezados, citas y tablas.
-
+## Lista completa
+<ul>
+    {% for post in site.tags.tutopost %}
+    <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+</ul>
 ## Agradecimientos
 
 Este editor fue creado para Deepin en Español y está licenciado bajo MIT.

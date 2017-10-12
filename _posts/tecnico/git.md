@@ -3,9 +3,12 @@ layout: page-fullwidth
 title: "Git"
 subheadline: "Ayuda"
 teaser: "Aprendiendo de Git, ¿por qué usamos este sistema de revisión?"
-permalink: "/tutopost/git/"
+tags:
+    - tutopost
 categories:
-  - tutopost
+    - tecnico
+breadcrumb: true
+show_meta: false
 header:
    image_fullwidth: "edition.jpg"
 ---

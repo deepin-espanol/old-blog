@@ -3,9 +3,12 @@ layout: page-fullwidth
 title: "Tutorial para crear posts"
 subheadline: "Ayuda"
 teaser: "Haciendo artículos para principianes"
-permalink: "/tutopost/crearpost/"
+tags:
+    - tutopost
 categories:
-  - tutopost
+    - tecnico
+breadcrumb: true
+show_meta: false
 header:
    image_fullwidth: "edition.jpg"
 ---
@@ -79,7 +82,7 @@ El lenguaje que aplicamos es [Markdown](https://es.wikipedia.org/wiki/Markdown) 
 * Escribe  `[Texto del enlace aquí](URL "Título del enlace")` y creas un enlace
 * Escribe `![Texto alternativo](URL "Título de la imagen")` y creas una imagen
 
-Para aprender todas las posibilidades visita [Códigos permitidos en Markdown]({{ site.url }}/tutopost/doc/). Si quieres editar desde la web, te presentamos [JBT](https://jbt.github.io/markdown-editor/) o [Diliger](http://dillinger.io/). 
+Para aprender todas las posibilidades visita [Códigos permitidos en Markdown]({{ site.url }}/tutopost/doc/). Si quieres editar desde la web, te presentamos [JBT](https://jbt.github.io/markdown-editor/) o [Diliger](http://dillinger.io/).
 
 ## Subir los cambios
 

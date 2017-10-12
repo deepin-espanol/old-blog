@@ -3,9 +3,12 @@ layout: page-fullwidth
 title: "Código de formato en posts"
 subheadline: "Ayuda"
 teaser: "El repertorio de opciones que puedes incorporar a las publicación"
-permalink: "/tutopost/formatopost/"
+tags:
+    - tutopost
 categories:
-  - tutopost
+    - tecnico
+breadcrumb: true
+show_meta: false
 header:
    image_fullwidth: "header_roadmap_2.jpg"
 ---

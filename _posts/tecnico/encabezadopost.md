@@ -3,9 +3,12 @@ layout: page-fullwidth
 title: "Encabezado del post"
 subheadline: "Ayuda"
 teaser: "Qué encabezado debe tener el post"
-permalink: "/tutopost/encabezadopost/"
+tags:
+    - tutopost
 categories:
-  - tutopost
+    - tecnico
+breadcrumb: true
+show_meta: false
 header:
    image_fullwidth: "edition.jpg"
 ---

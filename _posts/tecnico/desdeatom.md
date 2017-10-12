@@ -3,9 +3,12 @@ layout: page-fullwidth
 title: "Editar desde Atom"
 subheadline: "Ayuda"
 teaser: "La forma más sencilla de añadir publicaciones sin rodeos"
-permalink: "/tutopost/desdeatom/"
+tags:
+    - tutopost
 categories:
-  - tutopost
+    - tecnico
+breadcrumb: true
+show_meta: false
 header:
    image_fullwidth: "edition.jpg"
 ---

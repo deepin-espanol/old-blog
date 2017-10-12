@@ -1,15 +1,14 @@
 ---
 layout: page
-#
-# Content
-#
 subheadline: "Reproductor de música y vídeo"
 title: "Añade vídeo y música a los post"
 teaser: "¿Quieres añadir un podcast? ¿Quieres añadir un vídeo de Internet? Estás de suerte. Hemos integrado los post con <em>mediaelement.js</em>. Esa tecnología trabaja en todo navegador, incluido IE6-8."
-permalink: "/tutopost/mediaelement/"
-#
-# Styling
-#
+tags:
+    - tutopost
+categories:
+    - tecnico
+breadcrumb: true
+show_meta: false
 header: no
 image:
     title: mediaplayer_js-title.jpg

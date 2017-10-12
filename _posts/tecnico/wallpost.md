@@ -3,9 +3,12 @@ layout: page-fullwidth
 title: "Crear una página de fondos de pantalla"
 subheadline: "Ayuda"
 teaser: "Cómo elaborar una selección de fondos para Deepin"
-permalink: "/tutopost/wallpost/"
+tags:
+    - tutopost
 categories:
-  - tutopost
+    - tecnico
+breadcrumb: true
+show_meta: false
 header:
    image_fullwidth: "edition.jpg"
 ---

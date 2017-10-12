@@ -3,9 +3,12 @@ layout: page-fullwidth
 title: "Jekyll"
 subheadline: "Ayuda"
 teaser: "Aprendiendo de Git y Jekyll, ¿qué son?"
-permalink: "/tutopost/jekyll/"
+tags:
+    - tutopost
 categories:
-  - tutopost
+    - tecnico
+breadcrumb: true
+show_meta: false
 header:
    image_fullwidth: "edition.jpg"
 ---
