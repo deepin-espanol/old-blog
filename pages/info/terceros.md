@@ -20,4 +20,4 @@ Los íconos son de [Daniel Bruce](http://entypo.com/). Algunas imaǵenes de mues
 Unos componentes más específicos son la librería JQuery, el plugin [backstrech](http://srobbin.com/jquery-plugins/backstretch/) y [fundation](http://foundation.zurb.com/). Para incrustar archivos multimedia usamos [Mediaelement]({{ site.url }}/tutopost/mediaelement/) (salvo contenido de terceros, como YouTube y otros servicios).
 
 ## Sobre jekyll
-La documentación lo encontrarás en [Tutopost]({{ site.url }}/tutopost/). Para los iniciados en crear y editar posts te presentamos un [microtutorial para realizar artículos en el blog con solo un programa]({{ site.url }}/tutopost/desdeatom/)).
+La documentación lo encontrarás en [Tutopost]({{ site.url }}/tutopost/). Para los iniciados en crear y editar posts te presentamos un [microtutorial para realizar artículos en el blog con solo un programa]({{ site.url }}/tecnico/desdeatom/)).

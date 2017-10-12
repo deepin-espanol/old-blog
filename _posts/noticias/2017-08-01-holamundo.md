@@ -40,7 +40,7 @@ Deepin en Español está disponible desde tu computadora, tablet, celular, TV, r
 
 ## »Con imágenes y vídeos«
 
-Simple y en el lugar correcto. Incluímos multimedia,  y contenido incrustado desde Youtube. Tratamos de añadir imágenes de alta calidad para complacer a los seguidores. Más detalles en nuestro [Tutopost]({{ site.url }}/tutopost/extra/).
+Simple y en el lugar correcto. Incluímos multimedia,  y contenido incrustado desde Youtube. Tratamos de añadir imágenes de alta calidad para complacer a los seguidores. Más detalles en nuestro [Tutopost]({{ site.url }}/tecnico/extra/).
 
 ## »Contenido«
 

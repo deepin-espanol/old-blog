@@ -15,7 +15,7 @@ Si tienes algún problema que no esté en esta página o necesitas ayuda, no dud
 
 ## ¿Quieres colaborar?
 
-Deepin en Español tiene un peculiar modo de gestionar las publicaciones. Sin más, visita [cómo añadir archivos en Github](https://deepin-espanol.github.io/tutopost/usargithub) o la recopilación [Tutopost](https://deepin-espanol.github.io/tutopost/).
+Deepin en Español tiene un peculiar modo de gestionar las publicaciones. Sin más, visita [cómo añadir archivos en Github](https://deepin-espanol.github.io/tecnico/usargithub) o la recopilación [Tutopost](https://deepin-espanol.github.io/tutopost/).
 
 ## ¿Puedo usar las publicaciones de la comunidad Deepin?
 
@@ -38,4 +38,3 @@ Está página está multilicenciada:
 * [R.garciag](https://github.com/r-garciag)
 
 -Deepin Translation Team 2017
-

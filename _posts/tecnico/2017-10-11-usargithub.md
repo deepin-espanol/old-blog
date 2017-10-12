@@ -3,7 +3,6 @@ layout: page-fullwidth
 title: "Subir desde Github"
 subheadline: "Ayuda"
 teaser: "Para quienes usen la web"
-permalink: "/tutopost/usargithub/"
 tags:
     - tutopost
 categories:

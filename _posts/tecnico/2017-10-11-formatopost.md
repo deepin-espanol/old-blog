@@ -31,7 +31,7 @@ header:
 
 Nota: En inglés se conoce como front matter que es mostrada a lado de categorías o etiquetas.
 
-Nota 2: Otros detalles encontrarás en [página Extra]({{ site.url }}/tutopost/extra/).
+Nota 2: Otros detalles encontrarás en [página Extra]({{ site.url }}/tecnico/extra/).
 
 ### Page/Post
 El formato página/post no tiene texto lateral por defecto, su contenido está centrado y debajo de ella conteiene metadatos como categorías, etiquetas, fecha de creación y autor.
