@@ -29,6 +29,8 @@
     url: "/games/"
   - title: "Iconos"
     url: "/icons/"
+  - title: "Listados"
+    url: "/listados/"
 
 - title: "Blog"
   url: "/blog/"
