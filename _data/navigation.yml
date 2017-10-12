@@ -42,8 +42,8 @@
     url: "/tips/"
   - title: "Noticias"
     url: "/noticias/"
-  - title: "Listados"
-    url: "/listados/"
+  - title: "Anexos"
+    url: "/anexos/"
 
 - title: "Buscar"
   url: "/search/"
