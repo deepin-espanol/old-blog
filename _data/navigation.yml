@@ -29,8 +29,6 @@
     url: "/games/"
   - title: "Iconos"
     url: "/icons/"
-  - title: "Listados"
-    url: "/listados/"
 
 - title: "Blog"
   url: "/blog/"
@@ -44,6 +42,8 @@
     url: "/tips/"
   - title: "Noticias"
     url: "/noticias/"
+  - title: "Listados"
+    url: "/listados/"
 
 - title: "Buscar"
   url: "/search/"

@@ -35,9 +35,9 @@ Bueno hoy les vengo a enseñar el proceso para instalar el componentes Bumblebee
 
 ### Configuración
 Configurar Nvidia-Settings
-1. $ cd /usr/share/applications
-2. $ sudo gedit nvidia-settings.desktop
-3. Modificar la linea "Exec" por —---> Exec=optirun nvidia-settings -c :8.0
+1. ´$ cd /usr/share/applications´
+2. ´$ sudo gedit nvidia-settings.desktop´
+3. Modificar la linea "Exec" por ´Exec=optirun nvidia-settings -c :8.0´
 4. Guardar
 
 ### Configurar aplicaciones que requieran la aceleración 3D

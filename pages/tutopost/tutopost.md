@@ -25,13 +25,11 @@ header:
 Bienvenidos a Tutopost, ¡el taller de la comunidad! Esta selección está pensado en crear, organizar y mejorar publicaciones (o posts) y materiales para Deepin en Español. Contiene una serie de tutoriales hacia los nuevos colaboradores a experimentados.
 
 ## Para usuarios de Wordpress y Blogger
-
 ¿Quieres añadir un post a la página web? Si eres usuario Wordpress o Blogger te costará un poco entender la interfaz de usuario. El mejor consejo es usar el cliente Atom, fácil de usar, organizada e intuitiva. La otra opción es mediante su sitio web.
 
 Las páginas están escritas en Markdown. Nosotros usamos Git para sincronizar los cambios de los editores y gestionamos los permisos en esa plataforma.
 
 ## Tutoriales para principiantes
-
 Formas de editar la página web y añadir post:
 * [Desde Atom]({{ site.url }}/tecnico/desdeatom/).
 * [Desde la web de Github]({{ site.url }}/tecnico/usargithub/).
@@ -46,6 +44,7 @@ Qué contiene el post:
     <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
+
 ## Agradecimientos
 
 Este editor fue creado para Deepin en Español y está licenciado bajo MIT.

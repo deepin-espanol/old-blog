@@ -7,6 +7,7 @@ header:
    image_fullwidth: "header_unsplash_5.jpg"
 permalink: "/listados/"
 ---
+Esta categoría contiene listados relacionados a Deepin.
 <ul>
     {% for post in site.categories.listados %}
     <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
