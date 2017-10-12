@@ -9,7 +9,7 @@ permalink: "/tecnico/"
 ---
 Esta categoría contiene herramientas de desarrollo para Deepin Linux, interfaz de usuario. También fusionamos con el [Tutopost]({{ site.url }}{{ site.baseurl }}/tutopost/).
 <ul>
-    {% for post in site.categories.listados %}
+    {% for post in site.categories.tecnico %}
     <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
