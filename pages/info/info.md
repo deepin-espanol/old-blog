@@ -30,7 +30,7 @@ Quizá no te sea relevante por usar otras cosas; sin embargo, te ejemplificamos 
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/source/">Visita la página Código Fuente ›</a>
 
 ## Vías de comunicación
-Estamos en redes sociales para que interactúes como [Google+](https://plus.google.com/communities/115544729561220868525), [Telegram](http://telegram.me/deepinenespanol) y [otras formas]({{ site.url }}/info/contacto/). . También elaboramos una [página con los argumentos más frecuentes]({{ site.url }}/info/quejas/). Si quieres participar de otras formas visita la página [Actividades]({{ site.url }}/actividades/).
+Estamos en redes sociales para que interactúes como [Google+](https://plus.google.com/communities/115544729561220868525), [Telegram](http://telegram.me/deepinenespanol) y [otras formas]({{ site.url }}/info/contacto/). . También elaboramos una [página con los argumentos más frecuentes sobre el sistema operativo]({{ site.url }}/anexos/quejas/). Si quieres participar de otras formas visita la página [Actividades]({{ site.url }}/actividades/).
 
 Para motivar una discusión transparente, damos a conocer [los términos y condiciones del sitio]({{ site.url }}/info/tos/) incluyendo las limitaciones de responsabilidad. La lista de cambios [lo publicamos en una página aparte]({{ site.url }}{{ site.baseurl }}/changelog/).
 

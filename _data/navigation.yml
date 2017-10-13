@@ -44,6 +44,8 @@
     url: "/noticias/"
   - title: "Anexos"
     url: "/anexos/"
+  - title: "Técnico"
+    url: "/tecnico/"
 
 - title: "Buscar"
   url: "/search/"
@@ -60,7 +62,5 @@
     url: "/tutopost/"
   - title: "Contacto"
     url: "/info/contacto/"
-  - title: "Quejas frecuentes"
-    url: "/info/quejas/"
   - title: "Historial"
     url: "/changelog/"

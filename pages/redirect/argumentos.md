@@ -2,7 +2,7 @@
 title: "Argumentos es ahora Quejas"
 layout: redirect
 sitemap: false
-permalink: /juegos/
-redirect_to:  "../info/quejas/"
+permalink: /argumentos/
+redirect_to:  "../anexos/quejas/"
 ---
 Estamos redirigiendo la página a `quejas`. Un momento.

@@ -41,7 +41,7 @@ Si usas [la página web de Github]({{ site.url }}{{ site.baseurl }}/tecnico/usar
 
 ### Clona
 
-Abre el cliente, en este caso Importa el fichero `.git` desde https://github.com/deepin-espanol/deepin-espanol.github.io.git
+Abre el cliente, en este caso Importa el fichero `.git` desde `https://github.com/deepin-espanol/deepin-espanol.github.io.git`
 
 En el caso de la terminal:
 
@@ -86,7 +86,7 @@ El lenguaje que aplicamos es [Markdown](https://es.wikipedia.org/wiki/Markdown) 
 * Escribe  `[Texto del enlace aquí](URL "Título del enlace")` y creas un enlace
 * Escribe `![Texto alternativo](URL "Título de la imagen")` y creas una imagen
 
-Para aprender todas las posibilidades visita [Códigos permitidos en Markdown]({{ site.url }}/tecnico/doc/). Si quieres editar desde la web, te presentamos [JBT](https://jbt.github.io/markdown-editor/) o [Diliger](http://dillinger.io/).
+Para aprender todas las posibilidades visita [Cuerpo del post]({{ site.url }}/tecnico/cuerpopost/). Siempre puedes jugar con [JBT](https://jbt.github.io/markdown-editor/) o [Diliger](http://dillinger.io/).
 
 ## Ramas, subida y bajada de parches
 
@@ -94,9 +94,9 @@ Pare realizar un commit o parche, asegúrate que hayas realizado modificaciones 
 
 Primero: Una vez realizado el parche tienes dos opciones:
 
-8. Haz un push en la branch o rama "[usuario]-post".
+8. Haz un push en la branch o rama `[usuario]-post`.
 9. Si deseas pueds añadir más parches para corregir algunos percances.
-10. Cuando está listo, tendrás que hacer la orden "push" a la rama "master".
+10. Cuando está listo, tendrás que hacer la orden `push` a la rama `master`.
 11. Si hay conflictos por aplicar paches antes de tiempo, es mejor realizar un "fetch" de la rama que vas a aplicar.
 
 ### Opcional: Crea una rama

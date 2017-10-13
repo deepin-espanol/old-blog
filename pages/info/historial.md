@@ -11,6 +11,18 @@ permalink: "/info/historial/"
 
 Nota: Los cambios están enfocados en la página web y el material que estemos brindando.
 
+2017-10-13
+: Migrando guiapps y quejas a Listados. La finalidad es categorizarlas para consultar en el futuro.
+
+2017-10-12
+: Añadido [SDK]({{ site.url }}{{ site.baseurl }}/tecnico/sdk). Más de 80 aplicaciones en la categoría. 30 tips disponibles.
+
+2017-10-11
+: Realizando pruebas con Movies y Files.
+
+2017-10-10
+: Nueva categorías, [Tecnico]({{ site.url }}{{ site.baseurl }}/tecnico/) y [Anexos]({{ site.url }}{{ site.baseurl }}/anexos/). Migrando Tutopost a Tecnico y Wallpapers a Anexos.
+
 2017-10-02
 : Sección [Actividades]({{ site.url }}{{ site.baseurl }}/actividades/). Motivamos a participar en varios eventos.
 
@@ -30,7 +42,7 @@ Nota: Los cambios están enfocados en la página web y el material que estemos b
 :  Lanzada ["Tutopost"]({{ site.url }}/tutopost) para conocer mejor al proyecto Deepin en español.
 
 2017-08-10
-:  Añadido ["Quejas frecuentes"]({{ site.url }}/info/quejas) en la página web para pocos conocedores.
+:  Añadido ["Quejas frecuentes"]({{ site.url }}/tecnico/quejas) en la página web para pocos conocedores.
 
 2017-07-31
 :  Lanzamiento de Deepin en Español con 4 categorías, portada con selección de noticias y redes sociales.

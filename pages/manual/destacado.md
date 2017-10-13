@@ -4,7 +4,7 @@ show_meta: false
 title: "Destacado"
 subheadline: "Lo resaltado del manual"
 header:
-   image_fullwidth: "header_unsplash_5.jpg"
+   image_fullwidth: "hot.jpg"
 permalink: "/tips/"
 ---
 Estas son las páginas etiquetadas con "Destacado". Mayormente son soluciones más frecuentes o acciones en situaciones de riesgo.
