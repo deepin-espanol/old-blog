@@ -25,9 +25,9 @@ header:+
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 Si es tu primera vez que crearás un post, no te será complicado hacer desde cero.
 
-Lo primero que hacemos es elaborar una página llamada "Hola mundo". Esa base nos servirá para elaborar una base. Tienes algunos campos para rellenar.
+Lo primero que hacemos es elaborar una página llamada "Hola mundo". Esa base nos servirá para elaborar una base. Tienes algunos [campos para rellenar en una paǵina especial]({{ site.url }}{{ site.baseurl }}/tecnico/encabezadopost2/).
 
-El siguiente paso es [que más incluir al post]({{ site.url }}{{ site.baseurl }}/tecnico/extra/).
+El siguiente paso es [que más incluir al post]({{ site.url }}{{ site.baseurl }}/tecnico/cuerpopost/).
 
 Nota: Está página es un complemento de la ayuda ["Cómo crear un post desde Atom"]({{ site.url }}{{ site.baseurl }}/tecnico/crearpost/), mientras que los más avanzados se guiarán en [la página dedicada]({{ site.url }}{{ site.baseurl }}/tecnico/crearpost/).
 
@@ -118,7 +118,13 @@ Cuerpo del texto
 
 ## Extra
 
-### subheadlines
+### Para manual, columna adicional
+Añade:
+~~~
+sidebar: right
+~~~
+
+### Línea debajo del encabezado
 
 Si quieres añadir un línea debajo del encabezado, define al iniciar el texto como:
 

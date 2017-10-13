@@ -1,8 +1,8 @@
 ---
 layout: page-fullwidth
-title: "Código de formato en posts"
+title: "Encabezado del post 2"
 subheadline: "Ayuda"
-teaser: "El repertorio de opciones que puedes incorporar a las publicación"
+teaser: "Ejemplos más complejos"
 tags:
     - tutopost
 categories:

@@ -29,13 +29,15 @@ header:
 
 Los detalles puedes encontrar en [esta página]({{ site.url }}{{ site.baseurl }}/tecnico/git/).
 
-## Preparando el entorno
+## Usar Atom
 
-### Consige el cliente
+Este es la forma más sencilla de elaborar un post. Tienes integrado el editor de texto, la vista de carpetas y el mencionado cliente. Los detalles encotrarás [en esta página]({{ site.url }}{{ site.baseurl }}/tecnico/desdeatom/)
 
-Para empezar, usa una aplicación como [Atom]({{ site.url }}{{ site.baseurl }}/tecnico/git/). Tienes integrado el editor de texto, la vista de carpetas y el mencionado cliente.
+## Información adicional
 
-También puedes probar con [Gitcola](https://git-cola.github.io/) o Gitkraken desde la Deepin Store.
+Para empezar, como explicamos anteriormente, puedes usar un cliente como [Atom]({{ site.url }}{{ site.baseurl }}/tecnico/git/), [Gitcola](https://git-cola.github.io/) o Gitkraken desde la Deepin Store.
+
+Si usas [la página web de Github]({{ site.url }}{{ site.baseurl }}/tecnico/usargithub/), el mecanismo se hace más gráfico.
 
 ### Clona
 
@@ -47,14 +49,14 @@ En el caso de la terminal:
 git clone https://github.com/deepin-espanol/deepin-espanol.github.io.git
 ~~~
 
-## Segundo: Qué carpetas debo tocar
+### Carpetas
 
 Como no hay interfaz web, desde tu gestor de archivos en el lugar:
 
 * Las carpetas para páginas como " _drafts" para borradores, " _posts" para publicaciones en el blog y "pages" para páginas especiales; y
 * La carpeta para las imágenes como "images".
 
-### Preparación
+### Borradores a post
 
 1. Busca la carpeta * > _draft > ejemplo
 2. Selecciona un archivo. Más detalles en la siguiente sección.
@@ -63,7 +65,7 @@ Como no hay interfaz web, desde tu gestor de archivos en el lugar:
 5. Corta el archivo
 6. Muévelo a post > [carpeta]. Siendo carpeta, el manual, blog o tips.
 
-### Qué debe contener un post
+### Encabezado del post
 
 Cuando creas un archivo asegúrate que contenga:
 
@@ -75,7 +77,7 @@ Cuando creas un archivo asegúrate que contenga:
 
 Más detalles en ["Planilla del post"]({{ site.url }}/tecnico/plantillapost/).
 
-### Código Markdown
+### Cuerpo del post y Markdown
 
 El lenguaje que aplicamos es [Markdown](https://es.wikipedia.org/wiki/Markdown) por ser fácil de aprender, casi lo mismo a una wiki.
 
@@ -86,7 +88,7 @@ El lenguaje que aplicamos es [Markdown](https://es.wikipedia.org/wiki/Markdown) 
 
 Para aprender todas las posibilidades visita [Códigos permitidos en Markdown]({{ site.url }}/tecnico/doc/). Si quieres editar desde la web, te presentamos [JBT](https://jbt.github.io/markdown-editor/) o [Diliger](http://dillinger.io/).
 
-## Subir los cambios
+## Ramas, subida y bajada de parches
 
 Pare realizar un commit o parche, asegúrate que hayas realizado modificaciones como los nuevos archivos que has creado.
 
