@@ -29,6 +29,8 @@ Mientras esperamos de las nuevas novedades, puedes seguir participando en [las a
 ## Hay más que vida social
 En China, los desarrolladores [tienen vida social](https://web.archive.org/web/20170703084642/https://www.deepin.org/welcome-to-whlug/). Visita su [sección especial en Deepin.org](https://www.deepin.org/category/whlug-news/) o en la cuenta en [Sina Weibo](http://weibo.com/linuxdeepinnew).
 
+Si deseas conocer sobre ellos y sabes chino, te recomendamos [revisar esta revista](https://www.deepin.com/wp-content/uploads/2016/12/%E7%94%B5%E5%AD%90%E7%89%88%E5%86%85%E5%88%8A-1.pdf).
+
 <div class="row">
     <div class="medium-12 columns t30">
     <img src="{{ site.urlimg }}deepinmascot.jpg" alt="Mascota Deepin, elaborado por el equipo.">

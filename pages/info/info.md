@@ -38,3 +38,9 @@ Para motivar una discusión transparente, damos a conocer [los términos y condi
 
 ## Detalles de la página web
 Los detalles del sitio web, lo encontrarás en la subsección [terceros]({{ site.url }}/info/terceros/).
+
+<div class="row">
+    <div class="medium-12 columns t30">
+    <img src="{{ site.urlimg }}deepinmascot.jpg" alt="Mascota Deepin, elaborado por el equipo.">
+    </div><!-- /.medium-4.columns -->
+</div>
