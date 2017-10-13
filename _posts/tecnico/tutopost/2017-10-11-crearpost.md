@@ -1,8 +1,8 @@
 ---
 layout: page-fullwidth
-title: "Tutorial para crear posts"
+title: "Cómo hacemos los posts"
 subheadline: "Ayuda"
-teaser: "Haciendo artículos para principianes"
+teaser: "Un vistazo para hacer artículos para principianes"
 tags:
     - tutopost
 categories:
@@ -23,21 +23,23 @@ header:
 </div><!-- /.medium-4.columns -->
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
-{% include alert text='Actualizado el 31 de julio de 2017. Es posible que sufran algunos cambios para casos específicos.' %}
+{% include alert text='Actualizado el 12 de octubre de 2017. Es posible que sufran algunos cambios para casos específicos.' %}
 
 ## Qué es git y Jekyll
 
-Los detalles puedes encontrar en [esta página]({{ site.url }}/tecnico/git/).
+Los detalles puedes encontrar en [esta página]({{ site.url }}{{ site.baseurl }}/tecnico/git/).
 
-## Primero: Descarga la copia
+## Preparando el entorno
 
-### Descarga un cliente Git
+### Consige el cliente
 
-Para empezar, usa una aplicación como [Gitcola](https://git-cola.github.io/) o Gitkraken desde la Deepin Store. Si eres un capo en la terminal, instala el paquete git.
+Para empezar, usa una aplicación como [Atom]({{ site.url }}{{ site.baseurl }}/tecnico/git/). Tienes integrado el editor de texto, la vista de carpetas y el mencionado cliente.
+
+También puedes probar con [Gitcola](https://git-cola.github.io/) o Gitkraken desde la Deepin Store.
 
 ### Clona
 
-Cuando inicias Git-cola selecciona clonar y escribe `git clone https://github.com/deepin-espanol/deepin-espanol.github.io.git` y aceptar.
+Abre el cliente, en este caso Importa el fichero `.git` desde https://github.com/deepin-espanol/deepin-espanol.github.io.git
 
 En el caso de la terminal:
 
@@ -82,7 +84,7 @@ El lenguaje que aplicamos es [Markdown](https://es.wikipedia.org/wiki/Markdown) 
 * Escribe  `[Texto del enlace aquí](URL "Título del enlace")` y creas un enlace
 * Escribe `![Texto alternativo](URL "Título de la imagen")` y creas una imagen
 
-Para aprender todas las posibilidades visita [Códigos permitidos en Markdown]({{ site.url }}/tutopost/doc/). Si quieres editar desde la web, te presentamos [JBT](https://jbt.github.io/markdown-editor/) o [Diliger](http://dillinger.io/).
+Para aprender todas las posibilidades visita [Códigos permitidos en Markdown]({{ site.url }}/tecnico/doc/). Si quieres editar desde la web, te presentamos [JBT](https://jbt.github.io/markdown-editor/) o [Diliger](http://dillinger.io/).
 
 ## Subir los cambios
 

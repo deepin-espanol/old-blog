@@ -37,7 +37,7 @@ sudo modprobe ecryptfs
 ~~~
 sudo ecryptfs-migrate-home -u username
 ~~~
-4. Una vez que está cifrado la carpeta documentos, ejecuta ´ecryptfs-unwrap-passphrase´ para conseguir la clave de recuperación y guardarlo en caso que sea necesario;
+4. Una vez que está cifrado la carpeta documentos, ejecuta `ecryptfs-unwrap-passphrase` para conseguir la clave de recuperación y guardarlo en caso que sea necesario;
 5. Reinicia el equipo o escribiendo el comando "sudo reboot";
 6. Cuando abras el gestor de archivos tendrás dos carpetas Home, la que estás usando y una copia sin cifrar, si deseas muévelo o bórralo;
 7. Ahora está listo para usar
@@ -48,7 +48,7 @@ sudo ecryptfs-migrate-home -u username
 	- Créala desde el "Centro de control>Cuentas"
 	- Abre la terminal desde la cuenta temporal y borra dicha cuenta cuando finalices al 100%
 
-* También puedes cifrar la partición SWAP con ´sudo apt-get install cryptsetup´ y ´sudo ecryptfs-setup-swap´.
+* También puedes cifrar la partición SWAP con `sudo apt-get install cryptsetup` y `sudo ecryptfs-setup-swap`.
   - No recomendamos seguir esta opción por su alto consumo y que alteraría el rendimiento del equipo.
 
 ### Crédito

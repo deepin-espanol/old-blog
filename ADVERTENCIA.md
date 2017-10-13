@@ -7,8 +7,8 @@ Las diferencias con el tema de Jekyll Feeling Responsive son varias y están rel
 
 ### Código modificado en layouts>frontapage
 
-Si vas actualizar una parte del código debe conservarse como esto: 
-´´´
+Si vas actualizar una parte del código debe conservarse como esto:
+~~~
 {% comment %}
 *
 * EDITADO PARA MOSTRAR SOLO NOTICIAS
@@ -59,7 +59,7 @@ Si vas actualizar una parte del código debe conservarse como esto:
         </div><!-- /.medium-7.columns -->
     </div><!-- /.row -->
 {% endunless %}
-´´´
+~~~
 Sirve para mostrar las noticias en la página de inicio.
 
 ### Otros detalles

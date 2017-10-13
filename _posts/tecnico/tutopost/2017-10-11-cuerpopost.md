@@ -183,7 +183,7 @@ Permite incrustar un listado publicaciones como páginas.
 
 ### Enlace Anterior y Siguiente
 
-Llamado ´next-previous-post-in-category.html´. Añade enlaces al anterior y siguiente post. En el front matter se añade.
+Llamado `next-previous-post-in-category.html`. Añade enlaces al anterior y siguiente post. En el front matter se añade.
 
 ~~~
 {% raw %} {% include next-previous-post-in-category %}{% endraw %}

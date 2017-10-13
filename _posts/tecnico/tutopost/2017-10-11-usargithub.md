@@ -25,7 +25,7 @@ header:
 
 Esta guía sirve para aprovechar la web de Github en lugar de los clientes para PC. Aprovecha las capturas de pantalla para orientarte.
 
-1. Abre la página ["Planilla del post"]({{ site.url }}/tutopost/plantillapost/) o uno de los archivos de la carpeta "draft".
+1. Abre la página ["Planilla del post"]({{ site.url }}/tecnico/plantillapost/) o uno de los archivos de la carpeta "draft".
 2. Copia el código a continuación
 3. Ahora dirígete a "_post" > "noticias
 4. Haz clic en Crear nuevo archivo
