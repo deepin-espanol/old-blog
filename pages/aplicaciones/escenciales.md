@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Aplicaciones escenciales"
+title: "Guia de aplicaciones"
 subheadline: "Apliaciones"
 teaser: "Lo que viene en Deepin."
 permalink: "/escenciales/"
@@ -12,6 +12,7 @@ En Deepin comentamos y comprobamos varias aplicaciones despúes de [instalar el 
 
 Para listas de aplicaciones centradas en tareas específicas, visita la lista [Guía de aplicaciones]({{ site.url }}{{ site.baseurl }}/guiaapps/). Iremos aumentando con la ayuda de colaboradores.
 
+## Aplicaciones escenciales
 <table>
   <caption>🔥 Aplicaciones escenciales</caption>
   <colgroup>
