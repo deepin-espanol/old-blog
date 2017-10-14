@@ -7,6 +7,7 @@ categories:
 tags:
     - dudas
     - comunidad
+    - guiapps
 header:
    image_fullwidth: "hot.jpg"
 ---

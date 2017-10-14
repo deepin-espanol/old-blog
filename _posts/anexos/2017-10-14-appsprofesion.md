@@ -2,7 +2,7 @@
 layout: page
 title: "Guía de aplicaciones por profesión"
 subheadline: "Apliaciones"
-teaser: "Catálogo de ."
+teaser: "Catálogo de aplicaciones para cada profesión o rama laboral."
 categories:
     - anexos
 tags:
@@ -95,6 +95,31 @@ En esta página te mostramos un catálogo amplio. Algunas de ellas [vienen inclu
     <tr>
       <td>Terminal</td>
       <td><b>Deepin Terminal</b>, Terminator, Konsole, Tilix</td>
+    </tr>
+    </tbody>
+</table>
+
+## Ingeniería civil
+<table>
+  <caption>🔖 Diseño</caption>
+  <colgroup>
+    <col span="1" style="width: 30%;">
+    <col span="1" style="width: 70%;">
+      </colgroup>
+  <thead>
+    <tr>
+      <th>Función</th>
+      <th>Aplicaciones</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Diseño CAD 3D</td>
+      <td>BRL-CAD, <a href="{{ site.url }}{{ site.baseurl }}/apps/freecad">FreeCAD</a>, gCAD3D, QCad</td>
+    </tr>
+    <tr>
+      <td>Diseño CAD 2D</td>
+      <td>LibreCAD</td>
     </tr>
     </tbody>
 </table>
