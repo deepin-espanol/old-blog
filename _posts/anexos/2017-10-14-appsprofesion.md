@@ -149,6 +149,27 @@ En esta página te mostramos un catálogo amplio. Algunas de ellas [vienen inclu
     </tbody>
 </table>
 
+## Ingeniería aeroespacial
+<table>
+  <caption>🔖 Espacio aéreo</caption>
+  <colgroup>
+    <col span="1" style="width: 30%;">
+    <col span="1" style="width: 70%;">
+      </colgroup>
+  <thead>
+    <tr>
+      <th>Función</th>
+      <th>Aplicaciones</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Aviación</td>
+      <td><a href="{{ site.url }}{{ site.baseurl }}/apps/flightgear">FlightGear</a></td>
+    </tr>
+  </tbody>
+</table>
+
 ## Notas
 Basada en una [publicación de MuyLinux](https://www.muylinux.com/2017/09/19/aplicaciones-por-defecto-ubuntu-18-04-2/). Las aplicaciones por defecto en Deepin 15.4.1 están indicadas en [Escenciales]({{ site.url }}{{ site.baseurl }}/escenciales/).
 

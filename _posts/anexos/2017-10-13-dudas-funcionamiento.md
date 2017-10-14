@@ -33,10 +33,9 @@ En esta página respondemos las dudas más comunes relacionadas al funcionamient
 ## Listado
 
 ### ¿La terminal te hace inteligente?
+Es falso, es como si un casual te diciera que actúas como los protagonistas de la película, [Jonny Lee Miller y Angelina Jolie](https://en.wikipedia.org/wiki/Hackers_(film)).
 
-Es falso, es como si un casual te diciera que actúas como los protagnistas de la película, [Jonny Lee Miller y Angelina Jolie](https://en.wikipedia.org/wiki/Hackers_(film)).
-
-La terminal es el equivalente al "Símbolo de sistema" en Windows. Puedes ejecutar ordenes o abrir aplcaciones. [UN ejemplo]({{ site.url }}{{ site.baseurl }}/tips/mirror/) sería cambiar el repositorio para que consigas el más veloz.
+La terminal (o consola en algunas distribuciones) es el equivalente al "Símbolo de sistema" en Windows. Puedes ejecutar ordenes o abrir aplcaciones. [Un ejemplo]({{ site.url }}{{ site.baseurl }}/tips/mirror/) sería cambiar el repositorio para que consigas el más veloz.
 
 Recuerda que cada herramienta, una aplicación de solo texto, tiene instrucciones. Quizás necesites memorizar, pero tienes una pequeña ayuda escribiendo el primer comando.
 
@@ -46,8 +45,7 @@ Recuerda que cada herramienta, una aplicación de solo texto, tiene instruccione
 {: .text-right }
 
 ### ¿Hay que hacer limpieza profunda?
-
-No del todo. Aún así Deepin acumula datos innecesarios.
+No del todo. Aún así Deepin acumula datos innecesarios que puedes eliminarlos con seguridad.
 
 En este caso tienes a [Ubuntu Cleaner]({{ site.url }}{{ site.baseurl }}/apps/ubuntucleaner/) o [BleachBit]({{ site.url }}{{ site.baseurl }}/apps/bleachbit/) disponible en Deepin Store.
 
@@ -57,32 +55,31 @@ Recuerda que actúan como CCleaner, con opciones más claras como caché, paquet
 {: .text-right }
 
 ### ¿Porqué Deepin falla al conectarse a Internet?
-
 Eso dependerá del controlador para conectarse a Internet, especialmente vía WiFi. Visita [este tip para encontrar una solución]({{ site.url }}/tips/wififix/).
 
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
 
 ### ¿Debo restaurar Deepin desde cero?
-
-No. En lugar de formatear el disco y seguir un tediosa y larguísima espera, intenta usar [Resetter]({{ site.url }}/apps/resetter/).
+No. En lugar de formatear el disco y seguir un tediosa y larguísima espera, intenta usar [Resetter]({{ site.url }}/apps/resetter/). Esta aplicación eliminará las cuentas de usuarios, revierte los paquetes instalados y restaura la configuración inicial.
 
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
 
 ### ¿Puedo tener Deepin y Windows en mi PC?
-
 Sí, siempre que tu PC lo permita. Revisa [algunas recomendaciones]({{ site.url }}/manual/dual-boot/).
 
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
 
 ### ¿Puedo ejecutar aplicaciones no diseñadas para Deepin?
-
 Lo intentaremos. Revisa [esta sección]({{ site.url }}/anexos/dudas-aplicaciones/).
 
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
+
+### ¿Cómo reporto un problema en Deepin?
+Tenemos [Deepin Feedback]({{ site.url }}{{ site.baseurl }}/actividades/feedback) (también llamado Comentarios de Deepin) para que envies tus reportes y otra información de interés para que los desarrolladores corrijan los errores.
 
 No olvides que estamos en [en Github](https://github.com/comunidad-deepin/comunidad-deepin.github.io).
 
