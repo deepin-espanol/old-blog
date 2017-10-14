@@ -74,7 +74,7 @@ En esta página te mostramos un catálogo amplio. Algunas de ellas [vienen inclu
   </tbody>
 </table>
 
-## Diseño gráfrico
+## Diseño gráfico
 <table>
   <caption>🔖 Producción de contenido</caption>
   <colgroup>
@@ -146,12 +146,16 @@ En esta página te mostramos un catálogo amplio. Algunas de ellas [vienen inclu
       <td>Diseño CAD 2D</td>
       <td>LibreCAD</td>
     </tr>
+    <tr>
+      <td>Diseño de casas 3D</td>
+      <td><a href="{{ site.url }}{{ site.baseurl }}/apps/freecad">Sweet Home</a></td>
+    </tr>
     </tbody>
 </table>
 
 ## Ingeniería espacial
 <table>
-  <caption>🔖 Exploración espacial</caption>
+  <caption>🔖 Simulación espacial</caption>
   <colgroup>
     <col span="1" style="width: 30%;">
     <col span="1" style="width: 70%;">
@@ -168,7 +172,7 @@ En esta página te mostramos un catálogo amplio. Algunas de ellas [vienen inclu
       <td><a href="{{ site.url }}{{ site.baseurl }}/apps/flightgear">FlightGear</a></td>
     </tr>
     <tr>
-      <td>Viajes al exterior</td>
+      <td>Espacio exterior</td>
       <td><a href="{{ site.url }}{{ site.baseurl }}/apps/celestia">Celestia</a>, Universe Sandbox 2 (de pago)</td>
     </tr>
   </tbody>
