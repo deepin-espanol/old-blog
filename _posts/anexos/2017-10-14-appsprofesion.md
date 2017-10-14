@@ -149,9 +149,9 @@ En esta página te mostramos un catálogo amplio. Algunas de ellas [vienen inclu
     </tbody>
 </table>
 
-## Ingeniería aeroespacial
+## Ingeniería espacial
 <table>
-  <caption>🔖 Espacio aéreo</caption>
+  <caption>🔖 Exploración espacial</caption>
   <colgroup>
     <col span="1" style="width: 30%;">
     <col span="1" style="width: 70%;">
@@ -166,6 +166,10 @@ En esta página te mostramos un catálogo amplio. Algunas de ellas [vienen inclu
     <tr>
       <td>Aviación</td>
       <td><a href="{{ site.url }}{{ site.baseurl }}/apps/flightgear">FlightGear</a></td>
+    </tr>
+    <tr>
+      <td>Viajes al exterior</td>
+      <td><a href="{{ site.url }}{{ site.baseurl }}/apps/celestia">Celestia</a>, Universe Sandbox 2 (de pago)</td>
     </tr>
   </tbody>
 </table>
