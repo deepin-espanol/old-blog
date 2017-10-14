@@ -16,6 +16,31 @@ En Deepin comentamos y comprobamos varias aplicaciones despúes de [instalar el 
 
 En esta página te mostramos un catálogo amplio. Algunas de ellas [vienen incluidas]({{ site.url }}{{ site.baseurl }}/escenciales/), mientras que otras requieren de instalación via Deepin Store o su sitio web.
 
+## Literatura
+<table>
+  <caption>🔖 Redacción de textos</caption>
+  <colgroup>
+    <col span="1" style="width: 30%;">
+    <col span="1" style="width: 70%;">
+      </colgroup>
+  <thead>
+    <tr>
+      <th>Función</th>
+      <th>Aplicaciones</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Herramientas de elaboración</td>
+      <td><a href="{{ site.url }}{{ site.baseurl }}/apps/bibisco">Bibisco</a>, <a href="{{ site.url }}{{ site.baseurl }}/apps/manuskript">Manuskript</a>, Trelby</td>
+    </tr>
+    <tr>
+      <td>Mapas concepctuales</td>
+      <td><a href="https://lignux.com/freeplane-un-editor-de-mapas-conceptuales/">Freeplane</a></td>
+    </tr>
+    </tbody>
+</table>
+
 ## Comunicación
 <table>
   <caption>🔖 Edición</caption>

@@ -57,6 +57,8 @@ En teoría, puedes correr cualquier [juego diseñado para Linux]({{ site.url }}{
 
 En caso que prefieras instalar juegos con ejecutables para Microsoft Windows, incluyendo al componente DirectX, tendrás que usar Wine ([PlayonLinux]({{ site.url }}{{ site.baseurl }}/tips/playonlinuxapps) o [Crossover]({{ site.url }}{{ site.baseurl }}/manual/exeapps/)). Consigue el ejecutable desde el disco o la carpeta de instalación y sigue las instrucciones.
 
+No olvides tener tu catálogo local con [Lutris]({{ site.url }}{{ site.baseurl }}/apps/lutris/).
+
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
 

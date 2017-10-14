@@ -1,11 +1,11 @@
 ---
 layout: video
-title: "Pritunl Client"
+title: "WebCatalog"
 subheadline: "Aplicaciones"
-teaser: "Gestiona conexiones VPN, compatible con OpenVPN"
+teaser: "Varias aplicaciones web en uno"
 tags:
-    - vpn
-    - openvpn
+    - cliente
+    - mensajeria
 categories:
     - apps
 iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/qpw_E1ddfJw' frameborder='0' allowfullscreen></iframe>"
