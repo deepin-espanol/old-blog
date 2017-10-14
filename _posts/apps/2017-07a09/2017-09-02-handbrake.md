@@ -1,6 +1,6 @@
 ---
 layout: video
-title: "Handbreake"
+title: "Handbrake"
 subheadline: "Aplicaciones"
 teaser: "Convierte y aligera vídeos."
 tags:

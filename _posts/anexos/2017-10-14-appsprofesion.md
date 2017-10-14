@@ -71,6 +71,10 @@ En esta página te mostramos un catálogo amplio. Algunas de ellas [vienen inclu
       <td>Grabación</td>
       <td><a href="{{ site.url }}{{ site.baseurl }}/apps/cheeseapp">Cheese</a></td>
     </tr>
+    <tr>
+      <td>Codificación de vídeo</td>
+      <td><a href="{{ site.url }}{{ site.baseurl }}/apps/handbrake">handBrake</a></td>
+    </tr>
   </tbody>
 </table>
 
