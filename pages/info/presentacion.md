@@ -18,7 +18,7 @@ title: "Un vistazo"
 
     <div class="medium-6 columns b30">
         <img src="{{ site.urlimg }}people.jpg" alt="">
-        <p style="font-size: 180%"><a href="{{ site.url }}{{ site.baseurl }}/info/">👥 Soporte comunitario</a> (<a href="{{ site.url }}{{ site.baseurl }}/info/contacto">💬 contacto</a>, <a href="{{ site.url }}{{ site.baseurl }}/anexo/dudas">❓ dudas frecuentes</a>)</p>
+        <p style="font-size: 180%"><a href="{{ site.url }}{{ site.baseurl }}/info/">👥 Soporte comunitario</a> (<a href="{{ site.url }}{{ site.baseurl }}/info/contacto">💬 contacto</a>, <a href="{{ site.url }}{{ site.baseurl }}/anexos/dudas">❓ dudas frecuentes</a>)</p>
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
 
