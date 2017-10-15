@@ -21,7 +21,7 @@ widget2:
   title: "Did&aacute;ctico"
   url: '/info/'
   image: widget-2-302x182.jpg
-  text: 'En <em>Deepin en Español</em> nos comprometemos:<br/>1. <a href="/tutopost/">Contenido enriquecido</a>.<br/>2. Ilustraciones y vídeos.<br/>3. Multiplataforma.<br/>4. Tips adicionales.<br/>5. Y otras más...'
+  text: 'En <em>Deepin en Español</em> nos comprometemos:<br/>1. <a href="/tutopost/">Contenido enriquecido</a>.<br/>2. Ilustraciones y vídeos.<br/>3. Multiplataforma.<br/>4. Tips y <a href="/anexos/dudas/">dudas frecuentes</a>.<br/>5. Y otras más...'
 widget3:
   title: "Rec&iacute;proco"
   url: '/actividades/'
