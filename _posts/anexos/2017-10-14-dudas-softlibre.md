@@ -40,7 +40,7 @@ Un software mencionado como "libre" garantiza la libertad de compartir, estudiar
 ### ¿Qué es una licencia libre?
 Una licencia libre es un requisito. Es ese "contrato" (llámalo "impreso") que te explica los derechos y deberes con que harás al programa.
 
-<img class="t60" src="{{ site.urlimg }}free-vs-gratis.jpg" alt="La escala de licencias: dominio público, licencia permisiva, la ideal, la propietaria y el acuerdo de confidencialidad.">
+<img class="t60" src="{{ site.urlimg }}escala-de-licencias.png" alt="La escala de licencias: dominio público, licencia permisiva, la ideal, la propietaria y el acuerdo de confidencialidad.">
 
 En la imagen tienes un ejemplo. De la izquierda está el dominio público (la cual no es recomendable para los trabajos), el segundo es una permisiva (como la licencia LGPL, la MIT o la BSD) y la tercera es la protegida por copia recíproca (como la licencia GPL). Las dos restantes no son licencias libres (como la EULA o el acuerdo de confidencialidad).
 
