@@ -110,7 +110,7 @@ Sí. Es el ejemplo más conocido. Es el propio Linus Torvalds quien optó por es
         <iframe width="1280" height="720" src="//www.youtube.com/embed/UUJ0dFpj1-M" frameborder="0" allowfullscreen></iframe>
 </div>
 
-### ¿Y que hay del resto del sistema operativo?
+### ¿Y qué hay del resto del sistema operativo?
 Aparte de Linux, se desarrolló una especie de "base" llamada GNU. Su aporte relevante es el [intérprete de código fuente a binario](https://www.gnu.org/software/libc/libc.html) en la década de 1980 y es usada por la mayoría de distribuciones como Deepin.
 
 GNU fue una respuesta al antes famoso Unix (que sirve de base para MacOS) desarrollado por un estudiante de tecnología, Richard M. Stallman. La adopción del núcleo Linux fue para accelerar su desarrollo (de ahí que también se conoce como "GNU/Linux").
