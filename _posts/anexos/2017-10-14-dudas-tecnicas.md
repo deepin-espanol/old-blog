@@ -59,6 +59,9 @@ Si tienes problemas con el núcleo, visita [la página para cambiar el núcleo d
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
 
+### ¿Puedo conseguir un controlador de gráficos desarrollado por la empresa?
+Sí. Algunos paquetes para optimizar la tarjeta gráfica de NVidia, por ejemplo, está disponible por separado. Visita [está página para conocer los controladores exclusivos disponibles]({{ site.url }}/manual/videocard/).
+
 ## Cómo sistema operativo único
 ### ¿Deepin es capaz de ejecutar videojuegos?
 Sí. Echa un vistazo en [Juegos para Deepin]({{ site.url }}{{ site.baseurl }}/games/). Lo puedes conseguir en la Deepin Store, Steam o con ayuda de [Crossover]({{ site.url }}{{ site.baseurl }}/apps/crossover/).
