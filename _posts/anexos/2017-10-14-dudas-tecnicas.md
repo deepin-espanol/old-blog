@@ -25,7 +25,7 @@ header:
 
 En la *Comunidad Deepin* aclaramos que el sistema operativo  perfecto no existe. Buscamos que cualquiera conozca Deepin, como si fuera un vehículo o una ciudad.
 
-En esta página respondemos las dudas más profundas. Está dedicada a personas que buscan conocer el mecanismo de dicho software.
+En esta página respondemos las dudas más profundas. Es un complemento a la página [Dudas frecuentes]({{ site.url }}{{ site.baseurl }}/anexos/dudas/). Está dedicada a personas que buscan conocer el mecanismo de dicho software.
 
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }

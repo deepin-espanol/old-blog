@@ -25,7 +25,7 @@ header:
 
 En la *Comunidad Deepin* aclaramos que el sistema operativo  perfecto no existe. Buscamos que cualquiera conozca Deepin, tanto a aquellos principiantes como como a experimentados.
 
-En esta página respondemos las dudas relacionadas al software libre y cómo lo aplicamos en la vida real.
+En esta página respondemos las dudas relacionadas al software libre y cómo lo aplicamos en la vida real. Es un complemento a la página [Dudas frecuentes]({{ site.url }}{{ site.baseurl }}/anexos/dudas/).
 
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }

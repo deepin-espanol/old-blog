@@ -26,7 +26,7 @@ header:
 
 En la *Comunidad Deepin* aclaramos que el sistema operativo  perfecto no existe. Buscamos que cualquiera conozca Deepin, como si fuera un vehículo o una ciudad.
 
-En esta página respondemos las dudas más comunes relacionadas al funcionamiento de las aplicaciones y algunos incovenientes.
+En esta página respondemos las dudas más comunes relacionadas al funcionamiento de las aplicaciones y algunos incovenientes. Es un complemento a la página [Dudas frecuentes]({{ site.url }}{{ site.baseurl }}/anexos/dudas/).
 
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
