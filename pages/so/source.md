@@ -34,23 +34,6 @@ Siempre puedes [participar en su desarrollo]({{ site.url }}{{ site.baseurl }}/no
 
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/source/">Ayúdanos a llegar a más dispositivos ›</a>
 
-## ¿Es necesario que sea software libre?
-No tiene un fin político, es sentido común. Tampoco queremos deducir que libre significa gratis. La idea es que los usuarios tengan las mismas condiciones con los desarrolladores al obtener material y generar retroalimentación por otros usuarios.
-
->Para garantizar que el mismo usuario conozca el software sin incorporar componentes con fines malintencionados. Tienes derecho a conocer que cambios realizó el software y que técnicas emplea al equipo.
-
-<div class="flex-video">
-        <iframe width="1280" height="720" src="//www.youtube.com/embed/UUJ0dFpj1-M" frameborder="0" allowfullscreen></iframe>
-</div>
-
->Para reducir las restricciones al modificar el sistema operativo y el código fuente, haciendo los componentes físicos y virtuales fiables, actualizados y seguros.
-
->Para promover el apoyo entre empresas, desarrolladores y usuario, evitando la obsolescencia programada, la piratería y los inecesarios trámites burocráticos.
-
-<div class="flex-video">
-        <iframe width="1280" height="720" src="//www.youtube.com/embed/HuoljD3rgVM" frameborder="0" allowfullscreen></iframe>
-</div>
-
 ## Depende de tí
 
 Si bien Deepin puede ejecutar aplicaciones comerciales, algunos bajo [código abierto](https://en.wikipedia.org/wiki/Business_models_for_open-source_software), o las de Android, siempre puedes sugerir una aplicación (quizás sea la [aplicación ideal]({{ site.url }}{{ site.baseurl }}/guiapps/)).

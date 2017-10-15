@@ -25,13 +25,12 @@ header:
 
 En la *Comunidad Deepin* aclaramos que el sistema operativo  perfecto no existe. Buscamos que cualquiera conozca Deepin, como si fuera un vehículo o una ciudad.
 
-En esta página respondemos las dudas más profundas. Muy pocas personas
+En esta página respondemos las dudas más profundas. Está dedicada a personas que buscan conocer el mecanismo de dicho software.
 
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
 
-## Listado
-
+## Como distribución Linux
 ### ¿Deepin esta basado en Ubuntu?
 Hasta las versión 2014, estuvo basado en Ubuntu. En la versión 15.x se cambió.
 
@@ -42,14 +41,38 @@ Hasta las versión 2014, estuvo basado en Ubuntu. En la versión 15.x se cambió
 Sí, para ganar estabilidad (
 [Muy Linux](http://www.muylinux.com/2015/12/31/deepin-15/)).
 
-Si no te gusta, prueba la versión Manjaro Deepin, hecha por la comunidad. [Revisa la página Instalación]({{ site.url }}/instalacion/).
+Si no te gusta la base Debian, prueba la versión Manjaro Deepin, hecha por la comunidad. [Revisa la página Instalación]({{ site.url }}/instalacion/).
 <img class="t60" src="{{ site.urlimg }}header_homepage_13.jpg" alt="Paisaje">
 
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
 
-### ¿Existen pruebas de que Deepin te espía?
+### ¿Deepin tiene el sistema de apago SystemD?
+Sí.
 
+### ¿Deepin usa un núcleo Linux puro o modificado?
+Modificado basado en una versión a largo plazo (LTS). Revisa el [código fuente]({{ site.url }}{{ site.baseurl }}/source) y las actividades que [puedes colaborar]({{ site.url }}{{ site.baseurl }}/actividades/kernel/).
+
+Si tienes problemas con el núcleo, visita [la página para cambiar el núcleo de Linux]({{ site.url }}{{ site.baseurl }}/tips/kernel/).
+<img class="t60" src="{{ site.urlimg }}header_homepage_13.jpg" alt="Paisaje">
+
+<small markdown="1">[Ir al índice](#toc)</small>
+{: .text-right }
+
+## Cómo sistema operativo único
+### ¿Deepin es capaz de ejecutar videojuegos?
+Sí. Echa un vistazo en [Juegos para Deepin]({{ site.url }}{{ site.baseurl }}/games/). Lo puedes conseguir en la Deepin Store, Steam o con ayuda de [Crossover]({{ site.url }}{{ site.baseurl }}/apps/crossover/).
+
+Adicionalmente tendrás que modificiar parte del código para optimizar el sistema operativo, como este vídeo.
+
+<div class="flex-video">
+        <iframe width="1280" height="720" src="//www.youtube.com/embed/CnSkR96iIpY" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<small markdown="1">[Ir al índice](#toc)</small>
+{: .text-right }
+
+### ¿Existen pruebas de que Deepin te espía?
 No. El sistema operativo, al ser de [código abierto]({{ site.url }}{{ site.baseurl }}/source/), se audita por la comunidad.
 
 Sin embargo, usamos plugins para facilitar el uso con los servicios de la nube. Por ejemplo: reconocer la letra de la canción gracias a Netease, comprobar actualizaciones, enviar el registro de error al Feedback de Deepin, etcétera.
@@ -61,22 +84,8 @@ Fuente: [Distros da China - Deepin espiona usuários?](https://www.youtube.com/w
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
 
-### ¿Es lo mismo que Deepin sea software libre y de código abierto?
-En esta infografía te aclaramos esa pregunta.
-
-<img class="t60" src="{{ site.urlimg }}free-vs-gratis.jpg" alt="En la imagen describe los 4 principios del software libre, la diferencia con código abierto, así como las posibilidad de vender con el software libre.">
-
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
-
-### ¿Deepin usa un núcleo Linux puro o modificado?
-Modificado basado en una versión a largo plazo (LTS). Revisa el [código fuente]({{ site.url }}{{ site.baseurl }}/source) y las actividades que [puedes colaborar]({{ site.url }}{{ site.baseurl }}/actividades/kernel/).
-
-Si tienes problemas con el núcleo, visita [la página para cambiar el núcleo de Linux]({{ site.url }}{{ site.baseurl }}/tips/kernel/).
-<img class="t60" src="{{ site.urlimg }}header_homepage_13.jpg" alt="Paisaje">
-
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
+### ¿Cómo hace Deepin seguro?
+Cada actualización es [señalada en la página web](https://www.deepin.org/en/security-update/). El núcleo del sistema [está siendo auditado frecuentemente](https://lamiradadelreplicante.com/2017/09/01/agencia-alemana-de-ciberseguridad-el-generador-de-numeros-aleatorios-de-linux-es-seguro/).
 
 ## Seguimos creciendo
 
