@@ -4,8 +4,8 @@ title: "VirtualBox"
 subheadline: "Aplicaciones"
 teaser: "Diseñando CAD"
 tags:
-    - animacion
-    - dibujos
+    - virtualizacion
+    - emular
 categories:
     - apps
 iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/D1eYPAtbI24' frameborder='0' allowfullscreen></iframe>"

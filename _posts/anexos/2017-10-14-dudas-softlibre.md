@@ -89,33 +89,41 @@ Sí. Mira este ejemplo.
 {: .text-right }
 
 ## Casos prácticos
-### ¿El software libre tiene una comunidad?
-La mayoría de veces. La comunidad integran a voluntarios dedicados a mejorar el producto como correcciones de errores, características nuevas o integración en otros dispositivos.
-
-Para que esto funcione es necesario definir los objetivos, ser viable y establecer conductas para no contaminarla.
-
-Lectura adicional: Blog [victorhckinthefreeworld](https://victorhckinthefreeworld.com/2014/06/02/linux-apesta-y-los-linuxeros-tambien/) y [FOSS-heartbeat](http://sarah.thesharps.us/2016/12/30/update-on-sentiment-analysis-of-foss-communities/)
-
-### ¿Todo lo que contiene Deepin es software libre?
+### ¿Deepin es software libre?
 El software de Deepin sí y está bajo licencia GPL.
 
-Algunos componentes externos incluidos en Deepin son distribuidos de forma gratuita pero no permiten modificar su código. En el futuro, podrías reemplazar por otras más flexibles para que aprendas a usar Deepin editando su código.
+Esto incluye al entorno de escritorio y las aplicaciones originales. También incluye a Linux y otros componentes desarrollados por terceros, con algunas excepciones.
 
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
 
-### ¿Linux es software libre?
-Sí. Es el ejemplo más conocido. Es el propio Linus Torvalds quien optó por esa desición.
+### ¿Linux también es software libre?
+Sí. Es el núcleo del sistema operativo y el más usado. Es el propio Linus Torvalds quien optó por esa desición.
 <div class="flex-video">
         <iframe width="1280" height="720" src="//www.youtube.com/embed/UUJ0dFpj1-M" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ### ¿Y qué hay del resto del sistema operativo?
-Aparte de Linux, se desarrolló una especie de "base" llamada GNU. Su aporte relevante es el [intérprete de código fuente a binario](https://www.gnu.org/software/libc/libc.html) en la década de 1980 y es usada por la mayoría de distribuciones como Deepin.
+Aparte de Linux, se desarrolló una especie de "base estándar" llamada GNU. Su aporte relevante es el [intérprete de código fuente a binario](https://www.gnu.org/software/libc/libc.html) en la década de 1980 y es usada por la mayoría de distribuciones como Deepin.
 
 GNU fue una respuesta al antes famoso Unix (que sirve de base para MacOS) desarrollado por un estudiante de tecnología, Richard M. Stallman. La adopción del núcleo Linux fue para accelerar su desarrollo (de ahí que también se conoce como "GNU/Linux").
 
 Fuente: [FSF](https://www.gnu.org/gnu/linux-and-gnu.es.html)
+
+### ¿Y de las aplicaciones no desarrollados por Deepin o la comunidad GNU/Linux?
+El software de Deepin sí y está bajo licencia GPL.
+
+Sin embargo, algunos componentes externos incluidos en Deepin son distribuidos de forma gratuita pero no permiten modificar su código. En el futuro, podrías reemplazar por otras más flexibles para que aprendas a usar Deepin editando su código.
+
+<small markdown="1">[Ir al índice](#toc)</small>
+{: .text-right }
+
+### ¿El software libre tiene colaboradores voluntarios?
+La mayoría de las veces. Las comunidades integran a voluntarios dedicados a mejorar el producto como correcciones de errores, características nuevas o integración en otros dispositivos. Nuestra comunidad es uno de ellos.
+
+Para que esto funcione es necesario definir los objetivos, ser viable y establecer conductas para no contaminarla.
+
+Lectura adicional: Blog [victorhckinthefreeworld](https://victorhckinthefreeworld.com/2014/06/02/linux-apesta-y-los-linuxeros-tambien/) y [FOSS-heartbeat](http://sarah.thesharps.us/2016/12/30/update-on-sentiment-analysis-of-foss-communities/)
 
 ## Seguimos creciendo
 
