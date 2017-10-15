@@ -31,6 +31,13 @@ En esta página respondemos las dudas más profundas. Está dedicada a personas 
 {: .text-right }
 
 ## Como distribución Linux
+### ¿Qué es GNU/Linux? ¿Porqué GNU?
+En realidad GNU es un proyecto desarrollado por Richard M. Stallman y fue el pilar para el desarrollo del sistema operativo. Anteriormente el señor Stallman desarollaba versiones propias hasta que...
+
+>Empezamos a desarrollar GNU en 1984, años antes de que Linus Torvalds comenzase a escribir su núcleo. Nuestro objetivo era desarrollar un sistema operativo libre completo. [...] Desarrollamos la mayoría de los componentes principales, conformando la contribución más grande de todo el sistema.
+
+Fuente: [FSF](https://www.gnu.org/gnu/gnu-linux-faq.es.html#why)
+
 ### ¿Deepin esta basado en Ubuntu?
 Hasta las versión 2014, estuvo basado en Ubuntu. En la versión 15.x se cambió.
 

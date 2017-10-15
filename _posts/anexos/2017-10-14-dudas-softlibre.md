@@ -44,6 +44,8 @@ Una licencia libre es un requisito. Es ese "contrato" (llámalo "impreso") que t
 
 En la imagen tienes un ejemplo. De la izquierda está el dominio público (la cual no es recomendable para los trabajos), el segundo es una permisiva (como la licencia LGPL, la MIT o la BSD) y la tercera es la protegida por copia recíproca (como la licencia GPL). Las dos restantes no son licencias libres (como la EULA o el acuerdo de confidencialidad).
 
+Lectura adicional: [Licencias libres según FSF](https://www.gnu.org/licenses/licenses.es.html)
+
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
 
@@ -102,11 +104,18 @@ Algunos componentes externos incluidos en Deepin son distribuidos de forma gratu
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
 
-### Linux es software libre
-Sí. Es el ejemplo más conocido.
+### ¿Linux es software libre?
+Sí. Es el ejemplo más conocido. Es el propio Linus Torvalds quien optó por esa desición.
 <div class="flex-video">
         <iframe width="1280" height="720" src="//www.youtube.com/embed/UUJ0dFpj1-M" frameborder="0" allowfullscreen></iframe>
 </div>
+
+### ¿Y que hay del resto del sistema operativo?
+Aparte de Linux, se desarrolló una especie de "base" llamada GNU. Su aporte relevante es el [intérprete de código fuente a binario](https://www.gnu.org/software/libc/libc.html) en la década de 1980 y es usada por la mayoría de distribuciones como Deepin.
+
+GNU fue una respuesta al antes famoso Unix (que sirve de base para MacOS) desarrollado por un estudiante de tecnología, Richard M. Stallman. La adopción del núcleo Linux fue para accelerar su desarrollo (de ahí que también se conoce como "GNU/Linux").
+
+Fuente: [FSF](https://www.gnu.org/gnu/linux-and-gnu.es.html)
 
 ## Seguimos creciendo
 
