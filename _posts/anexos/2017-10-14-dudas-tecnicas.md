@@ -68,11 +68,9 @@ Sí. Algunos paquetes para optimizar la tarjeta gráfica de NVidia, por ejemplo,
 <img class="t60" src="{{ site.urlimg }}header_homepage_13.jpg" alt="Paisaje">
 
 ### ¿Por qué me aparece el aviso "conflicto de dependencias"?
-El "conflicto de dependencias" resulta tedioso para actualizar los controladores o instalar aplicaciones. Si un programa requiere una libería en desarrollo, no podrás instalar. Si cambias la libería, podrías
+El "conflicto de dependencias" resulta tedioso para actualizar los controladores o instalar aplicaciones. Ocurre al instalar dependencias que alteran el funcionamiento normal como los paquetes Mesa, Qt, códecs, entre otros.
 
-]({{ site.url }}{{ site.baseurl }}manual/instalar-apps/)
-
-Para evitar ese tipo de problemas, sugerimos instalar y actualizar aplicaciones via Deepin Store o PPA. Desde Deepin 15.5, puedes instalar via Flatpak para que disfrutes de la última versión de tus aplicaciones sin contratiempos.
+Para evitar ese tipo de problemas, sugerimos instalar y actualizar aplicaciones via Deepin Store o PPA. Desde Deepin 15.5, puedes instalar via [Flatpak]({{ site.url }}{{ site.baseurl }}manual/instalar-apps/) para que disfrutes de la última versión de tus aplicaciones sin contratiempos.
 
 Fuente: [Manual de Debian](https://www.debian.org/doc/manuals/aptitude/ch02s03s02.es.html)
 
