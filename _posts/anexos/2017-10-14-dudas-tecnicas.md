@@ -102,6 +102,9 @@ Fuente: [Distros da China - Deepin espiona usuários?](https://www.youtube.com/w
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
 
+### ¿Puedo cifrar la carpeta Mis documentos?
+Sí. Echa un vistazo [al tip]({{ site.url }}{{ site.baseurl }}/tips/cifrar-docs/). Por el momento, en Deepin 15.4 no tienes la opción de cifrar desde el centro de control.
+
 ### ¿Cómo podemos saber las útlimas actualizaciones de seguridad?
 Cada actualización es [señalada en la página web](https://www.deepin.org/en/security-update/). El núcleo del sistema [está siendo auditado frecuentemente](https://lamiradadelreplicante.com/2017/09/01/agencia-alemana-de-ciberseguridad-el-generador-de-numeros-aleatorios-de-linux-es-seguro/).
 
