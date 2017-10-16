@@ -51,6 +51,9 @@ Hay otras formas de instalar usando scripts (archivos sh o bin). Este método es
 
 También puedes usar los archivos "appimage", archivos comprimidos para ejecutar los programas sin necesidad de instalarlos. Aunque, algunos archivos se guardan en una carpeta con el nombre del programa.
 
+## Lectura adicional
+* [Dudas sobre aplicaciones]({{ site.url }}{{ site.baseurl }}/anexos/dudas-aplicaciones/)
+
 ## Lista de aplicaciones
 {: .t60 }
 {% include list-posts categories='apps' entries='10'%}
