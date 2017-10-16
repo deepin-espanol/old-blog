@@ -65,7 +65,7 @@ En esta página te mostramos un catálogo amplio. Algunas de ellas [vienen inclu
       </tr>
     <tr>
       <td>Editor de música</td>
-      <td><a href="{{ site.url }}{{ site.baseurl }}/apps/audacity">Audacity</a></td>
+      <td><a href="{{ site.url }}{{ site.baseurl }}/apps/audacity">Audacity</a>, Ocenaudio</td>
     </tr>
     <tr>
       <td>Grabación</td>
