@@ -26,11 +26,14 @@ Tal como explica el portal [Colaboratorio](https://colaboratorio.net/juan/colabo
 ## Controladores
 Algunos controladores son mantenidos por [desarrolladores]({{ site.url }}{{ site.baseurl }}/actividades/drivers/) y otros son elaborados por empresas.
 
-* AMD: El recomendado es AMDGPU para la marca. Otra versión y siendo comercial es AMDGPUPRO.
-* Intel: Tiene un controlador propio
+* AMD: El recomendado es AMDGPU para la marca.
+* Intel: Tiene un controlador propio.
 * Nvidia: El libre es Nouveau y el propietario es Nvidia. Algunos controladores para laptops llevan el nombre de Bumbelee.
 
-Algunos drivers, como [NVidia]({{ site.url }}/apps/install-ejecutable-nvidia/), utilizan un archivo de ejecucción para instalar en cualquier distribución.
+Algunos proveedores de drivers ofrecen un enlace para obtener los instaladores exclusivos:
+* AMD con su versión comercial AMDGPUPRO.
+* [Intel Graphics](https://www.linuxquestions.org/questions/linux-deepin-101/intel-linux-graphics-installer-4175539264/)
+* [NVidia]({{ site.url }}/apps/install-ejecutable-nvidia/).
 
 ## Vídeo
 AMD:
