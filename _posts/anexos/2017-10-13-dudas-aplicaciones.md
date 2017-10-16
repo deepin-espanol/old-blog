@@ -42,21 +42,32 @@ No olvides tener tu catálogo local con [Lutris]({{ site.url }}{{ site.baseurl }
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
 
-### ¿Puedo instalar aplicaciones sin necesidad de Deepin Store?
-Sí. En otra distribuciones, la forma más segura es usando la aplicación [Synaptic]({{ site.url }}{{ site.baseurl }}/apps/synaptic/) e instalando los paquetes que necesites desde sus repositorios.
-
-También puedes instalar desde sitios web. Antes de proceder a ese método, comprueba el [tipo de instalación]({{ site.url }}{{ site.baseurl }}/manual/instalar-apps/). Recomendamos usar Flatpak en lugar de paquetes deb.
-
-### ¿Cuál es mejor, Flatpak o paquetes deb?
-Por su puesto, Flatpak. Puedes instalar y utilizar sin problemas. Las aplicaciones se actualizan de forma silenciosa y no interfieren con los componentes del sistema para mejor seguridad.
-
-Estará en la versión 15.5 del sistema operativo. Si quieres conocer este método de instalación visita [flatpak.org](http://flatpak.org/apps.html).
+### ¿Cómo reporto un error en Deepin?
+Siempre que estén disponibles en la tienda Deepin Store, reporta fallas gráficas, problemas de rendimiento o arranque a [Deepin Feedback]({{ site.url }}{{ site.baseurl }}/actividades/feedback) (también llamado Comentarios de Deepin).
 
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
 
-### ¿Cómo reporto un error en Deepin?
-Siempre que estén disponibles en la tienda Deepin Store, reporta fallas gráficas, problemas de rendimiento o arranque a [Deepin Feedback]({{ site.url }}{{ site.baseurl }}/actividades/feedback) (también llamado Comentarios de Deepin).
+## Instalación
+### ¿Puedo instalar aplicaciones sin necesidad de Deepin Store?
+Sí. En otra distribuciones, la forma más segura es usando la aplicación [Synaptic]({{ site.url }}{{ site.baseurl }}/apps/synaptic/) e instalando los paquetes que necesites desde sus repositorios.
+
+También puedes instalar desde sitios web. Antes de proceder a ese método, comprueba el [tipo de instalación]({{ site.url }}{{ site.baseurl }}/manual/instalar-apps/) o sigue leyendo.
+
+### ¿Qué es el aviso "conflicto de dependencias" y porque desaconsejamos instalar por paquetes deb?
+El "conflicto de dependencias" resulta tedioso para actualizar los controladores o instalar aplicaciones mediante paquetes de Debian. Ocurre al instalar dependencias que alteran el funcionamiento normal como los paquetes Mesa, Qt, códecs, entre otros.
+
+Para evitar ese tipo de problemas, sugerimos instalar y actualizar aplicaciones via [Deepin Store]({{ site.url }}{{ site.baseurl }}manual/instalar-apps/) o PPA.
+
+Fuente: [Manual de Debian](https://www.debian.org/doc/manuals/aptitude/ch02s03s02.es.html)
+
+<small markdown="1">[Ir al índice](#toc)</small>
+{: .text-right }
+
+### ¿Por qué recomendamos Flatpak o Snap?
+Puedes instalar y utilizar aplicaciones sin problemas. Sus componentes se actualizan de forma silenciosa y no interfieren con los componentes del sistema. Flatpak es desarrollado por la comunidad y Snap por Cannonical.
+
+Por su puesto, las aplicaciones originales están integradas bajo Flatpak. Disponibles desde la versión 15.5 del sistema operativo. Si quieres conocer este método de instalación visita [flatpak.org](http://flatpak.org/apps.html).
 
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
