@@ -157,9 +157,10 @@ En esta página te mostramos un catálogo amplio. Algunas de ellas [vienen inclu
     </tbody>
 </table>
 
-## Ingeniería espacial
+## Simuladores
+Nota: El listado no cuenta si la simulación es ultra-realista.
 <table>
-  <caption>🔖 Simulación espacial</caption>
+  <caption>🔖 Juegos de simulación</caption>
   <colgroup>
     <col span="1" style="width: 30%;">
     <col span="1" style="width: 70%;">
@@ -178,6 +179,10 @@ En esta página te mostramos un catálogo amplio. Algunas de ellas [vienen inclu
     <tr>
       <td>Espacio exterior</td>
       <td><a href="{{ site.url }}{{ site.baseurl }}/apps/celestia">Celestia</a>, Universe Sandbox 2 (de pago)</td>
+    </tr>
+    <tr>
+      <td>Civilización</td>
+      <td><a href="{{ site.url }}{{ site.baseurl }}/apps/freeciv">FreeCIV</a></td>
     </tr>
   </tbody>
 </table>
