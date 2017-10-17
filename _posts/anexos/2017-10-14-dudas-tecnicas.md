@@ -31,7 +31,7 @@ En esta página respondemos las dudas más profundas. Es un complemento a la pá
 {: .text-right }
 
 ## Preámbulo
-Queremos explicarte cómo funciona Deepin con las tres primras preguntas.
+Queremos explicarte cómo funciona Deepin con las tres primeras preguntas.
 ### ¿Qué es GNU? ¿En qué lenguaje está escrito?
 GNU es el primer paso y el pilar para el desarrollo del sistema operativo. Desarrollado Richard M. Stallman en 1983 busca adoptar tecnologías informáticas (hasta entonces dominaba Unix) y hacerlo accesible para los desarrolladores sin restricciones.
 
@@ -68,15 +68,19 @@ Si tienes problemas con el núcleo, visita [la página para cambiar el núcleo d
 {: .text-right }
 
 ### ¿Deepin es una copia de Debian?
-No.En la distribución madre Debian. Específicamente la rama Sid.
+No. Para que no te confundas Deepin es la distribución hija de Debian. Específicamente, Deepin consigue los paquetes de la rama Sid (Alfa).
 
 Hasta las versión 2014 estuvo basado en Ubuntu. En la versión 15.x se cambió a Debian para ganar estabilidad (
 [Muy Linux](http://www.muylinux.com/2015/12/31/deepin-15/)).
 
-### ¿Cómo se funciona el sistema de encendido y apagado en Deepin?
-Deepin tiene un programa de apagado llamado [systemd](https://en.wikipedia.org/wiki/Systemd). Este "demonio" permite comprobar los dispositivos activados durante su encendido. Así, indica que está funcionando y avisa si encuentra algún error.
+### ¿Qué demonios (alias, servicios del sistema o residentes) usa Deepin?
+Un "demonio" es una traducción de "Daemon" y, a la vez, las siglas de Disk And Execution MONitor.
+
+Deepin tiene un programa llamado [systemd](https://en.wikipedia.org/wiki/Systemd). Este conjunto de "demonios" permite comprobar los dispositivos activados durante su encendido. Así, indica que está funcionando y avisa si encuentra algún error.
 
 <img class="t60" src="{{ site.urlimg }}header_homepage_13.jpg" alt="Paisaje">
+
+Nota: Para otros demonios menores de la distro madre, visita [Demonios de Debian](https://wiki.debian.org/es/Daemon#Demonios_de_Debian)
 
 ### ¿Deepin se vela por tu seguridad? ¿Cómo podemos saberlo?
 Sí, cada uno a su manera. Los desarrolladores publican las actualizaciones [en su blog](https://www.deepin.org/en/security-update/). En Linux, el núcleo del sistema [está siendo auditado frecuentemente](https://lamiradadelreplicante.com/2017/09/01/agencia-alemana-de-ciberseguridad-el-generador-de-numeros-aleatorios-de-linux-es-seguro/). Además, el proyecto Debian [tiene una página web](https://www.debian.org/security/) para estar al tanto con los paquetes antes de ser distribuidos.
