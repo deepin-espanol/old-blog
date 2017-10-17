@@ -36,25 +36,43 @@ El terminal es un componente básico que funciona al iniciar el sistema operativ
 
 Una de las computadoras que aprovechó este componente fue el [Commondare 64](https://es.wikipedia.org/wiki/Commodore_64). Sin embargo, con la ya avanzada interfaz gráfica (GUI) de los años 2000, la terminal quedó en segundo plano para el usuario común.
 
+<small markdown="1">[Ir al índice](#toc)</small>
+{: .text-right }
+
 ### ¿Qué es un shell?
 Es el intérprete de comandos, una especie de programa que se ejecuta con órdenes. No confundir con las aplicaciones gráficas.
+
+<small markdown="1">[Ir al índice](#toc)</small>
+{: .text-right }
 
 ### ¿La terminal te hace inteligente?
 No. Algunas películas o producciones de ficción estereotiparon el uso de la terminal. Por ejemplo, [Jonny Lee Miller y Angelina Jolie en Hackers](https://en.wikipedia.org/wiki/Hackers_(film)).
 
+<small markdown="1">[Ir al índice](#toc)</small>
+{: .text-right }
+
 ### ¿Los comandos de la terminal son las mismas con las de Windows?
 No. Si has usado "Símbolo de sistema" en Windows, las órdenes tienen algunas diferencias. SI piensas dar una orden a una shell tendrás que escribir `help` para conocer el listado de órdenes de un shell.
+
+<small markdown="1">[Ir al índice](#toc)</small>
+{: .text-right }
 
 ### ¿Qué es sudo?
 Es una palabra para que el shell realice activiades del sistema. Se debe anteponer `sudo` antes de la frase:
 
 {% include alert terminal='sudo apt update' %}
 
-Algunas shell no pueden ejecutarse sin el sudo antepuesto. Sin embargo, debes tener cuidado al usarlas.
+Algunas shells no pueden ejecutarse sin el sudo antepuesto. Sin embargo, debes tener cuidado al usarlas.
+
+<small markdown="1">[Ir al índice](#toc)</small>
+{: .text-right }
 
 ## Seguimos creciendo
 
 No olvides que estamos en [en Github](https://github.com/comunidad-deepin/comunidad-deepin.github.io).
+
+<small markdown="1">[Ir al índice](#toc)</small>
+{: .text-right }
 
 {% include _improve_content.html %}
 

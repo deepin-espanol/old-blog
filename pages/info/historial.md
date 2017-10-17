@@ -45,7 +45,7 @@ Nota: Los cambios están enfocados en la página web y el material que estemos b
 :  Lanzada ["Tutopost"]({{ site.url }}/tutopost) para conocer mejor al proyecto Deepin en español.
 
 2017-08-10
-:  Añadido ["Dudas frecuentes"]({{ site.url }}/tecnico/dudas), antes "quejas", en la página web para pocos conocedores.
+:  Añadido ["Dudas frecuentes"]({{ site.url }}/dudas), antes "quejas", en la página web para pocos conocedores.
 
 2017-07-31
 :  Lanzamiento de Deepin en Español con 4 categorías, portada con selección de noticias y redes sociales.

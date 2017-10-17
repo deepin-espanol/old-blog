@@ -10,7 +10,7 @@ permalink: "/tips/"
 Estas son las páginas etiquetadas con "Destacado". Mayormente son soluciones más frecuentes o acciones en situaciones de riesgo.
 
 <ul>
-    {% for post in site.categories.tips %}
+    {% for post in site.tags.destacado %}
     <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
