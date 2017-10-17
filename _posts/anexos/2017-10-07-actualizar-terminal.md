@@ -1,21 +1,23 @@
 ---
 layout: page
-title:  "Actualizar desde la terminal"
-subheadline:  "Tips"
+title:  "Dudas al actualizar desde la terminal"
+subheadline:  "Anexo"
 teaser: "Un servicio para proveer contraseñas"
 categories:
-    - tips
+    - anexos
 tags:
     - terminal
+    - dudas
     - paquetes
     - dependencias
 
 ---
-En esta página te enseñamos a actualizar desde la terminal. Necesitas permisos de administrador para esos procedimientos.
+En esta página respondemos las dudas más comunes al actualizar Deepin desde la terminal. Es un complemento a la página [Dudas frecuentes]({{ site.url }}{{ site.baseurl }}/anexos/dudas/). Necesitas conocer un [poco sobre la terminal]]({{ site.url }}{{ site.baseurl }}/anexos/dudas-terminal/) y tener los permisos de administrador para esos procedimientos.
 
-Este sistema usa las "herramientas" debian package (dpkg) y aptitude (apt) para ese fín. Quizás no aplica a aplicacines independencies desarrollados bajo Flatpak/Snap.
+***Nota:*** Este sistema usa las "herramientas" debian package (dpkg) y aptitude (apt) para ese fín. Funciona mejor con paquetes de Debian que las aplicaciones Flatpak/Snap.
 
-## Pasos para actualizar
+## General
+### ¿Cómo actualizar desde la terminal?
 Desde la terminal, actualizamos los paquetes.
 ~~~
 sudo apt update
@@ -27,7 +29,7 @@ En este listado verás cuandos paquetes están listos. Continúa con los comando
 sudo apt upgrade && sudo apt full-upgrade
 ~~~
 
-## Revisar los paquetes gráficamente
+### ¿Cómo revisar los paquetes?
 Desde la terminal, podemos echar un vistazo los paquetes instalados. A diferencia del apt original, tiene un interfaz gráfico similar a los años 90.
 
 ~~~
@@ -36,8 +38,14 @@ sudo aptitude
 
 Debido a que no requiere la intervención del ratón, tienes que conocer los atajos de teclado (versión 0.8.6): ´q´ para retroceder o salir, ´u´ para actualizar , ´g´ para instalar o desinstalar y ´Control + T´ para ver el menú.
 
+<div class="row">
+    <div class="medium-12 columns t30">
+    <img src="{{ site.urlimg }}aptitude.png" alt="Aplicación Aptitude.">
+    </div><!-- /.medium-4.columns -->
+</div>
+
 ## Errores comunes
-#### Dependencias incompletas
+#### Veo el mensaje "Dependencias incompletas"
 Si hay problemas puedes revisar en la aplicación Synaptic o realizando comandos de comprobación e instalaciones paquetes:
 
 ~~~
@@ -46,23 +54,23 @@ sudo apt-get check
 sudo apt-get -f install
 ~~~
 
-#### Archivo protegido sources.list
-Eso se depe a que estas interfiriendo con las actualizaciones del centro de control. Reinicia el equipo.
+#### Dice que el archivo está sources.list protegido
+Eso se debe a que las actualizaciones centro de control están haciendo el trabajo de actualizar. Reinicia el equipo.
 
-#### Nueva configuración disponible
+#### Me aviso que hay una nueva configuración disponible
 Está expresada en oraciones como "El distribuidor del paquete ha publicado una version actualizada". Recomendamos aceptar los nuevos cambios (en general, escribir ´y´ y pulsar ´Enter´). Más detalles en [la sección Tips]({{ site.url }}{{ site.baseurl }}/tips/actualizar-conf-paquetes).
 
-#### Paquetes huérfanos
+#### Hay paquetes huérfanos
 Este comando sirve para eliminarlos.
 ~~~
 sudo apt autoremove
 ~~~
 
-<div class="row">
-    <div class="medium-12 columns t30">
-    <img src="{{ site.urlimg }}aptitude.png" alt="Aplicación Aptitude.">
-    </div><!-- /.medium-4.columns -->
-</div>
+#### No puedo instalar porque los paquetes están corruptos
+Este comando sirve para limpiar la caché.
+~~~
+sudo apt-get clean
+~~~
 
 ## Lectura adicional
 
