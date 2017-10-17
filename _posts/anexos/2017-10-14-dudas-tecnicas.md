@@ -30,31 +30,36 @@ En esta página respondemos las dudas más profundas. Es un complemento a la pá
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
 
-## Como distribución Linux
-### ¿Qué es GNU/Linux? ¿Porqué ambos?
-En realidad GNU es un proyecto desarrollado por Richard M. Stallman y fue el pilar para el desarrollo del sistema operativo. Anteriormente el señor Stallman desarollaba versiones propias hasta que...
+## Preámbulo
+Queremos explicarte cómo funciona Deepin con las tres primras preguntas.
+### ¿Qué es GNU? ¿En qué lenguaje está escrito?
+GNU es el primer paso y el pilar para el desarrollo del sistema operativo. Desarrollado Richard M. Stallman en 1983 busca adoptar tecnologías informáticas (hasta entonces dominaba Unix) y hacerlo accesible para los desarrolladores sin restricciones.
 
->Empezamos a desarrollar GNU en 1984, años antes de que Linus Torvalds comenzase a escribir su núcleo. Nuestro objetivo era desarrollar un sistema operativo libre completo. [...] Desarrollamos la mayoría de los componentes principales, conformando la contribución más grande de todo el sistema.
+Sin embargo, debido a que GNU necesitaba un núcleo para que comunique entre el software libre. En 1991 nació Linux por Linus Torvalds y un año después se formó GNU/Linux.
+
+Como dato adicional, GNU usa un [intérprete de código fuente a binario](https://www.gnu.org/software/libc/libc.html), por lo que está escrita en C inicialmente.
 
 Fuente: [FSF](https://www.gnu.org/gnu/gnu-linux-faq.es.html#why)
 
-### ¿En qué está basado Deepin?
-En la distribución madre Debian. Específicamente la rama Sid.
+### ¿Qué es Linux?
+Es el núcleo del sistema operativo y el más usado. Es el propio Linus Torvalds quien desarrolló y contiene millones de líneas de código como controladores de vídeo, de disco duro y muchas más.
+<div class="flex-video">
+        <iframe width="1280" height="720" src="//www.youtube.com/embed/UUJ0dFpj1-M" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="flex-video">
+        <iframe width="1280" height="720" src="//www.youtube.com/embed/o8NPllzkFhE" frameborder="0" allowfullscreen></iframe>
+</div>
 
-Hasta las versión 2014 estuvo basado en Ubuntu. En la versión 15.x se cambió a Debian para ganar estabilidad (
-[Muy Linux](http://www.muylinux.com/2015/12/31/deepin-15/)).
+### ¿Qué es Debian?
+[Debian GNU/Linux](https://es.wikipedia.org/wiki/Debian_GNU/Linux) es uno de los proyectos más vetaranos desde 1993. Es la que llamaremos "distribución", porque se encarga de distribuir, organizar y ejecutar una serie de herramientas de software, llamados "paquetes".
 
-### ¿Puedo usar Manjaro en lugar de Debian?
-Si tienes dificultades con la base Debian, prueba la versión Manjaro Deepin. [Revisa la página Instalación]({{ site.url }}/instalacion/). Recuerda que no está siendo desarrollado oficialmente, sino por la comunidad.
+<div class="flex-video">
+        <iframe width="1280" height="720" src="//www.youtube.com/embed/IS9WE6V-1lc" frameborder="0" allowfullscreen></iframe>
+</div>
 
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
-
-### ¿Cómo se funciona el sistema de encendido y apagado en Deepin?
-Deepin tiene un programa de apagado llamado [systemd](https://en.wikipedia.org/wiki/Systemd). Este "demonio" permite comprobar los dispositivos activados durante su encendido. Así, indica que está funcionando y avisa si encuentra algún error.
-
-### ¿Deepin usa un núcleo Linux puro o modificado?
-Modificado basado en una versión a largo plazo (LTS). Revisa el [código fuente]({{ site.url }}{{ site.baseurl }}/source) y las actividades que [puedes colaborar]({{ site.url }}{{ site.baseurl }}/actividades/kernel/).
+## Deepin a fondo
+### ¿Deepin usa el núcleo de Linux original?
+Sí. El núcleo está basado en una versión a largo plazo (LTS) y modificado por los desarrolladores. Revisa el [código fuente]({{ site.url }}{{ site.baseurl }}/source) y las actividades que [puedes colaborar]({{ site.url }}{{ site.baseurl }}/actividades/kernel/).
 
 Si tienes problemas con el núcleo, visita [la página para cambiar el núcleo de Linux]({{ site.url }}{{ site.baseurl }}/tips/kernel/).
 <img class="t60" src="{{ site.urlimg }}header_homepage_13.jpg" alt="Paisaje">
@@ -62,12 +67,30 @@ Si tienes problemas con el núcleo, visita [la página para cambiar el núcleo d
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
 
-### ¿Puedo conseguir un controlador de gráficos desarrollado por la empresa?
-Sí. Algunos paquetes para optimizar la tarjeta gráfica de NVidia, por ejemplo, está disponible por separado. Visita [está página para conocer los controladores exclusivos disponibles]({{ site.url }}/manual/videocard/).
+### ¿Deepin es una copia de Debian?
+No.En la distribución madre Debian. Específicamente la rama Sid.
+
+Hasta las versión 2014 estuvo basado en Ubuntu. En la versión 15.x se cambió a Debian para ganar estabilidad (
+[Muy Linux](http://www.muylinux.com/2015/12/31/deepin-15/)).
+
+### ¿Cómo se funciona el sistema de encendido y apagado en Deepin?
+Deepin tiene un programa de apagado llamado [systemd](https://en.wikipedia.org/wiki/Systemd). Este "demonio" permite comprobar los dispositivos activados durante su encendido. Así, indica que está funcionando y avisa si encuentra algún error.
 
 <img class="t60" src="{{ site.urlimg }}header_homepage_13.jpg" alt="Paisaje">
 
-## Cómo sistema operativo único
+### ¿Deepin se vela por tu seguridad? ¿Cómo podemos saberlo?
+Sí, cada uno a su manera. Los desarrolladores publican las actualizaciones [en su blog](https://www.deepin.org/en/security-update/). En Linux, el núcleo del sistema [está siendo auditado frecuentemente](https://lamiradadelreplicante.com/2017/09/01/agencia-alemana-de-ciberseguridad-el-generador-de-numeros-aleatorios-de-linux-es-seguro/). Además, el proyecto Debian [tiene una página web](https://www.debian.org/security/) para estar al tanto con los paquetes antes de ser distribuidos.
+
+## Deepin y la personalización
+### ¿Puedo usar Manjaro en lugar de Debian?
+Si tienes dificultades con la base Debian, prueba la versión Manjaro Deepin. [Revisa la página Instalación]({{ site.url }}/instalacion/). Recuerda que no está siendo desarrollado oficialmente, sino por la comunidad.
+
+<small markdown="1">[Ir al índice](#toc)</small>
+{: .text-right }
+
+### ¿Puedo conseguir un controlador de gráficos desarrollado por la empresa?
+Sí. Algunos paquetes para optimizar la tarjeta gráfica de NVidia, por ejemplo, está disponible por separado. Visita [está página para conocer los controladores exclusivos disponibles]({{ site.url }}/manual/videocard/).
+
 ### ¿Deepin es capaz de ejecutar videojuegos?
 Sí. Echa un vistazo en [Juegos para Deepin]({{ site.url }}{{ site.baseurl }}/games/). Lo puedes conseguir en la Deepin Store, Steam o con ayuda de [Crossover]({{ site.url }}{{ site.baseurl }}/apps/crossover/).
 
@@ -77,16 +100,6 @@ Adicionalmente tendrás que modificiar parte del código para optimizar el siste
         <iframe width="1280" height="720" src="//www.youtube.com/embed/CnSkR96iIpY" frameborder="0" allowfullscreen></iframe>
 </div>
 
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
-
-### ¿Deepin envía los datos guardados a desconocidos?
-No. El sistema operativo no envía datos a desconocidos. Al ser de [código abierto]({{ site.url }}{{ site.baseurl }}/source/), puedes comprobar por tu cuenta.
-
-Sin embargo, usamos plugins para facilitar el uso con los servicios de la nube. Por ejemplo: reconocer la letra de la canción gracias a Netease, comprobar actualizaciones, enviar el registro de error al Feedback de Deepin, etcétera.
-
-La mayoría de paquetes incluídos en Deepin son elaboradas junto a la comunidad de Debian. Pero, el resto de aplicaciones preinstaladas, en convenio con otras empresas, aplican otras condiciones de uso.
-
 Fuente: [Distros da China - Deepin espiona usuários?](https://www.youtube.com/watch?v=utW1J4hEJhI), [Deepin.org](https://web.archive.org/web/20170703051201/https://www.deepin.org/cooperative/netease-cloud-music/)
 
 <small markdown="1">[Ir al índice](#toc)</small>
@@ -94,9 +107,6 @@ Fuente: [Distros da China - Deepin espiona usuários?](https://www.youtube.com/w
 
 ### ¿Puedo cifrar la carpeta Mis documentos?
 Sí. Echa un vistazo [al tip]({{ site.url }}{{ site.baseurl }}/tips/cifrar-docs/). Por el momento, en Deepin 15.4 no tienes la opción de cifrar desde el centro de control.
-
-### ¿Cómo podemos saber las útlimas actualizaciones de seguridad?
-Cada actualización es [señalada en la página web](https://www.deepin.org/en/security-update/). El núcleo del sistema [está siendo auditado frecuentemente](https://lamiradadelreplicante.com/2017/09/01/agencia-alemana-de-ciberseguridad-el-generador-de-numeros-aleatorios-de-linux-es-seguro/).
 
 ## Seguimos creciendo
 

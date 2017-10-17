@@ -97,16 +97,8 @@ Esto incluye al entorno de escritorio y las aplicaciones originales. También in
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
 
-### ¿Linux también es software libre?
-Sí. Es el núcleo del sistema operativo y el más usado. Es el propio Linus Torvalds quien optó por esa desición.
-<div class="flex-video">
-        <iframe width="1280" height="720" src="//www.youtube.com/embed/UUJ0dFpj1-M" frameborder="0" allowfullscreen></iframe>
-</div>
-
-### ¿Y qué hay del resto del sistema operativo?
-Aparte de Linux, se desarrolló una especie de "base estándar" llamada GNU. Su aporte relevante es el [intérprete de código fuente a binario](https://www.gnu.org/software/libc/libc.html) en la década de 1980 y es usada por la mayoría de distribuciones como Deepin.
-
-GNU fue una respuesta al antes famoso Unix (que sirve de base para MacOS) desarrollado por un estudiante de tecnología, Richard M. Stallman. La adopción del núcleo Linux fue para accelerar su desarrollo (de ahí que también se conoce como "GNU/Linux").
+### ¿A quién o quienes debemos darles las gracias?
+A [GNU, Linux y Debian]({{ site.url }}{{ site.baseurl }}/anexos/dudas-tecnicas/). GNU fue una respuesta al antes famoso Unix (que sirve de base para MacOS) desarrollado por un estudiante de tecnología, Richard M. Stallman. La adopción del núcleo Linux fue para accelerar su desarrollo (de ahí que también se conoce como "GNU/Linux"). Debian, en cambio, es un proyecto que vela la organización del sistema operativo para que Deepin tenga lo último en productividad y seguridad.
 
 Fuente: [FSF](https://www.gnu.org/gnu/linux-and-gnu.es.html)
 
