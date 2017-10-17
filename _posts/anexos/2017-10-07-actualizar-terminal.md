@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: page-fullwidth
 title:  "Dudas al actualizar desde la terminal"
-subheadline:  "Anexo"
 teaser: "Un servicio para proveer contraseñas"
 categories:
     - anexos
