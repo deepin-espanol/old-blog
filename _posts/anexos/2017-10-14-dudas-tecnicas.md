@@ -73,7 +73,7 @@ No. Para que no te confundas Deepin es la distribución hija de Debian. Específ
 Hasta las versión 2014 estuvo basado en Ubuntu. En la versión 15.x se cambió a Debian para ganar estabilidad (
 [Muy Linux](http://www.muylinux.com/2015/12/31/deepin-15/)).
 
-### ¿Qué demonios (alias, servicios del sistema o residentes) usa Deepin?
+### ¿Qué servicios del sistema (alias, "demonios" o "residentes") usa Deepin?
 Un "demonio" es una traducción de "Daemon" y, a la vez, las siglas de Disk And Execution MONitor.
 
 Deepin tiene un programa llamado [systemd](https://en.wikipedia.org/wiki/Systemd). Este conjunto de "demonios" permite comprobar los dispositivos activados durante su encendido. Así, indica que está funcionando y avisa si encuentra algún error.
