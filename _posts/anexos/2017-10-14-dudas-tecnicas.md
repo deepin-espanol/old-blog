@@ -104,8 +104,6 @@ Adicionalmente tendrás que modificiar parte del código para optimizar el siste
         <iframe width="1280" height="720" src="//www.youtube.com/embed/CnSkR96iIpY" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Fuente: [Distros da China - Deepin espiona usuários?](https://www.youtube.com/watch?v=utW1J4hEJhI), [Deepin.org](https://web.archive.org/web/20170703051201/https://www.deepin.org/cooperative/netease-cloud-music/)
-
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
 
