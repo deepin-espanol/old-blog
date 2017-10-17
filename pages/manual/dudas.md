@@ -5,7 +5,7 @@ title: "Dudas frecuentes"
 subheadline: "La lista de dudas para todos los usuarios"
 header:
    image_fullwidth: "hot.jpg"
-permalink: "/tips/"
+permalink: "/dudas/"
 ---
 Está listado contiene páginas relacionadas con "Dudas". A diferencia de los tips, están estructuradas en preguntas y respuestas. Es similar a preguntas más frecuentes.
 
