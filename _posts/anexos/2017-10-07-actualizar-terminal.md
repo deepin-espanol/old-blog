@@ -78,11 +78,13 @@ sudo apt-get -f install
 
 #### Dice que el archivo está sources.list protegido
 Eso se debe a que las actualizaciones centro de control están haciendo el trabajo de actualizar. Reinicia el equipo.
+
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
 
 #### Me aviso que hay una nueva configuración disponible
 Está expresada en oraciones como "El distribuidor del paquete ha publicado una version actualizada". Recomendamos aceptar los nuevos cambios (en general, escribir ´y´ y pulsar ´Enter´). Más detalles en [la sección Tips]({{ site.url }}{{ site.baseurl }}/tips/actualizar-conf-paquetes).
+
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
 
@@ -91,6 +93,7 @@ Este comando sirve para eliminarlos.
 ~~~
 sudo apt autoremove
 ~~~
+
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
 
@@ -99,6 +102,7 @@ Este comando sirve para limpiar la caché.
 ~~~
 sudo apt-get clean
 ~~~
+
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
 
