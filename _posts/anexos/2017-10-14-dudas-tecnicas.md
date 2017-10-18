@@ -62,7 +62,9 @@ Es el núcleo del sistema operativo y el más usado. Es el propio Linus Torvalds
 Sí. El núcleo está basado en una versión a largo plazo (LTS) y modificado por los desarrolladores. Revisa el [código fuente]({{ site.url }}{{ site.baseurl }}/source) y las actividades que [puedes colaborar]({{ site.url }}{{ site.baseurl }}/actividades/kernel/).
 
 Si tienes problemas con el núcleo, visita [la página para cambiar el núcleo de Linux]({{ site.url }}{{ site.baseurl }}/tips/kernel/).
-<img class="t60" src="{{ site.urlimg }}header_homepage_13.jpg" alt="Paisaje">
+<img class="t60" src="{{ site.urlimg }}Esquema de un sistema GNU_Linux" alt="Esquema de Linux">
+
+Fuente: [Slideplayer](http://slideplayer.es/slide/106215/)
 
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }

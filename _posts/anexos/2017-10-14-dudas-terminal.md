@@ -67,6 +67,18 @@ Algunas shells no pueden ejecutarse sin el sudo antepuesto. Sin embargo, debes t
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
 
+## Ejemplos
+
+### Actualizar el equipo
+Del anexo [Actualizar con la terminal]({{ site.url }}{{ site.baseurl }}/anexos/actualizar-terminal/).
+
+{% include alert terminal='sudo apt update & sudo apt full-upgrade' %}
+
+### Mostrar detalles del sistema
+Primero necesitarás el shell ´inxi´ para ejecutar este comando:
+
+{% include alert terminal='sudo inxi -Fx %}
+
 ## Seguimos creciendo
 
 No olvides que estamos en [en Github](https://github.com/comunidad-deepin/comunidad-deepin.github.io).
