@@ -41,6 +41,9 @@ Como dato adicional, GNU usa un [intérprete de código fuente a binario](https:
 
 Fuente: [FSF](https://www.gnu.org/gnu/gnu-linux-faq.es.html#why)
 
+<small markdown="1">[Ir al índice](#toc)</small>
+{: .text-right }
+
 ### ¿Qué es Linux?
 Es el núcleo del sistema operativo y el más usado. Es el propio Linus Torvalds quien desarrolló y contiene millones de líneas de código como controladores de vídeo, de disco duro y muchas más.
 <div class="flex-video">
@@ -50,12 +53,18 @@ Es el núcleo del sistema operativo y el más usado. Es el propio Linus Torvalds
         <iframe width="1280" height="720" src="//www.youtube.com/embed/o8NPllzkFhE" frameborder="0" allowfullscreen></iframe>
 </div>
 
+<small markdown="1">[Ir al índice](#toc)</small>
+{: .text-right }
+
 ### ¿Qué es Debian?
 [Debian GNU/Linux](https://es.wikipedia.org/wiki/Debian_GNU/Linux) es uno de los proyectos más vetaranos desde 1993. Es la que llamaremos "distribución", porque se encarga de distribuir, organizar y ejecutar una serie de herramientas de software, llamados "paquetes".
 
 <div class="flex-video">
         <iframe width="1280" height="720" src="//www.youtube.com/embed/IS9WE6V-1lc" frameborder="0" allowfullscreen></iframe>
 </div>
+
+<small markdown="1">[Ir al índice](#toc)</small>
+{: .text-right }
 
 ## Deepin a fondo
 ### ¿Deepin usa el núcleo de Linux original?
@@ -75,17 +84,34 @@ No. Para que no te confundas Deepin es la distribución hija de Debian. Específ
 Hasta las versión 2014 estuvo basado en Ubuntu. En la versión 15.x se cambió a Debian para ganar estabilidad (
 [Muy Linux](http://www.muylinux.com/2015/12/31/deepin-15/)).
 
+<small markdown="1">[Ir al índice](#toc)</small>
+{: .text-right }
+
+### ¿Deepin tiene modo live?
+Sí. Este modo te resultará útil para reparar la partición o probar el sistema antes de instalar. En la versión 15.4 está disponible en la opción "failsafe".
+
+Fuente: [Gamblisfx](https://web.archive.org/web/20170606022618/http://gamblisfx.com/how-to-create-deepin-15-4-live-usb-from-linux/)
+
+<small markdown="1">[Ir al índice](#toc)</small>
+{: .text-right }
+
 ### ¿Qué servicios del sistema (alias, "demonios" o "residentes") usa Deepin?
 Un "demonio" es una traducción de "Daemon" y, a la vez, las siglas de Disk And Execution MONitor.
 
-Deepin tiene un programa llamado [systemd](https://en.wikipedia.org/wiki/Systemd). Este conjunto de "demonios" permite comprobar los dispositivos activados durante su encendido. Así, indica que está funcionando y avisa si encuentra algún error.
+Deepin tiene un programa llamado [systemd](https://en.wikipedia.org/wiki/Systemd) (demonio del sistema). Este componente, que es un conjunto de servicios, permite comprobar los dispositivos activados durante su encendido. Así, indica que está funcionando y avisa si encuentra algún error. Puedes configurarlo [con chkservice]({{ site.url }}/tips/cambiar-servicios-systemd/).
 
 <img class="t60" src="{{ site.urlimg }}header_homepage_13.jpg" alt="Paisaje">
 
-Nota: Para otros demonios menores de la distro madre, visita [Demonios de Debian](https://wiki.debian.org/es/Daemon#Demonios_de_Debian)
+Para crear servicios de systemd consulta [este artículo](https://www.redeszone.net/2017/09/02/crear-servicios-daemon-ubuntu-systemd/). Para otros demonios menores de la distro madre, visita [Demonios de Debian](https://wiki.debian.org/es/Daemon#Demonios_de_Debian).
+
+<small markdown="1">[Ir al índice](#toc)</small>
+{: .text-right }
 
 ### ¿Deepin se vela por tu seguridad? ¿Cómo podemos saberlo?
 Sí, cada uno a su manera. Los desarrolladores publican las actualizaciones [en su blog](https://www.deepin.org/en/security-update/). En Linux, el núcleo del sistema [está siendo auditado frecuentemente](https://lamiradadelreplicante.com/2017/09/01/agencia-alemana-de-ciberseguridad-el-generador-de-numeros-aleatorios-de-linux-es-seguro/). Además, el proyecto Debian [tiene una página web](https://www.debian.org/security/) para estar al tanto con los paquetes antes de ser distribuidos.
+
+<small markdown="1">[Ir al índice](#toc)</small>
+{: .text-right }
 
 ## Deepin y la personalización
 ### ¿Puedo usar Manjaro en lugar de Debian?
@@ -111,6 +137,9 @@ Adicionalmente tendrás que modificiar parte del código para optimizar el siste
 
 ### ¿Puedo cifrar la carpeta Mis documentos?
 Sí. Echa un vistazo [al tip]({{ site.url }}{{ site.baseurl }}/tips/cifrar-docs/). Por el momento, en Deepin 15.4 no tienes la opción de cifrar desde el centro de control.
+
+<small markdown="1">[Ir al índice](#toc)</small>
+{: .text-right }
 
 ## Seguimos creciendo
 

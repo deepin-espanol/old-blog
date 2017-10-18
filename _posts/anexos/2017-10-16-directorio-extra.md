@@ -26,7 +26,7 @@ tags:
 
 Está página es un directorio de comunidades afines a Deepin o Linux para el desarrollo de software.
 
-***Nota:*** Solo incluimos agrupos a fines de Deepin. Sin embargo, es posible que existan modificaciones sin previo aviso y cambios de otras comunidades que no está bajo nuestra responsabilidad.
+***Nota:*** Solo incluimos a grupos afines de Deepin. Sin embargo, es posible que existan cambios el anexo sin previo aviso. Visitar a otras comunidades no es responsabilidad de Deepin en Español.
 
 ## General
 ### Grupos sobre Arch

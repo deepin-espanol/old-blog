@@ -68,16 +68,23 @@ Algunas shells no pueden ejecutarse sin el sudo antepuesto. Sin embargo, debes t
 {: .text-right }
 
 ## Ejemplos
+Estos son algunos comandos que puedes descubrir. En estos casos, no necesitas escribir "sudo", o sea pedir permisos de administrador.
+
 
 ### Actualizar el equipo
 Del anexo [Actualizar con la terminal]({{ site.url }}{{ site.baseurl }}/anexos/actualizar-terminal/).
 
-{% include alert terminal='sudo apt update & sudo apt full-upgrade' %}
+{% include alert terminal='apt update' %}
 
 ### Mostrar detalles del sistema
-Primero necesitarás el shell ´inxi´ para ejecutar este comando:
+Para mostrar los detalles del equipo sin recurrir a otros programas necesitarás el shell ´inxi´ para ejecutar este comando:
 
-{% include alert terminal='sudo inxi -Fx %}
+{% include alert terminal='inxi -Fx' %}
+
+### Mostrar detalles del sistema
+Del shell `debian-goodies` podrás saber las 15 aplicaciones que más quitan espacio en el disco. Aquí usamos dos comandos, mostados con guión:
+
+{% include alert terminal='dpigs -n15 -H' %}
 
 ## Seguimos creciendo
 
