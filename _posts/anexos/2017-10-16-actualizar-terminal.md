@@ -44,8 +44,19 @@ sudo apt upgrade && sudo apt full-upgrade
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
 
-### ¿Cómo revisar los paquetes?
-Desde la terminal, podemos echar un vistazo los paquetes instalados. A diferencia del apt original, tiene un interfaz gráfico similar a los años 90.
+### ¿Qué paquetes voy a actualizar?
+Para comprobar los paquetes que irás a actualizar, escribe `apt list`. No requiere derechos de administrador.
+
+~~~
+apt list —upgradable
+~~~
+
+<small markdown="1">[Ir al índice](#toc)</small>
+{: .text-right }
+
+
+### ¿Cómo gestionar los paquetes?
+Si has realizado una actualización puedes comprobar a través del Shell Aptitude. Podemos echar un vistazo los paquetes instalados. A diferencia del apt original, tiene una interfaz gráfica similar a los años 90.
 
 ~~~
 sudo aptitude
