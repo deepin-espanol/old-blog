@@ -8,12 +8,12 @@ header:
 permalink: "/manual/"
 ---
 
-Está categoría contiene publicaciones del manual de usuario.
+Bienvenidos al manual.
 
-<ul>
-    {% for post in site.categories.manual %}
-    <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-</ul>
+## Primeros pasos
+
+Próximamente...
+
+Para ver el listado visita [Lista de manuales]({{ site.url }}/manual/lista/).
 
 Ir al [Archivo]({{ site.url }}/blog/archive/).

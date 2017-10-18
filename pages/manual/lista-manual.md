@@ -5,7 +5,7 @@ title: "El manual"
 subheadline: "Aprende a usar Deepin"
 header:
    image_fullwidth: "header_unsplash_5.jpg"
-permalink: "/manual/"
+permalink: "/manual/lista/"
 ---
 
 Está categoría contiene publicaciones del manual de usuario.
