@@ -88,34 +88,52 @@ Sí. Mira este ejemplo.
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
 
-## Casos prácticos
-### ¿Deepin es software libre?
-El software de Deepin sí y está bajo licencia GPL.
-
-Esto incluye al entorno de escritorio y las aplicaciones originales. También incluye a Linux y otros componentes desarrollados por terceros, con algunas excepciones.
-
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
-
-### ¿A quién o quienes debemos darles las gracias?
-A [GNU, Linux y Debian]({{ site.url }}{{ site.baseurl }}/anexos/dudas-tecnicas/). GNU fue una respuesta al antes famoso Unix (que sirve de base para MacOS) desarrollado por un estudiante de tecnología, Richard M. Stallman. La adopción del núcleo Linux fue para accelerar su desarrollo (de ahí que también se conoce como "GNU/Linux"). Debian, en cambio, es un proyecto que vela la organización del sistema operativo para que Deepin tenga lo último en productividad y seguridad.
-
-Fuente: [FSF](https://www.gnu.org/gnu/linux-and-gnu.es.html)
-
-### ¿Y de las aplicaciones no desarrollados por Deepin o la comunidad GNU/Linux?
-El software de Deepin sí y está bajo licencia GPL.
-
-Sin embargo, algunos componentes externos incluidos en Deepin son distribuidos de forma gratuita pero no permiten modificar su código. En el futuro, podrías reemplazar por otras más flexibles para que aprendas a usar Deepin editando su código.
-
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
-
-### ¿El software libre tiene colaboradores voluntarios?
+### ¿La comunidad puede mejorar el software libre?
 La mayoría de las veces. Las comunidades integran a voluntarios dedicados a mejorar el producto como correcciones de errores, características nuevas o integración en otros dispositivos. Nuestra comunidad es uno de ellos.
 
 Para que esto funcione es necesario definir los objetivos, ser viable y establecer conductas para no contaminarla.
 
 Lectura adicional: Blog [victorhckinthefreeworld](https://victorhckinthefreeworld.com/2014/06/02/linux-apesta-y-los-linuxeros-tambien/) y [FOSS-heartbeat](http://sarah.thesharps.us/2016/12/30/update-on-sentiment-analysis-of-foss-communities/)
+
+<small markdown="1">[Ir al índice](#toc)</small>
+{: .text-right }
+
+## Casos prácticos
+### ¿Deepin es software libre? ¿Tiene limitación de responsabilidad?
+El software de Deepin sí y está bajo licencia GPL, versión 3.
+
+Esto incluye al entorno de escritorio y las aplicaciones originales. También incluye a Linux y otros componentes desarrollados inicialmente para la distribución madre Debian, con algunas excepciones.
+
+Ten en cuenta que al usar software libre "se distribuye con la esperanza de que sea útil, pero SIN NINGUNA GARANTÍA, incluso sin la garantía MERCANTIL implícita o sin garantizar la CONVENIENCIA PARA UN PROPÓSITO PARTICULAR".
+
+<small markdown="1">[Ir al índice](#toc)</small>
+{: .text-right }
+
+### ¿A quién o quienes debemos darles las gracias?
+A [GNU, Linux y Debian]({{ site.url }}{{ site.baseurl }}/anexos/dudas-tecnicas/). GNU fue una respuesta al antes famoso Unix (que sirve de base para MacOS) desarrollado por un estudiante de tecnología, Richard M. Stallman.
+
+La adopción del núcleo Linux fue para accelerar su desarrollo (de ahí que también se conoce como "GNU/Linux"). Debian, en cambio, es un proyecto que vela la organización del sistema operativo para que Deepin tenga lo último en productividad y seguridad.
+
+Stall también aportó la Licencia Pública de GNU, una de las más estables en compartir contenido bajo la misma licencia. Para más información, visita [las preguntas frecuentes](https://www.gnu.org/licenses/gpl-faq.es.html).
+
+Fuente: [FSF](https://www.gnu.org/gnu/linux-and-gnu.es.html)
+
+<small markdown="1">[Ir al índice](#toc)</small>
+{: .text-right }
+
+### ¿Dónde puedo encontrar una copia de la licencia GPL?
+Desde el centro de Control, ir a "Información del sistema".
+
+<small markdown="1">[Ir al índice](#toc)</small>
+{: .text-right }
+
+### ¿Las aplicaciones de terceros gratuitas son también software libre?
+En general, el software desarrollado por terceros que no sea del sistema operativo Deepin o la comunidad GNU/Linux no está obligada a usar una licencia libre, incluso si distribuye de forma gratuira.
+
+Ten cuidado al instalar algunas aplicaciones no permiten modificar su código, dependerás del servicio técnico del propietario y tiende a ser de pago. En el futuro, podrías reemplazar por otras más flexibles para que aprendas a usar Deepin editando su código.
+
+<small markdown="1">[Ir al índice](#toc)</small>
+{: .text-right }
 
 ## Seguimos creciendo
 
