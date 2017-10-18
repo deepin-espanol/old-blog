@@ -1,7 +1,7 @@
 ---
 layout: page
 show_meta: false
-title: "El manual"
+title: "Lista de páginas relacionadas al manual"
 subheadline: "Aprende a usar Deepin"
 header:
    image_fullwidth: "header_unsplash_5.jpg"
