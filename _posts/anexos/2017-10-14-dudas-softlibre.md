@@ -99,8 +99,8 @@ Lectura adicional: Blog [victorhckinthefreeworld](https://victorhckinthefreeworl
 {: .text-right }
 
 ## Casos prácticos
-### ¿Deepin es software libre? ¿Tiene limitación de responsabilidad?
-El software de Deepin sí y está bajo licencia GPL, versión 3.
+### ¿Deepin es software libre? ¿Cuáles son sus excepciones?
+El software de Deepin sí y está bajo licencia GPL, versión 3. Incluyen las actualizaciones correspondientes a los repositorios.
 
 Esto incluye al entorno de escritorio y las aplicaciones originales. También incluye a Linux y otros componentes desarrollados inicialmente para la distribución madre Debian, con algunas excepciones.
 
@@ -109,8 +109,8 @@ Ten en cuenta que al usar software libre "se distribuye con la esperanza de que 
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
 
-### ¿A quién o quienes debemos darles las gracias?
-A [GNU, Linux y Debian]({{ site.url }}{{ site.baseurl }}/anexos/dudas-tecnicas/). GNU fue una respuesta al antes famoso Unix (que sirve de base para MacOS) desarrollado por un estudiante de tecnología, Richard M. Stallman.
+### ¿Cuáles son herramientas de software libres?
+Todo lo relacionado a [GNU, Linux y Debian]({{ site.url }}{{ site.baseurl }}/anexos/dudas-tecnicas/). GNU fue una respuesta al antes famoso Unix (que sirve de base para MacOS) desarrollado por un estudiante de tecnología, Richard M. Stallman.
 
 La adopción del núcleo Linux fue para accelerar su desarrollo (de ahí que también se conoce como "GNU/Linux"). Debian, en cambio, es un proyecto que vela la organización del sistema operativo para que Deepin tenga lo último en productividad y seguridad.
 
@@ -121,16 +121,18 @@ Fuente: [FSF](https://www.gnu.org/gnu/linux-and-gnu.es.html)
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
 
-### ¿Dónde puedo encontrar una copia de la licencia GPL?
-Desde el centro de Control, ir a "Información del sistema".
+### ¿Puedo distribuir la ISO o el repositorio? ¿Puedo añadir otros programas?
+En general, son software libre los componentes de Deepin (el sistema opearativo) y los componentes desarrollados por la comunidad GNU/Linux. Sin embargo, los terceros no están obligados a usar una licencia libre, incluso si distribuye de forma gratuira.
+
+Ten cuidado al distribuir la ISO o el respositorio, contiene algunas aplicaciones no permiten modificar su código, requieren de una acuerdo de usuario final y dependen de regalías. Las marcas registradas de Deepin y sus afiliados no permiten apoderase sin previo permiso.
+
+En el futuro, tendrás una aplicación para elaborar tu propia ISO y establecer tu catálogo sin temor a software restringido por derechos de autor. Además, si quieres realizar tu propio repositorio, puedes modificar en la ISO.
 
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
 
-### ¿Las aplicaciones de terceros gratuitas son también software libre?
-En general, el software desarrollado por terceros que no sea del sistema operativo Deepin o la comunidad GNU/Linux no está obligada a usar una licencia libre, incluso si distribuye de forma gratuira.
-
-Ten cuidado al instalar algunas aplicaciones no permiten modificar su código, dependerás del servicio técnico del propietario y tiende a ser de pago. En el futuro, podrías reemplazar por otras más flexibles para que aprendas a usar Deepin editando su código.
+### ¿Dónde puedo encontrar una copia de la licencia GPL?
+Desde el centro de Control, ir a "Información del sistema".
 
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
