@@ -25,6 +25,8 @@ Deepin Presentation Assistant es una aplicación que permite comunicar entre mó
 
 Para funcionar, necesitarás una conexión Wi-Fi estable, Deepin 15.4 y un móvil con Android 5.0 o superior o la última versión de iOS. Tanto la PC como el móvil deben estar conectados a la red local.
 
+{% include alert warning='Recuerda revisar estos requisitos en los ajustes del móvil antes de instalar.' %}
+
 ## Características
 
 Comparte archivos desde el móvil al PC, transfiere fotos y haz diapositivas. También puedes usar los botones de avance o no.
