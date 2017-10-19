@@ -73,7 +73,7 @@ No. Para que no te confundas Deepin es la distribución hija de Debian. Específ
 Hasta las versión 2014 estuvo basado en Ubuntu. En la versión 15.x se cambió a Debian para ganar estabilidad (
 [Muy Linux](http://www.muylinux.com/2015/12/31/deepin-15/)).
 
-Si tienes dificultades con la base Debian, prueba la versión Manjaro Deepin. [Revisa la página Instalación]({{ site.url }}/instalacion/). Recuerda que no está siendo desarrollado oficialmente, sino por la comunidad.
+Si tienes dificultades con la base Debian, prueba la versión Manjaro Deepin. [Revisa la página Instalación]({{ site.url }}{{ site.baseurl }}/instalacion/). Recuerda que no está siendo desarrollado oficialmente, sino por la comunidad.
 
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
@@ -83,7 +83,7 @@ Deepin usa paquetes de Debian (extensiones deb) para todo el sistema. Muchos paq
 
 Sin embargo, actualizar paquetes e instalar otros genera el "conflicto de dependencias". Resulta tedioso al actualizar los controladores o instalar aplicaciones mediante paquetes de Debian y molesto cuando se "rompe" el sistema operativo.
 
-Para evitar ese tipo de problemas, sugerimos instalar y actualizar aplicaciones via [Deepin Store]({{ site.url }}{{ site.baseurl }}manual/instalar-apps/), PPA (para las liberías optimizadas) o via Flatpak.
+Para evitar ese tipo de problemas, sugerimos instalar y actualizar aplicaciones via [Deepin Store]({{ site.url }}{{ site.baseurl }}/manual/instalar-apps/), PPA (para las liberías optimizadas) o via Flatpak.
 
 ***Volvemos a avistarte***: Si desinstalas paquetes relacionados a la libería Qt o al entorno de escritorio (cuyo prefijo es dde), podría quedar completamente inútil. Si te avisa que se reemplazará cualquiera de esos paquetes, ¡no lo hagas!
 
@@ -140,9 +140,6 @@ Fuente: [Gamblisfx](https://web.archive.org/web/20170606022618/http://gamblisfx.
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
 
-### ¿Puedo conseguir un controlador de gráficos desarrollado por la empresa?
-Sí. Algunos paquetes para optimizar la tarjeta gráfica de NVidia, por ejemplo, está disponible por separado. Visita [está página para conocer los controladores exclusivos disponibles]({{ site.url }}/manual/videocard/).
-
 ### ¿Puedo cifrar la carpeta Mis documentos?
 Sí. Echa un vistazo [al tip]({{ site.url }}{{ site.baseurl }}/tips/cifrar-docs/). Por el momento, en Deepin 15.4 no tienes la opción de cifrar desde el centro de control.
 
@@ -152,6 +149,12 @@ Sí. Echa un vistazo [al tip]({{ site.url }}{{ site.baseurl }}/tips/cifrar-docs/
 ## Aplicaciones
 ### ¿Puedo ejecutar aplicaciones pesadas?
 Si usas aplicaciones pesadas exclusivas de Microsoft Windows a Deepin, visita [Dudas sobre aplicaciones]({{ site.url }}{{ site.baseurl }}/anexos/dudas-aplicaciones/)
+
+<small markdown="1">[Ir al índice](#toc)</small>
+{: .text-right }
+
+### ¿Puedo conseguir una aplicación para que funcione el dispositivo?
+Sí. Echa un vistazo [al anexo]({{ site.url }}{{ site.baseurl }}/anexos/dudas-drivers/). Por defecto el núcleo Linux posee controladores para que funcionen los dispositivos (impresoras, tarjetas de vídeo, etcétera).
 
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }

@@ -50,7 +50,7 @@ En este listado verás cuandos paquetes están listos. Escribimos Upgrade es par
 sudo apt upgrade
 ~~~
 
-Una forma más sencilla de actualizar es escribir full-upgrade y añadir `-y` al final de la sentencia. Así realizarás la tarea en poco tiempo (revisa "Me avisó que hay una nueva configuración disponible" si quieres saber de que hablamos).
+Una forma más sencilla de actualizar es escribir full-upgrade y añadir `-y` al final de la sentencia. Ese últmino obliga a aceptar cualquier acción (`y` de `yes`), ahorrando tiempo (por ejemplo al aceptar cambios en la configuración, detalles en "Me avisó que hay una nueva configuración disponible").
 
 ~~~
 sudo apt full-upgrade -y
@@ -97,6 +97,8 @@ sudo apt-get update
 sudo apt-get check
 sudo apt-get -f install
 ~~~
+
+Si los problemas persisten, revisa [la sección Dudas técnicas]({{ site.url }}{{ site.baseurl }}/anexos/dudas-tecnicas#conflicto)
 
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
