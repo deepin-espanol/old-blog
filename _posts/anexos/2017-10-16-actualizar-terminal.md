@@ -38,7 +38,7 @@ sudo apt update && sudo apt full-upgrade -y
 
 Si quieres saber porqué escribir y pulsar "Enter", te explicamos en la siguiente pregunta.
 
-### Actualizar paso a paso
+### ¿Cómo actualizar paso a paso?
 Si te resulta difícil, te explicamos para que sirve [sacado de las dudas sobre la terminal]({{ site.url }}{{ site.baseurl }}/anexos/dudas-terminal/): Desde la terminal, actualizamos los paquetes.
 ~~~
 sudo apt update
