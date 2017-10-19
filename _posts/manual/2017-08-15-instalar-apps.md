@@ -41,9 +41,9 @@ Siempre haz un respaldo de tus documentos.
 
 ## Con instaladores Flatpak
 
-Instalar vía Flatpak es una forma más segura que deb. Desde Deepin 15.5, es posible instalar. Cuando es un programa Flatpak, no interfiere a los componentes del sistema, es compatible con cualquier distribución Linux y se actualizan a la última versión de forma independiente.
+Instalar vía Flatpak es una alternativa a los tradiciones deb, reduciendo las posibilidades de "dejar inoperativa al sistema operativo". Cuando es un programa Flatpak, utiliza sus propias liberías, reduciendo la dependencia con los componentes del sistema. Es compatible con cualquier distribución Linux y te permite actualizar a la última versión de forma independiente.
 
-Los archivos llevan la terminación .flatpak. Para la interfaz de usuario necesitarás que el sistema operativo soporte librerías KDE, GNOME o DTK.
+Desde Deepin 15.5, es posible instalar. Los archivos llevan la terminación .flatpak. Para la interfaz de usuario necesitarás que el sistema operativo soporte librerías KDE, GNOME o DTK.
 
 ## Otras formas
 
