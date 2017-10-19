@@ -62,16 +62,14 @@ Varios:
 El núcleo Linux o la aplicación correspondiente.
 
 ## Problemas con los controladores
-### ¿Puedo conseguir un controlador de gráficos desarrollado por la empresa?
+### ¿Es posible usar el controlador propietario de la tarjeta gráfica?
 Sí. Algunos paquetes para optimizar la tarjeta gráfica de NVidia, por ejemplo, está disponible por separado. Visita [está página para conocer los controladores exclusivos disponibles]({{ site.url }}/manual/videocard/).
 
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
 
-### ¿Qué hacer si tengo problemas al conectar a Internet?
-Revisa si estás conectado via cable o inalámbrica y revisa si el dispositivo está correctamente configurado.
-
-En raros casos, los controladores inalámbricos tienen problemas al conectarse. Por ejemplo, [este tip te sirve para encontrar una solución a la conectividad WiFi]({{ site.url }}/tips/wififix/).
+### ¿Cómo arreglar la tarjeta inalámbrica o Wifi?
+Por defecto, la conexión inalámbrica está actividada en Laptops y dispositivos tipo "rompe muros". Si tienes problemas, [este tip te sirve para encontrar una solución a la conectividad WiFi]({{ site.url }}/tips/wififix/).
 
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
