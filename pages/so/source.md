@@ -32,7 +32,7 @@ Siempre puedes [participar en su desarrollo]({{ site.url }}{{ site.baseurl }}/no
         <iframe width="1280" height="720" src="//www.youtube.com/embed/r8I-eJGL7O8" frameborder="0" allowfullscreen></iframe>
 </div>
 
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/source/">Ayúdanos a llegar a más dispositivos ›</a>
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/actividades/kernel/">Ayúdanos a llegar a más dispositivos ›</a>
 
 ## Depende de tí
 
@@ -41,6 +41,8 @@ Si bien Deepin puede ejecutar aplicaciones comerciales, algunos bajo [código ab
 Un buen sistema no trata de ser perfecta, sino busca ser auténtica (cara a cara con el usuario), organizada (evitando la fragmentación) y accesible. Siempre puedes dar tu comentario sin importar la experiencia que tengas en la computadora.
 
 Evita el cliché hacer un proyecto **solo para entusiastas** o generar conflicto sin sentido aparente. No generes frustación a los verdaderos desarrolladores, apóyalos y motívalos a hacer buenos productos.
+
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/anexo/dudas-tecnicas/">¿Tienes dudas sobre el sistema operativo? ›</a>
 
 {% include alert success='Quieres mejorar, ¡colabora con nosotros!' %}
 {% include _improve_content.html %}

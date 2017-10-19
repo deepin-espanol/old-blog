@@ -67,6 +67,37 @@ Es el núcleo del sistema operativo y el más usado. Es el propio Linus Torvalds
 {: .text-right }
 
 ## Deepin a fondo
+### ¿Deepin es una copia de Debian? ¿Puedo usar Manjaro en lugar de Debian?
+No. Para que no te confundas Deepin es la distribución hija de Debian. Específicamente, Deepin consigue los paquetes de la rama Sid (Alfa).
+
+Hasta las versión 2014 estuvo basado en Ubuntu. En la versión 15.x se cambió a Debian para ganar estabilidad (
+[Muy Linux](http://www.muylinux.com/2015/12/31/deepin-15/)).
+
+Si tienes dificultades con la base Debian, prueba la versión Manjaro Deepin. [Revisa la página Instalación]({{ site.url }}/instalacion/). Recuerda que no está siendo desarrollado oficialmente, sino por la comunidad.
+
+<small markdown="1">[Ir al índice](#toc)</small>
+{: .text-right }
+
+### ¿Cómo usa Deepin usa paquetes de Debian? ¿Por qué existe el "conflicto de dependencias"?
+Deepin usa paquetes de Debian (extensiones deb) para todo el sistema. Muchos paquetes están relacionados a los gráficos (Mesa), la libería gráfica (Qt), códecs, entre otros.
+
+Sin embargo, actualizar paquetes e instalar otros genera el "conflicto de dependencias". Resulta tedioso al actualizar los controladores o instalar aplicaciones mediante paquetes de Debian y molesto cuando se "rompe" el sistema operativo.
+
+Para evitar ese tipo de problemas, sugerimos instalar y actualizar aplicaciones via [Deepin Store]({{ site.url }}{{ site.baseurl }}manual/instalar-apps/), PPA (para las liberías optimizadas) o via Flatpak.
+
+Fuente: [Manual de Debian](https://www.debian.org/doc/manuals/aptitude/ch02s03s02.es.html)
+
+<small markdown="1">[Ir al índice](#toc)</small>
+{: .text-right }
+
+### ¿Por qué recomendamos que las aplicacione estén empacados a Flatpak o Snap?
+Puedes instalar y utilizar aplicaciones sin problemas. Sus componentes se actualizan de forma silenciosa y no interfieren con los componentes del sistema. Flatpak es desarrollado por la comunidad y Snap por Cannonical.
+
+Por su puesto, las aplicaciones originales están integradas bajo Flatpak por defecto. Disponibles desde la versión 15.5 del sistema operativo. Si quieres conocer este método de instalación visita [flatpak.org](http://flatpak.org/apps.html).
+
+<small markdown="1">[Ir al índice](#toc)</small>
+{: .text-right }
+
 ### ¿Deepin usa el núcleo de Linux original?
 Sí. El núcleo está basado en una versión a largo plazo (LTS) y modificado por los desarrolladores. Revisa el [código fuente]({{ site.url }}{{ site.baseurl }}/source) y las actividades que [puedes colaborar]({{ site.url }}{{ site.baseurl }}/actividades/kernel/).
 
@@ -78,25 +109,8 @@ Fuente: [Slideplayer](http://slideplayer.es/slide/106215/)
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
 
-### ¿Deepin es una copia de Debian?
-No. Para que no te confundas Deepin es la distribución hija de Debian. Específicamente, Deepin consigue los paquetes de la rama Sid (Alfa).
-
-Hasta las versión 2014 estuvo basado en Ubuntu. En la versión 15.x se cambió a Debian para ganar estabilidad (
-[Muy Linux](http://www.muylinux.com/2015/12/31/deepin-15/)).
-
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
-
-### ¿Deepin tiene modo live?
-Sí. Este modo te resultará útil para reparar la partición o probar el sistema antes de instalar. En la versión 15.4 está disponible en la opción "failsafe".
-
-Fuente: [Gamblisfx](https://web.archive.org/web/20170606022618/http://gamblisfx.com/how-to-create-deepin-15-4-live-usb-from-linux/)
-
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
-
 ### ¿Qué servicios del sistema (alias, "demonios" o "residentes") usa Deepin?
-Un "demonio" es una traducción de "Daemon" y, a la vez, las siglas de Disk And Execution MONitor.
+Un "demonio" es una traducción de "Daemon" y, a la vez, las siglas de Disk And Execution MONitor. Los demonios también tienen paquetes de Debian para actualizarse.
 
 Deepin tiene un programa llamado [systemd](https://en.wikipedia.org/wiki/Systemd) (demonio del sistema). Este componente, que es un conjunto de servicios, permite comprobar los dispositivos activados durante su encendido. Así, indica que está funcionando y avisa si encuentra algún error. Puedes configurarlo [con chkservice]({{ site.url }}/tips/cambiar-servicios-systemd/).
 
@@ -113,9 +127,11 @@ Sí, cada uno a su manera. Los desarrolladores publican las actualizaciones [en 
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
 
-## Deepin y la personalización
-### ¿Puedo usar Manjaro en lugar de Debian?
-Si tienes dificultades con la base Debian, prueba la versión Manjaro Deepin. [Revisa la página Instalación]({{ site.url }}/instalacion/). Recuerda que no está siendo desarrollado oficialmente, sino por la comunidad.
+## Deepin y cada usuario
+### ¿Deepin tiene modo live?
+Sí. Este modo te resultará útil para reparar la partición o probar el sistema antes de instalar. En la versión 15.4 está disponible en la opción "failsafe".
+
+Fuente: [Gamblisfx](https://web.archive.org/web/20170606022618/http://gamblisfx.com/how-to-create-deepin-15-4-live-usb-from-linux/)
 
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
@@ -123,20 +139,15 @@ Si tienes dificultades con la base Debian, prueba la versión Manjaro Deepin. [R
 ### ¿Puedo conseguir un controlador de gráficos desarrollado por la empresa?
 Sí. Algunos paquetes para optimizar la tarjeta gráfica de NVidia, por ejemplo, está disponible por separado. Visita [está página para conocer los controladores exclusivos disponibles]({{ site.url }}/manual/videocard/).
 
-### ¿Deepin es capaz de ejecutar videojuegos?
-Sí. Echa un vistazo en [Juegos para Deepin]({{ site.url }}{{ site.baseurl }}/games/). Lo puedes conseguir en la Deepin Store, Steam o con ayuda de [Crossover]({{ site.url }}{{ site.baseurl }}/apps/crossover/).
-
-Adicionalmente tendrás que modificiar parte del código para optimizar el sistema operativo, como este vídeo.
-
-<div class="flex-video">
-        <iframe width="1280" height="720" src="//www.youtube.com/embed/CnSkR96iIpY" frameborder="0" allowfullscreen></iframe>
-</div>
+### ¿Puedo cifrar la carpeta Mis documentos?
+Sí. Echa un vistazo [al tip]({{ site.url }}{{ site.baseurl }}/tips/cifrar-docs/). Por el momento, en Deepin 15.4 no tienes la opción de cifrar desde el centro de control.
 
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
 
-### ¿Puedo cifrar la carpeta Mis documentos?
-Sí. Echa un vistazo [al tip]({{ site.url }}{{ site.baseurl }}/tips/cifrar-docs/). Por el momento, en Deepin 15.4 no tienes la opción de cifrar desde el centro de control.
+## Aplicaciones
+### ¿Qué es Crossover?
+Visita
 
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
