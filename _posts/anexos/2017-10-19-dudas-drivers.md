@@ -74,6 +74,12 @@ Por defecto, la conexión inalámbrica está actividada en Laptops y dispositivo
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
 
+### ¿Qué es microcode?
+Microcode es un controlador de los microprocesadores de Intel.
+
+<small markdown="1">[Ir al índice](#toc)</small>
+{: .text-right }
+
 ## Seguimos creciendo
 
 No olvides que estamos en [en Github](https://github.com/comunidad-deepin/comunidad-deepin.github.io).
