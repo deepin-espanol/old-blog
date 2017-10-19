@@ -51,6 +51,7 @@ Adicionalmente tendrás que modificiar parte del código para optimizar el siste
 {: .text-right }
 
 ## Aplicaciones pesadas
+{% include alert info='Otros artículos de <em>Deepin en Español</em> lo encontarás en <a href="/apps/">la categoría Aplicaciones</a>' %}
 
 ### ¿Puedo instalar Photoshop?
 Hasta que Adobe se dedique a explorar otras formas, puedes usar la versión web de Photoshop o usar su versión para Android [Photoshop Fix](https://play.google.com/store/apps/details?id=com.adobe.adobephotoshopfix), requiere [Genymotion]({{ site.url }}{{ site.baseurl }}/apps/genymotion/) o [similares]({{ site.url }}{{ site.baseurl }}/anexos/guiapps/).
@@ -64,6 +65,16 @@ Hasta que Adobe se dedique a explorar otras formas, puedes usar la versión web 
 Hasta el 2017, no todas las versiones funcionan con éxito, las más recientes no permiten instalar. Visita [esta lista de alternativas]({{ site.url }}{{ site.baseurl }}/anexos/appsprofesion/)
 
 Fuente: [Wine](https://appdb.winehq.org/appview.php?iAppId=86), [Foro de AutoDesk](https://web.archive.org/web/20171014134437/https://forums.autodesk.com/t5/autocad-forum/autocad-support-for-linux-becoming-a-major-management-decision/td-p/3051192/page/10?nobounce), [Hipertextual](https://web.archive.org/web/20160603181746/http://hipertextual.com:80/2013/09/alternativas-libres-autocad)
+
+<small markdown="1">[Ir al índice](#toc)</small>
+{: .text-right }
+
+### ¿Puedo instalar Microsoft Office?
+Sí, solo para 2010 y 2013. Hasta octubre de 2016, las versiones de 32 bits funcionan moderadamente como base a Wine 2.3.
+
+Visita [esta lista de alternativas]({{ site.url }}{{ site.baseurl }}/anexos/appsprofesion/).
+
+Fuente: [Wine](https://appdb.winehq.org/objectManager.php?sClass=application&iId=31)
 
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }

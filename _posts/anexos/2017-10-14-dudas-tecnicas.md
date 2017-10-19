@@ -90,8 +90,10 @@ Fuente: [Manual de Debian](https://www.debian.org/doc/manuals/aptitude/ch02s03s0
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
 
-### ¿Por qué recomendamos que las aplicacione estén empacados a Flatpak o Snap?
-Puedes instalar y utilizar aplicaciones sin problemas. Sus componentes se actualizan de forma silenciosa y no interfieren con los componentes del sistema. Flatpak es desarrollado por la comunidad y Snap por Cannonical.
+### ¿Por qué recomendamos que las aplicaciones estén empaquetadas a Flatpak o Snap?
+Empaquetar a Flatpak permite a los desarrolladores tener las últimas mejoras de sus aplicaciones sin problemas. Sus componentes se actualizan de forma silenciosa y no interfieren con los componentes del sistema. Flatpak es desarrollado por la comunidad.
+
+Otra forma es Snap, por Cannonical, pero está enfocada en Ubuntu. Está opción es compatible con Deepin para evitar el problema de Dependencias.
 
 Por su puesto, las aplicaciones originales están integradas bajo Flatpak por defecto. Disponibles desde la versión 15.5 del sistema operativo. Si quieres conocer este método de instalación visita [flatpak.org](http://flatpak.org/apps.html).
 
@@ -146,8 +148,8 @@ Sí. Echa un vistazo [al tip]({{ site.url }}{{ site.baseurl }}/tips/cifrar-docs/
 {: .text-right }
 
 ## Aplicaciones
-### ¿Qué es Crossover?
-Visita
+### ¿Puedo ejecutar aplicaciones pesadas?
+Si usas aplicaciones pesadas exclusivas de Microsoft Windows a Deepin, visita [Dudas sobre aplicaciones]({{ site.url }}{{ site.baseurl }}/anexos/dudas-aplicaciones/)
 
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
