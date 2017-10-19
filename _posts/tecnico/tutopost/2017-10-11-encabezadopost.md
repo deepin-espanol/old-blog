@@ -9,7 +9,7 @@ categories:
     - tecnico
 breadcrumb: true
 show_meta: false
-header:+
+header:
    image_fullwidth: "edition.jpg"
 ---
 <div class="row">
