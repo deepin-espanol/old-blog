@@ -28,17 +28,32 @@ En esta página respondemos las dudas más comunes al actualizar Deepin desde la
 
 ***Nota:*** Este sistema usa las "herramientas" debian package (dpkg) y aptitude (apt) para ese fín. Funciona mejor con paquetes de Debian que las aplicaciones Flatpak/Snap.
 
+***Nota 2:*** Para evitar dañar al sistema operativo, si usas el repositorio de Debian debes hacerlo manualmente. Cuando quieras actualizar Deepin desactiva ese repositorio.
+
 ## General
-### ¿Cómo actualizar desde la terminal?
-Desde la terminal, actualizamos los paquetes.
+### ¿Cuál es el comando más sencillo para actualizar Deepin?
+~~~
+sudo apt update && sudo apt full-upgrade -y
+~~~
+
+Si quieres saber porqué escribir y pulsar "Enter", te explicamos en la siguiente pregunta.
+
+### Actualizar paso a paso
+Si te resulta difícil, te explicamos para que sirve [sacado de las dudas sobre la terminal]({{ site.url }}{{ site.baseurl }}/anexos/dudas-terminal/): Desde la terminal, actualizamos los paquetes.
 ~~~
 sudo apt update
 ~~~
 
-En este listado verás cuandos paquetes están listos. Continúa con los comandos de mejoras (upgrade para actualizaciones menores y full-updgrade para mayores).
+En este listado verás cuandos paquetes están listos. Escribimos Upgrade es para actualizaciones. Si no funciona reemplazamos a full-updgrade para mayores.
 
 ~~~
-sudo apt upgrade && sudo apt full-upgrade
+sudo apt upgrade
+~~~
+
+Una forma más sencilla de actualizar es escribir full-upgrade y añadir `-y` al final de la sentencia. Así realizarás la tarea en poco tiempo (revisa "Me avisó que hay una nueva configuración disponible" si quieres saber de que hablamos).
+
+~~~
+sudo apt full-upgrade -y
 ~~~
 
 <small markdown="1">[Ir al índice](#toc)</small>
@@ -92,7 +107,7 @@ Eso se debe a que las actualizaciones centro de control están haciendo el traba
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
 
-#### Me aviso que hay una nueva configuración disponible
+#### Me avisó que hay una nueva configuración disponible
 Está expresada en oraciones como "El distribuidor del paquete ha publicado una version actualizada". Recomendamos aceptar los nuevos cambios (en general, escribir ´y´ y pulsar ´Enter´). Más detalles en [la sección Tips]({{ site.url }}{{ site.baseurl }}/tips/actualizar-conf-paquetes).
 
 <small markdown="1">[Ir al índice](#toc)</small>
