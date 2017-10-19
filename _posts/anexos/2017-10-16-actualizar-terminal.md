@@ -24,7 +24,7 @@ tags:
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 {% include _improve_content.html %}
 
-En esta página respondemos las dudas más comunes al actualizar Deepin desde la terminal. Es un complemento a la página [Dudas frecuentes]({{ site.url }}{{ site.baseurl }}/anexos/dudas/). Necesitas conocer un [poco sobre la terminal]]({{ site.url }}{{ site.baseurl }}/anexos/dudas-terminal/) y tener los permisos de administrador para esos procedimientos.
+En esta página respondemos las dudas más comunes al actualizar Deepin desde la terminal. Es un complemento a la página [Dudas frecuentes]({{ site.url }}{{ site.baseurl }}/anexos/dudas/). Necesitas conocer un [poco sobre la terminal]({{ site.url }}{{ site.baseurl }}/anexos/dudas-terminal/) y tener los permisos de administrador para esos procedimientos.
 
 ***Nota:*** Este sistema usa las "herramientas" debian package (dpkg) y aptitude (apt) para ese fín. Funciona mejor con paquetes de Debian que las aplicaciones Flatpak/Snap.
 
