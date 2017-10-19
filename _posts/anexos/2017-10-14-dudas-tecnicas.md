@@ -78,12 +78,14 @@ Si tienes dificultades con la base Debian, prueba la versión Manjaro Deepin. [R
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
 
-### ¿Cómo usa Deepin usa paquetes de Debian? ¿Por qué existe el "conflicto de dependencias"?
+### ¿Cómo usa Deepin usa paquetes de Debian? ¿Por qué existe el "conflicto de dependencias"? {#conflicto}
 Deepin usa paquetes de Debian (extensiones deb) para todo el sistema. Muchos paquetes están relacionados a los gráficos (Mesa), la libería gráfica (Qt), códecs, entre otros.
 
 Sin embargo, actualizar paquetes e instalar otros genera el "conflicto de dependencias". Resulta tedioso al actualizar los controladores o instalar aplicaciones mediante paquetes de Debian y molesto cuando se "rompe" el sistema operativo.
 
 Para evitar ese tipo de problemas, sugerimos instalar y actualizar aplicaciones via [Deepin Store]({{ site.url }}{{ site.baseurl }}manual/instalar-apps/), PPA (para las liberías optimizadas) o via Flatpak.
+
+***Volvemos a avistarte***: Si desinstalas paquetes relacionados a la libería Qt o al entorno de escritorio (cuyo prefijo es dde), podría quedar completamente inútil. Si te avisa que se reemplazará cualquiera de esos paquetes, ¡no lo hagas!
 
 Fuente: [Manual de Debian](https://www.debian.org/doc/manuals/aptitude/ch02s03s02.es.html)
 
