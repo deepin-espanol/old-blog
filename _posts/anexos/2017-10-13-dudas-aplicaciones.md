@@ -74,7 +74,7 @@ Fuente: [Wine](https://appdb.winehq.org/appview.php?iAppId=86), [Foro de AutoDes
 ### ¿Puedo instalar Microsoft Office?
 Sí, solo para 2010 y 2013. Hasta octubre de 2016, las versiones de 32 bits funcionan moderadamente como base a Wine 2.3.
 
-Visita [esta lista de alternativas]({{ site.url }}{{ site.baseurl }}/anexos/appsprofesion/).
+De lo contrario, puedes usar una suite ofímatica [en la lista de aplicaciones]({{ site.url }}{{ site.baseurl }}/anexos/appsprofesion/).
 
 Fuente: [Wine](https://appdb.winehq.org/objectManager.php?sClass=application&iId=31)
 
