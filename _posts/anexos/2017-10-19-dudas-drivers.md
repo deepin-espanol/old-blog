@@ -61,7 +61,9 @@ Varios:
 {: .text-right }
 
 ### ¿Qué puede proveer el controlador?
-El núcleo Linux o la aplicación correspondiente.
+El núcleo Linux o la aplicación correspondiente. Ten en cuenta que los parches comunitarios vienen incluidos. Sin embargo, algunas distribuciones agregan binarios (blobs) que añaden parches de rendimiento por la empresa pero carecen de una auditoría comunitaria.
+
+Visita [esta página para conocer algunos aspectos del software libre]({{ site.url }}/anexos/dudas-softlibre/).
 
 ## Problemas con los controladores
 ### ¿Es posible usar el controlador propietario de la tarjeta gráfica?
@@ -76,8 +78,22 @@ Por defecto, la conexión inalámbrica está actividada en Laptops y dispositivo
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
 
-### ¿Qué es microcode?
-Microcode es un controlador de los microprocesadores de Intel.
+### ¿Existen parches para los microprocesadores?
+Microcode es un controlador que aplica parches de rendimiento a los microprocesadores. En general, existen parches para AMD e Intel.
+
+<small markdown="1">[Ir al índice](#toc)</small>
+{: .text-right }
+
+### ¿Existe un controlador para los equipos de sonido?
+En Deepin 15.4 se usa [ALSA](https://www.alsa-project.org/main/index.php/Main_Page) (acrónomo de "Advanced Linux Sound Architecture").
+
+<small markdown="1">[Ir al índice](#toc)</small>
+{: .text-right }
+
+## Recursos adicionales
+* [Lista de portales de consulta](https://www.linux-drivers.org/) por linux-drivers.
+* [Linux Hardware](https://linux-hardware.org/)
+* [h.node](https://h-node.org/home/index/es)
 
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
