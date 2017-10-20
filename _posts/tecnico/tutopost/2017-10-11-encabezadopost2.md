@@ -25,6 +25,10 @@ header:
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 {% include _improve_content.html %}
 
+{% include alert success='Esta página es un extracto de la serie de tutoriales, <a href="/tutopost">Tutopost</a>, para desarrollo en Jekyll' %}
+
+Este es un complemento del Encabezado de post.
+
 ## Formato de página o post   {#formats}
 
 *Deepin en español* usa el tema **Feeling Responsive* para realizar diferentes formatos en las página web. Esta sirve de guía, incluyendo una explicación más detallada.

@@ -22,9 +22,11 @@ header:
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 {% include alert text='Esta guía no te garantiza subir contenidos con normalidad y podría estar realizando cambios para la interfaz sin previo aviso.' %}
+{% include alert success='Esta página es un extracto de la serie de tutoriales, <a href="/tutopost">Tutopost</a>, para desarrollo en Jekyll' %}
 
 Esta guía sirve para aprovechar la web de Github en lugar de los clientes para PC. Aprovecha las capturas de pantalla para orientarte.
 
+## Pasos
 1. Abre la página ["Planilla del post"]({{ site.url }}/tecnico/plantillapost/) o uno de los archivos de la carpeta "draft".
 2. Copia el código a continuación
 3. Ahora dirígete a "_post" > "noticias

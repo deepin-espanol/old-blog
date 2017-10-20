@@ -32,7 +32,7 @@ El siguiente paso es [que más incluir al post]({{ site.url }}{{ site.baseurl }}
 Nota: Está página es un complemento de la ayuda ["Cómo crear un post desde Atom"]({{ site.url }}{{ site.baseurl }}/tecnico/crearpost/), mientras que los más avanzados se guiarán en [la página dedicada]({{ site.url }}{{ site.baseurl }}/tecnico/crearpost/).
 
 ## Estructura de un post
-Al crear un archivo 12-12-titulo.md, tendrás que presentar el título y otras partes para mostrar en la publicación (categorías y etiquetas).
+Al crear un archivo 12-12-titulo.md, tendrás que presentar el título y otras partes para mostrar en la publicación (categorías y etiquetas). Las carpetas y categorías lo encontarás en [la página dedicada]({{ site.url }}{{ site.baseurl }}/tecnico/folders/).
 
 ~~~
 ---
@@ -52,6 +52,8 @@ tags:
 # Estilo
 #
 ---
+{% include alert success='Esta página es un extracto de la serie de tutoriales, <a href="/tutopost">Tutopost</a>, para desarrollo en Jekyll' %}
+
 Cuerpo del texto
 ~~~
 

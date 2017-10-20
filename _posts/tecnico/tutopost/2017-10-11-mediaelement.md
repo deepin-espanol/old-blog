@@ -18,21 +18,21 @@ image:
     caption_url: https://blaz.photography/
 mediaplayer: true
 ---
-[mediaelement.js][1] is like magic. It's browser and device support is perfect. To activate the video or audio player just set the following variable in front matter to `true`.
+{% include alert success='Esta página es un extracto de la serie de tutoriales, <a href="/tutopost">Tutopost</a>, para desarrollo en Jekyll' %}
+
+[mediaelement.js][1] es para hacer magia. Su soporte es ideal para navegadores web. Para activar el reproductor de vídeo y audio tienes que añadir al encabezado y activarlo.
 
 ~~~
 mediaplayer: true
 ~~~
 
-To use the player just use some HTML5-magic like...
+Para incrustar la multimedia escribe el código HTML5...
 
 {% highlight html %}
 <audio src="http://path-to-file.com/music.mp3" type="audio/mp3" controls="controls"></audio>
 {% endhighlight %}
 
-All possible functions and how to use *mediaelement.js* is well-documented on the [players website][1].
-
-
+Todas las funciones y cómo hacer *mediaelement.js* está completamente documentada en [su sitio web][1].
 
 ## »Music From All Around The World«
 
@@ -50,7 +50,7 @@ All possible functions and how to use *mediaelement.js* is well-documented on th
 
 <audio src="http://archive.org/download/music_from_all_around_the_world/02._music_from_all_around_the_world_-_the_black_atlantic_-_dandelion.mp3" type="audio/mp3" controls="controls"></audio>
 
-[Download Compilation ›](https://archive.org/details/music_from_all_around_the_world)
+[Descargar compilación ›](https://archive.org/details/music_from_all_around_the_world)
 {: .t30 .button .radius}
 
 

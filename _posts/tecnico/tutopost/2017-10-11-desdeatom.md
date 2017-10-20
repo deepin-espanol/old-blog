@@ -26,6 +26,10 @@ header:
 
 Te mostramos en unos pasos que puedes hacer para perfeccionar este protal web. Necesitarás conocer un poco el funcionamiento y sentido común.
 
+{% include alert success='Esta página es un extracto de la serie de tutoriales, <a href="/tutopost">Tutopost</a>, para desarrollo en Jekyll' %}
+
+## Paso
+
 1. Instala ["Atom"]({{ site.url }}/apps/atom/) desde Deepin Store.
 2. Id a las preferencias (ubicado en el menúEditar)
 3. Id a Instalar "import"

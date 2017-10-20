@@ -23,7 +23,9 @@ header:
 </div><!-- /.medium-4.columns -->
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
-{% include alert text='Actualizado el 12 de octubre de 2017. Es posible que sufran algunos cambios para casos específicos.' %}
+{% include alert text='Actualizado el 19 de octubre de 2017. Es posible que sufran algunos cambios para casos específicos.' %}
+
+{% include alert success='Esta página es un extracto de la serie de tutoriales, <a href="/tutopost">Tutopost</a>, para desarrollo en Jekyll' %}
 
 ## Qué es git y Jekyll
 
@@ -55,6 +57,7 @@ Como no hay interfaz web, desde tu gestor de archivos en el lugar:
 
 * Las carpetas para páginas como " _drafts" para borradores, " _posts" para publicaciones en el blog y "pages" para páginas especiales; y
 * La carpeta para las imágenes como "images".
+* Más detalles en [la página "Carpetas"]({{ site.url }}{{ site.baseurl }}/tecnico/folders/).
 
 ### Borradores a post
 
