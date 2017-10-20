@@ -55,8 +55,8 @@ Adicionalmente tendrás que modificiar parte del código para optimizar el siste
 ## Aplicaciones pesadas
 {% include alert info='Otros artículos de <em>Deepin en Español</em> lo encontarás en <a href="/apps/">la categoría Aplicaciones</a>' %}
 
-### ¿Puedo instalar Photoshop?
-Hasta que Adobe se dedique a explorar otras formas, puedes usar la versión web de Photoshop o usar su versión para Android [Photoshop Fix](https://play.google.com/store/apps/details?id=com.adobe.adobephotoshopfix), requiere [Genymotion]({{ site.url }}{{ site.baseurl }}/apps/genymotion/) o [similares]({{ site.url }}{{ site.baseurl }}/anexos/guiapps/).
+### ¿Puedo instalar Creative Cloud?
+Sí. Se puede instalar vía [script desde PlayonLinux](http://www.omgubuntu.co.uk/2017/10/install-adobe-creative-cloud-linux). Si tienes problemas, puedes usar la versión web de Adobe Cloud o usar su versión para Android (por ejemplo, [Photoshop Fix](https://play.google.com/store/apps/details?id=com.adobe.adobephotoshopfix)), requiere [Genymotion]({{ site.url }}{{ site.baseurl }}/apps/genymotion/) o [similares]({{ site.url }}{{ site.baseurl }}/anexos/guiapps/).
 
 [Gimp]({{ site.url }}{{ site.baseurl }}/apps/gimp/), disponible en Deepin Store, tiene funcionalidades interesantes. Si lo usas, tienes la oportunidad de personalizar su interfaz.
 
