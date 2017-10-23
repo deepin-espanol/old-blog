@@ -64,3 +64,5 @@
     url: "/info/contacto/"
   - title: "Historial"
     url: "/changelog/"
+  - title: "D. frecuentes"
+    url: "/dudas/"
