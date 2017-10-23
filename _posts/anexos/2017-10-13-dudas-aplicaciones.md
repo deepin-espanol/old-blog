@@ -82,6 +82,7 @@ Fuente: [Wine](https://appdb.winehq.org/objectManager.php?sClass=application&iId
 {: .text-right }
 
 ## Seguimos creciendo
+Si aún no encuentras tu pregunta, usa el [Buscador]({{ site.url }}{{ site.baseurl }}/search/).
 
 No olvides que estamos en [en Github](https://github.com/comunidad-deepin/comunidad-deepin.github.io).
 

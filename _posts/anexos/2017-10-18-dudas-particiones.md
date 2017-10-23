@@ -87,6 +87,7 @@ En motivos que el sistema no arranca correctamente, debes revisar si algunas par
 En caso que no sepas qué partición reparar, sdXX viene a ser el número de partición, como sda1; en caso de otros discos duros reemplaza a hdXX. Por ejemplo, si la partición principal ("/") es sda1, ejecuta el comando `fsck /dev/sda1 -y`.
 
 ## Seguimos creciendo
+Si aún no encuentras tu pregunta, usa el [Buscador]({{ site.url }}{{ site.baseurl }}/search/).
 
 No olvides que estamos en [en Github](https://github.com/comunidad-deepin/comunidad-deepin.github.io).
 

@@ -162,6 +162,7 @@ Sí. Echa un vistazo [al anexo]({{ site.url }}{{ site.baseurl }}/anexos/dudas-dr
 {: .text-right }
 
 ## Seguimos creciendo
+Si aún no encuentras tu pregunta, usa el [Buscador]({{ site.url }}{{ site.baseurl }}/search/).
 
 No olvides que estamos en [en Github](https://github.com/comunidad-deepin/comunidad-deepin.github.io).
 

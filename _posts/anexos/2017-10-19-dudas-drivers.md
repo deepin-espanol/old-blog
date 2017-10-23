@@ -101,6 +101,7 @@ En Deepin 15.4 se usa [ALSA](https://www.alsa-project.org/main/index.php/Main_Pa
 {: .text-right }
 
 ## Seguimos creciendo
+Si aún no encuentras tu pregunta, usa el [Buscador]({{ site.url }}{{ site.baseurl }}/search/).
 
 No olvides que estamos en [en Github](https://github.com/comunidad-deepin/comunidad-deepin.github.io).
 

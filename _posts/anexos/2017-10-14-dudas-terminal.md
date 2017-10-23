@@ -100,6 +100,7 @@ De la página [Abrir archivos y montar unidades desde la terminal]({{ site.url }
 {% include alert terminal='man cd' %}
 
 ## Seguimos creciendo
+Si aún no encuentras tu pregunta, usa el [Buscador]({{ site.url }}{{ site.baseurl }}/search/).
 
 No olvides que estamos en [en Github](https://github.com/comunidad-deepin/comunidad-deepin.github.io).
 
