@@ -60,6 +60,11 @@ En esta página te mostramos un catálogo amplio. Algunas de ellas [vienen inclu
       <td>GIMP, Darktable, <a href="{{ site.url }}{{ site.baseurl }}/apps/krita">Krita</a>, Shotwell</td>
     </tr>
     <tr>
+      <td>Compresor de imágenes</td>
+      <td><a href="{{ site.url }}{{ site.baseurl }}/apps/imagineapp">Imagine</a></td>
+      </tr>
+    <tr>
+    <tr>
       <td>Editor de vídeo</td>
       <td><a href="{{ site.url }}{{ site.baseurl }}/apps/openshot">OpenShot</a>, <a href="{{ site.url }}{{ site.baseurl }}/apps/pitivi">Pitivi</a>, KDEnlive, Cinerrela</td>
       </tr>
@@ -153,6 +158,31 @@ En esta página te mostramos un catálogo amplio. Algunas de ellas [vienen inclu
     <tr>
       <td>Diseño de casas 3D</td>
       <td><a href="{{ site.url }}{{ site.baseurl }}/apps/freecad">Sweet Home</a></td>
+    </tr>
+    </tbody>
+</table>
+
+## Matemáticas
+<table>
+  <caption>🔖 Operaciones matemáticas</caption>
+  <colgroup>
+    <col span="1" style="width: 30%;">
+    <col span="1" style="width: 70%;">
+      </colgroup>
+  <thead>
+    <tr>
+      <th>Función</th>
+      <th>Aplicaciones</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Formato Latex</td>
+      <td>Lyx</td>
+    </tr>
+    <tr>
+      <td>Cálculos algebraicos</td>
+      <td>wxMáxima</td>
     </tr>
     </tbody>
 </table>
