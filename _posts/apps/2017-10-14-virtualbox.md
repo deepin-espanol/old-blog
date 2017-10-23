@@ -24,6 +24,6 @@ Recomendados hacer para realizar pruebas con programas que podrían alterar al s
 
 Está disponible en Deepin Store y el [sitio web](https://www.virtualbox.org/).
 
-Si tienes problema con el núcleo de virtualización, [extraímos una solución]({{ site.url }}{{ site.baseurl }}/anexos/dudas-terminal/).
+Si tienes problema con el núcleo de virtualización, [extraímos una solución]({{ site.url }}{{ site.baseurl }}/tips/fix-kernel-virtualbox/).
 
 Fuente: [PC Fácil Digital](https://www.youtube.com/channel/UCKPlk0uN5ydu5kH03CY9EVQ)
