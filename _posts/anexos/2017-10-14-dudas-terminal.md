@@ -60,11 +60,13 @@ No. Si has usado "Símbolo de sistema" en Windows, las órdenes tienen algunas d
 {: .text-right }
 
 ### ¿Qué es sudo?
-Es una palabra para que el shell realice activiades del sistema. Se debe anteponer `sudo` antes de la frase:
+Es un juego de palabras relacionadas a "Superuser Do". Permite ejecutar con superpermisos. Se debe anteponer `sudo` antes de la frase:
 
 {% include alert terminal='sudo apt update' %}
 
-Algunas shells no pueden ejecutarse sin el sudo antepuesto. Sin embargo, debes tener cuidado al usarlas.
+No estás obligado al ejecutar algunas shells para ver archivos, por ejemplo. Sin embargo, debes tener cuidado al realizar actividades críticas, como configurar el sistema operativo.
+
+Fuente: [Element2048](https://element2048.wordpress.com/2007/02/12/el-comando-su-sudo-y-root/)
 
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
