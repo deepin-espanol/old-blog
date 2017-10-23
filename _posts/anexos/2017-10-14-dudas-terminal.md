@@ -74,7 +74,6 @@ Fuente: [Element2048](https://element2048.wordpress.com/2007/02/12/el-comando-su
 ## Ejemplos
 Estos son algunos comandos que puedes descubrir. En estos casos, no necesitas escribir "sudo", o sea pedir permisos de administrador.
 
-
 ### Actualizar el equipo
 Del anexo [Actualizar con la terminal]({{ site.url }}{{ site.baseurl }}/anexos/actualizar-terminal/).
 
@@ -89,6 +88,16 @@ Para mostrar los detalles del equipo sin recurrir a otros programas necesitarás
 Del shell `debian-goodies` podrás saber las 15 aplicaciones que más quitan espacio en el disco. Aquí usamos dos comandos, mostados con guión:
 
 {% include alert terminal='dpigs -n15 -H' %}
+
+### Ver listado de archivos
+De la página [Abrir archivos y montar unidades desde la terminal]({{ site.url }}{{ site.baseurl }}/tips/archivos-terminal/). Un detalle, para subir o abrir una carpeta usamos `cd`.
+
+{% include alert terminal='ls -l' %}
+
+### Manual de tal shell
+¡Muy útil! Para conocer qué hace determinado shell usamos `man`. ¿Quieres saber como funciona y cuáles son sus posibilidades? Por ejemplo, para conocer `cd`, un alternativa temporal al gestor de archivos.
+
+{% include alert terminal='man cd' %}
 
 ## Seguimos creciendo
 
