@@ -51,6 +51,13 @@ Fuente: [Planeta Fedoraa](https://planetafedora.wordpress.com/acerca-de-particio
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
 
+### ¿Porqué usamos particiones EXT4?
+En Gnu/Linux usamos el sistema de archivos extendido o EXT, de código abierto y libre de patentes. Fue presentado en 1992 con la primera versión de Linux. Un año después se implementaría su segunda versión para usar en particiones con varios giga-octetos (GB) de almacenamiento.
+
+En 2008 se lanzaría la [versión 4](https://en.wikipedia.org/wiki/Ext4), abreviada EXT 4 con muchas mejoras. Theodore Ts'o es el encargado de desarrollar esa versión. Es estable, tiene menos posibilidad de fragmentarse, para particiones de hasta 16 terabytes y más de 4 mil millones de archivos cada uno.
+
+Lejos de los detalles técnicos, el EXT4 es recomendable para particiones del sistema, documentos y SWAP ya que son fáciles de reparar, son rápidos de leer y reciben mejoras de rendimiento junto al núcleo Linux.
+
 ### ¿Puedo hacer una copia de seguridad de un partición?
 Tienes dos opciones:
 * Usando Deepin Clone, desde la versión 15.5. Recomendado.
