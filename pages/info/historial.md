@@ -11,6 +11,9 @@ permalink: "/info/historial/"
 
 Nota: Los cambios están enfocados en la página web y el material que estemos brindando.
 
+2017-10-23
+: Añadido [página dedicada a los problemas de carga del sistema operativo]({{ site.url }}{{ site.baseurl }}anexos/badload/).
+
 2017-10-15
 : Dudas frecuentes ya es estable. Más de 40 preguntas disponibles para que cualquier usuario conozca Deepin desde cero. Aproximadamente 70 aplicaciones está disponibles para consultar en [Escenciales]({{ site.url }}{{ site.baseurl }}/escenciales).
 
