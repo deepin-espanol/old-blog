@@ -3,6 +3,7 @@ layout: page
 title:  "Arreglar los problemas con la configuración de paquetes"
 subheadline:  "Tips "
 teaser: "Arreglando tu equipo de la forma fácil"
+breadcrumb: true
 categories:
     - tips
 tags:

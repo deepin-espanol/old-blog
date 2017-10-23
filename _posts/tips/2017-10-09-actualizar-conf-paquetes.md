@@ -3,6 +3,7 @@ layout: page
 title:  "Conflcitos con la configuración en nuevos paquetes"
 subheadline:  "Tips "
 teaser: "Solucionando el problema de cambiar los paquetes actualizados"
+breadcrumb: true
 categories:
     - tips
 tags:

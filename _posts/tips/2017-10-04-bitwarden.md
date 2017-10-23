@@ -3,6 +3,7 @@ layout: page
 title:  "Bitwarden"
 subheadline:  "Tips"
 teaser: "Un servicio para proveer contraseñas"
+breadcrumb: true   
 categories:
     - tips
 tags:

@@ -6,6 +6,7 @@ layout: page
 subheadline: "Tip"
 title: "Accesos directo"
 teaser: "Cómo crear uno"
+breadcrumb: true   
 categories:
   - tips
 tags:

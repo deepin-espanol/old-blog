@@ -3,6 +3,7 @@ layout: page
 title:  "Instalar otros entornos de escritorio"
 subheadline:  "Tips "
 teaser: "Una referencia para probar otros entornos de escritorio en Deepin"
+breadcrumb: true
 categories:
     - tips
 tags:

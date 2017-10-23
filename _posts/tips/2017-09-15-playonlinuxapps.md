@@ -6,6 +6,7 @@ layout: page
 subheadline: "Tip"
 title: "Ejecutar juegos para Windows en PlayonLinux"
 teaser: "Para consultar y cambiar"
+breadcrumb: true   
 categories:
   - tips
 tags:

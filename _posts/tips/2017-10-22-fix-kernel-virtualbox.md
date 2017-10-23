@@ -3,6 +3,7 @@ layout: page
 title:  "Corregir problema del kernel de VirtualBox"
 subheadline:  "Tips "
 teaser: "Extaído del foro de Deepin"
+breadcrumb: true
 categories:
     - tips
 tags:

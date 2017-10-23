@@ -3,6 +3,7 @@ layout: page
 title:  "Cambiar idioma en WPS"
 subheadline:  "Tips "
 teaser: "Ofimática en español"
+breadcrumb: true
 categories:
     - tips
 tags:

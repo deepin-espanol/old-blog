@@ -3,6 +3,7 @@ layout: page
 title:  "Configurando systemd con chkservice"
 subheadline:  "Tips "
 teaser: "Establece los servicios del sistema a tu gusto"
+breadcrumb: true
 categories:
     - tips
 tags:

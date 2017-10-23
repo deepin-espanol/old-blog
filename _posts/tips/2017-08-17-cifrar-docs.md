@@ -6,6 +6,7 @@ layout: page
 subheadline: "Tip"
 title: "Cifrar mis documentos"
 teaser: "La forma más práctica"
+breadcrumb: true   
 categories:
   - tips
 tags:
