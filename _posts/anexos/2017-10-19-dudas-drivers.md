@@ -69,6 +69,8 @@ Visita [esta página para conocer algunos aspectos del software libre]({{ site.u
 ### ¿Es posible usar el controlador propietario de la tarjeta gráfica?
 Sí. Algunos paquetes para optimizar la tarjeta gráfica de NVidia, por ejemplo, está disponible por separado. Visita [está página para conocer los controladores exclusivos disponibles]({{ site.url }}/manual/videocard/).
 
+Si al instalar, no puedes iniciar Deepin, [vuelve a instalar Nouveau]({{ site.url }}/tips/badload-nvidia/).
+
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
 
