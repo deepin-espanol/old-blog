@@ -2,7 +2,7 @@
 layout: video
 title: "VirtualBox"
 subheadline: "Aplicaciones"
-teaser: "Diseñando CAD"
+teaser: "Virtualizando otros sistemas operativos"
 tags:
     - virtualizacion
     - emular
