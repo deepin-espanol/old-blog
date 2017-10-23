@@ -12,7 +12,7 @@ tags:
 ---
 Uno de los problemas al arrancar el equipo es iniciar con una pantalla vacía y pocos textos, es decir [en modo TTY]({{ site.url }}{{ site.baseurl }}/tips/tty/). Eso se debe a que no cargó el controlador.
 
-Si quieres saber más detalles sobre esté y más componentes en Deepin , visita [Dudas frecuentes]({{ site.url }}{{ site.baseurl }}/tips/dudas-tecnicas/).
+Si quieres saber más detalles sobre esté y más componentes en Deepin, visita [Dudas frecuentes]({{ site.url }}{{ site.baseurl }}/tips/dudas-tecnicas/).
 
 ## Pasos para retornar al driver libre Nouveau
 Primero. Hacemos una copia de seguridad con [cd]({{ site.url }}{{ site.baseurl }}/tips/archivos-terminal/). `sudo mv /etc/X11/xorg.conf /etc/X11/xorg.conf.BACKUP`.:
