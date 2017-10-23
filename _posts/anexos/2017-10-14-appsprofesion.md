@@ -112,7 +112,7 @@ En esta página te mostramos un catálogo amplio. Algunas de ellas [vienen inclu
     </tbody>
 </table>
 
-## Ingeniería de sistemas
+## Ingeniería de sistemas y de software
 <table>
   <caption>🔖 Herramientas del sistema</caption>
   <colgroup>
@@ -129,6 +129,30 @@ En esta página te mostramos un catálogo amplio. Algunas de ellas [vienen inclu
     <tr>
       <td>Terminal</td>
       <td><b>Deepin Terminal</b>, Terminator, Konsole, Tilix</td>
+    </tr>
+    </tbody>
+</table>
+
+<table>
+  <caption>🔖 IDE</caption>
+  <colgroup>
+    <col span="1" style="width: 30%;">
+    <col span="1" style="width: 70%;">
+      </colgroup>
+  <thead>
+    <tr>
+      <th>Función</th>
+      <th>Aplicaciones</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Desarrollo en Java</td>
+      <td>Eclipse, Netbean</td>
+    </tr>
+    <tr>
+      <td>Desarrollo de videojuegos</td>
+      <td>Godot, GDevelop</td>
     </tr>
     </tbody>
 </table>
