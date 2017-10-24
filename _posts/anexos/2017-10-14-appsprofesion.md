@@ -62,12 +62,11 @@ En esta página te mostramos un catálogo amplio. Algunas de ellas [vienen inclu
     <tr>
       <td>Compresor de imágenes</td>
       <td><a href="{{ site.url }}{{ site.baseurl }}/apps/imagineapp">Imagine</a></td>
-      </tr>
-    <tr>
+    </tr>
     <tr>
       <td>Editor de vídeo</td>
       <td><a href="{{ site.url }}{{ site.baseurl }}/apps/openshot">OpenShot</a>, <a href="{{ site.url }}{{ site.baseurl }}/apps/pitivi">Pitivi</a>, KDEnlive, Cinerrela</td>
-      </tr>
+    </tr>
     <tr>
       <td>Editor de música</td>
       <td><a href="{{ site.url }}{{ site.baseurl }}/apps/audacity">Audacity</a>, Ocenaudio</td>
