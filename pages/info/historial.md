@@ -45,17 +45,17 @@ Nota: Los cambios están enfocados en la página web y el material que estemos b
 :  Añadido ["Términos de uso"]({{ site.url }}{{ site.baseurl }}/info/tos) con explicaciones sobre los derechos y deberes.
 
 2017-08-17
-:  Lanzada ["Tutopost"]({{ site.url }}/tutopost) para conocer mejor al proyecto Deepin en español.
+:  Lanzada ["Tutopost"]({{ site.url }}{{ site.baseurl }}/tutopost) para conocer mejor al proyecto Deepin en español.
 
-2017-08-10
-:  Añadido ["Dudas frecuentes"]({{ site.url }}/dudas), antes "quejas", en la página web para pocos conocedores.
+2017-08-10a
+:  Añadido ["Dudas frecuentes"]({{ site.url }}{{ site.baseurl }}/dudas), antes "quejas", en la página web para pocos conocedores.
 
 2017-07-31
 :  Lanzamiento de Deepin en Español con 4 categorías, portada con selección de noticias y redes sociales.
 :  Anunciado Deepin 15.4.1.
 
 2017-07-22
-:  Primeros avances del proyecto Deepin en Español gracias a [Jeryll](http://jeryll.org). Una de ellas es el [blog]({{ site.url }}/blog/) y [la lista de archivos]({{ site.url }}/blog/archive/)
+:  Primeros avances del proyecto Deepin en Español gracias a [Jeryll](http://jeryll.org). Una de ellas es el [blog]({{ site.url }}{{ site.baseurl }}/blog/) y [la lista de archivos]({{ site.url }}/blog/archive/)
 
 2017-06-30
 :  Primera versión candidata de Deepin 15.4.1.
