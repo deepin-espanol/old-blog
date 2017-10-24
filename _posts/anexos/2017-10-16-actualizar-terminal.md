@@ -126,6 +126,16 @@ sudo apt autoremove
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
 
+#### Veo el mensaje "Sub-process /usr/bin/dpkg returned an error code(1)"
+Se debe a que la cola de instalaciones está en pausa, vulve a ejecutar:
+
+~~~
+sudo dpkg –configure -a
+~~~
+
+<small markdown="1">[Ir al índice](#toc)</small>
+{: .text-right }
+
 #### No puedo instalar porque los paquetes están corruptos
 Este comando sirve para limpiar la caché.
 ~~~
@@ -139,6 +149,7 @@ sudo apt-get clean
 * [Blog de jcsis](https://jcsis.wordpress.com/2016/04/28/solucionar-el-problemas-de-dependencias-en-ubuntu-o-debian/)
 * [ComputerWegne](https://computernewage.com/2015/02/22/como-instalar-aplicaciones-en-ubuntu-desde-la-terminal-con-apt-apt-get-y-aptitude/)
 * [Página en Debian](https://www.debian.org/doc/manuals/aptitude/ch01s02.es.html)
+* [comoinstlarlinux.com](https://www.comoinstalarlinux.com/como-solucionar-problemas-al-instalar-o-actualizar-paquetes-en-ubuntu-o-linux-mint/)
 
 ### Más en Tips
 {: .t60 }

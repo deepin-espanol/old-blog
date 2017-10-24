@@ -86,8 +86,8 @@ Microcode es un controlador que aplica parches de rendimiento a los microprocesa
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
 
-### ¿Existe un controlador para los equipos de sonido?
-En Deepin 15.4 se usa [ALSA](https://www.alsa-project.org/main/index.php/Main_Page) (acrónomo de "Advanced Linux Sound Architecture").
+### ¿Cómo arreglar el audio de Deepin?
+En Deepin 15.4 se usa [ALSA](https://www.alsa-project.org/main/index.php/Main_Page) (acrónomo de "Advanced Linux Sound Architecture"). Para solucionarlo, [tienes una página con varias opciones]({{ site.url }}/tips/fix-audio/).
 
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }

@@ -26,7 +26,7 @@ widget3:
   title: "Rec&iacute;proco"
   url: '/actividades/'
   image: widget-3-302x182.jpg
-  text: '<em>Nuestra comunidad</em> es atentida por humanos. No importa si has participado con anterioridad, son todos bienvenidos. ¿Quieres estar al día? <a href="/feed.xml">¡Suscríbete!</a> ¿Tienes alguna sugerencia? ¡Puedes <a href="/info/contacto/">contactar</a> con nuestro equipo!'
+  text: '<em>Nuestra comunidad</em> es atentida por humanos. No importa si has participado con anterioridad, son <a href="/actividades/">todos bienvenidos</a>. ¿Quieres estar al día? <a href="/feed.xml">¡Suscríbete!</a> ¿Tienes alguna sugerencia? ¡Puedes <a href="/info/contacto/">contactar</a> con nuestro equipo!'
 #
 # Use the call for action to show a button on the frontpage
 #
