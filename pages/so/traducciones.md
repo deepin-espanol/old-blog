@@ -12,9 +12,11 @@ permalink: "/traducciones/"
 
 Este listado de recomendaciones está relacionado a los títulos, palabras frecuentes y aproximaciones. Muchas veces usamos para la interfaz de Deepin, la página web o las marcas comerciales.
 
+Las reglas son sencillas: deben ser **fáciles de recordar**, evitar los modismos y tecnicismos, hablar de tú (no "vosear" ni tratar de "usted") y **simplificar la mayor cantidad de palabras posible**. Está enfocado al público hispanohablante (incluyendo Latinoamérica, España y otros países).
+
 ## Glosario {#glosario}
 ### Glosario básico {#basico}
-Palabras relaciondas para la interfaz y experiencia de uso.
+Palabras relacionadas a la interfaz y acciones frecuentes (llamado también "experiencia de uso").
 
 <table>
   <caption>Glosario</caption>
@@ -175,19 +177,28 @@ Palabras relaciondas para la interfaz y experiencia de uso.
 </table>
 
 ### Glosario enfocada a Deepin {#deepin}
+Uso de frases de foro y desarrollo de aplicaciones:
 * DDE, Deepin Desktop: Escritorio Deepin
 * DTK: Kit de desarrollo Deepin (interfaz propia, no confundir con GNOME o KDE)
 * deepin Security Updates: Actualizaciones de seguridad en Deepin
 * developer: Desarrollador(a)
+* issue: Tema (hilo del foro) o problema (para relacionar a fallo)
 
 ### Palabras ambiguas {#ambiguas}
-Palabras que **no se deben traducir** y los motivos.
-* Sudo, APT, help: comandos de la terminal)
+Palabras que **no se deben traducir** y los motivos (sean tecnicismos o relacionados a la terminal).
 * Administrator, Root: como administrador del sistema, no confundir con Rooting
 * alfa/beta/release: Implica las fases de desarrollo (pruebas)
 * CVE: siglas de [Common Vulnerabilities and Exposures](https://cve.mitre.org/)
 * Super: equivale a botón Windows o Inicio
 * ARM, AMD64: son las arquitecturas del equipo
+
+Palabras de la terminal:
+* Sudo: Superusuario hace
+* Shell: "Programa" de la terminal
+* APT: Contracción del shel aptitude
+* man o help: comandos de la terminal de apoyo
+* Prompt: caracter o conjunto de ellos que muestra el estado del usuario
+* Bash: en la terminal, shell intérpretador de órdenes
 
 ## Aplicaciones originales de Deepin {#originales}
 Esta lista define que nombre de aplicación debe traducirse oficialmente o conservarse por motivos de internacionalización.
