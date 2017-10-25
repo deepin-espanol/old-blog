@@ -4,8 +4,8 @@ layout: page
 # Content
 #
 subheadline: "Tip"
-title: "Accesos directo"
-teaser: "Cómo crear uno"
+title: "Accesos directos personalizados"
+teaser: "Cómo crear o modificar un acceso directo para tu aplicación"
 breadcrumb: true   
 categories:
   - tips

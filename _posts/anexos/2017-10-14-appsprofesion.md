@@ -77,7 +77,7 @@ En esta página te mostramos un catálogo amplio. Algunas de ellas [vienen inclu
     </tr>
     <tr>
       <td>Grabación de pantalla</td>
-      <td><b>Deepin Screenshot Recorder</b>, Green Recorder, vokoscreen y kazam</td>
+      <td><b>Deepin Screen Recorder</b>, <a href="{{ site.url }}{{ site.baseurl }}/apps/green-recorder">Green Recorder</a>, vokoscreen y kazam</td>
     </tr>
     <tr>
       <td>Codificación de vídeo</td>
@@ -246,5 +246,7 @@ Nota: El listado no cuenta si la simulación es ultra-realista.
 
 ## Notas
 Basada en una [publicación de MuyLinux](https://www.muylinux.com/2017/09/19/aplicaciones-por-defecto-ubuntu-18-04-2/). Las aplicaciones por defecto en Deepin 15.4.1 están indicadas en [Escenciales]({{ site.url }}{{ site.baseurl }}/escenciales/).
+
+Las aplicaciones mostradas son conservadas por empresas o desarrolladores independientes. Si quieres mejorar su producto, revisa la página web. No pretendemos escoger al servicio definitivo sino ayudar a seleccionar al más útil.
 
 Algunas aplicaciones incluidas en la ISO son por formar socios entre Wuhan Deepin y los desarrolladores.
