@@ -72,8 +72,12 @@ En esta página te mostramos un catálogo amplio. Algunas de ellas [vienen inclu
       <td><a href="{{ site.url }}{{ site.baseurl }}/apps/audacity">Audacity</a>, Ocenaudio</td>
     </tr>
     <tr>
-      <td>Grabación</td>
+      <td>Grabación en imagen real</td>
       <td><a href="{{ site.url }}{{ site.baseurl }}/apps/cheeseapp">Cheese</a></td>
+    </tr>
+    <tr>
+      <td>Grabación de pantalla</td>
+      <td><b>Deepin Screenshot Recorder</b>, Green Recorder, vokoscreen y kazam</td>
     </tr>
     <tr>
       <td>Codificación de vídeo</td>
