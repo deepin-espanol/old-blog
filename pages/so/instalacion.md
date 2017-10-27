@@ -36,23 +36,14 @@ Los equipos más recientes soportan más memoria RAM ya que son de 64 bits de ar
 Para los gráficos, consulta [la página "Tarjetas de vídeo"]({{ site.url }}{{ site.baseurl }}/manual/videocard/).
 
 ## Instalación
+### Simple y recomendada
 
-* Arranca desde el disco o USB;
-* Sigue las instrucciones;
-* Selecciona la partición para el sistema y el arranque;
-* La instalación demora unos minutos.
+1. Arranca desde el disco o USB: Si no puedes arrancar revisa los ajustes de la BIOS.
+2. Sigue las instrucciones: Cómo el idioma o la distribución del teclado.
+3. Selecciona la partición a instalar: Opcionalmente puedes establecer el arranque o
+4. La instalación demora unos minutos.
 
-### Instalación avanzada
-<div class="flex-video">
-        <iframe width="1280" height="720" src="//www.youtube.com/embed/A_VM9XSBaus" frameborder="0" allowfullscreen></iframe>
-</div>
-
-Para establecer las particiones del disco, realiza una instalación avanzada. Eso es útil para conservar **el sistema operativo vecino** como Windows. Las particiones que debes establecer lo explicamos:
-
-1. Añade una partición EXT4 con el arranque "/" para el sistema operativo. El mínimo es 10GB.
-2. Tienes dos formas de establecer el sistema arranque, en el disco duro o en una la partición EXT4 de 300MB "/boot" (para el dual boot).
-2. Otra partición "/home" para la carpeta de Mis documentos. Si establecer en un disco duro aparte de los componentes, mejor.
-
+### Otras formas de instalar
 Revisa las páginas <a href="{{ site.url }}{{ site.baseurl }}/anexos/dudas-particiones">Dudas frecuentes</a> para mayor información.
 
 Para complementar esta guía, sugerimos <a href="{{ site.url }}{{ site.baseurl }}/manual/dual-boot">la página Dual Boot</a> para conocer los riegos que conlleva al instalar junto a Windows. Si quieres ver otras formas de instalación recurre <a href="{{ site.url }}{{ site.baseurl }}/manual/modos-instalacion">a la página del manual</a>.
