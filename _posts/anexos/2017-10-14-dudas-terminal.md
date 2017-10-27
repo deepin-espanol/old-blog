@@ -44,11 +44,13 @@ Una de las computadoras que aprovechó este componente fue el [Commondare 64](ht
 ### ¿Qué es un shell?
 Es el intérprete de comandos, una especie de programa que se ejecuta con órdenes. No confundir con las aplicaciones gráficas.
 
+Algunos shells vienen integrados en Deepin, otros requieren ser instalados desde los respositorios, `sudo apt install [nombre del shell]`.
+
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
 
 ### ¿La terminal te hace inteligente?
-No. Algunas películas o producciones de ficción estereotiparon el uso de la terminal. Por ejemplo, [Jonny Lee Miller y Angelina Jolie en Hackers](https://en.wikipedia.org/wiki/Hackers_(film)).
+No, y deberíamos responderlo... Algunas películas o producciones de ficción estereotiparon el uso de la terminal. Por ejemplo, [Jonny Lee Miller y Angelina Jolie en Hackers](https://en.wikipedia.org/wiki/Hackers_(film)).
 
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
@@ -74,17 +76,17 @@ Fuente: [Element2048](https://element2048.wordpress.com/2007/02/12/el-comando-su
 ## Ejemplos
 Estos son algunos comandos que puedes descubrir. En estos casos, no necesitas escribir "sudo", o sea pedir permisos de administrador.
 
-### Actualizar el equipo
-Del anexo [Actualizar con la terminal]({{ site.url }}{{ site.baseurl }}/anexos/actualizar-terminal/).
+### Ver un tren corriendo
+LLámalo tu primer Hola mundo. Primero asegúrate tener instalado el paquete "sl" (`sudo apt install sl`) y realiza tu primera orden:
 
-{% include alert terminal='apt update' %}
+{% include alert terminal='sl' %}
 
 ### Mostrar detalles del sistema
 Para mostrar los detalles del equipo sin recurrir a otros programas necesitarás el shell ´inxi´ para ejecutar este comando:
 
 {% include alert terminal='inxi -Fx' %}
 
-### Mostrar detalles del sistema
+### Mostrar aplicaciones más pesadas
 Del shell `debian-goodies` podrás saber las 15 aplicaciones que más quitan espacio en el disco. Aquí usamos dos comandos, mostados con guión:
 
 {% include alert terminal='dpigs -n15 -H' %}
@@ -98,6 +100,11 @@ De la página [Abrir archivos y montar unidades desde la terminal]({{ site.url }
 ¡Muy útil! Para conocer qué hace determinado shell usamos `man`. ¿Quieres saber como funciona y cuáles son sus posibilidades? Por ejemplo, para conocer `cd`, un alternativa temporal al gestor de archivos.
 
 {% include alert terminal='man cd' %}
+
+### Actualizar el equipo
+Del anexo [Actualizar con la terminal]({{ site.url }}{{ site.baseurl }}/anexos/actualizar-terminal/).
+
+{% include alert terminal='apt update' %}
 
 ## Seguimos creciendo
 Si aún no encuentras tu pregunta, usa el [Buscador]({{ site.url }}{{ site.baseurl }}/search/).
