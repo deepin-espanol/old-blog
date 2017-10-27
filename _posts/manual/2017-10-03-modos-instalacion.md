@@ -42,7 +42,7 @@ Fuente: Salmorejo Geek
 
 ### Instalación junto a Windows
 
-Si te complica instalar Deepin con la instalación avanzada Deepin con la [aplicación para Microsoft Windows]{{ site.url }}{{ site.baseurl }}/apps/deepininstaller/).
+Si te complica instalar Deepin con la instalación avanzada Deepin con la [aplicación para Microsoft Windows]({{ site.url }}{{ site.baseurl }}/apps/deepininstaller/).
 
 ### Deepin en discos externos
 
