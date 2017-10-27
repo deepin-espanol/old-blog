@@ -34,18 +34,15 @@ La instalación avanzada ofrece un editor de particiones del disco. Eso es útil
 2. Tienes dos formas de establecer el sistema arranque, en el disco duro o en una la partición EXT4 de 300MB "/boot" (para el dual boot).
 2. Otra partición "/home" para la carpeta de Mis documentos. Si establecer en un disco duro aparte de los componentes, mejor.
 
-## Instalación junto a Windows
-
-Si te complica instalar Deepin con la instalación avanzada Deepin con la [aplicación para Microsoft Windows]{{ site.url }}{{ site.baseurl }}/apps/deepininstaller/).
-
-Un vídeo explicativo para instalar Deepin cortesía de Salmorejo Geek:
-<div class="flex-video">
-        <iframe width="1280" height="720" src="//www.youtube.com/embed/A_VM9XSBaus" frameborder="0" allowfullscreen></iframe>
-</div>
-Sobre la instalación en el disco duro:
 <div class="flex-video">
         <iframe width="1280" height="720" src="//www.youtube.com/embed/-oswVXK8Vs0" frameborder="0" allowfullscreen></iframe>
 </div>
+
+Fuente: Salmorejo Geek
+
+### Instalación junto a Windows
+
+Si te complica instalar Deepin con la instalación avanzada Deepin con la [aplicación para Microsoft Windows]{{ site.url }}{{ site.baseurl }}/apps/deepininstaller/).
 
 ### Deepin en discos externos
 

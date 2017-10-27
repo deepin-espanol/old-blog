@@ -44,9 +44,10 @@ Para los gráficos, consulta [la página "Tarjetas de vídeo"]({{ site.url }}{{ 
 4. La instalación demora unos minutos.
 
 ### Otras formas de instalar
-Revisa las páginas <a href="{{ site.url }}{{ site.baseurl }}/anexos/dudas-particiones">Dudas frecuentes</a> para mayor información.
-
-Para complementar esta guía, sugerimos <a href="{{ site.url }}{{ site.baseurl }}/manual/dual-boot">la página Dual Boot</a> para conocer los riegos que conlleva al instalar junto a Windows. Si quieres ver otras formas de instalación recurre <a href="{{ site.url }}{{ site.baseurl }}/manual/modos-instalacion">a la página del manual</a>.
+Tenemos otras posibilidades de instalar Deepin:
+- Si quieres ver otras formas de instalación recurre <a href="{{ site.url }}{{ site.baseurl }}/manual/modos-instalacion">a la página del manual</a>.
+- Para complementar esta guía, sugerimos <a href="{{ site.url }}{{ site.baseurl }}/manual/dual-boot">la página Dual Boot</a> para conocer los riegos que conlleva al instalar junto a Windows.
+- <a href="{{ site.url }}{{ site.baseurl }}/anexos/dudas-particiones">Dudas frecuentes sobre particiones</a>.
 
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/update/">Continúa con las actualizaciones ›</a>
 
