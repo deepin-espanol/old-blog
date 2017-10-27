@@ -48,7 +48,7 @@ Hay que considerar que algunos editores de texto usan un entorno de desarrollo i
 </table>
 
 <table>
-  <caption>🔖 Aplicaciones por tipo de IDE</caption>
+  <caption>🔖 Entornos de desarrollos multiplataforma por tipo de lenguaje</caption>
   <colgroup>
     <col span="1" style="width: 30%;">
     <col span="1" style="width: 70%;">
@@ -65,10 +65,6 @@ Hay que considerar que algunos editores de texto usan un entorno de desarrollo i
       <td>PhpStorm</td>
     </tr>
     <tr>
-      <td>Android</td>
-      <td>Android Studio, Eclipse</td>
-    </tr>
-    <tr>
       <td>Java</td>
       <td>IntellJ</td>
     </tr>
@@ -77,16 +73,44 @@ Hay que considerar que algunos editores de texto usan un entorno de desarrollo i
       <td>PyCham, Spider</td>
     </tr>
     <tr>
-      <td>Qt/DEE</td>
-      <td>Qtcreator</td>
-    </tr>
-    <tr>
       <td>JavaScript</td>
       <td>WebStorm</td>
     </tr>
     <tr>
       <td>C/C++</td>
       <td>Cillon</td>
+    </tr>
+    <tr>
+      <td>Java</td>
+      <td>Eclipse, Netbean</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <caption>🔖 Entorno de desarrollo especiales</caption>
+  <colgroup>
+    <col span="1" style="width: 30%;">
+    <col span="1" style="width: 70%;">
+      </colgroup>
+  <thead>
+    <tr>
+      <th>Función</th>
+      <th>Aplicaciones</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Android</td>
+      <td>Android Studio, Eclipse</td>
+    </tr>
+    <tr>
+      <td>Qt/DEE</td>
+      <td>Qtcreator</td>
+    </tr>
+    <tr>
+      <td>Desarrollo de videojuegos</td>
+      <td>Godot, GDevelop</td>
     </tr>
   </tbody>
 </table>

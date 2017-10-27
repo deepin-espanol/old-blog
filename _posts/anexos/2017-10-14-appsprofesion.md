@@ -136,29 +136,9 @@ En esta página te mostramos un catálogo amplio. Algunas de ellas [vienen inclu
     </tbody>
 </table>
 
-<table>
-  <caption>🔖 IDE</caption>
-  <colgroup>
-    <col span="1" style="width: 30%;">
-    <col span="1" style="width: 70%;">
-      </colgroup>
-  <thead>
-    <tr>
-      <th>Función</th>
-      <th>Aplicaciones</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Desarrollo en Java</td>
-      <td>Eclipse, Netbean</td>
-    </tr>
-    <tr>
-      <td>Desarrollo de videojuegos</td>
-      <td>Godot, GDevelop</td>
-    </tr>
-    </tbody>
-</table>
+### Entornos de desarrollo
+
+Ver **[Aplicaciones de desarrollo]({{ site.url }}{{ site.baseurl }}/anexos/appsdesarrollo/)**.
 
 ## Ingeniería civil
 <table>
