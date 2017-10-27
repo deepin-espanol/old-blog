@@ -49,11 +49,11 @@ Para listas de aplicaciones centradas en tareas específicas, visita la lista [G
     <tr>
       <td>Visor de imágenes</td>
       <td><b>Visor de imágenes Deepin</b>, Shotwell, Eye of GNOME, Gwenview, gThumb</td>
-      </tr>
-      <tr>
+    </tr>
+    <tr>
       <td>Editor de imágenes</td>
       <td><b>Deepin Paint</b>, GIMP, Krita</td>
-      </tr>
+    </tr>
     <tr>
       <td>Reproductor de vídeo</td>
       <td><b>Deepin Movies</b>, VLC, MPV, SMPlayer</td>
@@ -87,7 +87,7 @@ Para listas de aplicaciones centradas en tareas específicas, visita la lista [G
       <td><b>System Config Printer (Canonical)</b></td>
     </tr>
     <tr>
-      <td>Escáner/td>
+      <td>Escáner</td>
       <td>Simple Scan</td>
     </tr>
   </tbody>
