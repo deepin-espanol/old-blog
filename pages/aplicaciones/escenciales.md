@@ -82,6 +82,14 @@ Para listas de aplicaciones centradas en tareas específicas, visita la lista [G
       <td>Plataforma de juegos</td>
       <td><b><a href="{{ site.url }}{{ site.baseurl }}/apps/steam">Steam</a></b>, GOG.com</td>
     </tr>
+    <tr>
+      <td>Configuración de impresora</td>
+      <td><b>System Config Printer (Canonical)</b></td>
+    </tr>
+    <tr>
+      <td>Escáner/td>
+      <td>Simple Scan</td>
+    </tr>
   </tbody>
 </table>
 
