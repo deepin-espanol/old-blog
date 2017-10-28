@@ -27,7 +27,6 @@ Hay varias maneras de descargar, además del [oficial](https://www.deepin.org/en
 
 <div class="row t60">
     <div class="medium-6 columns b30">
-      <div class="row">
       <ul>
         <li><a href="https://sourceforge.net/projects/deepin/">En SourceForge</a>;</li>
         <li><a href="http://mirrors.kernel.org/deepin-cd/">Kernel.org</a>;</li>
@@ -46,7 +45,6 @@ Hay varias maneras de descargar, además del [oficial](https://www.deepin.org/en
       Para descargar vía torrent es necesario un cliente compatible y comprobar la mayor cantidad de semillas, clientes encargadas de distribuir los archivos hacia otros clientes.
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
-</div>
 
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/manual/sabores/">¿Quieres usar otro sistema con Deepin preinstalado? Revisa la página "Sabores"›</a>
 
