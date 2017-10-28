@@ -42,7 +42,9 @@ Un buen sistema no trata de ser perfecta, sino busca ser auténtica (cara a cara
 
 Evita el cliché hacer un proyecto **solo para entusiastas** o generar conflicto sin sentido aparente. No generes frustación a los verdaderos desarrolladores, apóyalos y motívalos a hacer buenos productos.
 
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/anexo/dudas-tecnicas/">¿Tienes dudas sobre el sistema operativo? ›</a>
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/anexo/dudas-softlibre/">¿Tienes dudas sobre el software libre? ›</a>
+
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/anexo/dudas-tecnicas/">¿Quieres conocer más sobre el sistema operativo? ›</a>
 
 {% include alert success='Quieres mejorar, ¡colabora con nosotros!' %}
 {% include _improve_content.html %}
