@@ -42,12 +42,9 @@ Nuestro grupo participa en <a href="{{ site.url }}/actividades/">una serie de ac
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-8 columns b30">
-      Somos un grupo pequeño formado por voluntarios en varios países. El proyecto fue creado a mediados de 2016 como pasatiempo, sin saber el potencial que estamos llegando.
-
-      Como Deepin es una distribución Linux, contiene una serie de componentes desarrollados bajo una filosofía de software libre. Algo como un estilo de libre menos atado, en cooperación y en constante cambio.
-
-      >Para promover el apoyo entre empresas, desarrolladores y usuario, evitando la obsolescencia programada, la piratería y la incorporación de software malintencionado.
-
+      Somos un grupo pequeño formado por voluntarios en varios países. El proyecto fue creado a mediados de 2016 como pasatiempo, sin saber el potencial que estamos llegando.<br/>
+      Como Deepin es una distribución Linux, contiene una serie de componentes desarrollados bajo una filosofía de software libre. Algo como un estilo de libre menos atado, en cooperación y en constante cambio.<br/>
+      <cite>Para promover el apoyo entre empresas, desarrolladores y usuario, evitando la obsolescencia programada, la piratería y la incorporación de software malintencionado.</cite><br/>
       <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/dudas-softlibre/">Dudas sobre el software libre ›</a>
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
