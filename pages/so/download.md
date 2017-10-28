@@ -46,7 +46,7 @@ Hay varias maneras de descargar, además del [oficial](https://www.deepin.org/en
       Para descargar vía torrent es necesario un cliente compatible y comprobar la mayor cantidad de semillas, clientes encargadas de distribuir los archivos hacia otros clientes.
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
-<div>
+</div>
 
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/manual/sabores/">¿Quieres usar otro sistema con Deepin preinstalado? Revisa la página "Sabores"›</a>
 
