@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title: "¿Qué es Comunidad Deepin?"
 subheadline: "Info"
 teaser: "Conoce a nuestra comunidad desarrollada por voluntarios con la intención de interaccionar al sistema operativo y proyectos relacionados a Linux."
@@ -48,20 +48,20 @@ Estamos en redes sociales para que interactúes como [Google+](https://plus.goog
 <div class="row t30">
     <div class="medium-4 columns">
         <h3>Contacto</h3>
-        Estamos en redes sociales para que interactúes como [Google+](https://plus.google.com/communities/115544729561220868525), [Telegram](http://telegram.me/deepinenespanol) y [otras formas]({{ site.url }}/info/contacto/).
+        Estamos en redes sociales para que interactúes como <a href="https://plus.google.com/communities/115544729561220868525"> Google+</a>, <a href="http://telegram.me/deepinenespanol">Telegram</a> y <a href="{{ site.url }}/info/contacto/">otras formas</a>.
         <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/info/contacto/">Más detalles ›</a>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
         <h3>Transparencia</h3>
-        Tenemos [una política de la página]({{ site.url }}/info/tos/), [lista de cambios]({{ site.url }}{{ site.baseurl }}/changelog/) y [dudas frecuentes]({{ site.url }}{{ site.baseurl }}/dudas/).
+        Tenemos <a href="{{ site.url }}/info/tos/">una política de la página</a>, <a href="{{ site.url }}{{ site.baseurl }}/changelog/">lista de cambios</a> y <a href="{{ site.url }}{{ site.baseurl }}/dudas/">dudas frecuentes</a>.
 
-        Nuestra página web está documentada, con [documentación]({{ site.url }}/tutopost/) e [información de terceros]({{ site.url }}/info/terceros/).
+        Nuestra página web está documentada, con <a href="{{ site.url }}/tutopost/">documentación</a> e <a href="{{ site.url }}/info/terceros/">información de terceros</a>.
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
         <h3>Actividades</h3>
-        Nuestro grupo participa en [una serie de actividades]({{ site.url }}/actividades/). Si te gusta Deepin, puedes colaborar con nosotros.
+        Nuestro grupo participa en <a href="{{ site.url }}/actividades/">una serie de actividades</a>. Si te gusta Deepin, puedes colaborar con nosotros.
         <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/actividades/">Ver Actividades ›</a>
     </div><!-- /.medium-4.columns -->
 
