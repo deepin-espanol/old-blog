@@ -29,7 +29,7 @@ Estamos en redes sociales para que interactúes como [Google+](https://plus.goog
 <div class="show-for-large-up">
 <!--Inicio sección para pantallas grandes-->
 <div class="row t60">
-    <div class="medium-6 columns b30">
+    <div class="medium-4 columns b30">
       <div class="row">
           <div class="medium-12 columns t30">
           <img src="{{ site.urlimg }}deepinmascot.jpg" alt="Mascota Deepin, elaborado por el equipo.">
@@ -37,7 +37,7 @@ Estamos en redes sociales para que interactúes como [Google+](https://plus.goog
           </div>
     </div><!-- /.medium-6.columns -->
 
-    <div class="medium-6 columns b30">
+    <div class="medium-8 columns b30">
       Somos un grupo pequeño formado por voluntarios en varios países. El proyecto fue creado a mediados de 2016 como pasatiempo, sin saber el potencial que estamos llegando.
 
       Como Deepin es una distribución Linux, contiene una serie de componentes desarrollados bajo una filosofía de software libre. Algo como un estilo de libre menos atado, en cooperación y en constante cambio.
@@ -48,7 +48,7 @@ Estamos en redes sociales para que interactúes como [Google+](https://plus.goog
 <div class="row t30">
     <div class="medium-4 columns">
         <h3>Contacto</h3>
-        Estamos en redes sociales para que interactúes como <a href="https://plus.google.com/communities/115544729561220868525"> Google+</a>, <a href="http://telegram.me/deepinenespanol">Telegram</a> y <a href="{{ site.url }}/info/contacto/">otras formas</a>.
+        Estamos en redes sociales para que interactúes como <a href="https://plus.google.com/communities/115544729561220868525"> Google+</a>, <a href="http://telegram.me/deepinenespanol">Telegram</a> y <a href="{{ site.url }}/info/contacto/">otras formas</a>.<br/>
         <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/info/contacto/">Más detalles ›</a>
     </div><!-- /.medium-4.columns -->
 
@@ -61,7 +61,7 @@ Estamos en redes sociales para que interactúes como [Google+](https://plus.goog
 
     <div class="medium-4 columns">
         <h3>Actividades</h3>
-        Nuestro grupo participa en <a href="{{ site.url }}/actividades/">una serie de actividades</a>. Si te gusta Deepin, puedes colaborar con nosotros.
+        Nuestro grupo participa en <a href="{{ site.url }}/actividades/">una serie de actividades</a>. Si te gusta Deepin, puedes colaborar con nosotros.<br/>
         <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/actividades/">Ver Actividades ›</a>
     </div><!-- /.medium-4.columns -->
 
