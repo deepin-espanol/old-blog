@@ -104,7 +104,7 @@ Lectura adicional: Blog [victorhckinthefreeworld](https://victorhckinthefreeworl
 ### ¿Deepin es software libre? ¿Cuáles son sus excepciones?
 El software de Deepin sí y está bajo licencia GPL, versión 3. Incluyen las actualizaciones correspondientes a los repositorios. Puedes conseguir una copia desde [la página web](https://www.gnu.org/licenses/gpl.html).
 
-Esto incluye al entorno de escritorio y las aplicaciones originales. También incluye a Linux y otros componentes desarrollados inicialmente para la distribución madre Debian, con algunas excepciones.
+Esto incluye al entorno de escritorio y las aplicaciones originales. También incluye a Linux y otros componentes desarrollados inicialmente para la distribución madre Debian, con algunas excepciones. Más información en la [página Fuentes]({{ site.url }}{{ site.baseurl }}/source/).
 
 Ten en cuenta que al usar software libre "se distribuye con la esperanza de que sea útil, pero SIN NINGUNA GARANTÍA, incluso sin la garantía MERCANTIL implícita o sin garantizar la CONVENIENCIA PARA UN PROPÓSITO PARTICULAR".
 

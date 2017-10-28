@@ -16,7 +16,11 @@ No busques contenido oficial, sería redundante como para añadirlo del sitio we
 
 <div class="show-for-small">
 <!--Inicio sección para pantallas pequeñas--->
+Somos un grupo pequeño formado por voluntarios en varios países. El proyecto fue creado a mediados de 2016 como pasatiempo, sin saber el potencial que estamos llegando.
+
 Estamos en redes sociales para que interactúes como [Google+](https://plus.google.com/communities/115544729561220868525), [Telegram](http://telegram.me/deepinenespanol) y [otras formas]({{ site.url }}/info/contacto/).
+
+Nuestro grupo participa en <a href="{{ site.url }}/actividades/">una serie de actividades</a>. Si te gusta Deepin, puedes colaborar con nosotros.
 
 <div class="row">
     <div class="medium-12 columns t30">
@@ -41,6 +45,10 @@ Estamos en redes sociales para que interactúes como [Google+](https://plus.goog
       Somos un grupo pequeño formado por voluntarios en varios países. El proyecto fue creado a mediados de 2016 como pasatiempo, sin saber el potencial que estamos llegando.
 
       Como Deepin es una distribución Linux, contiene una serie de componentes desarrollados bajo una filosofía de software libre. Algo como un estilo de libre menos atado, en cooperación y en constante cambio.
+
+      >Para promover el apoyo entre empresas, desarrolladores y usuario, evitando la obsolescencia programada, la piratería y la incorporación de software malintencionado.
+
+      <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/dudas-softlibre/">Dudas sobre el software libre ›</a>
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
 
@@ -71,13 +79,7 @@ Estamos en redes sociales para que interactúes como [Google+](https://plus.goog
 
 <!---Fin documentación--->
 
-## Sobre el software libre
+## Vídeo presentación
 <div class="flex-video">
         <iframe width="1280" height="720" src="//www.youtube.com/embed/dBAqsfE512g" frameborder="0" allowfullscreen></iframe>
 </div>
-
-Quizá no te sea relevante por usar otras cosas; sin embargo, te ejemplificamos en estas palabras (por ejemplo, si quieres usar las aplicaciones originales).
-
->Para promover el apoyo entre empresas, desarrolladores y usuario, evitando la obsolescencia programada, la piratería y la incorporación de software malintencionado.
-
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/source/">Visita la página Código Fuente ›</a>
