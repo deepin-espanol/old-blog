@@ -40,7 +40,7 @@ Las páginas están escritas en Markdown. Nosotros usamos Git para sincronizar l
       Qué contiene el post:
       <ul>
       <li> <a href="{{ site.url }}{{ site.baseurl }}/tecnico/encabezadopost/">Encabezado post</a>.</li>
-      <li> <a href="{{ site.url }}{{ site.baseurl }}/tecnico/cuerpopost/">Cuerpo del post</a>.
+      <li> <a href="{{ site.url }}{{ site.baseurl }}/tecnico/cuerpopost/">Cuerpo del post</a>.</li>
       </ul>
     </div><!-- /.medium-6.columns -->
 
