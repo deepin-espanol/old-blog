@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title: "¡Nuestro historial!"
 meta_title: "Avances"
 subheadline: "Extra"
@@ -10,6 +10,8 @@ permalink: "/info/historial/"
 ---
 
 Nota: Los cambios están enfocados en la página web y el material que estemos brindando.
+2017-10-29
+: Añadido [columnas]({{ site.url }}{{ site.baseurl }}/anexos/columnas/) en categorías y algunas páginas web.
 
 2017-10-23
 : Añadido [página dedicada a los problemas de carga del sistema operativo]({{ site.url }}{{ site.baseurl }}anexos/badload/).
