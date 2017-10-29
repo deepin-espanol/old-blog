@@ -29,21 +29,30 @@ Bienvenidos a Tutopost, ¡el taller de la comunidad! Esta selección está pensa
 
 Las páginas están escritas en Markdown. Nosotros usamos Git para sincronizar los cambios de los editores y gestionamos los permisos en esa plataforma.
 
-## Tutoriales para principiantes
-Formas de editar la página web y añadir post:
-* [Desde Atom]({{ site.url }}/tecnico/desdeatom/).
-* [Desde la web de Github]({{ site.url }}/tecnico/usargithub/).
+## Tutoriales
+<div class="row t60">
+    <div class="medium-6 columns b30">
+      Formas de editar la página web y añadir post:
+      <ul>
+       <li><a href="{{ site.url }}{{ site.baseurl }}/tecnico/desdeatom/">Desde Atom</a>.</li>
+       <li> <a href="{{ site.url }}{{ site.baseurl }}/tecnico/usargithub/">Desde la web de Github</a>.</li>
+      </ul>
+      Qué contiene el post:
+      <ul>
+      <li> <a href="{{ site.url }}{{ site.baseurl }}/tecnico/encabezadopost/">Encabezado post</a>.</li>
+      <li> <a href="{{ site.url }}{{ site.baseurl }}/tecnico/cuerpopost/">Cuerpo del post</a>.
+      </ul>
+    </div><!-- /.medium-6.columns -->
 
-Qué contiene el post:
-* [Encabezado post]({{ site.url }}/tecnico/encabezadopost/).
-* [Cuerpo del post]({{ site.url }}/tecnico/cuerpopost/).
-
-## Lista completa
-<ul>
-    {% for post in site.tags.tutopost %}
-    <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-</ul>
+    <div class="medium-6 columns b30">
+    <ul>
+        <h3>Lista completa</h3>
+        {% for post in site.categories.tecnico %}
+        <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+    </ul>
+    </div><!-- /.medium-6.columns -->
+</div><!-- /.row -->
 
 ## Agradecimientos
 
