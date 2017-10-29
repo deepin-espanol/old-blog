@@ -47,7 +47,7 @@ Las páginas están escritas en Markdown. Nosotros usamos Git para sincronizar l
     <div class="medium-6 columns b30">
     <ul>
         <h3>Lista completa</h3>
-        {% for post in site.categories.tecnico %}
+        {% for post in site.tags.tutopost %}
         <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
         {% endfor %}
     </ul>
