@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 show_meta: false
 title: "Dudas frecuentes"
 subheadline: "La lista de dudas para todos los usuarios"
