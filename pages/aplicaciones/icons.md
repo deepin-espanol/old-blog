@@ -16,7 +16,7 @@ header:
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-6 columns b30">
-      La 🖌 lista de iconos está aquí. Son aplicaciones etiquetadas como "iconos". Para cambiar los iconos, revisa la <a href="{{ site.url }}{{ site.baseurl }}/manual/temas/">página del Manual</a>. Es complemento de la categoría <a href="{{ site.url }}{{ site.baseurl }}/apps/">Aplicaciones</a>.
+      La lista de 🖌 iconos está aquí. Son aplicaciones etiquetadas como "iconos". Para cambiar los iconos, revisa la <a href="{{ site.url }}{{ site.baseurl }}/manual/temas/">página del Manual</a>. Es complemento de la categoría <a href="{{ site.url }}{{ site.baseurl }}/apps/">Aplicaciones</a>.
 
       Explora más en el <a href="{{ site.url }}{{ site.baseurl }}/blog/archive/">Archivo</a>, la <a href="{{ site.url }}{{ site.baseurl }}/introduccion/">Introducción</a> o la sección <a href="{{ site.url }}{{ site.baseurl }}/info/">Información</a>.
 
