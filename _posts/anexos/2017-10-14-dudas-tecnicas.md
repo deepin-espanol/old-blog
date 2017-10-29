@@ -167,6 +167,12 @@ Sí. Echa un vistazo [al tip]({{ site.url }}{{ site.baseurl }}/tips/cifrar-docs/
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
 
+### ¿Qué shows sobre Linux me recomiendas?
+Si quieres estar más al tanto sobre Deepin, [al directorio extra]({{ site.url }}{{ site.baseurl }}/anexos/directorio-extra/). Hay personas como tú que también están usando GNU/Linux de forma normal. 
+
+<small markdown="1">[Ir al índice](#toc)</small>
+{: .text-right }
+
 ## Seguimos creciendo
 Si aún no encuentras tu pregunta, usa el [Buscador]({{ site.url }}{{ site.baseurl }}/search/).
 
