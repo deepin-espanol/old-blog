@@ -93,9 +93,14 @@ Palabras relacionadas a la interfaz y tienen la misma cantidad de caracteres o m
       <td></td>
     </tr>
     <tr>
+      <td>Mode</td>
+      <td>Modo</td>
+      <td>Variantes: Modo nocturno (Night Shift), modo con efectos (Effect Mode), modo común (Common Mode)</td>
+    </tr>
+    <tr>
       <td>Dock</td>
-      <td>Dock</td>
-      <td>También Panel</td>
+      <td>Muelle</td>
+      <td>También Panel, aunque su exactitud es discutida</td>
     </tr>
     <tr>
       <td>Launcher</td>
@@ -188,6 +193,7 @@ Palabras sin traducción sencilla y dependerá del sentido común del traductor:
 * deepin Security Updates: Actualizaciones de seguridad en Deepin
 * developer: Desarrollador(a)
 * issue: Tema (hilo del foro) o problema (para relacionar a fallo)
+* edition: Edición (informa el tipo de sistema operativo, no solo la versión)
 
 ### Palabras no traducibles {#notraducir}
 Palabras que **no se deben traducir** debido a la falta de palabras que aproximen el resultado.

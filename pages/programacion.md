@@ -1,11 +1,11 @@
 ---
 layout: page-fullwidth
 show_meta: false
-title: "Etiqueta Desarrollo"
-subheadline: "API y herramientas de desarrollo de Deepin."
+title: "Etiqueta Programación"
+subheadline: "Programando en Deepin con la API y herramientas de desarrollo."
 header:
    image_fullwidth: "header_unsplash_5.jpg"
-permalink: "/desarrollo/"
+permalink: "/programacion/"
 ---
 <div class="row t60">
     <div class="medium-6 columns b30">
