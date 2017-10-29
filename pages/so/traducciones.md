@@ -14,9 +14,8 @@ Este listado de recomendaciones está relacionado a los títulos, palabras frecu
 
 Las reglas son sencillas: deben ser **fáciles de recordar**, evitar los modismos y tecnicismos, hablar de tú (no "vosear" ni tratar de "usted") y **simplificar la mayor cantidad de palabras posible**. Está enfocado al público hispanohablante (incluyendo Latinoamérica, España y otros países).
 
-## Glosario {#glosario}
-### Glosario básico {#basico}
-Palabras relacionadas a la interfaz y acciones frecuentes (llamado también "experiencia de uso").
+## Palabras con traducción sencilla {#glosario}
+Palabras relacionadas a la interfaz y tienen la misma cantidad de caracteres o menos. Recomendamos usar las palabras traducidas para mejorar la "experiencia de uso" en botones y menúes, y usar sinónimos si se emplean en oraciones largas.
 
 <table>
   <caption>Glosario</caption>
@@ -56,12 +55,12 @@ Palabras relacionadas a la interfaz y acciones frecuentes (llamado también "exp
     <tr>
       <td>Shortcut</td>
       <td>Atajo</td>
-      <td>Atajo de teclado</td>
+      <td>También "Atajo de teclado"</td>
     </tr>
     <tr>
       <td>Link</td>
       <td>Enlace</td>
-      <td>Link web = Enlace web</td>
+      <td>"Web Link" significa "Enlace web"</td>
     </tr>
     <tr>
       <td>OK/Cancel</td>
@@ -74,9 +73,9 @@ Palabras relacionadas a la interfaz y acciones frecuentes (llamado también "exp
       <td></td>
     </tr>
     <tr>
-      <td>Today</td>
-      <td>Hoy</td>
-      <td></td>
+      <td>Timezone</td>
+      <td>Zona horaria</td>
+      <td>También "Huso horario". No confundir con "Hour" que es "hora"</td>
     </tr>
     <tr>
       <td>Tomorrow</td>
@@ -173,26 +172,33 @@ Palabras relacionadas a la interfaz y acciones frecuentes (llamado también "exp
       <td>Espejo</td>
       <td>También Mirror Site, Mirror repository</td>
     </tr>
+    <tr>
+      <td>Hotspot</td>
+      <td>Conexión compartida</td>
+      <td>En algunos sistemas operativos señalan como "Punto de conexión"</td>
+    </tr>
   </tbody>
 </table>
 
-### Glosario enfocada a Deepin {#deepin}
-Uso de frases de foro y desarrollo de aplicaciones:
+## Casos especiales
+### Palabras ambiguas {#ambiguas}
+Palabras sin traducción sencilla y dependerá del sentido común del traductor:
 * DDE, Deepin Desktop: Escritorio Deepin
 * DTK: Kit de desarrollo Deepin (interfaz propia, no confundir con GNOME o KDE)
 * deepin Security Updates: Actualizaciones de seguridad en Deepin
 * developer: Desarrollador(a)
 * issue: Tema (hilo del foro) o problema (para relacionar a fallo)
 
-### Palabras ambiguas {#ambiguas}
-Palabras que **no se deben traducir** y los motivos (sean tecnicismos o relacionados a la terminal).
+### Palabras no traducibles {#notraducir}
+Palabras que **no se deben traducir** debido a la falta de palabras que aproximen el resultado.
 * Administrator, Root: como administrador del sistema, no confundir con Rooting
 * alfa/beta/release: Implica las fases de desarrollo (pruebas)
 * CVE: siglas de [Common Vulnerabilities and Exposures](https://cve.mitre.org/)
 * Super: equivale a botón Windows o Inicio
 * ARM, AMD64: son las arquitecturas del equipo
 
-Palabras de la terminal:
+### Palabras no traducibles (terminal) {#terminal}
+Palabras que **no se deben traducir** por ser funciones de la terminal. Los comandos siempre están en inglés para cualquier hablante sin importar la distribución que estén usando.
 * Sudo: Superusuario hace
 * Shell: "Programa" de la terminal
 * APT: Contracción del shel aptitude
