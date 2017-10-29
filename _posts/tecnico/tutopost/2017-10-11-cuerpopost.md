@@ -130,7 +130,7 @@ Llamado ´improve_content´. Útil para editar código fuente directamente simil
 
 ### Columnas
 
-Para crear una columna, [debes usar las etiquetas "div" y ]({{ site.url }}{{ site.baseurl }}/tecnico/columnas/)
+Para crear una columna, [debes usar las etiquetas "div" y usar la clase "row"]({{ site.url }}{{ site.baseurl }}/tecnico/columnas/).
 
 ### Incrustar un aviso en la publicación
 

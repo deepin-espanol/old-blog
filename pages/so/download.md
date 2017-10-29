@@ -31,7 +31,7 @@ Hay varias maneras de descargar, además del [oficial](https://www.deepin.org/en
         <li><a href="https://sourceforge.net/projects/deepin/">En SourceForge</a>;</li>
         <li><a href="http://mirrors.kernel.org/deepin-cd/">Kernel.org</a>;</li>
         <li><a href="http://mirror1.sjc02.svwh.net/deepin-cd/">Empresa en Silicon Valley, EUA</a>;</li>
-        <li> Otras formas para descargar en <a href="{{ site.url }}/tips/mirrorcd/">la página Lista de espejos</a>.</li>
+        <li> Otras formas para descargar en <a href="{{ site.url }}{{ site.baseurl }}/tips/mirrorcd/">la página Lista de espejos</a>.</li>
       </ul>
     </div><!-- /.medium-6.columns -->
 
