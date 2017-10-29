@@ -128,6 +128,10 @@ Llamado ´improve_content´. Útil para editar código fuente directamente simil
 {% raw %}{% include _improve_content.html %}{% endraw %}
 ~~~
 
+### Columnas
+
+Para crear una columna, [debes usar las etiquetas "div" y ]({{ site.url }}{{ site.baseurl }}/tecnico/columnas/)
+
 ### Incrustar un aviso en la publicación
 
 Ese método es útil para avisar a los usuarios. Por favor, no añadas `.html` para evitar errores. Tienes cinco tipos de avisos: `warning`, `info`, `success`, `alert` y `text`.

@@ -7,11 +7,11 @@ breadcrumb: true
 categories:
     - tips
 tags:
-    - vlc
-    - video
-    - editor
+    - fix
+    - dialogo
+    - apps
 ---
-En algunas aplicaciones, el cuadro de diálogo de Deepin tiene problemas con la aplicación cuando se exporta o importa contenido. Esta página explica como cambiar el cuadro de diálogo a la ofrecida por la aplicación, basada en un artículo de Salmojero Geek.
+En algunas aplicaciones, el cuadro de diálogo de Deepin no se integra correctamente con las aplicaciones, en especial cuando se exporta o importa contenido. Esta página explicamos como cambiar el cuadro de diálogo a la ofrecida por la aplicación, basada en un artículo de Salmojero Geek.
 
 ## Aplicaciones que aplica
 En la versión 15.4.1 el error ocurren LibreOffice y Audicity.

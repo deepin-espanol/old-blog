@@ -151,9 +151,9 @@ Por defecto, están desactivados y puedes personalizar en `config.yml`. Para **a
 
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/cuerpopost/">Ver información del cuerpo del post ›</a>
 
-## Agradecimientos
-
-La plantilla está basada en la [documentación de Jekyll](https://jekyllrb.com/docs/posts/).
+## Lectura adicional
+* [Documentación de Jekyll](https://jekyllrb.com/docs/posts/).
+* [Columnas]({{ site.url }}{{ site.baseurl }}/tecnico/columnas/).
 
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->

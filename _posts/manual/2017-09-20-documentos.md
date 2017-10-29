@@ -16,7 +16,8 @@ tags:
 ---
 Cuando quieras guardar tus archivos, tienes una carpeta de Documentos. Lo administras en [el gestor de archivos incluido]({{ site.url }}/apps/filemanager/).
 
-## Lo que contiene
+## Sobre el gestor de documenos
+## A primera vista
 
 En la parte superior se encuentra los botones de avanzar y retroceder, la ubicación de la carpeta que te ubicas, un buscador y un listado de archivos.
 
@@ -29,7 +30,7 @@ En el panel lateral, te encuentras los accesos directos:
 * Descarga
 * Papelera
 
-## Adicional
+### Otras carpetas
 
 Además de tus documentos, tienes debajo la lista de dispositivos conectados como discos duros, unidades portátiles, discos compactos y conexiones de red LAN.
 
@@ -38,6 +39,9 @@ Además de tus documentos, tienes debajo la lista de dispositivos conectados com
     <img src="{{ site.urlimg }}filemanager.png" alt="Gestor de archivos">
     </div><!-- /.medium-4.columns -->
 </div>
+
+## Adicional
+* Si tienes malestar al abrir o guardar con el gestor de archivos, [desactiva la opción "Usar en otras aplicaciones"]({{ site.url }}/apps/solucion-cuadrodialogo/).
 
 ### Más en Manual
 {: .t60 }
