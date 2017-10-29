@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title: "Aplicaciones"
 subheadline: "Nuestro listado"
 teaser: "Lista de aplicaciones, juegos y agregados para Deepin."
@@ -7,12 +7,18 @@ permalink: "/apps/"
 header:
     image_fullwidth: "header_drop.jpg"
 ---
+<div class="row t60">
+    <div class="medium-6 columns b30">
+      <ul>
+          {% for post in site.categories.apps %}
+          <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+          {% endfor %}
+    </div><!-- /.medium-6.columns -->
 
-En Deepin comentamos y comprobamos varias aplicaciones. También incluímos [juegos]({{ site.url }}/games/) y [sets de iconos]({{ site.url }}/icons/)
+    <div class="medium-6 columns b30">
+      En Deepin te explicamos las aplicaciones que puedes instalar en Deepin y comentamos las posibilidades que puedes hacer con ella. También incluímos <a href="{{ site.url }}{{ site.baseurl }}/games/">juegos</a> y <a href="{{ site.url }}{{ site.baseurl }}/icons/">sets de iconos</a>.
 
-Publicaciones:
-<ul>
-    {% for post in site.categories.apps %}
-    <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-</ul>
+      Explora más en el <a href="{{ site.url }}{{ site.baseurl }}/blog/archive/">Archivo</a>, la <a href="{{ site.url }}{{ site.baseurl }}/introduccion/">Introducción</a> o la sección <a href="{{ site.url }}{{ site.baseurl }}/info/">Información</a>.
+
+    </div><!-- /.medium-6.columns -->
+</div><!-- /.row -->
