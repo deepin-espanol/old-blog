@@ -8,21 +8,20 @@ header:
 permalink: "/manual/"
 ---
 
-Bienvenidos(as) al manual.
+<div class="row t60">
+    <div class="medium-6 columns b30">
+      <ul>
+          {% for post in site.categories.manual %}
+          <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+          {% endfor %}
+      </ul>
+    </div><!-- /.medium-6.columns -->
 
-## Primeros pasos
-* Descarga
-* Instalación
-* Primeros pasos
-* Centro de control
-* Aplicaciones exclusivas de Deepin
-* Deepin Store
-* Boot Maker
-* Instalar controladores
+    <div class="medium-6 columns b30">
+      Está categoría contiene publicaciones del manual de usuario como el uso de las aplicaciones de Deepin, explicaciones de sus funciones principales o los puntos básicos que debes saber.
 
-## Publicaciones recientes
-{% include list-posts category='manual' entries='3'%}
+      Ejemplos: Descarga e Instalación, Primeros pasos, Centro de control, Aplicaciones exclusivas de Deepin, Deepin Store, Arranque dual, Instalar controladores, entre otros.
 
-Para ver el listado visita [Lista de manuales]({{ site.url }}/manual/lista/).
-
-Ir al [Archivo]({{ site.url }}/blog/archive/).
+      Explora más en el <a href="{{ site.url }}{{ site.baseurl }}/blog/archive/">Archivo</a>, la <a href="{{ site.url }}{{ site.baseurl }}/introduccion/">Introducción</a> o la sección <a href="{{ site.url }}{{ site.baseurl }}/info/">Información</a>.  
+    </div><!-- /.medium-6.columns -->
+</div><!-- /.row -->
