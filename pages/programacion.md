@@ -17,7 +17,7 @@ permalink: "/programacion/"
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-6 columns b30">
-      Esta etiqueta contiene información de desarrollo para Deepin Linux como la interfaz de usuario, paquetes Flatpak. Forma parte de la categoría <a href="{{ site.url }}{{ site.baseurl }}/tecnico/">Técnico</a>).
+      Esta etiqueta contiene páginas sobre programación en Deepin Linux como el diseño de interfaces de usuario, paquetes Flatpak y lenguaje Qt. Forma parte de la categoría <a href="{{ site.url }}{{ site.baseurl }}/tecnico/">Técnico</a>).
 
       Explora más en el <a href="{{ site.url }}{{ site.baseurl }}/blog/archive/">Archivo</a>, la <a href="{{ site.url }}{{ site.baseurl }}/introduccion/">Introducción</a> o la sección <a href="{{ site.url }}{{ site.baseurl }}/info/">Información</a>.
     </div><!-- /.medium-6.columns -->

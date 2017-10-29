@@ -32,8 +32,8 @@ En esta página respondemos las dudas más profundas. Es un complemento a la pá
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
 
-## Preámbulo
-Queremos explicarte cómo funciona Deepin con las tres primeras preguntas.
+## Preámbulo y motivaciones
+Queremos explicarte cómo funciona Deepin con las tres primeras preguntas indispensables y una cuarta explicando el motivo.
 ### ¿Qué es GNU? ¿En qué lenguaje está escrito?
 GNU es el primer paso y el pilar para el desarrollo del sistema operativo. Desarrollado Richard M. Stallman en 1983 busca adoptar tecnologías informáticas (hasta entonces dominaba Unix) y hacerlo accesible para los desarrolladores sin restricciones.
 
@@ -68,43 +68,42 @@ Es el núcleo del sistema operativo y el más usado. Es el propio Linus Torvalds
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
 
-## Deepin a fondo
-### ¿Deepin es una copia de Debian? ¿Puedo usar Manjaro en lugar de Debian?
-No. Para que no te confundas Deepin es la distribución hija de Debian. Específicamente, Deepin consigue los paquetes de la rama Sid (Alfa).
+### ¿Por qué Deepin depende parcialmente de Debian?
+Para que no te compliques demasiado, Deepin es la distribución hija de Debian. Y Debian es una de las distribuciones más vetaranas.
 
-Hasta las versión 2014 estuvo basado en Ubuntu. En la versión 15.x se cambió a Debian para ganar estabilidad (
+Hasta las versión 2014 estuvo basado en Ubuntu, también basada en Debian y una de las más conocidas en los años 2000. En la versión 15.x se cambió a Debian para ganar estabilidad (
 [Muy Linux](http://www.muylinux.com/2015/12/31/deepin-15/)).
 
-Si tienes dificultades con la base Debian, prueba la versión Manjaro Deepin. [Revisa la página Instalación]({{ site.url }}{{ site.baseurl }}/instalacion/). Recuerda que no está siendo desarrollado oficialmente, sino por la comunidad.
+Si tienes dificultades con la base Debian, puedes usar a sus tios. La versión Manjaro Deepin está basada en Arch y emplea otras tecnologías a profundidad. [Revisa la página Instalación]({{ site.url }}{{ site.baseurl }}/instalacion/). Recuerda que no está siendo desarrollado oficialmente, sino por la comunidad.
 
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
 
-### ¿Cómo usa Deepin usa paquetes de Debian? ¿Por qué existe el "conflicto de dependencias"? {#conflicto}
-Deepin usa paquetes de Debian (extensiones deb) para todo el sistema. Muchos paquetes están relacionados a los gráficos (Mesa), la libería gráfica (Qt), códecs, entre otros.
+## Deepin a fondo
+### ¿Cómo administra los recursos y componentes del sistema Deepin? {#paquetes}
+Deepin usa paquetes de Debian (extensiones "deb"). La mayoría de paquetes contienen código que se ramifica con paquetes más simples (es como un árbol de paquetes). Por ejemplo, el paquete principal es linux, y sus consecuentes están relacionados a los gráficos (Mesa), la libería gráfica (Qt), códecs, entre otros.
 
-Sin embargo, actualizar paquetes e instalar otros genera el "conflicto de dependencias". Resulta tedioso al actualizar los controladores o instalar aplicaciones mediante paquetes de Debian y molesto cuando se "rompe" el sistema operativo.
+Deepin consigue los paquetes de la rama no estable de Debian (sid). Sin embargo, actualizar paquetes a una versión más reciente genera el "conflicto de dependencias", sobretodo en aplicaciones recientes o correcciones. Para evitar esos malestares, gran parte de las tecnologías dependen de Flatpak (desde 15.5) y las no diseñadas para Flatpak seguirán con el modelo tradicional (por ejemplo, la parte crítica de Debian).
 
-Para evitar ese tipo de problemas, sugerimos instalar y actualizar aplicaciones via [Deepin Store]({{ site.url }}{{ site.baseurl }}/manual/instalar-apps/), PPA (para las liberías optimizadas) o via Flatpak.
+### ¿Deepin vela por tu seguridad? ¿Cómo podemos saberlo?
+Los desarrolladores publican parches [en su blog](https://www.deepin.org/en/security-update/). Además, el proyecto Debian [tiene una página web](https://www.debian.org/security/) para estar al tanto con los paquetes antes de ser distribuidos. En el caso Linux, el núcleo del sistema [está siendo auditado frecuentemente](https://lamiradadelreplicante.com/2017/09/01/agencia-alemana-de-ciberseguridad-el-generador-de-numeros-aleatorios-de-linux-es-seguro/).
 
-***Volvemos a avistarte***: Si desinstalas paquetes relacionados a la libería Qt o al entorno de escritorio (cuyo prefijo es dde), podría quedar completamente inútil. Si te avisa que se reemplazará cualquiera de esos paquetes, ¡no lo hagas!
+En resumen, los componentes recibirán **actualizaciones críticas**.
+
+<small markdown="1">[Ir al índice](#toc)</small>
+{: .text-right }
+
+### ¿Que componentes originales usa Deepin?
+Hasta 15.4 los paquetes de Debian era la proridad para instalar aplicaciones (no es necesario volver a explicar). Muchas aplicaciones están disponibles [Deepin Store]({{ site.url }}{{ site.baseurl }}/manual/instalar-apps/) para simplicarte.
+
+Otras tecnologías están relacionadas a la libería Qt o al entorno de escritorio (cuyo prefijo es dde). Recuerda que son componentes muy importantes. Si te avisa que se desinstalará esos paquetes, ¡no lo hagas! Eso sucedió una cantidad pequeñísima de veces.
 
 Fuente: [Manual de Debian](https://www.debian.org/doc/manuals/aptitude/ch02s03s02.es.html)
 
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
 
-### ¿Por qué recomendamos que las aplicaciones estén empaquetadas a Flatpak o Snap?
-Empaquetar a Flatpak permite a los desarrolladores tener las últimas mejoras de sus aplicaciones sin problemas. Sus componentes se actualizan de forma silenciosa y no interfieren con los componentes del sistema. Flatpak es desarrollado por la comunidad.
-
-Otra forma es Snap, por Cannonical, pero está enfocada en Ubuntu. Está opción es compatible con Deepin para evitar el problema de Dependencias.
-
-Por su puesto, las aplicaciones originales están integradas bajo Flatpak por defecto. Disponibles desde la versión 15.5 del sistema operativo. Si quieres conocer este método de instalación visita [flatpak.org](http://flatpak.org/apps.html).
-
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
-
-### ¿Deepin usa el núcleo de Linux original?
+### ¿Deepin usa el núcleo de Linux?
 Sí. El núcleo está basado en una versión a largo plazo (LTS) y modificado por los desarrolladores. Revisa el [código fuente]({{ site.url }}{{ site.baseurl }}/source) y las actividades que [puedes colaborar]({{ site.url }}{{ site.baseurl }}/actividades/kernel/).
 
 Si tienes problemas con el núcleo, visita [la página para cambiar el núcleo de Linux]({{ site.url }}{{ site.baseurl }}/tips/kernel/).
@@ -127,11 +126,18 @@ Para crear servicios de systemd consulta [este artículo](https://www.redeszone.
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
 
-### ¿Deepin se vela por tu seguridad? ¿Cómo podemos saberlo?
-Sí, cada uno a su manera. Los desarrolladores publican las actualizaciones [en su blog](https://www.deepin.org/en/security-update/). En Linux, el núcleo del sistema [está siendo auditado frecuentemente](https://lamiradadelreplicante.com/2017/09/01/agencia-alemana-de-ciberseguridad-el-generador-de-numeros-aleatorios-de-linux-es-seguro/). Además, el proyecto Debian [tiene una página web](https://www.debian.org/security/) para estar al tanto con los paquetes antes de ser distribuidos.
+### ¿Cómo gestiona las aplicaciones? ¿Qué recomendamos?
+Viendo tu mismo. La forma más sencilla es desde el [lanzador]({{ site.url }}{{ site.baseurl }}/manual/launcher/). Los más experimentados lo hacen desde [Synaptic]({{ site.url }}{{ site.baseurl }}/apps/synaptic/)
+
+Empaquetar a Flatpak permite a los desarrolladores tener las últimas mejoras de sus aplicaciones sin problemas. Sus componentes se actualizan de forma silenciosa y no interfieren con los componentes del sistema. Flatpak es desarrollado por la comunidad.
+
+Por su puesto, las aplicaciones originales están integradas bajo Flatpak por defecto. Disponibles desde la versión 15.5 del sistema operativo. Si quieres conocer este método de instalación visita [flatpak.org](http://flatpak.org/apps.html) o nuestra [página técnica]({{ site.url }}{{ site.baseurl }}/tecnico/flatpak/).
 
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
+
+### ¿Puedo ejecutar aplicaciones que no sean Flatpak?
+Sí. Por ejemplo a Snap, por Cannonical, enfocada en Ubuntu. Está opción es compatible con Deepin para evitar el problema de Dependencias. Otras formas lo puedes consultar en [nuestro manual]({{ site.url }}{{ site.baseurl }}/manual/instalar-apps/).
 
 ## Deepin y cada usuario
 ### ¿Deepin tiene modo live?
