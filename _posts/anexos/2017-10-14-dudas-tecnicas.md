@@ -93,10 +93,10 @@ En resumen, los componentes recibirán **actualizaciones críticas**.
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
 
-### ¿Que componentes originales usa Deepin?
-Hasta 15.4 los paquetes de Debian era la proridad para instalar aplicaciones (no es necesario volver a explicar). Muchas aplicaciones están disponibles [Deepin Store]({{ site.url }}{{ site.baseurl }}/manual/instalar-apps/) para simplicarte.
+### ¿Cómo funciona el entorno gráfico? ¿Qué componentes?
+Deepin tiene su entorno gráfico llamado [Deepin Evolment Desktop]({{ site.url }}{{ site.baseurl }}/tecnico/api/). Es bastante simple que tienes a [Deepin Store]({{ site.url }}{{ site.baseurl }}/manual/instalar-apps/) para instalar aplicaciones a unos clics.
 
-Otras tecnologías están relacionadas a la libería Qt o al entorno de escritorio (cuyo prefijo es dde). Recuerda que son componentes muy importantes. Si te avisa que se desinstalará esos paquetes, ¡no lo hagas! Eso sucedió una cantidad pequeñísima de veces.
+Otras tecnologías están relacionadas a la libería Qt, al entorno de escritorio (cuyo prefijo es dde) o los gráficos al monitor (X.org). Recuerda que son componentes muy importantes. Si te avisa que se desinstalará esos paquetes, ¡no lo hagas! Eso sucedió una cantidad pequeñísima de veces.
 
 Fuente: [Manual de Debian](https://www.debian.org/doc/manuals/aptitude/ch02s03s02.es.html)
 
@@ -126,6 +126,7 @@ Para crear servicios de systemd consulta [este artículo](https://www.redeszone.
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
 
+## Aplicaciones
 ### ¿Cómo gestiona las aplicaciones? ¿Qué recomendamos?
 Viendo tu mismo. La forma más sencilla es desde el [lanzador]({{ site.url }}{{ site.baseurl }}/manual/launcher/). Los más experimentados lo hacen desde [Synaptic]({{ site.url }}{{ site.baseurl }}/apps/synaptic/)
 
@@ -139,7 +140,19 @@ Por su puesto, las aplicaciones originales están integradas bajo Flatpak por de
 ### ¿Puedo ejecutar aplicaciones que no sean Flatpak?
 Sí. Por ejemplo a Snap, por Cannonical, enfocada en Ubuntu. Está opción es compatible con Deepin para evitar el problema de Dependencias. Otras formas lo puedes consultar en [nuestro manual]({{ site.url }}{{ site.baseurl }}/manual/instalar-apps/).
 
-## Deepin y cada usuario
+### ¿Puedo ejecutar aplicaciones pesadas?
+Si usas aplicaciones pesadas exclusivas de Microsoft Windows a Deepin, visita [Dudas sobre aplicaciones]({{ site.url }}{{ site.baseurl }}/anexos/dudas-aplicaciones/)
+
+<small markdown="1">[Ir al índice](#toc)</small>
+{: .text-right }
+
+### ¿Puedo conseguir una aplicación para que funcione el dispositivo?
+Sí. Echa un vistazo [al anexo]({{ site.url }}{{ site.baseurl }}/anexos/dudas-drivers/). Por defecto el núcleo Linux posee controladores para que funcionen los dispositivos (impresoras, tarjetas de vídeo, etcétera).
+
+<small markdown="1">[Ir al índice](#toc)</small>
+{: .text-right }
+
+## Miscelánea
 ### ¿Deepin tiene modo live?
 Sí. Este modo te resultará útil para reparar la partición o probar el sistema antes de instalar. En la versión 15.4 está disponible en la opción "failsafe".
 
@@ -150,19 +163,6 @@ Fuente: [Gamblisfx](https://web.archive.org/web/20170606022618/http://gamblisfx.
 
 ### ¿Puedo cifrar la carpeta Mis documentos?
 Sí. Echa un vistazo [al tip]({{ site.url }}{{ site.baseurl }}/tips/cifrar-docs/). Por el momento, en Deepin 15.4 no tienes la opción de cifrar desde el centro de control.
-
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
-
-## Aplicaciones
-### ¿Puedo ejecutar aplicaciones pesadas?
-Si usas aplicaciones pesadas exclusivas de Microsoft Windows a Deepin, visita [Dudas sobre aplicaciones]({{ site.url }}{{ site.baseurl }}/anexos/dudas-aplicaciones/)
-
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
-
-### ¿Puedo conseguir una aplicación para que funcione el dispositivo?
-Sí. Echa un vistazo [al anexo]({{ site.url }}{{ site.baseurl }}/anexos/dudas-drivers/). Por defecto el núcleo Linux posee controladores para que funcionen los dispositivos (impresoras, tarjetas de vídeo, etcétera).
 
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
