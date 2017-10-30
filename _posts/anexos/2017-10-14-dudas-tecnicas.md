@@ -47,13 +47,18 @@ Fuente: [FSF](https://www.gnu.org/gnu/gnu-linux-faq.es.html#why)
 {: .text-right }
 
 ### ¿Qué es Linux?
-Es el núcleo del sistema operativo y el más usado. Es el propio Linus Torvalds quien desarrolló y contiene millones de líneas de código como controladores de vídeo, de disco duro y muchas más.
+Es el núcleo del sistema operativo y el más usado. Es el propio Linus Torvalds quien desarrolló y contiene información elemental como controladores de vídeo, de disco duro y muchas más.
+
+Hasta octubre de 2017, entre las versiones 4.8 y 4.13, el primero LTS, hubo 83 000 cambios admitidos de 4300 desarrolladores de 519 corporaciones. Esa 4.13 tiene más de 24.7 millones líneas de código escritas en más de 60 000 archivos.
+
 <div class="flex-video">
         <iframe width="1280" height="720" src="//www.youtube.com/embed/UUJ0dFpj1-M" frameborder="0" allowfullscreen></iframe>
 </div>
 <div class="flex-video">
         <iframe width="1280" height="720" src="//www.youtube.com/embed/o8NPllzkFhE" frameborder="0" allowfullscreen></iframe>
 </div>
+
+Fuente: [Fossbytes](https://fossbytes.com/linux-kernel-development-contributer/)
 
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
