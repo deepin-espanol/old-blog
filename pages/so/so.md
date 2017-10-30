@@ -22,7 +22,7 @@ header:
       <ul>
         <li><a href="{{ site.url }}{{ site.baseurl }}/manual/store/">Tienda de aplicaciones</a></li>
         <li><a href="{{ site.url }}{{ site.baseurl }}/manual/">Manual de uso</a></li>
-        <li><a href="{{ site.url }}{{ site.baseurl }}/update/">Actualización</a></li>
+        <li><a href="{{ site.url }}{{ site.baseurl }}/anexos/dudas/">Dudas frecuentes</a></li>
       </ul>
       Deepin está en crecimiento, es de código abierto y multilingüe:
       <ul>
@@ -46,4 +46,4 @@ header:
 
 * Darle un mantenimiento virtual a Deepin es fácil. Utiliza [Ubuntu Cleaner]({{ site.url }}/apps/ubuntucleaner/) para hacer una limpieza, [GParter]({{ site.url }}/apps/gparter/) para comprobar el disco duro, [Resetter]({{ site.url }}/apps/resetter/) para restaurar aplicaciones preinstaladas, [Synaptic]({{ site.url }}/apps/synaptic/) para gestionar paquetes del sistema, entre otros.
 
-* Estamos seguro que Deepin no trata de ser un Linux Mint (basada en Ubuntu), Manjaro (basada en Arch) o Korora (basada en Fedora). Visita [dudas frecuentes]({{ site.url }}/anexos/dudas/) para conocer en profundidad a esta distribución GNU/Linux.
+* Estamos seguro que Deepin no trata de ser un Linux Mint (basada en Ubuntu), Manjaro (basada en Arch) o Korora (basada en Fedora). Visita [dudas técnicas]({{ site.url }}/anexos/dudas-tecnicas/) para conocer en profundidad a esta distribución GNU/Linux.
