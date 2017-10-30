@@ -20,7 +20,7 @@ video:
 
 ## Qué es LibreOffice
 
-LibreOffice es una suite de ofimática de código abierto desarrollado por el equipo. Es la alternativa de código abierto de [WPS](({{ site.url }}{{ site.baseurl }}/apps/wps/) y desarrollado por la comunidad.
+LibreOffice es una suite de ofimática de código abierto desarrollado por el equipo. Es la alternativa de código abierto de [WPS]({{ site.url }}{{ site.baseurl }}/apps/wps/) y desarrollado por la comunidad.
 
 LO utiliza un sistema de formato diferente a la que fue las primeras versiones Microsoft Office, el [OpenDocument](https://es.wikipedia.org/wiki/OpenDocument). Tienes Writer, Calc o Impress.
 

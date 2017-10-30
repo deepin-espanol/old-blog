@@ -61,7 +61,7 @@ Varios:
 {: .text-right }
 
 ### ¿Qué puede proveer el controlador?
-El núcleo Linux o la aplicación correspondiente. Ten en cuenta que los parches comunitarios vienen incluidos. Sin embargo, algunas distribuciones agregan binarios (blobs) que añaden parches de rendimiento por la empresa pero carecen de una auditoría comunitaria.
+El núcleo Linux o la aplicación correspondiente. Ten en cuenta que los parches comunitarios vienen incluidos junto al código fuente. Sin embargo, algunas distribuciones agregan binarios (blobs) que añaden parches de rendimiento por la empresa pero carecen de una auditoría comunitaria (por motivos de licencia).
 
 Visita [esta página para conocer algunos aspectos del software libre]({{ site.url }}/anexos/dudas-softlibre/).
 

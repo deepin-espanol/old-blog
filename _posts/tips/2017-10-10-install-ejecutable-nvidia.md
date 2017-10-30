@@ -15,7 +15,7 @@ tags:
 Este es un apunte de septiembre de 2017 en que Carlos explica como instalar un ejecutable de Nvidia en la PC. Los pasos resultan liosos e inefectivos en algunas [tarjetas gráficas]({{ site.url }}/manual/videocard/).
 
 ## Explicación
-Bueno hoy les vengo a enseñar el proceso para instalar el driver Nvidia Oficial usando el Prompt ([del TTY](({{ site.url }}/tips/tty), claro).
+Bueno hoy les vengo a enseñar el proceso para instalar el driver Nvidia Oficial usando el Prompt ([del TTY]({{ site.url }}/tips/tty), claro).
 
 1. Descarga el archivo seleccionando su modelo en la [lista de NVidia](http://www.nvidia.es/Download/index.aspx?lang=es). El sistema operativo es Linux y la arquitectura de 32 ó 64 bits, según el caso.
 
