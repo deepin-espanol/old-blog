@@ -46,4 +46,4 @@ header:
 
 * Darle un mantenimiento virtual a Deepin es fácil. Utiliza [Ubuntu Cleaner]({{ site.url }}/apps/ubuntucleaner/) para hacer una limpieza, [GParter]({{ site.url }}/apps/gparter/) para comprobar el disco duro, [Resetter]({{ site.url }}/apps/resetter/) para restaurar aplicaciones preinstaladas, [Synaptic]({{ site.url }}/apps/synaptic/) para gestionar paquetes del sistema, entre otros.
 
-* Estamos seguro que Deepin no trata de ser un Linux Mint (basada en Ubuntu), Manjaro (basada en Arch) o Korora (basada en Fedora). Visita [dudas frecuentes]({{ site.url }}/anexos/dudas/) para conocer en produnidad a esta distribución GNU/Linux.
+* Estamos seguro que Deepin no trata de ser un Linux Mint (basada en Ubuntu), Manjaro (basada en Arch) o Korora (basada en Fedora). Visita [dudas frecuentes]({{ site.url }}/anexos/dudas/) para conocer en profundidad a esta distribución GNU/Linux.
