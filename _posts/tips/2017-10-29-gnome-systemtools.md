@@ -11,7 +11,7 @@ tags:
     - dialogo
     - apps
 ---
-Este apunte explica como funciona GNOME System Tools para configurar la red, los usuarios y carpetas compartidas.
+Este apunte explica como funciona GNOME System Tools para configurar la red, los usuarios y carpetas compartidas (compatible con Samba).
 
 ## Pasos
 1. Instala GNOME Tools con `sudo apt install gnome-tools & sudo apt install gnome-system-tools`
