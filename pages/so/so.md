@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title: "Índice el sistema operativo"
 subheadline: "Sistema operativo"
 teaser: "Páginas relacionadas al sistema operativo"
