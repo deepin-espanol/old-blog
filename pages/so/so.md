@@ -10,27 +10,40 @@ header:
    image_fullwidth: "wallpaper.jpg"
 ---
 
-Estas son las páginas acerca del sistema operativo Deepin:
+<div class="row t60">
+    <div class="medium-6 columns b30">
+      ¡Bienvenidos a Deepin! Así puedes comenzar Deepin:
+      <ul>
+        <li><a href="{{ site.url }}{{ site.baseurl }}/download/">Descarga</a></li>
+        <li><a href="{{ site.url }}{{ site.baseurl }}/instalacion/">Instalación</a></li>
+        <li><a href="{{ site.url }}{{ site.baseurl }}/update/">Actualización</a></li>
+      </ul>
+      Después de instalar:
+      <ul>
+        <li><a href="{{ site.url }}{{ site.baseurl }}/manual/store/">Tienda de aplicaciones</a></li>
+        <li><a href="{{ site.url }}{{ site.baseurl }}/manual/">Manual de uso</a></li>
+        <li><a href="{{ site.url }}{{ site.baseurl }}/update/">Actualización</a></li>
+      </ul>
+      Deepin está en crecimiento, es de código abierto y multilingüe:
+      <ul>
+        <li><a href="{{ site.url }}{{ site.baseurl }}/changelog/">Novedades y avances</a></li>
+        <li><a href="{{ site.url }}{{ site.baseurl }}/translate/">Traducción</a></li>
+        <li><a href="{{ site.url }}{{ site.baseurl }}/source/">Código fuente</a></li>
+      </ul>
+    </div><!-- /.medium-6.columns -->
 
-* [Descarga]({{ site.url }}{{ site.baseurl }}/download/).
-* [Instalación]({{ site.url }}{{ site.baseurl }}/instalacion/).
-* [Actualización]({{ site.url }}{{ site.baseurl }}/update/).
-* [Novedades y avances]({{ site.url }}{{ site.baseurl }}/changelog/).
-* [Traducción]({{ site.url }}{{ site.baseurl }}/translate/).
-* [Código fuente]({{ site.url }}{{ site.baseurl }}/source/).
+    <div class="medium-6 columns b30">
+      Deepin es un sistema operativo es disfrutable desde el comienzo conozcas. Está pensado en todo tipo de usuario y no tarda mucho tiempo en conocer sus funciones.
 
-### Recomendaciones
+      Si tienes alguna sugerencia o error del software, repórtalo desde <a href="{{ site.url }}{{ site.baseurl }}/actividades/feedback/">Deepin Feedback</a>. Basta acceder desde el lanzador y, si quieres añadir un archivo con detalles del sistema operativo, accede como administrador.
+    </div><!-- /.medium-6.columns -->
+</div><!-- /.row -->
 
-Deepin es un sistema operativo que irá mejorando a medida que conozcas. Está pensado en todo tipo de usuario pero necesitarás que tu equipo forma parte de esta aventura.
+## Aún hay más...
+* Si quieres usar reemplazos en Linux, [puedes comprobarlos por tu cuenta](http://www.datamation.com/open-source/78-open-source-replacements-for-expensive-applications-1.html).
 
-* Para no hacerte complicado el pase de cualquier sistema operativo a Deepin, debes conocer que aplicaciones son compatibles, [y cuales serían sus reemplazos](http://www.datamation.com/open-source/78-open-source-replacements-for-expensive-applications-1.html).
+* Si tienes problemas con el núcleo Linux, cámbialo por [uno compatible]({{ site.url }}{{ site.baseurl }}/tips/kernel/).
 
-* Tienes una [tienda de aplicaciones]({{ site.url }}{{ site.baseurl }}/apps/store/). Si Deepin está genial, no lo modifiques. Si tienes problemas con el núcleo Linux, cámbialo por [uno compatible]({{ site.url }}{{ site.baseurl }}/tips/kernel/).
+* Darle un mantenimiento virtual a Deepin es fácil. Utiliza [Ubuntu Cleaner]({{ site.url }}/apps/ubuntucleaner/) para hacer una limpieza, [GParter]({{ site.url }}/apps/gparter/) para comprobar el disco duro, [Resetter]({{ site.url }}/apps/resetter/) para restaurar aplicaciones preinstaladas, [Synaptic]({{ site.url }}/apps/synaptic/) para gestionar paquetes del sistema, entre otros.
 
-* Darle un mantenimiento a Deepin es fácil. Utiliza [Ubuntu Cleaner]({{ site.url }}/apps/ubuntucleaner/) para hacer una limpieza, [GParter]({{ site.url }}/apps/gparter/) para comprobar el disco duro, [Resetter]({{ site.url }}/apps/resetter/) para restaurar aplicaciones preinstaladas, [Synaptic]({{ site.url }}/apps/synaptic/) para gestionar paquetes del sistema, entre otros.
-
-* Si tienes alguna sugerencia o error del software, repórtalo desde [Deepin Feedback](http://feedback.deepin.org/?language=en_US). Basta acceder desde el lanzador y, si quieres añadir un archivo con detalles del sistema operativo, accede como administrador.
-
-## Hay más... GNU/Linux
-
-Estamos seguro que hay otras distros relacionados a Deepin como Linux Mint (basada en Ubuntu), Manjaro (basada en Arch) o Korora (basada en Fedora). Si necesitas alguno por su complejidad, compatibilidad o enfocado en empresas, elige cualquiera de los tres. Si usas el tema Adapta Theme en entornos KDE o GNOME, lo harás más moderno de lo esperado.
+* Estamos seguro que Deepin no trata de ser un Linux Mint (basada en Ubuntu), Manjaro (basada en Arch) o Korora (basada en Fedora). Visita [dudas frecuentes]({{ site.url }}/anexos/dudas/) para conocer en produnidad a esta distribución GNU/Linux.
