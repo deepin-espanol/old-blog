@@ -13,6 +13,7 @@ header:
           {% for post in site.categories.apps %}
           <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
           {% endfor %}
+      </ul>
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-6 columns b30">

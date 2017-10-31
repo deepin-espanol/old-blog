@@ -13,7 +13,7 @@ permalink: "/tips/"
           {% for post in site.tags.destacado %}
           <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
           {% endfor %}
-          </ul>
+      </ul>
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-6 columns b30">
