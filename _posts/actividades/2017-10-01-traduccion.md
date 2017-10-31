@@ -6,7 +6,7 @@ teaser: "Participa en la traducción"
 header:
    image_fullwidth: "wallpaper.jpg"
 tags:
-    - traduccion
+    - traducciones
     - localizacion
     - apk
 categories:

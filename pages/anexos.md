@@ -17,7 +17,7 @@ permalink: "/anexos/"
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-6 columns b30">
-      Esta categoría contiene páginas que anexan las categorías <a href="{{ site.url }}{{ site.baseurl }}/manual/">Manual</a> y <a href="{{ site.url }}{{ site.baseurl }}/tips/">Tips</a>. Están las dudas frecuentes, fondos de pantalla o listas de apoyo.
+      Esta categoría contiene páginas que anexan las categorías <a href="{{ site.url }}{{ site.baseurl }}/manual/">Manual</a> y <a href="{{ site.url }}{{ site.baseurl }}/tips/">Tips</a>. Están las dudas frecuentes, fondos de pantalla o listas de apoyo para <a href="{{ site.url }}{{ site.baseurl }}/traducciones/">Traducciones</a> u otros.
 
       Explora más en el <a href="{{ site.url }}{{ site.baseurl }}/blog/archive/">Archivo</a>, la <a href="{{ site.url }}{{ site.baseurl }}/introduccion/">Introducción</a> o la sección <a href="{{ site.url }}{{ site.baseurl }}/info/">Información</a>.
     </div><!-- /.medium-6.columns -->
