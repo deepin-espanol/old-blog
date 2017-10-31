@@ -8,9 +8,10 @@ header:
    image_fullwidth: "header_unsplash_5.jpg"
 permalink: "/headers/"
 ---
-Mira, estas son las aplicaciones:
-<ul>
-    {% for post in site.tags.apps %}
-    <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-</ul>
+Mira, estas son las categorías:
+
+<a href="{{ site.url }}{{ site.baseurl }}/apps/">📁 Aplicaciones</a>, <a href="{{ site.url }}{{ site.baseurl }}/manual/">📒 Manual de uso</a>, <a href="{{ site.url }}{{ site.baseurl }}/tips/">sección 💡 Tips</a>, <a href="{{ site.url }}{{ site.baseurl }}/noticias/">📣 Noticias</a>, <a href="{{ site.url }}{{ site.baseurl }}/actividades/">🎆 Actividades</a> y <a href="{{ site.url }}{{ site.baseurl }}/anexos/">Anexos</a> y a href="{{ site.url }}{{ site.baseurl }}/tecnico/">Técnico</a>
+
+Mira estas son las etiquetas:
+
+<a href="{{ site.url }}{{ site.baseurl }}/escenciales/">📍 escenciales</a>, <a href="{{ site.url }}{{ site.baseurl }}/icons/">🎨 iconos</a>, <a href="{{ site.url }}{{ site.baseurl }}/games/">🕹️ juegos</a>, <a href="{{ site.url }}{{ site.baseurl }}/anexos/dudas">❓ dudas frecuentes</a>, <a href="{{ site.url }}{{ site.baseurl }}/guiapps/">guiapps</a>, <a href="{{ site.url }}{{ site.baseurl }}/originales/">originales</a>

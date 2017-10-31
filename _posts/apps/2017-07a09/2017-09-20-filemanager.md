@@ -4,7 +4,7 @@ title: "Gestor de archivos de Deepin"
 subheadline: "Aplicaciones"
 teaser: "Instala Deepin como si fuera una aplicación Windows."
 tags:
-    - original
+    - originales
     - gesor
     - archivos
     - explorador

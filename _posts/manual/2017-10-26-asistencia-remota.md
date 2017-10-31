@@ -11,6 +11,7 @@ tags:
     - deepin
     - ejecutar
     - apps
+    - originales
 ---
 Al iniciar Deepin, tienes las opción de usar la asistencia remota para que un(a) amigo(a) pueda ver tu equipo sin tener que estar en ella.
 
