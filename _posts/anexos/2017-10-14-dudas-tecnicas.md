@@ -172,6 +172,12 @@ Sí. Echa un vistazo [al tip]({{ site.url }}{{ site.baseurl }}/tips/cifrar-docs/
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
 
+### ¿Cómo ahorrar y diagnosticar el consumo de energía?
+Sí. Echa un vistazo [al tip]({{ site.url }}{{ site.baseurl }}/tips/ahorro-energia/). El centro de control tiene algunas opciones, por curiosidad.
+
+<small markdown="1">[Ir al índice](#toc)</small>
+{: .text-right }
+
 ### ¿Qué contenido adicional sobre Linux me recomiendas?
 Si quieres estar más al tanto sobre Deepin, [al directorio extra]({{ site.url }}{{ site.baseurl }}/anexos/directorio-extra/). Hay personas como tú que también están usando GNU/Linux de forma normal.
 
