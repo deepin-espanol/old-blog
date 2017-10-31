@@ -92,6 +92,9 @@ En Deepin 15.4 se usa [ALSA](https://www.alsa-project.org/main/index.php/Main_Pa
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
 
+### ¿Cómo configuro la impresora?
+Con la aplicación Configuración de impresión (`system-config-printer`). También puedes instalar `apt install printer-driver-cups-pdf`.
+
 ### ¿Puedo cambiar el núcleo de Linux para que mi equipo funcione mejor?
 Sí. Esta opción debes considerar como último recurso. Los detalles [encontrarás en el tip]({{ site.url }}{{ site.baseurl }}/tips/kernel/).
 

@@ -199,6 +199,7 @@ Palabras sin traducción sencilla y dependerá del sentido común del traductor:
 * developer: Desarrollador(a)
 * issue: Tema (hilo del foro) o problema (para relacionar a fallo)
 * edition: Edición (informa el tipo de sistema operativo, no solo la versión)
+* swap: partición de intercambio (también espacio o memoria)
 
 ### Palabras no traducibles {#notraducir}
 Palabras que **no se deben traducir** debido a la falta de palabras que aproximen el resultado.
