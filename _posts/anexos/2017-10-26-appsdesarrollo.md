@@ -44,6 +44,10 @@ Hay que considerar que algunos editores de texto usan un entorno de desarrollo i
       <td>Git</td>
       <td>Atom (integrado), Visual Code (plugin), Gitkraken (freemium)</td>
     </tr>
+    <tr>
+      <td>Bosquejo de aplicaciones</td>
+      <td>Mockinbot (móvil)</td>
+    </tr>
   </tbody>
 </table>
 

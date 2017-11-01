@@ -28,25 +28,25 @@ Si quieres desinstalar puedes hacerlo desde el lanzador de aplicaciones.
 ## De forma externa
 ### Paquetes de Debian (deb)
 
-Este método no es muy recomendable como Deepin Store. Termina siendo útil para obtener versiones más actualizadas o no incluidas en la tienda.
+Este método no es muy recomendable que el método vía Deepin Store. Termina siendo útil para obtener versiones alternativas o no incluidas en la tienda.
 
-Ten en cuenta que el sistema de paquetes usa dependencias. No funciona con aplicaciones exclusivamente diseñadas para Ubuntu, recomendamos usar vía snap en su lugar para evitar "romper" el sistema. En estos casos, la aplicación te alertará antes de instalar.
+Ten en cuenta que el sistema de paquetes usa dependencias, para administrar usa [Synaptic]({{ site.url }}{{ site.baseurl }}/apps/synaptic/). No funciona con aplicaciones exclusivamente diseñadas para Ubuntu, recomendamos usar otros métodos en su lugar.
 
-Siempre haz un respaldo de tus documentos.
+Para instalar un paquete de Debian suelto o varios de ellos:
 
 1. Ejecuta Deepin Deb Installer;
 2. Selecciona el paquete o arrastra varios a la vez;
 3. Comprueba si hay problemas con los paquetes;
 4. Si se instala correctamente, se cerrará la ventana;
-5. Disfruta.
+5. Ejecuta desde el lanzador de aplicaciones.
 
 ### Archivos Flatpak
 
 Instalar vía Flatpak es una alternativa a los tradiciones deb, reduciendo las posibilidades de "dejar inoperativa al sistema operativo". Cuando es un programa Flatpak, utiliza sus propias librerías, reduciendo la dependencia con los componentes del sistema.
 
-Es compatible con cualquier distribución Linux y te permite actualizar a la última versión de forma independiente, reduciendo la carga de trabajo a los desarrolladores.
+Es compatible con cualquier distribución Linux y te permite actualizar a la última versión de forma independiente, reduciendo la carga de trabajo a los desarrolladores. La documentación lo encontrarás en la [sección Técnico]({{ site.url }}{{ site.baseurl }}/tecnico/flatpak/).
 
-Desde Deepin 15.5, es posible instalar. Los archivos llevan la terminación .flatpak. Para la interfaz de usuario necesitarás que el sistema operativo soporte librerías KDE, GNOME o DTK.
+Desde Deepin 15.5, ya es posible instalar aplicaciones de ese tipo. Los "instaladores" llevan la terminación .flatpak. Para instalar es necesario un entorno de arranque KDE, GNOME o DTK, dependiendo de la librería gráfica, incluida en el sistema operativo.
 
 ### Snap
 Snap es otra alternativa a la instalción tradicional, desarrollada por Cannonical y está diseñada para Ubuntu. En Deepin es bastante recomendable para ejecutar aplicaciones pero tiene algunas limitaciones.
