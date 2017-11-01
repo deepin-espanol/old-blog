@@ -17,7 +17,7 @@ video:
 ---
 <!--more-->
 
-Seamonkey es una aplicación multiusos compuesta de un navegador web, cliente de correo electrónico, libreta de contactos, editor de páginas web y cliente de IRC. Es ideal para consumir en equipos
+Seamonkey es una aplicación multiusos compuesta de un navegador web, cliente de correo electrónico, libreta de contactos, editor de páginas web y cliente de IRC. Es ideal para ofimáticos intensivos en la organización y la comunicación.
 
 ## Descarga
 

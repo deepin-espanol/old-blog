@@ -166,6 +166,10 @@ Ver **[Aplicaciones de desarrollo]({{ site.url }}{{ site.baseurl }}/anexos/appsd
       <td>Diseño de casas 3D</td>
       <td><a href="{{ site.url }}{{ site.baseurl }}/apps/freecad">Sweet Home</a></td>
     </tr>
+    <tr>
+      <td>Presión y exploración subterránea</td>
+      <td><a href="{{ site.url }}{{ site.baseurl }}/apps/subsurface">Subsurface</a></td>
+    </tr>
     </tbody>
 </table>
 
