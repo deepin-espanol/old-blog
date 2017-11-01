@@ -15,6 +15,8 @@ breadcrumb: true
 ---
 Deepin es probado constantemente por desarrolladores y voluntarios. Si tienes participación activa, dominas el inglés y formas parte del foro oficial, puedes integrarte al selecto equipo de desarrollo de Deepin.
 
+Recuerda que este grupo es algo restrictivo. Debes tener buena [preparación]({{ site.url }}{{ site.baseurl }}/anexos/dudas-tecnicas/) en caso de fallos gráficos o errores del sistema y reportarlos al equipo técnico.
+
 ## Derechos
 1. Obtendrás los ultimos avances del sistema operativo y las aplicaciones tan pronto posible.
 2. Obtendrás los planes de desarrollo y sus progresiones.
