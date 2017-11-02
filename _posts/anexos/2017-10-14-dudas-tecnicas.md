@@ -161,7 +161,7 @@ Sí. Echa un vistazo [al anexo]({{ site.url }}{{ site.baseurl }}/anexos/dudas-dr
 ### ¿Qué son los permisos de superusuario o administrador (root)?
 Son permisos que permiten modificar los componentes del sistema.
 
-Si al instalar por primera vez, te olvidaste la contraseña recurre [al tip]({{ site.url }}{{ site.baseurl }}/tips/recuperar-usuario/). Si quieres gestionar los permisos recurre al [otro tip]({{ site.url }}{{ site.baseurl }}/tips/permisos-usuario/)
+Si al instalar por primera vez, te olvidaste la contraseña recurre [al tip]({{ site.url }}{{ site.baseurl }}/tips/recuperar-usuario/). Si quieres gestionar los permisos recurre al [otro tip]({{ site.url }}{{ site.baseurl }}/tips/permisos-usuario/).
 
 Fuente: [Hipertextual](https://hipertextual.com/2015/10/superusuario-en-linux)
 
