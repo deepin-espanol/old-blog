@@ -40,7 +40,6 @@ Recuerda que esos métodos son medidas drásticas. Y eso puede ocurrir:
 ## Fuente
 * [LinuxZone](https://linuxzone.es/faq/%C2%BFcomo-poner-y-recuperar-la-contrasena-de-administrador/)
 
-
 ## Lectura adicional
 * [Dudas sobre la terminal]({{ site.url }}{{ site.baseurl }}/anexos/dudas-terminal/).
 * [Cambiar permisos de usuario]({{ site.url }}{{ site.baseurl }}/tips/permisos-usuario/).

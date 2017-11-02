@@ -14,7 +14,7 @@ tags:
 Este es un aporte para cambiar las credenciales del usuario y de administrador. Recuerda que la contraseña es indispensable para iniciar sesión. Si quieres evitar que intrusos accedan a Deepin, tienes esta opción.
 
 ## Mediante GNOME System Tools
-Visita [Usar GNOME System Tools]({{ site.url }}{{ site.baseurl }}/tips/gnome-system-tools/).
+Visita [Usar GNOME System Tools]({{ site.url }}{{ site.baseurl }}/tips/gnome-systemtools/).
 
 ## Mediante la terminal
 Para conceder al otro usuario los permisos de superadministrador:
