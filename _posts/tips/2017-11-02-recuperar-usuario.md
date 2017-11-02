@@ -39,6 +39,7 @@ Recuerda que esos métodos son medidas drásticas. Y eso puede ocurrir:
 
 ## Fuente
 * [LinuxZone](https://linuxzone.es/faq/%C2%BFcomo-poner-y-recuperar-la-contrasena-de-administrador/)
+* [Linuxito](https://www.linuxito.com/seguridad/226-como-recuperar-el-password-de-root)
 
 ## Lectura adicional
 * [Dudas sobre la terminal]({{ site.url }}{{ site.baseurl }}/anexos/dudas-terminal/).
