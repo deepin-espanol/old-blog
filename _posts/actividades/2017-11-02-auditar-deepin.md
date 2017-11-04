@@ -26,3 +26,7 @@ En Deepin en Español ayudamos a los usuarios a hacer de Deepin un sistema opera
 * [YASAT](https://github.com/montjoie/yasat): Auditar la seguridad de algunos componentes de Debian
 * [Kali](https://www.kali.org/): Seguridad en las redes
 * `rm - rf` para borrado drástico con todos los archivos
+
+## Reportes
+* [CVE Details](http://www.cvedetails.com/vulnerability-list/vendor_id-16338/Deepin.html)
+* [Bugzilla](https://bugzilla.deepin.io/)
