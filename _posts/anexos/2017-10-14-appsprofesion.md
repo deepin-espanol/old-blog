@@ -198,6 +198,27 @@ Ver **[Aplicaciones de desarrollo]({{ site.url }}{{ site.baseurl }}/anexos/appsd
     </tbody>
 </table>
 
+## Ingeniería de sonido
+<table>
+  <caption>🔖 Música y sonido</caption>
+  <colgroup>
+    <col span="1" style="width: 30%;">
+    <col span="1" style="width: 70%;">
+      </colgroup>
+  <thead>
+    <tr>
+      <th>Función</th>
+      <th>Aplicaciones</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Composición de música</td>
+      <td>MuseScore</td>
+    </tr>
+    </tbody>
+</table>
+
 ## Simuladores
 Nota: El listado no cuenta si la simulación es ultra-realista.
 <table>
