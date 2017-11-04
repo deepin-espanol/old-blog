@@ -1,15 +1,16 @@
 ---
 layout: page
 title: "Auditar Deepin"
-subheadline: "Apliaciones"
+subheadline: "Actividades "
 teaser: "Ayúdanos a hacer de Deepin más seguro."
 categories:
     - actividades
 tags:
-    - listados
-    - traducciones
+    - seguridad
+    - source
 header:
     image_fullwidth: "header_drop.jpg"
+breadcrumb: true    
 ---
 En Deepin en Español ayudamos a los usuarios a hacer de Deepin un sistema operativo transparente y un entorno seguro. Basta comprobar el [código fuente]({{ site.url }}{{ site.baseurl }}/source/). Te ofrecemos algunas heramientas.
 
