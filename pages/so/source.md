@@ -46,6 +46,8 @@ Evita el cliché hacer un proyecto **solo para entusiastas** o generar conflicto
 
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/anexos/dudas-tecnicas/">¿Quieres conocer más sobre el sistema operativo? ›</a>
 
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/actividades/auditar-deepin/">¿Desconfías del código fuente? Pon a prueba su seguridad›</a>
+
 {% include alert success='Quieres mejorar, ¡colabora con nosotros!' %}
 {% include _improve_content.html %}
 

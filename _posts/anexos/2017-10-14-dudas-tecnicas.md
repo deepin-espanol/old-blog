@@ -95,6 +95,8 @@ Los desarrolladores publican parches [en su blog](https://www.deepin.org/en/secu
 
 En resumen, los componentes recibirán **actualizaciones críticas**.
 
+Aún así, si tienes experiencie en cíberseguridad, [revisa el código fuente y reporta cualquier anomalía]({{ site.url }}{{ site.baseurl }}/actividades/audiar-deepin/).
+
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
 
