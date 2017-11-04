@@ -4,7 +4,7 @@ title: "Auditar Deepin"
 subheadline: "Apliaciones"
 teaser: "Ayúdanos a hacer de Deepin más seguro."
 categories:
-    - anexos
+    - actividades
 tags:
     - listados
     - traducciones
