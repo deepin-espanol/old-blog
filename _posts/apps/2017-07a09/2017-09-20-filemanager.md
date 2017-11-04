@@ -26,7 +26,7 @@ Es fácil de usar, personalizable con paquetes de iconos e integrado directament
 
 ## Disponibilidad
 
-Viene por defecto en el escritorio. Es obligatorio al incustar [el escritorio en otras distribuciones]({{ site.url }}/manual/otrasdistros/).
+Viene por defecto en el escritorio. Si usas en [versiones no oficiales de Deepin]({{ site.url }}/manual/sabores/) tendrás instalado por defecto y no puedes desinstalar por motivos de seguridad.
 
 ## Limitaciones
 

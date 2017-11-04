@@ -35,11 +35,19 @@ Algunos proveedores de drivers ofrecen un enlace para obtener los instaladores e
 * [Intel Graphics](https://www.linuxquestions.org/questions/linux-deepin-101/intel-linux-graphics-installer-4175539264/)
 * [NVidia]({{ site.url }}/apps/install-ejecutable-nvidia/).
 
+## OpenGL y Vulcan
+Algunos controladores integran el funcionamiento gráfico para ejecutar videojuegos con la mayor calidad posible. Esas tecnologías más estandarizadas y abiertas son [OpenGL](https://www.opengl.org/) y Vulkan. Para que puedas disfrutar de los juegos, comprueba si es compatible con esas tecnologías, incluso los juegos de Windows compatibles con OpenGL tienen [la posibilidad de funcionar en Deepin]({{ site.url }}/manual/exeapps/).
+
+Si tienes algunos problemas con los juegos, tendrás que revisar la versión soportada de OpenGL. En cambio, si tu equipo es de 2016 y posteriores puedes usar su tecnología sucesora, Vulkan, para tener la mejor calidad posible.
+
 ## Vídeo
 AMD:
 <div class="flex-video">
         <iframe width="1280" height="720" src="//www.youtube.com/embed/sHoC9nZNcS0" frameborder="0" allowfullscreen></iframe>
 </div>
+
+## Lectura adicional
+* [Dudas sobre controladores]({{ site.url }}/anexos/dudas-drivers/)
 
 ### Más en Manual
 {: .t60 }

@@ -2,7 +2,7 @@
 layout: page
 title:  "Mis documentos"
 subheadline:  "Manual"
-teaser: "Un vistazo a tus documentos"
+teaser: "Un vistazo a tus documentos y al gestor de archivos de Deepin"
 sidebar: right
 categories:
     - manual
@@ -17,7 +17,7 @@ tags:
 Cuando quieras guardar tus archivos, tienes una carpeta de Documentos. Lo administras en [el gestor de archivos incluido]({{ site.url }}/apps/filemanager/).
 
 ## Sobre el gestor de documenos
-## A primera vista
+### A primera vista
 
 En la parte superior se encuentra los botones de avanzar y retroceder, la ubicación de la carpeta que te ubicas, un buscador y un listado de archivos.
 
@@ -42,6 +42,7 @@ Además de tus documentos, tienes debajo la lista de dispositivos conectados com
 
 ## Adicional
 * Si tienes malestar al abrir o guardar con el gestor de archivos, [desactiva la opción "Usar en otras aplicaciones"]({{ site.url }}/apps/solucion-cuadrodialogo/).
+* Puedes establecer si se montan las unidades automáticamente o quieres abrir con un clic desde los Ajustes.
 
 ### Más en Manual
 {: .t60 }

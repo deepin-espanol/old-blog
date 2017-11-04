@@ -14,28 +14,58 @@ tags:
     - transplantar
 
 ---
-Aparte del sistema operativo Deepin, puedes portar e instalar el escritorio de entorno en distros compatibles, como Ubuntu, Linux Mint o portar por tu cuenta.
-
-## Considera que:
-
-Hasta la versión 14, Deepin estuvo basado en el sistema operativo Ubuntu. Sin embargo, a partir de su sucesor, Deepin usa la base, Debian Sid.
+Aparte del sistema operativo Deepin, puedes portar e instalar el escritorio de entorno en distros compatibles, como Ubuntu, Linux Mint o portar por tu cuenta. Está lista indica en qué distros se portó.
 
 ## Distribuciones transplantadas
-
 ### Distribuciones preparadas
-Revisa:
 * [Sabores de Deepin no oficiales]({{ site.url }}/manual/sabores/)
 * [Hacer el disco de arranque]({{ site.url }}/manual/discoarranque/)
 
-### Distribuciones que requieren instalar
-
+### Distribuciones que requieren instalar por separado
 Cada respositorio tiene los componentes para descargar e instalar. Desde el [sitio web oficial](https://www.deepin.org/es/dde/desktop-transplantation/) encontramos:
 
-* Manjaro Deepin
-* Arch Linux con Deepin
-* [Gentoo](https://github.com/zhtengw/deepin-overlay)
-* [Sparkylinux](https://sparkylinux.org/deepin-desktop-environment/)
-* Ubuntu
+<table>
+  <caption>&lt;table&gt; defines an HTML table</caption>
+  <colgroup>
+    <col span="1" style="width: 26%;">
+    <col span="1" style="width: 26%;">
+    <col span="1" style="width: 48%;">
+  </colgroup>
+  <thead>
+    <tr>
+      <th>Nombre original</th>
+      <th>Nombre en español</th>
+      <th>Notas</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>File Manager</td>
+      <td>Gestor de archivos</td>
+      <td>De la encuesta de agosto de 2017</td>
+    </tr>
+    <tr>
+      <td>Arch Linux con Deepin</td>
+      <td>---</td>
+      <td>Ver página Sabores</td>
+    </tr>
+    <tr>
+      <td>Gentoo</td>
+      <td>[Gentoo](https://github.com/zhtengw/deepin-overlay)</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Sparkylinux</td>
+      <td>[Sparkylinux](https://sparkylinux.org/deepin-desktop-environment/)</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ubuntu</td>
+      <td>[PPA](https://launchpad.net/~leaeasy/+archive/ubuntu/dde)</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
 Consulta la página de ayuda o el foro de la comunidad para ver el avance en cada distro.
 

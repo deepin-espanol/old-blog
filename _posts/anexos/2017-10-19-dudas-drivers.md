@@ -65,6 +65,13 @@ El núcleo Linux o la aplicación correspondiente. Ten en cuenta que los parches
 
 Visita [esta página para conocer algunos aspectos del software libre]({{ site.url }}/anexos/dudas-softlibre/).
 
+### ¿Qué son OpenGL y Vulcan?
+Algunos controladores gráficos usan [OpenGL](https://www.opengl.org/) y Vulkan (bajo el auspicio del Grupo Khronos) para ejecutar aplicaciones con imágenes sofisticadas. Incluso los juegos de Windows compatibles con OpenGL tienen [la posibilidad de funcionar en Deepin]({{ site.url }}/manual/exeapps/).
+
+La versión 1 de OpenGL se anunció en 1992 y es una alternativa a Direct3D, viene integrado en todas las distribuciones Linux. Vulkan es una evolución y ofrece varias mejoras en gráficos 3D y permite ejecutar en varias plataformas y está disponible para algunos equipos con la versión 4 de OpenGL en adelante.
+
+Cuando más reciente es la versión, más posibilidades de tener gráficos y detallados y fluídos.
+
 ## Problemas con los controladores
 ### ¿Es posible usar el controlador propietario de la tarjeta gráfica?
 Sí. Algunos paquetes para optimizar la tarjeta gráfica de NVidia, por ejemplo, está disponible por separado. Visita [está página para conocer los controladores exclusivos disponibles]({{ site.url }}/manual/videocard/).
