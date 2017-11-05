@@ -3,6 +3,7 @@ layout: video
 title: "Gestor de archivos de Deepin"
 subheadline: "Aplicaciones"
 teaser: "Instala Deepin como si fuera una aplicación Windows."
+breadcrumb: true    
 tags:
     - originales
     - gesor
