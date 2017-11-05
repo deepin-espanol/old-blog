@@ -178,6 +178,14 @@ Fuente: [Gamblisfx](https://web.archive.org/web/20170606022618/http://gamblisfx.
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
 
+### ¿Es posible filtrar contenido de la web?
+Sí. Como [el cortafuegos]({{ site.url }}{{ site.baseurl }}/apps/gufw/) o [la edición del archivo de configuración "host"]({{ site.url }}{{ site.baseurl }}/tips/editar-host/).
+
+Fuente: [Gamblisfx](https://web.archive.org/web/20170606022618/http://gamblisfx.com/how-to-create-deepin-15-4-live-usb-from-linux/)
+
+<small markdown="1">[Ir al índice](#toc)</small>
+{: .text-right }
+
 ### ¿Puedo cifrar la carpeta Mis documentos?
 Sí. Echa un vistazo [al tip]({{ site.url }}{{ site.baseurl }}/tips/cifrar-docs/). Por el momento, en Deepin 15.4 no tienes la opción de cifrar desde el centro de control.
 
