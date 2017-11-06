@@ -4,6 +4,7 @@ title:  "Configuración de pantalla en Deepin"
 subheadline:  "Manual"
 teaser: "Calibrando los monitores para tu escritorio"
 sidebar: right
+breadcrumb: true
 categories:
     - manual
 tags:

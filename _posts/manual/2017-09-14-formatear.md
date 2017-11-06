@@ -4,6 +4,7 @@ title:  "Formatear particiones"
 subheadline:  "Manual"
 teaser: "Organizando archivos en particiones"
 sidebar: right
+breadcrumb: true
 categories:
     - manual
 tags:

@@ -4,6 +4,7 @@ title:  "Formas de instalar Deepin"
 subheadline:  "Manual"
 teaser: "Seamos creativos"
 sidebar: right
+breadcrumb: true
 categories:
     - manual
 tags:

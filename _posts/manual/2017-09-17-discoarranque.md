@@ -4,6 +4,7 @@ title:  "Elaborar disco de arranque"
 subheadline:  "Manual"
 teaser: "Elabora el instalador en tu USB o DVD"
 sidebar: right
+breadcrumb: true
 categories:
     - manual
 tags:

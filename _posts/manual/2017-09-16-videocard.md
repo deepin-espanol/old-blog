@@ -4,6 +4,7 @@ title:  "Tarjeta de vídeo"
 subheadline:  "Manual"
 teaser: "Revisando la calidad gráfica"
 sidebar: right
+breadcrumb: true
 categories:
     - manual
 tags:

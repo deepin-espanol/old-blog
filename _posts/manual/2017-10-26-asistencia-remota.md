@@ -4,6 +4,7 @@ title:  "Asistencia remota"
 subheadline:  "Manual"
 teaser: "Usando la asistencia remota de Deepin"
 sidebar: right
+breadcrumb: true
 categories:
     - manual
 tags:

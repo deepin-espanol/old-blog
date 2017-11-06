@@ -4,6 +4,7 @@ title:  "Centro de control"
 subheadline:  "Manual"
 teaser: "Ajustes del sistema"
 sidebar: right
+breadcrumb: true
 categories:
     - manual
 tags:
