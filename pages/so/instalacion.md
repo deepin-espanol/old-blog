@@ -33,6 +33,8 @@ Antes de usar Deepin tu equipo debe estar preparado con estos requisitos:
 
 Los equipos más recientes soportan más memoria RAM ya que son de 64 bits de arquitectura. En caso que tengas problemas con la versión original, instala su versión Arch llamado [Manjaro Deepin](https://manjaro.org/category/community-editions/deepin/) que soporta 32 bis también (y es recomendado para esa arquitectura).
 
+Si el sistema de particiones del disco duro es GPT no lo instales. Usa el gestor de particiones y crea una nueva tabla MBR para evitar problemas.
+
 Para los gráficos, consulta [la página "Tarjetas de vídeo"]({{ site.url }}{{ site.baseurl }}/manual/videocard/).
 
 ## Instalación

@@ -8,7 +8,7 @@ header:
     image_fullwidth: "header_drop.jpg"
 ---
 
-En Deepin comentamos y comprobamos varias aplicaciones despúes de [instalar el sistema operativo]({{ site.url }}{{ site.baseurl }}/instalacion/). No obstante, te mostramos una selección de [aplicaciones escenciales]({{ site.url }}{{ site.baseurl }}/apps/) que deberías revisar para tareas cotidianas, incluyendo aplicaciones originales de Deepin.
+En Deepin comentamos y comprobamos varias aplicaciones despúes de [instalar el sistema operativo]({{ site.url }}{{ site.baseurl }}/instalacion/). No obstante, te mostramos una selección de [aplicaciones escenciales]({{ site.url }}{{ site.baseurl }}/apps/) que deberías revisar para tareas cotidianas, incluyendo [aplicaciones originales]({{ site.url }}{{ site.baseurl }}/originales/) de Deepin.
 
 Para listas de aplicaciones centradas en tareas específicas, visita la lista [Guía de aplicaciones]({{ site.url }}{{ site.baseurl }}/guiaapps/). Iremos aumentando con la ayuda de colaboradores.
 

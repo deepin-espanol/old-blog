@@ -139,7 +139,7 @@ Viendo tu mismo. La forma más sencilla es desde el [lanzador]({{ site.url }}{{ 
 
 Empaquetar a Flatpak permite a los desarrolladores tener las últimas mejoras de sus aplicaciones sin problemas. Sus componentes se actualizan de forma silenciosa y no interfieren con los componentes del sistema. Flatpak es desarrollado por la comunidad.
 
-Por su puesto, las aplicaciones originales están integradas bajo Flatpak por defecto. Disponibles desde la versión 15.5 del sistema operativo. Si quieres conocer este método de instalación visita [flatpak.org](http://flatpak.org/apps.html) o nuestra [página técnica]({{ site.url }}{{ site.baseurl }}/tecnico/flatpak/).
+Por su puesto, las [aplicaciones originales]({{ site.url }}{{ site.baseurl }}/originales/) están integradas bajo Flatpak por defecto. Disponibles desde la versión 15.5 del sistema operativo. Si quieres conocer este método de instalación visita [flatpak.org](http://flatpak.org/apps.html) o nuestra [página técnica]({{ site.url }}{{ site.baseurl }}/tecnico/flatpak/).
 
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
