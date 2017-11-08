@@ -8,9 +8,9 @@ breadcrumb: true
 categories:
     - manual
 tags:
-    - bios
-    - arranque
-    - uefi
+    - usuarios
+    - permisos
+    - administrador
 ---
 
 En tenemos Deepin usamos los usuarios. Aquí te explicamos como gestionar en la computadora.
