@@ -12,9 +12,9 @@ header:
     image_fullwidth: "header_drop.jpg"
 ---
 
-En Deepin comentamos y comprobamos varias aplicaciones despúes de [instalar el sistema operativo]({{ site.url }}{{ site.baseurl }}/instalacion/).
+En Deepin tenemos [guías de aplicaciones]({{ site.url }}{{ site.baseurl }}/guiapps/), despúes de [instalar el sistema operativo]({{ site.url }}{{ site.baseurl }}/instalacion/) recopilamos y comentamos esas cosas importantes del software.
 
-En esta página te mostramos un catálogo amplio. Algunas de ellas [vienen incluidas]({{ site.url }}{{ site.baseurl }}/escenciales/), mientras que otras requieren de instalación via Deepin Store o su sitio web.
+En esta página te mostramos un catálogo de aplicaciones para profesionales. Algunas de ellas [vienen incluidas]({{ site.url }}{{ site.baseurl }}/escenciales/), mientras que otras requieren de instalación via Deepin Store o su sitio web.
 
 ## Literatura
 <table>
@@ -154,6 +154,10 @@ Ver **[Aplicaciones de desarrollo]({{ site.url }}{{ site.baseurl }}/anexos/appsd
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>Cartografía</td>
+      <td>JOSM</td>
+    </tr>
     <tr>
       <td>Diseño CAD 3D</td>
       <td>BRL-CAD, <a href="{{ site.url }}{{ site.baseurl }}/apps/freecad">FreeCAD</a>, gCAD3D, QCad</td>

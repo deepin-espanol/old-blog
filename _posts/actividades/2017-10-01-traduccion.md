@@ -37,11 +37,22 @@ Visita la página del proyecto en [Transifex](https://www.transifex.com/linuxdee
 ## Recomendaciones
 
 * Tenemos un [listado en crecimiento]({{ site.url }}{{ site.baseurl }}/traducciones/). La mayoría en español internacional.
-* Ten cuidado al traducir palabras que podrían ser verbos o infinitivos. Como "update" que es "actualización" o "actualizar".
 * Para mejorar la presición puedes recurrir al origen del idioma como "Chino". Compara con el traductor automático y saca conclusiones.
 * Céntrate en las palabras por traducir ya que son publicadas en unas horas.
 
+### Conjugaciones
+Hay situaciones en que las frases deben apuntar a un significado:
+
+* Si traducir un verbo en inglés al español podría manter el infinitivo:
+  - "Update": "Actualización", acción en general;
+  - "Update": "Actualizar", órden por quién ejecuta.
+* Ten cuidado con los modos verbales, el primero muestra un acto a realizar, el segundo una acción hipotética y el tercero como una orden:
+  - Indicativo: Introduce la contraseña, respalda los datos, reinicia el equipo;
+  - Subjuntivo e : Introduzca la contraseña, respalde los datos, reinicie el equipo;
+  - Imperativo: Introduzca la contraseña, respalde los datos, reinicie el equipo.
+
 ## Páginas de apoyo
 
+* Para la explicación de modos verbales citamos a [About en Español](https://www.aboutespanol.com/los-modos-verbales-2879639)
 * Para traducciones automáticas recurre a DeepL, Yandex, Bing o Google.
 * Tienes la [información de contacto]({{ site.url }}{{ site.baseurl }}/info/contacto/) para comunicar con los colaboradores.

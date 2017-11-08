@@ -61,17 +61,35 @@ No. Si has usado "Símbolo de sistema" en Windows, las órdenes tienen algunas d
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
 
+## Permisos de administrador
+### ¿Qué es root?
+Root (traducido como "raíz") es aquel usuario que tiene permisos para modificar el sistema operativo.
+
+<small markdown="1">[Ir al índice](#toc)</small>
+{: .text-right }
+
 ### ¿Qué es sudo?
-Es un juego de palabras relacionadas a "Superuser Do". Permite ejecutar con superpermisos. Se debe anteponer `sudo` antes de la frase:
+Es un juego de palabras relacionadas a "Superuser Do" para conceder como "root". Se debe anteponer `sudo` antes de la frase:
 
 {% include alert terminal='sudo apt update' %}
-
-No estás obligado al ejecutar algunas shells para ver archivos, por ejemplo. Sin embargo, debes tener cuidado al realizar actividades críticas, como configurar el sistema operativo.
 
 Fuente: [Element2048](https://element2048.wordpress.com/2007/02/12/el-comando-su-sudo-y-root/)
 
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
+
+### ¿Debe tener una contraseña de root?
+Sí. Si quieres cambiar la contraseña, escribe en la terminal `passwd` y escribir dos veces la nueva contraseña.
+
+{% include alert terminal='sudo passwd' %}
+
+<small markdown="1">[Ir al índice](#toc)</small>
+{: .text-right }
+
+### ¿Es necesario anteponer sudo?
+No estás obligado. Al ejecutar algunas shells para ver archivos, por ejemplo, basta escribir el "nombre del programa". Sin embargo, cuando algunos "programitas" necesitan editar partes críticas del sistema" es obligatorio".
+
+Si quieres realizar actividades críticas sin tener que escribir `sudo` cada cierto tiempo, escribe en esa línea `su` y confirma con la contraseña.
 
 ## Ejemplos
 Estos son algunos comandos que puedes descubrir. En estos casos, no necesitas escribir "sudo", o sea pedir permisos de administrador.

@@ -11,7 +11,7 @@ tags:
 header:
     image_fullwidth: "header_drop.jpg"
 ---
-En Deepin en Español buscamos que las palabras sean comprensibles para los hablantes de Cervantes. Desde la [instalación el sistema operativo]({{ site.url }}{{ site.baseurl }}/instalacion/), nosotros debemos dejar una interfaz comprensible y sencilla.
+En Deepin en Español tenemos una lista de traducciones para los hablantes de Cervantes. Desde la [instalación el sistema operativo]({{ site.url }}{{ site.baseurl }}/instalacion/), nosotros debemos dejar una interfaz comprensible y sencilla.
 
 {% include alert success='Esta página forma parte de una <a href="/dudas">serie de traducciones</a> para Deepin en Español' %}
 
@@ -200,6 +200,7 @@ Palabras sin traducción sencilla y dependerá del sentido común del traductor:
 * issue: Tema (hilo del foro) o problema (para relacionar a fallo)
 * edition: Edición (informa el tipo de sistema operativo, no solo la versión)
 * swap: partición de intercambio (también espacio o memoria)
+* sorry: lo sentimos (en lugar de "disculpa", para mencionar del equipo a usuario(a))
 
 ### Palabras no traducibles {#notraducir}
 Palabras que **no se deben traducir** debido a la falta de palabras que aproximen el resultado.

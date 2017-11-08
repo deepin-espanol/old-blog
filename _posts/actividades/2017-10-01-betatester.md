@@ -1,8 +1,8 @@
 ---
 layout: page-fullwidth
-title: "Pruebas internas en Deepin"
+title: "Pruebas internas en Deepin (InternalTesting)"
 subheadline: "Actividades"
-teaser: "Forma parte de las pruebas del equipo interno"
+teaser: "Forma parte de las versiones de desarrollo del equipo interno"
 header:
    image_fullwidth: "wallpaper.jpg"
 tags:
@@ -13,9 +13,9 @@ categories:
     - actividades
 breadcrumb: true  
 ---
-Deepin es probado constantemente por desarrolladores y voluntarios. Si tienes participación activa, dominas el inglés y formas parte del foro oficial, puedes integrarte al selecto equipo de desarrollo de Deepin.
+Deepin es probado constantemente por desarrolladores y voluntarios. Si tienes participación activa, dominas el inglés y formas parte del foro oficial, puedes integrarte al equipo de desarrollo interno de Deepin.
 
-Recuerda que este grupo es algo restrictivo. Debes tener buena [preparación]({{ site.url }}{{ site.baseurl }}/anexos/dudas-tecnicas/) en caso de fallos gráficos o errores del sistema y reportarlos al equipo técnico.
+Recuerda que este grupo es selectivo. Debes tener buena [preparación]({{ site.url }}{{ site.baseurl }}/anexos/dudas-tecnicas/), saber reportar anomalías y estar al día con el equipo técnico.
 
 ## Derechos
 1. Obtendrás los ultimos avances del sistema operativo y las aplicaciones tan pronto posible.
@@ -31,5 +31,6 @@ Recuerda que este grupo es algo restrictivo. Debes tener buena [preparación]({{
 5. Evita difundir detalles confidenciales del equipo interno sin permiso.
 
 ## Páginas de desarrollo
+Para inscribirte, sigue las instrucciones en [el foro de Deepin](https://bbs.deepin.org/forum.php?mod=viewthread&tid=131244).
 
-Para inscribirte, sigue las instrucciones en [el foro de Deepin](https://bbs.deepin.org/forum.php?mod=viewthread&tid=131244&extra=page%3D1).
+Una vez inscrito, serás un(a) colaborador(a) de pruebas (betatester) y deberás seguir las instrucciones establecidas por los desarrolladores y coordinadores de grupo.

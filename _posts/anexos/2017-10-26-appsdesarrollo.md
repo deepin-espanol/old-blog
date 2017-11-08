@@ -12,9 +12,9 @@ header:
     image_fullwidth: "header_drop.jpg"
 ---
 
-En Deepin comentamos y comprobamos varias aplicaciones despúes de [instalar el sistema operativo]({{ site.url }}{{ site.baseurl }}/instalacion/).
+En Deepin tenemos [guías de aplicaciones]({{ site.url }}{{ site.baseurl }}/guiapps/), despúes de [instalar el sistema operativo]({{ site.url }}{{ site.baseurl }}/instalacion/) recopilamos y comentamos esas cosas importantes del software.
 
-En esta página te mostramos un catálogo para desarrolladores de aplicaciones. Algunas de ellas [vienen incluidas]({{ site.url }}{{ site.baseurl }}/escenciales/), mientras que otras requieren de instalación via Deepin Store o su sitio web.
+En esta página te mostramos un catálogo para desarrolladores de software y hardware. Algunas de ellas [vienen incluidas]({{ site.url }}{{ site.baseurl }}/escenciales/), mientras que otras requieren de instalación via Deepin Store o su sitio web.
 
 Hay que considerar que algunos editores de texto usan un entorno de desarrollo integrado​​ para compilar y depurar código fuente.
 
@@ -115,6 +115,26 @@ Hay que considerar que algunos editores de texto usan un entorno de desarrollo i
     <tr>
       <td>Desarrollo de videojuegos</td>
       <td>Godot, GDevelop</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <caption>🔖 Robótica</caption>
+  <colgroup>
+    <col span="1" style="width: 30%;">
+    <col span="1" style="width: 70%;">
+      </colgroup>
+  <thead>
+    <tr>
+      <th>Función</th>
+      <th>Aplicaciones</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Audrino</td>
+      <td>Arduino Create</td>
     </tr>
   </tbody>
 </table>
