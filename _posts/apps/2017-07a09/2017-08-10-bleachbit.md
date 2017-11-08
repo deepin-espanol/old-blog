@@ -13,7 +13,7 @@ categories:
 iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/hyLb6ZATdkc' frameborder='0' allowfullscreen></iframe>"
 #
 # These video settings are totally optional. It's only purpose
-# is SEO, so that videos show up in Google hopefully with a 
+# is SEO, so that videos show up in Google hopefully with a
 # thumbnail.
 # More › https://developers.google.com/webmasters/videosearch/schema?hl=en&rd=1
 #
@@ -30,7 +30,7 @@ video:
 
 ## Qué es BlechBit
 
-Bleachbit es un programa multiplataforma de código abierto para realizar limpieza. Aunque necesitarás permisos de administrador (root), BleachBit elimina archivos residuales de componentes inútiles. Además, borra la caché, las miniaturas del gestor de archivos, la memoria almacenada del sistema y los archivos del navegador para mejor privacidad.
+Bleachbit es un programa multiplataforma de código abierto para realizar limpieza. Aunque necesitarás permisos de administrador ([root]({{ site.url }}{{ site.baseurl }}/manual/usuarios-root/)), BleachBit elimina archivos residuales de componentes inútiles. Además, borra la caché, las miniaturas del gestor de archivos, la memoria almacenada del sistema y los archivos del navegador para mejor privacidad.
 
 Tienes dos opciones: "Previsualizar" para revisar la cantidad de datos que podrías liberar y "Borrar".
 

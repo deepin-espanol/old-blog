@@ -11,7 +11,7 @@ tags:
     - password
     - acceso
 ---
-Este es un aporte para cambiar las credenciales del usuario y de administrador. Recuerda que la contraseña es indispensable para iniciar sesión. Si quieres evitar que intrusos accedan a Deepin, tienes esta opción.
+Este es un aporte para cambiar las credenciales del usuario y de [administrador]({{ site.url }}{{ site.baseurl }}/manual/usuarios-root/). Recuerda que la contraseña es indispensable para iniciar sesión. Si quieres evitar que intrusos accedan a Deepin, tienes esta opción.
 
 ## Mediante GNOME System Tools
 Visita [Usar GNOME System Tools]({{ site.url }}{{ site.baseurl }}/tips/gnome-systemtools/).

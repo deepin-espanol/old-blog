@@ -11,7 +11,7 @@ tags:
     - password
     - acceso
 ---
-Este es un aporte para conseguir las credenciales del usuario y de administrador. Recuerda que la contraseña es indispensable para iniciar sesión. Si quieres evitar que intrusos accedan a Deepin, tienes esta opción.
+Este es un aporte para conseguir las credenciales del usuario y de [administrador]({{ site.url }}{{ site.baseurl }}/manual/usuarios-root/). Recuerda que la contraseña es indispensable para iniciar sesión. Si quieres evitar que intrusos accedan a Deepin, tienes esta opción.
 
 ## Cambiar la contraseña de usuario la terminal
 1. Ejecuta el comando `sudo passwd [nombre de usuario]`
