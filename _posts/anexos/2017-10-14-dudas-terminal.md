@@ -87,7 +87,7 @@ Sí. Si quieres cambiar la contraseña, escribe en la terminal `passwd` y escrib
 {: .text-right }
 
 ### ¿Es necesario anteponer sudo?
-No estás obligado. Al ejecutar algunas shells para ver archivos, por ejemplo, basta escribir el "nombre del programa". Sin embargo, cuando algunos "programitas" necesitan editar partes críticas del sistema" es obligatorio".
+No estás obligado. Al ejecutar algunas shells para ver archivos, por ejemplo, basta escribir el "nombre del programa". Sin embargo, cuando algunos "programitas" necesitan editar partes críticas del sistema es obligatorio.
 
 Si quieres realizar actividades críticas sin tener que escribir `sudo` cada cierto tiempo, escribe en esa línea `su` y confirma con la contraseña.
 
