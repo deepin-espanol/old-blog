@@ -34,45 +34,12 @@ En esta página respondemos las dudas relacionadas a los controladores en Deepin
 {: .text-right }
 
 ## Preámbulo
-Queremos explicarte cómo funciona Deepin con las tres primeras preguntas.
-### ¿Qué es un controlador? ¿Para qué sirve?
+### ¿Cómo funciona los controladores?
+Queremos explicarte cómo funciona Deepin. En el [manual]({{ site.url }}{{ site.baseurl }}/manual/controladores/), explicamos de forma sencillo cómo funciona un controlador
 
-Un controlador (también "driver" o "rutina") es un software encargado de enviar y recibir información del dispositivo y es el intermediario del sistema operativo.
+Para comprobar si el dispositivo funciona comprueba si está instalado el módulo dinámico del núcleo o DKMS, algo así como un plugin.
 
-<div class="flex-video">
-        <iframe width="1280" height="720" src="//www.youtube.com/embed/d5BQwOowSiA" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
-
-### ¿Qué dispositivos puede cubrir el controlador?
-Varios:
-
-* Tarjetas gráficas
-* Placa madre o Motherboard
-* Lectora de disco
-* Impresoras
-* Micrófonos
-* Altavoces o parlantes
-* Y muchos más...
-
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
-
-### ¿Qué puede proveer el controlador?
-El núcleo Linux o la aplicación correspondiente. Ten en cuenta que los parches comunitarios vienen incluidos junto al código fuente. Sin embargo, algunas distribuciones agregan binarios (blobs) que añaden parches de rendimiento por la empresa pero carecen de una auditoría comunitaria (por motivos de licencia).
-
-Visita [esta página para conocer algunos aspectos del software libre]({{ site.url }}/anexos/dudas-softlibre/).
-
-### ¿Qué son OpenGL y Vulcan?
-Algunos controladores gráficos usan [OpenGL](https://www.opengl.org/) y Vulkan (bajo el auspicio del Grupo Khronos) para ejecutar aplicaciones con imágenes sofisticadas. Incluso los juegos de Windows compatibles con OpenGL tienen [la posibilidad de funcionar en Deepin]({{ site.url }}/manual/exeapps/).
-
-La versión 1 de OpenGL se anunció en 1992 y es una alternativa a Direct3D, viene integrado en todas las distribuciones Linux. Vulkan es una evolución y ofrece varias mejoras en gráficos 3D y permite ejecutar en varias plataformas y está disponible para algunos equipos con la versión 4 de OpenGL en adelante.
-
-Cuando más reciente es la versión, más posibilidades de tener gráficos y detallados y fluídos.
-
-## Problemas con los controladores
+## Preguntas
 ### ¿Es posible usar el controlador propietario de la tarjeta gráfica?
 Sí. Algunos paquetes para optimizar la tarjeta gráfica de NVidia, por ejemplo, está disponible por separado. Visita [está página para conocer los controladores exclusivos disponibles]({{ site.url }}/manual/videocard/).
 
@@ -83,6 +50,14 @@ Si al instalar, no puedes iniciar Deepin, [vuelve a instalar Nouveau]({{ site.ur
 
 ### ¿Cómo arreglar la tarjeta inalámbrica o Wifi?
 Por defecto, la conexión inalámbrica está actividada en Laptops y dispositivos tipo "rompe muros". Si tienes problemas, [este tip te sirve para encontrar una solución a la conectividad WiFi]({{ site.url }}/tips/wififix/).
+
+<small markdown="1">[Ir al índice](#toc)</small>
+{: .text-right }
+
+### ¿Es posbile arreglar el Bluetooth? ¿Puedo compartir archivos?
+El Bluetooth es un estándar para transferir datos de forma inalámbrica. Basta instalar los paquetes `Bluetooth`, `bluez` y `pulse-audio` (para los audífonos).
+
+Si tienes problemas con la interfaz gráfica, prueba con `blueman` de GNOME.
 
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
