@@ -23,7 +23,7 @@ Las reglas para añadir las palabras frecuentes son sencillas: deben ser **fáci
 Palabras relacionadas a la interfaz y tienen la misma cantidad de caracteres o menos. Recomendamos usar las palabras traducidas para mejorar la "experiencia de uso" en botones y menúes, y usar sinónimos si se emplean en oraciones largas.
 
 <table>
-  <caption>Glosario</caption>
+  <caption>Glosario de sustantivos y adverbios</caption>
   <colgroup>
     <col span="1" style="width: 26%;">
     <col span="1" style="width: 26%;">
@@ -41,6 +41,11 @@ Palabras relacionadas a la interfaz y tienen la misma cantidad de caracteres o m
       <td>Control center</td>
       <td>Centro de control </td>
       <td></td>
+    </tr>
+    <tr>
+      <td>Bookmark</td>
+      <td>Marcador</td>
+      <td>Aplica en el gestor de archivos</td>
     </tr>
     <tr>
       <td>Desktop</td>
@@ -143,11 +148,6 @@ Palabras relacionadas a la interfaz y tienen la misma cantidad de caracteres o m
       <td></td>
     </tr>
     <tr>
-      <td>Open/Close</td>
-      <td>Abrir/Cerrar</td>
-      <td>Opened/Closed = Abierto/Cerrado</td>
-    </tr>
-    <tr>
       <td>User Interface</td>
       <td>Interfaz de usuario</td>
       <td>Abreviado UI</td>
@@ -156,6 +156,55 @@ Palabras relacionadas a la interfaz y tienen la misma cantidad de caracteres o m
       <td>Font</td>
       <td>Fuente</td>
       <td>Typografy = Tipografía</td>
+    </tr>
+    <tr>
+      <td>Mirror</td>
+      <td>Espejo</td>
+      <td>También Mirror Site, Mirror repository</td>
+    </tr>
+    <tr>
+      <td>Hotspot</td>
+      <td>Conexión compartida</td>
+      <td>En algunos sistemas operativos señalan como "Punto de conexión"</td>
+    </tr>
+  </tbody>
+</table>
+
+### Verbos
+<table>
+  <caption>Traducciones de verbos</caption>
+  <colgroup>
+    <col span="1" style="width: 26%;">
+    <col span="1" style="width: 26%;">
+    <col span="1" style="width: 48%;">
+  </colgroup>
+  <thead>
+    <tr>
+      <th>Nombre original</th>
+      <th>Nombre en español</th>
+      <th>Notas</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Delete</td>
+      <td>Borrar</td>
+      <td>Delete Completely es "Borrar permanentemente"</td>
+    </tr>
+    <tr>
+      <td>Restore</td>
+      <td>Restaurar</td>
+      <td>También "deshacer"</td>
+    </tr>
+    <tr>
+      <td>OK/Cancel</td>
+      <td>Aceptar/Cancelar</td>
+      <td>Desaconsejamos "De acuerdo" al OK.</td>
+    </tr>
+    <tr>
+      <td>Open/Close</td>
+      <td>Abrir/Cerrar</td>
+      <td>Opened/Closed = Abierto/Cerrado</td>
     </tr>
     <tr>
       <td>Select</td>
@@ -176,16 +225,6 @@ Palabras relacionadas a la interfaz y tienen la misma cantidad de caracteres o m
       <td>Install</td>
       <td>Instalar</td>
       <td>Installed = Instalado. El infinitivo es Instalación</td>
-    </tr>
-    <tr>
-      <td>Mirror</td>
-      <td>Espejo</td>
-      <td>También Mirror Site, Mirror repository</td>
-    </tr>
-    <tr>
-      <td>Hotspot</td>
-      <td>Conexión compartida</td>
-      <td>En algunos sistemas operativos señalan como "Punto de conexión"</td>
     </tr>
   </tbody>
 </table>

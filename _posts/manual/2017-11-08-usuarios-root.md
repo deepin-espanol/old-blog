@@ -29,7 +29,7 @@ Para usar la cuenta root, no es necesario ingresar como un usuario aparte. Al in
 Más detalles: [Manual]({{ site.url }}{{ site.baseurl }}/manual/usuarios-root/)
 
 ### Contraseña
-La cuenta root debe tener una contraseña. Si quieres cambiar la contraseña, escribe en la terminal `passwd` y escribir dos veces la nueva contraseña.
+La cuenta root debe tener una contraseña. Puedes cambiar desde el centro de control u ordenando en la terminal `passwd` y escribir dos veces la nueva contraseña.
 
 {% include alert terminal='sudo passwd' %}
 

@@ -11,9 +11,11 @@ tags:
     - usuarios
     - permisos
     - administrador
+image:
+    title: header_unsplash_7
 ---
 
-En tenemos Deepin usamos los usuarios. Aquí te explicamos como gestionar en la computadora.
+Gracias por usar Deepin. En Deepin en Español tenemos una colección de artículos para iniciar a usar.
 
 ## Primeros pasos
 * [Temas]({{ site.url }}{{ site.baseurl }}/manual/temas/): Personaliza Deepin
@@ -33,13 +35,14 @@ En tenemos Deepin usamos los usuarios. Aquí te explicamos como gestionar en la 
 ## Pasos adicionales
 * [Controladores]({{ site.url }}{{ site.baseurl }}/manual/controladores/): Para todos los dispositivos posibles
 * [Pantalla]({{ site.url }}{{ site.baseurl }}/manual/office/): Configurando la pantalla
-* [Impresión]({{ site.url }}{{ site.baseurl }}/manual/office/): Imprime documentos
+* [Impresión]({{ site.url }}{{ site.baseurl }}/manual/impresion/): Imprime documentos
 * [Usuarios y root]({{ site.url }}{{ site.baseurl }}/manual/usuarios-root/): Para casos de emergencia
 * [Fuentes TrueType]({{ site.url }}{{ site.baseurl }}/tips/fuentes-truetype/): Se consiguen por separado
 
 ## Lectura adicional
 * [LinuxAdictos](https://www.linuxadictos.com/4-cosas-despues-instalar-debian.html)
 * [Dudas frecuentes]({{ site.url }}{{ site.baseurl }}/tips/dudas/)
+* [Página dedicada a la instalación]({{ site.url }}{{ site.baseurl }}/instalacion/)
 * [Página dedicada a las actualizaciones]({{ site.url }}{{ site.baseurl }}/update/)
 
 ### Más en Manual
