@@ -1,8 +1,8 @@
 ---
 layout: page
-title:  "Después de instalar Deepin y Root"
+title:  "Después de instalar Deepin"
 subheadline:  "Manual"
-teaser: "Un vistazo rápido a Deepin"
+teaser: "Un guía para empezar Deepin con fuerza"
 sidebar: right
 breadcrumb: true
 categories:
