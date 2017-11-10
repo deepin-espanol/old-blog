@@ -8,10 +8,10 @@ categories:
     - tips
 tags:
     - fix
-    - dialogo
-    - apps
+    - fuentes
+    - truetype
 ---
-Este tip te ayuda a conseguir las fuentes de Windows en Deepin.
+Este tip te ayuda a conseguir las fuentes de Windows en Deepin. TrueType es una marca propiedad de Microsoft, por lo que lo conseguirás por separado.
 
 ## Desde la terminal
 Basta ejecutar estos pasos y aceptar la licencia para instalar.
