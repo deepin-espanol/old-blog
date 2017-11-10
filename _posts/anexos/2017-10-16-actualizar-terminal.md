@@ -106,7 +106,13 @@ Si los problemas persisten, revisa [la sección Dudas técnicas]({{ site.url }}{
 {: .text-right }
 
 #### Dice que el archivo está sources.list protegido
-Eso se debe a que las actualizaciones centro de control están haciendo el trabajo de actualizar. Reinicia el equipo.
+Eso se debe a que las actualizaciones centro de control están haciendo el trabajo de actualizar. Reinicia el equipo (método seguro) o ejecuta en la terminal
+
+~~~
+sudo rm /var/cache/apt/archives/lock & sudo rm /var/lib/dpkg/lock & sudo rm /var/lib/apt/lists/lock
+~~~
+
+Nota: Este código usa `rm` para borrar los archivos `lock` de las tres carpetas.
 
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }

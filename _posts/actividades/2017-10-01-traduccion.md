@@ -50,6 +50,7 @@ Hay situaciones en que las frases deben apuntar a un significado:
   - Indicativo: Introduce la contraseña, respalda los datos, reinicia el equipo;
   - Subjuntivo e : Introduzca la contraseña, respalde los datos, reinicie el equipo;
   - Imperativo: Introduzca la contraseña, respalde los datos, reinicie el equipo.
+* En el caso de acciones fallidas, es preferible "No es posible..." a "No se puede...".
 
 ## Páginas de apoyo
 
