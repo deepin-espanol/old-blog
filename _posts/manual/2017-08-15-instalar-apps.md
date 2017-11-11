@@ -54,13 +54,13 @@ Snap es otra alternativa a la instalción tradicional, desarrollada por Cannonic
 ### appimage
 También puedes usar los archivos "appimage", archivos comprimidos portables para ejecutar aplicaciones.  A diferencia de Flatpak y Snap, los programas sin necesidad de instalarlos.
 
-Los archivos se guardan en una carpeta con el nombre del programa, que puedes cambiar creando una propia tipo `.miapp`.
+Los archivos se guardan en una carpeta con el nombre del programa, que puedes cambiar creando una propia tipo `.miapp`. Si quieres añadir al lanzador prueba [el editor de menúes]({{ site.url }}{{ site.baseurl }}/tips/alacarte/), disponible por separado.
 
 ## Otras formas
 ### Ejecutables sueltos
 La instalaciones vía script (extensiones `sh` o `run`) o binarios (extensión `bin`) son diferentes a los paquetes de Debian o Flatpak. Para este método necesitarás conocer el código fuente y su estado de desarrollo. El código fuente está dentro de ejecutable o comprimido en tarball (extensiones tar.gz o tgz).
 
-Para instalar, realiza en [Make Install]({{ site.url }}{{ site.baseurl }}/tips/make-install/). En ocasiones se traslada la información sin acceso directo; si eso sucede, considera [crearlo uno]({{ site.url }}{{ site.baseurl }}/tips/accesodirecto/).
+Para instalar, realiza en [Make Install]({{ site.url }}{{ site.baseurl }}/tips/make-install/). En ocasiones se traslada la información sin acceso directo; si eso sucede, considera [crearlo uno]({{ site.url }}{{ site.baseurl }}/tips/accesodirecto/) o [añádelo al lanzador]({{ site.url }}{{ site.baseurl }}/tips/alacarte/).
 
 Recuerda, si notas que el [código fuente está ofuscado]({{ site.url }}{{ site.baseurl }}/tips/ofuscar-scriptbash/) y proviene de un sitio web desconocido, ***no lo ejecutes***.
 

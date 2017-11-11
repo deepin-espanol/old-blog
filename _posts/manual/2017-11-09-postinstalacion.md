@@ -38,6 +38,7 @@ Gracias por usar Deepin. En Deepin en Español tenemos una colección de artícu
 * [Impresión]({{ site.url }}{{ site.baseurl }}/manual/impresion/): Imprime documentos
 * [Usuarios y root]({{ site.url }}{{ site.baseurl }}/manual/usuarios-root/): Para casos de emergencia
 * [Fuentes TrueType]({{ site.url }}{{ site.baseurl }}/tips/fuentes-truetype/): Se consiguen por separado
+* [Deepin Recovery]({{ site.url }}{{ site.baseurl }}/manual/deepin-recovery/): Para copias de seguridad, particiones y modo seguro
 
 ## Lectura adicional
 * [LinuxAdictos](https://www.linuxadictos.com/4-cosas-despues-instalar-debian.html)
