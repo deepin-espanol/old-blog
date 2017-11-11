@@ -15,7 +15,7 @@ image:
     title: header_unsplash_7
 ---
 
-Deepin Recovery es una opción para situaciones críticas. Es el equivalente al "Modo seguro". Disponible desde Deepin 15.5.
+Deepin Recovery es una opción para situaciones críticas. Es el equivalente al "Modo seguro". Disponible desde Deepin 15.5 y trabaja mejor con Deepin Clone.
 
 ## Aplicaciones
 <div class="row">
@@ -31,6 +31,9 @@ Incluye a Firefox (versión reducida), terminal, captura de pantalla, gestor de 
     <img src="{{ site.urlimg }}deepinrecovery2.png" alt="Captura de Deepin Recovery">
     </div><!-- /.medium-4.columns -->
 </div>
+
+## Nota
+Si actualizas desde Deepin 15.4.1, deberás incluir `full-upgrade y sudo apt-get install live-filesystem`.
 
 ## Lectura adicional
 * [Página dedicada a la instalación]({{ site.url }}{{ site.baseurl }}/instalacion/)
