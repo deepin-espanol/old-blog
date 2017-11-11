@@ -100,6 +100,12 @@ Aún así, si tienes experiencie en cíberseguridad, [revisa el código fuente y
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
 
+### ¿Deepin tiene un "modo seguro"?
+Sí. El [Deepin Recovery]({{ site.url }}{{ site.baseurl }}/manual/deepinrecovery/). Contiene una cantidad limitada de aplicaciones, incluyendo algnas para particiones y copias de seguridad.
+
+<small markdown="1">[Ir al índice](#toc)</small>
+{: .text-right }
+
 ### ¿Cómo funciona el entorno gráfico? ¿Qué componentes?
 Deepin tiene su entorno gráfico llamado [Deepin Evolment Desktop]({{ site.url }}{{ site.baseurl }}/tecnico/api/). Es bastante simple que tienes a [Deepin Store]({{ site.url }}{{ site.baseurl }}/manual/instalar-apps/) para instalar aplicaciones a unos clics.
 
