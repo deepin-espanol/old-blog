@@ -11,6 +11,7 @@ tags:
     - clone
     - backup
     - particiones
+    - originales
 image:
     title: header_unsplash_7
 ---
