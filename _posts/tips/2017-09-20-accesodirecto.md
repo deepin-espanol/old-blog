@@ -44,3 +44,4 @@ Name es el nombre del programa, Comment la descripción e Icon el logotipo de la
 ## Lectura adicional
 * [Linuxadictos](https://www.linuxadictos.com/crear-accesos-directos-ubuntu.html)
 * [GeekTheory](https://geekytheory.com/como-crear-un-lanzador-o-acceso-directo-en-ubuntu)
+* [Añadir accesor al lanzador con Alacarte]({{ site.url }}{{ site.baseurl }}/tips/alacarte/)
