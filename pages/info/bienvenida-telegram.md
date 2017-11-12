@@ -33,7 +33,7 @@ Acciones a evitar, la cual puedes ser **expulsado(a) permanentemente** del grupo
 * Spam: Publicar otros grupos y comunidades sin autorización de los administradores.
 * Acoso: Molestar a la comunidad o a sus administradores. Si no tienes confianza con los usuarios, actúa con dignidad y evita actitudes sospechosas. Pero si tienes amistad o confianza, mantén el respeto para dar el ejemplo.
 * Añadir bots: No envíes bots sin ser revisados por el administrador. De ser así, el administrador podrá expulsar al usuario y al bot sin previo aviso.
-* Contenido chocante: Abusar con material pornográfico, violencia gratuita o contenido que incite al dañar la dignidad humana.
+* Contenido chocante: Provocar con material pornográfico, violencia gratuita o contenido que incite a daño de la dignidad humana.
 
 ### Páginas de ayuda
 * Para quienes no conocen el sistema operativo, tenemos lista [una página de presentación]({{ site.url }}{{ site.baseurl }}/presentacion) y un catálogo de [dudas frecuentes]({{ site.url }}{{ site.baseurl }}/dudas) para ganar tiempo.
