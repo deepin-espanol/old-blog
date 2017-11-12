@@ -17,19 +17,19 @@ sitemap: false
 </div><!-- /.medium-4.columns -->
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
-Bienvenidos y bienvenidas al grupo Deepin en Español en la plataforma Telegram.
+Bienvenidos y bienvenidas al grupo [Deepin en Español]({{ site.url }}{{ site.baseurl }}/info/) en la plataforma Telegram.
 
 Gracias por entrar al grupo; cada vez que alguien más se une a nuestra comunidad, es grato para quienes llevamos tiempo conseguir un entorno amistoso y seguro. Buscamos nuevos compañeros(as) educados(as), respetuosos(as) y con buena vibra social, para ello tendrás seguir algunos puntos claves.
 
 Recuerda, Deepin en Español no solo se conforma por nuestro grupo de Telegram, también podrás encontrar nuestra presencia en otros medios. Lo explicaremos al final.
 
 ### Reglas de conducta
-Acciones a moderar, la cual puedes ser expulsado temporalmente (dependiendo del caso) del grupo:
+Acciones a moderar, la cual puedes ser **expulsado(a) temporalmente** (dependiendo del caso) del grupo:
 * Mal uso de los bots: Ten cuidado con icono de "/" junto al bot. Esas órdenes de los bots se usan en situaciones concretas.
 * Flood: Envíar varias veces el mismo mensaje por un breve tiempo no es buena idea, escribir "asdfgh" tampoco, o enviar demasiados stickers y GIFS sin que tengan un valor expresivo arruina el flujo de comunicación.
 * Off-Topic: Este grupo se enfoca en discutir y ofrecer apoyo sobre Deepin. Por lo que puedes hablar temas relacionados a Debian, los núcleos Linux, Software Libre o relacionados. Sin embargo, evita hablar de otras distribuciones, sistemas operativos y otras cosas ajenas al tema y que desvirtúa el verdadero objetivo de la comunidad.
 
-Acciones a evitar, la cual puedes ser ***expulsado permanentemente*** del grupo:
+Acciones a evitar, la cual puedes ser **expulsado(a) permanentemente** del grupo:
 * Spam: Publicar otros grupos y comunidades sin autorización de los administradores.
 * Acoso: Molestar a la comunidad o a sus administradores. Si no tienes confianza con los usuarios, actúa con dignidad y evita actitudes sospechosas. Pero si tienes amistad o confianza, mantén el respeto para dar el ejemplo.
 * Añadir bots: No envíes bots sin ser revisados por el administrador. De ser así, el administrador podrá expulsar al usuario y al bot sin previo aviso.
