@@ -25,19 +25,20 @@ Recuerda, Deepin en Español no solo se conforma por nuestro grupo de Telegram, 
 
 ### Reglas de conducta
 Acciones a moderar, la cual puedes ser expulsado temporalmente (dependiendo del caso) del grupo:
-• Mal uso de los bots: Ten cuidado con icono de "/" junto al bot. Esas órdenes de los bots se usan en situaciones concretas.
-• Flood: Envíar varias veces el mismo mensaje por un breve tiempo no es buena idea, escribir "asdfgh" tampoco, o enviar demasiados stickers y GIFS sin que tengan un valor expresivo arruina el flujo de comunicación.
-• Off-Topic: Este grupo se enfoca en discutir y ofrecer apoyo sobre Deepin. Por lo que puedes hablar temas relacionados a Debian, los núcleos Linux, Software Libre o relacionados. Sin embargo, evita hablar de otras distribuciones, sistemas operativos y otras cosas ajenas al tema y que desvirtúa el verdadero objetivo de la comunidad.
+* Mal uso de los bots: Ten cuidado con icono de "/" junto al bot. Esas órdenes de los bots se usan en situaciones concretas.
+* Flood: Envíar varias veces el mismo mensaje por un breve tiempo no es buena idea, escribir "asdfgh" tampoco, o enviar demasiados stickers y GIFS sin que tengan un valor expresivo arruina el flujo de comunicación.
+* Off-Topic: Este grupo se enfoca en discutir y ofrecer apoyo sobre Deepin. Por lo que puedes hablar temas relacionados a Debian, los núcleos Linux, Software Libre o relacionados. Sin embargo, evita hablar de otras distribuciones, sistemas operativos y otras cosas ajenas al tema y que desvirtúa el verdadero objetivo de la comunidad.
 
 Acciones a evitar, la cual puedes ser ***expulsado permanentemente*** del grupo:
-• Spam: Publicar otros grupos y comunidades sin autorización de los administradores.
-• Acoso: Molestar a la comunidad o a sus administradores. Si no tienes confianza con los usuarios, actúa con dignidad y evita actitudes sospechosas. Pero si tienes amistad o confianza, mantén el respeto para dar el ejemplo.
-• Añadir bots: No envíes bots sin ser revisados por el administrador. De ser así, el administrador podrá expulsar al usuario y al bot sin previo aviso.
-• Contenido chocante: Abusar con material pornográfico, violencia gratuita o contenido que incite al dañar la dignidad humana.
+* Spam: Publicar otros grupos y comunidades sin autorización de los administradores.
+* Acoso: Molestar a la comunidad o a sus administradores. Si no tienes confianza con los usuarios, actúa con dignidad y evita actitudes sospechosas. Pero si tienes amistad o confianza, mantén el respeto para dar el ejemplo.
+* Añadir bots: No envíes bots sin ser revisados por el administrador. De ser así, el administrador podrá expulsar al usuario y al bot sin previo aviso.
+* Contenido chocante: Abusar con material pornográfico, violencia gratuita o contenido que incite al dañar la dignidad humana.
 
 ### Páginas de ayuda
-* Para quienes no conocen el sistema operativo, tenemos listo [una página de presentación]({{ site.url }}{{ site.baseurl }}/presentacion) y un catálogo de [dudas frecuentes]({{ site.url }}{{ site.baseurl }}/dudas) para ganar tiempo.
+* Para quienes no conocen el sistema operativo, tenemos lista [una página de presentación]({{ site.url }}{{ site.baseurl }}/presentacion) y un catálogo de [dudas frecuentes]({{ site.url }}{{ site.baseurl }}/dudas) para ganar tiempo.
 * Estamos también en [Google+](https://plus.google.com/communities/115544729561220868525) (administrado por @Car), [Github](https://github.com/deepin-espanol) (creado por Diego, administrado junto a @Ampiflow02 y @G4SP3R) y [Facebook](https://www.facebook.com/DeepinOSenEspanol/) (administrado por Roberto Bervih).
 * Para ser transparentes, tenemos un [enlace](combot.org/chat/-1001050493375) para ver la actividad de nuestro grupo, incluyendo las horas con mayor intercambio de mensajes.
+* Estas reglas no aplican al blog de Deepin en Español, [usamos los terminos de uso en general]({{ site.url }}{{ site.baseurl }}/info/tos).
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
