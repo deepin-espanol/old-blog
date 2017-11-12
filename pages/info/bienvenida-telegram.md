@@ -27,7 +27,7 @@ Recuerda, Deepin en Español no solo se conforma por nuestro grupo de Telegram, 
 Acciones a moderar, la cual puedes ser **expulsado(a) temporalmente** (dependiendo del caso) del grupo:
 * Mal uso de los bots: Ten cuidado con icono de "/" en el cuadro de diálogo y jugar con el bot. Esas órdenes de los bots se usan en situaciones concretas.
 * Flood: Envíar varias veces el mismo mensaje por un breve tiempo no es buena idea, escribir "asdfgh" tampoco, o enviar demasiados stickers y GIFS sin que tengan un valor expresivo arruina el flujo de comunicación.
-* Off-Topic: Este grupo se enfoca en discutir y ofrecer apoyo sobre Deepin. Por lo que puedes hablar temas relacionados a Debian, los núcleos Linux, Software Libre o relacionados. Sin embargo, evita hablar de otras distribuciones, sistemas operativos y otras cosas ajenas al tema y que desvirtúa el verdadero objetivo de la comunidad.
+* Off-Topic: Este grupo se enfoca en debatir y ofrecer apoyo sobre Deepin. Por lo que puedes hablar temas relacionados a Debian, los núcleos Linux, Software Libre o relacionados. Sin embargo, evita hablar de otras distribuciones, sistemas operativos y otras cosas ajenas al tema y que desvirtúa el verdadero objetivo de la comunidad.
 
 Acciones a evitar, la cual puedes ser **expulsado(a) permanentemente** del grupo:
 * Spam: Publicar otros grupos y comunidades sin autorización de los administradores.
