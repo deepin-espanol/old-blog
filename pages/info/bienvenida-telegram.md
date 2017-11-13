@@ -23,11 +23,14 @@ Gracias por entrar al grupo. Es un gusto que formes parte de nuestra comunidad q
 
 Recuerda, Deepin en Español no solo se conforma por nuestro grupo de Telegram, también podrás encontrar nuestra presencia en otros medios. Lo explicaremos al final.
 
+### De qué hablamos en Deepin en Español
+En este grupo debatimos, desarrollamos recursos y ofrcemos apoyo a los usuarios de Deepin. También incluimos temas relacionados como Debian, GNU/Linux, Software Libre y [más allá]({{ site.url }}{{ site.baseurl }}/anexos/dudas-tecnicas/). Además, realizamos [actividades]({{ site.url }}{{ site.baseurl }}/actividades/) para fortalecer la comunidad.
+
 ### Reglas de conducta
 Estás acciones deben realizarse con moderación, salvo aviso del moderador, de lo contrario serías **suspendido(a) temporalmente** del grupo:
-* Mal uso de los bots: Ten cuidado con icono de "/" en el cuadro de diálogo y jugar con el bot. Esas órdenes de los bots se usan en situaciones concretas.
-* Flood: Envíar varias veces el mismo mensaje por un breve tiempo no es buena idea, escribir "asdfgh" tampoco, o enviar demasiados stickers y GIFS sin que tengan un valor expresivo arruina el flujo de comunicación.
-* Off-Topic: Este grupo se enfoca en debatir y ofrecer apoyo sobre Deepin. Por lo que puedes hablar temas relacionados a Debian, GNU/Linux, Software Libre o relacionados. Sin embargo, evita hablar de otras distribuciones (excepto que sea un [sabor de Deepin]({{ site.url }}{{ site.baseurl }}/manual/sabores)), sistemas operativos y otras cosas ajenas al tema y que desvirtúa el verdadero objetivo de la comunidad.
+* Mal uso de los bots: Ten cuidado con icono de "/" en el cuadro de diálogo y jugar con el bot. Esas órdenes de los bots se usan en situaciones concretas. Si hubo un error, borra los mensajes a tiempo.
+* Flood: Envíar varias veces el mismo mensaje por un breve tiempo no es buena idea, escribir "asdfgh" tampoco, o enviar demasiados stickers y GIFS sin valor expresivo arruina el flujo de comunicación.
+* Off-Topic: Este grupo se enfoca en Deepin y temas afines explicadas en la presentación. Sin embargo, evita hablar de otras distribuciones (excepto que sea un [sabor de Deepin]({{ site.url }}{{ site.baseurl }}/manual/sabores)), sistemas operativos y otras cosas ajenas al tema y que desvirtúa el verdadero objetivo de la comunidad.
 * Software experimental: Si el programa que vas a portar no es para uso cotidiano, y que podría ser motivo de **"romper el sistema operativo"**, advierte al público (con una guía de instalación y una etiqueta tipo `#test` si es posible).
 
 Estás acciones deben evitarse, de lo contrario serías **expulsado(a) permanentemente** del grupo:

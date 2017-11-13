@@ -36,5 +36,6 @@ Está página está multilicenciada:
 * [Diego Sanguinetti](https://github.com/sguinetti)
 * [Jhalo](https://github.com/jhalounix)
 * [R.garciag](https://github.com/r-garciag)
+* [Alejandro Camerena](https://github.com/ampiflow)
 
--Deepin Translation Team 2017
+-Deepin en Español Team 2017
