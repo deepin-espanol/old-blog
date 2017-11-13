@@ -17,7 +17,9 @@ permalink: "/dudas/"
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-6 columns b30">
-      Está listado contiene páginas relacionadas con "Dudas". A diferencia de los tips, están estructuradas en preguntas y respuestas. Es similar a preguntas más frecuentes.
+      Está listado contiene páginas relacionadas con "Dudas". A diferencia de los tips, están estructuradas en preguntas y respuestas. Es similar a preguntas más frecuentes.<br/>
+
+      ¿Perdido(a)? Visita <a href="{{ site.url }}{{ site.baseurl }}/anexos/dudas/"><b>la selección de dudas generales</b></a>.<br/>
 
       Explora más en el <a href="{{ site.url }}{{ site.baseurl }}/blog/archive/">Archivo</a>, la <a href="{{ site.url }}{{ site.baseurl }}/introduccion/">Introducción</a> o la sección <a href="{{ site.url }}{{ site.baseurl }}/info/">Información</a>.
 
