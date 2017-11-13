@@ -23,8 +23,10 @@
   url: "/apps/"
   side: left
   dropdown:
-  - title: "Escenciales"
+  - title: "Preinstaladas"
     url: "/escenciales/"
+  - title: "Listados"
+    url: "/guiapps/"
   - title: "Juegos"
     url: "/games/"
   - title: "Iconos"
