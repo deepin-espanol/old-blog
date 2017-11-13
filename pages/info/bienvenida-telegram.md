@@ -26,6 +26,8 @@ Recuerda, Deepin en Español no solo se conforma por nuestro grupo de Telegram, 
 ### De qué hablamos en Deepin en Español
 En este grupo debatimos, desarrollamos recursos y ofrcemos apoyo a los usuarios de Deepin. También hablamos temas relacionados como Debian, GNU/Linux, Software Libre y [más allá]({{ site.url }}{{ site.baseurl }}/anexos/dudas-tecnicas/). Además, realizamos [actividades]({{ site.url }}{{ site.baseurl }}/actividades/) para fortalecer la comunidad.
 
+Recuerda que si quieres tener una buena comunicación con los integrantes, eres bienvenido(a) a darnos sugerencias. En ocasiones, estrenaremos grupos y sesiones especiales para discutir otros temas por anunciar.
+
 ### Reglas de conducta
 Estás acciones deben realizarse con moderación, salvo aviso del moderador. Si cometes la falta serás **advertido(a)** por primera vez; al cometer otra falta de mala fe, serías **suspendido(a) temporalmente** del grupo:
 * Mal uso de los bots: Ten cuidado con icono de "/" en el cuadro de diálogo y jugar con el bot. Esas órdenes de los bots se usan en situaciones concretas. Si hubo un error, borra los mensajes a tiempo.
