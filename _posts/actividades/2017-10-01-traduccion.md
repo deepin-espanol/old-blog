@@ -40,7 +40,7 @@ Visita la página del proyecto en [Transifex](https://www.transifex.com/linuxdee
 * Para mejorar la presición puedes recurrir al origen del idioma como "Chino". Compara con el traductor automático y saca conclusiones.
 * Céntrate en las palabras por traducir ya que son publicadas en unas horas.
 
-### Conjugaciones
+### Problemas frecuentes
 Hay situaciones en que las frases deben apuntar a un significado:
 
 * Si traducir un verbo en inglés al español podría manter el infinitivo:
@@ -51,6 +51,7 @@ Hay situaciones en que las frases deben apuntar a un significado:
   - Subjuntivo e : Introduzca la contraseña, respalde los datos, reinicie el equipo;
   - Imperativo: Introduzca la contraseña, respalde los datos, reinicie el equipo.
 * En el caso de acciones fallidas, es preferible "No es posible..." a "No se puede...".
+* Escoge sabiamente los "de que", "que" o "de su" para acortar frases, su uso cambiaría el contexto (ver [dequeísmo](https://es.wikipedia.org/wiki/Deque%C3%ADsmo))
 
 ## Páginas de apoyo
 
