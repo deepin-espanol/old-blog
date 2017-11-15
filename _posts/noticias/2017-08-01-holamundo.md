@@ -18,10 +18,10 @@ tags:
 # Styling
 #
 image:
-    thumb: open-thumb.jpg
-    homepage: open-home.jpg
+    thumb: posts/open-thumb.jpg
+    homepage: posts/open-home.jpg
 header:
-    image:  "open.jpg"
+    image:  "posts/open.jpg"
     pattern:  "pattern_concrete.jpg"
     caption: Créditos a Unplash y Pixabay
     caption_url: https://pixabay.com/en/dark-light-neon-neon-sign-open-1836961/
