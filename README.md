@@ -4,8 +4,9 @@
 
 Nota: El blog está descontinuado. Los nuevos aportes están en los repositorios [newblog](https://github.com/deepin-espanol/newblog) y [basedata](https://github.com/deepin-espanol/basedata) en Github.
 
+La página web oficial es http://deepin.ovh
 
-
+**Por favor, no edite esta página. Muchas gracias por tu atención**.
 
 
 
