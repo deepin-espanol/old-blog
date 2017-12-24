@@ -1,5 +1,17 @@
 # Página web en español de la Comunidad Deepin
 
+
+
+Nota: El blog está descontinuado. Los nuevos aportes están en los repositorios [newblog](https://github.com/deepin-espanol/newblog) y [basedata](https://github.com/deepin-espanol/basedata) en Github.
+
+
+
+
+
+
+
+
+
 ## Un sitio con las últimas novedades
 
 Traducimos los últimos posts del blog oficial de Deepin para hacer este increíble sistema operativo más accesible a todo el mundo. [¡Entra ya!](https://comunidad-deepin.github.io/blog/noticias/)
